@@ -1,0 +1,18 @@
+* text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/apertium-en-hi.en-hi.dix -text
+/apertium-en-hi.en-hi.t1x -text
+/apertium-en-hi.en-hi.t2x -text
+/apertium-en-hi.en-hi.t3x -text
+/apertium-en-hi.en.acx -text
+/apertium-en-hi.en.metadix -text
+/apertium-en-hi.hi.dix -text
+/autogen.sh -text
+/buscaPar.xsl -text
+/configure.ac -text
+/modes.xml -text
+/principal.xsl -text
+/translate-to-default-equivalent.xsl -text
