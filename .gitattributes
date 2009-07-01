@@ -3,6 +3,7 @@
 /ChangeLog -text
 /Makefile.am -text
 /NEWS -text
+/README -text
 /apertium-en-hi.en-hi.dix -text
 /apertium-en-hi.en-hi.t1x -text
 /apertium-en-hi.en-hi.t2x -text
@@ -13,6 +14,7 @@
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
+/en-hi.prob -text svneol=unset#unset
 /modes.xml -text
 /principal.xsl -text
 /translate-to-default-equivalent.xsl -text

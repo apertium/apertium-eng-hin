@@ -12,7 +12,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-     $(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).mode
+     $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).mode
 
 ##
 ## 	DICTIONARIES (ANALYSER / BILINGUAL / GENERATOR / POSTGEN)
@@ -20,8 +20,8 @@ TARGETS_COMMON =  \
 
 
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).metadix $(BASENAME).$(LANG1).acx
-	@xsltproc buscaPar.xsl apertium-en-ca.en.metadix | uniq > tmp1gen.xsl          
-	@xsltproc tmp1gen.xsl apertium-en-ca.en.metadix >$(BASENAME).$(LANG1).dixtmp1
+	@xsltproc buscaPar.xsl apertium-en-hi.en.metadix | uniq > tmp1gen.xsl          
+	@xsltproc tmp1gen.xsl apertium-en-hi.en.metadix >$(BASENAME).$(LANG1).dixtmp1
 	@rm tmp1gen.xsl
 	apertium-validate-acx $(BASENAME).$(LANG1).acx
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dixtmp1
@@ -37,9 +37,6 @@ $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
 	lt-comp rl $(BASENAME).$(LANG2).dix $@
 
-$(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
-	lt-comp lr $(BASENAME).post-$(LANG2).dix $@
 
 ##
 ##	TRANSFER RULES
@@ -71,7 +68,6 @@ $(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
 
 EXTRA_DIST=$(BASENAME).$(LANG1).metadix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).dix \
-           $(BASENAME).post-$(LANG2).dix \
            $(PREFIX1).prob  \
 	   $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
 	   $(BASENAME).$(PREFIX1).t3x\
@@ -87,7 +83,6 @@ apertium_en_modesdir=$(prefix)/share/apertium/modes/
 apertium_en_hi_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin  \
                     $(PREFIX1).autogen.bin \
-                    $(PREFIX1).autopgen.bin \
 		    $(PREFIX1).t1x.bin \
 		    $(PREFIX1).t2x.bin \
 		    $(PREFIX1).t3x.bin \
