@@ -27,9 +27,6 @@
       <program name="lt-proc $1">
         <file name="en-hi.autogen.bin"/>
       </program>
-      <program name="lt-proc -p">
-        <file name="en-hi.autopgen.bin"/>
-      </program>
 	<program name="wx_utf8.out">
       </program>
     </pipeline>
