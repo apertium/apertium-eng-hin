@@ -12,3 +12,7 @@ to generate a Makefile file and then
 $ make
 
 inside this directory.
+
+and
+
+$ sudo make install

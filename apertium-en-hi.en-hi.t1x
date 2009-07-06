@@ -691,6 +691,7 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
     <def-attr n="a_det">
       <attr-item tags="defa"/>
       <attr-item tags="prn"/>
+      <attr-item tags="art"/>
 
 <!--      <attr-item tags="det.dem"/>
       <attr-item tags="det.ind"/>
@@ -21161,6 +21162,21 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
 				<tag>
 					<lit-tag v="NP"/>
 				</tag>
+                                <tag>
+                                        <var n="genvar"/>
+                                </tag>
+
+                                <tag>
+                                        <var n="nbrvar"/>
+                                </tag>
+
+                                <tag>
+                                        <var n="casevar"/>
+                                </tag>
+                                <tag>
+                                        <var n="persvar"/>
+                                </tag>
+
 			</tags>
 <lu>
 	<clip pos="1" side="tl" part="lem"/>
@@ -21172,9 +21188,8 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
 <lu>
 	<clip pos="2" side="tl" part="lem"/>
         <clip pos="2" side="tl" part="a_nom"/>
-	<var n="genvar"/>
-	<var n="nbrvar"/>
-        <var n="casevar"/>
+        <lit-tag v="2"/>
+        <lit-tag v="3"/>
 </lu>
 <b/>
 <lu>
