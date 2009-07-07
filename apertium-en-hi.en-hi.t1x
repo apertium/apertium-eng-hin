@@ -21165,11 +21165,9 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
                                 <tag>
                                         <var n="genvar"/>
                                 </tag>
-
                                 <tag>
                                         <var n="nbrvar"/>
                                 </tag>
-
                                 <tag>
                                         <var n="casevar"/>
                                 </tag>
@@ -21190,6 +21188,7 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
         <clip pos="2" side="tl" part="a_nom"/>
         <lit-tag v="2"/>
         <lit-tag v="3"/>
+        <lit-tag v="4"/>
 </lu>
 <b/>
 <lu>
