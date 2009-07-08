@@ -397,6 +397,9 @@
      <cat-item tags="vbmod.inf"/>
       <cat-item tags="vaux.inf"/>
     </def-cat>
+    <def-cat n="vblexpri">
+      <cat-item tags="vblex.pri.p3.sg"/>
+    </def-cat>
     <def-cat n="infpres">
       <cat-item tags="vblex.inf"/>
       <cat-item tags="vblex.pres"/>
@@ -542,7 +545,7 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
       <cat-item tags="vbser.pprs"/>
       <!--<cat-item tags="vbmod.pprs"/>-->
     </def-cat>
-    <def-cat n="vbsubs">
+    <def-cat n="subs">
       <cat-item tags="vblex.subs"/>
       <cat-item tags="vblex.sep.subs"/>
       <cat-item tags="vbhaver.subs"/>
@@ -1226,6 +1229,7 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
 
 
 
+
 <rule comment="TO REGLA: Verb ( Main verb : eat)">
 <pattern>
         <pattern-item n="present"/>
@@ -1263,6 +1267,154 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
 </action>
 </rule>
 
+
+<rule comment="TO REGLA: Verb ( Main verb : eat)">
+<pattern>
+        <pattern-item n="inf"/>
+</pattern>
+<action>
+        <call-macro n="verb_init">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+                <chunk  name="inf">
+                        <tags>
+                                <tag>
+                                        <lit-tag v="VP"/>
+                                </tag>
+                                <tag>
+                                        <lit-tag v="tam:nA"/>
+                                </tag>
+                                <tag>
+                                        <var n="genvar"/>
+                                </tag>
+                                <tag>
+                                        <var n="nbrvar"/>
+                                </tag>
+                        </tags>
+<lu>
+        <clip pos="1" side="tl" part="lem"/>
+        <clip pos="1" side="tl" part="a_verb"/>
+        <lit-tag v="3"/>
+        <lit-tag v="4"/>
+        <var n="persvar"/>
+        <lit-tag v="2"/>
+</lu>
+</chunk>
+</out>
+</action>
+</rule>
+
+<rule comment="TO REGLA: Verb ( Main verb : eat)">
+<pattern>
+        <pattern-item n="ger"/>
+</pattern>
+<action>
+        <call-macro n="verb_init">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+                <chunk  name="ger">
+                        <tags>
+                                <tag>
+                                        <lit-tag v="VP"/>
+                                </tag>
+                                <tag>
+                                        <lit-tag v="tam:nA"/>
+                                </tag>
+                                <tag>
+                                        <var n="genvar"/>
+                                </tag>
+                                <tag>
+                                        <var n="nbrvar"/>
+                                </tag>
+                        </tags>
+<lu>
+        <clip pos="1" side="tl" part="lem"/>
+        <clip pos="1" side="tl" part="a_verb"/>
+        <lit-tag v="3"/>
+        <lit-tag v="4"/>
+        <var n="persvar"/>
+        <lit-tag v="2"/>
+</lu>
+</chunk>
+</out>
+</action>
+</rule>
+
+<rule comment="TO REGLA: Verb ( Main verb : eat)">
+<pattern>
+        <pattern-item n="pprs"/>
+</pattern>
+<action>
+        <call-macro n="verb_init">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+                <chunk  name="pprs">
+                        <tags>
+                                <tag>
+                                        <lit-tag v="VP"/>
+                                </tag>
+                                <tag>
+                                        <lit-tag v="tam:nA"/>
+                                </tag>
+                                <tag>
+                                        <var n="genvar"/>
+                                </tag>
+                                <tag>
+                                        <var n="nbrvar"/>
+                                </tag>
+                        </tags>
+<lu>
+        <clip pos="1" side="tl" part="lem"/>
+        <clip pos="1" side="tl" part="a_verb"/>
+        <lit-tag v="3"/>
+        <lit-tag v="4"/>
+        <var n="persvar"/>
+        <lit-tag v="2"/>
+</lu>
+</chunk>
+</out>
+</action>
+</rule>
+
+<rule comment="TO REGLA: Verb ( Main verb : eat)">
+<pattern>
+        <pattern-item n="subs"/>
+</pattern>
+<action>
+        <call-macro n="verb_init">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+                <chunk  name="subs">
+                        <tags>
+                                <tag>
+                                        <lit-tag v="VP"/>
+                                </tag>
+                                <tag>
+                                        <lit-tag v="tam:nA"/>
+                                </tag>
+                                <tag>
+                                        <var n="genvar"/>
+                                </tag>
+                                <tag>
+                                        <var n="nbrvar"/>
+                                </tag>
+                        </tags>
+<lu>
+        <clip pos="1" side="tl" part="lem"/>
+        <clip pos="1" side="tl" part="a_verb"/>
+        <lit-tag v="3"/>
+        <lit-tag v="4"/>
+        <var n="persvar"/>
+        <lit-tag v="2"/>
+</lu>
+</chunk>
+</out>
+</action>
+</rule>
 
 <rule comment="TO REGLA: Verb ( Main verb : eat)">
 <pattern>
@@ -1304,6 +1456,52 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
         <lit-tag v="4"/>
         <var n="persvar"/>
         <lit-tag  v="tam:WA"/>
+</lu>
+</chunk>
+</out>
+</action>
+</rule>
+
+<rule comment="TO REGLA: Verb ( Main verb : eat)">
+<pattern>
+        <pattern-item n="vblexpri"/>
+</pattern>
+<action>
+        <call-macro n="verb_init">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+                <chunk  name="vblexpri">
+                        <tags>
+                                <tag>
+                                        <lit-tag v="VP"/>
+                                </tag>
+                                <tag>
+                                        <lit-tag v="tam:wA"/>
+                                </tag>
+                                <tag>
+                                        <var n="genvar"/>
+                                </tag>
+                                <tag>
+                                        <var n="nbrvar"/>
+                                </tag>
+                        </tags>
+<lu>
+        <clip pos="1" side="tl" part="lem"/>
+        <clip pos="1" side="tl" part="a_verb"/>
+        <lit-tag v="3"/>
+        <lit-tag v="4"/>
+        <var n="persvar"/>
+        <lit-tag v="2"/>
+</lu>
+<b/>
+<lu>
+        <lit v="hE"/>
+        <lit-tag v="v"/>
+        <lit-tag v="3"/>
+        <lit-tag v="4"/>
+        <var n="persvar"/>
+        <lit-tag  v="tam:hE"/>
 </lu>
 </chunk>
 </out>
