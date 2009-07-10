@@ -13742,7 +13742,9 @@
 <!--<e lm="one"><i>one</i><par n="another__det"/></e> -->
 <!-- <e lm="one's">MG:  <i>one's</i><par n="the__det"/></e> -->
 <!--<e lm="same"><i>same</i><par n="other__det"/></e>-->
-
+<e lm="the"><i>the</i><par n="the__det"/></e>
+<e lm="a" r="LR"><i>a</i><par n="a__det"/></e>
+<e lm="a" r="RL"><p><l><a/>a</l><r>a</r></p><par n="a__det"/></e>
 <!-- new entries -->
 <!-- /new entries -->
 
@@ -23675,6 +23677,9 @@
 <e lm="themselves"><p><l>themselves</l><r>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
 
+
+<e lm="go"><i></i><par n="/go__vblex"/></e>
+
 <!-- new entries-->
 
 <e lm="abide"><i>ab</i><par n="ab/ide__vblex"/></e>
@@ -24007,7 +24012,9 @@
 <e lm="would"><i>would</i><par n="will/__vbmod"/></e>
 <e lm="can"><i>c</i><par n="c/an__vbmod"/></e>
 <e lm="be able to" r="RL" c="de moment només es genera"><i></i><par n="/be_able_to__vbmod"/></e>
-
+<e lm="be"><par n="/be__vblex"/></e>
+<e lm="be"><par n="/be__vbser"/></e>
+<e lm="have"><i>ha</i><par n="ha/ve__vbhaver"/></e>
 <e lm="must"><i>must</i><par n="will/__vbmod"/></e>
 <e lm="should"><i>should</i><par n="will/__vbmod"/></e>
 <e lm="may"><i>may</i><par n="will/__vbmod"/></e>
@@ -24050,6 +24057,7 @@
 <!--   <e lm="fall in love"><i>f</i><par n="f/all__vblex"/><p><l><b/>in<b/>love</l><r><g><b/>in<b/>love</g></r></p></e> -->
 <e lm="give back"><i>g</i><par n="g/ive__vblex" sa="sep"/><par n="probj_dem__prn"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
 <e lm="give up"><i>g</i><par n="g/ive__vblex" sa="sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
+
 <e lm="go back"><i></i><par n="/go__vblex"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
 <e lm="go down"><i></i><par n="/go__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
 <e lm="go in"><i></i><par n="/go__vblex"/><p><l><b/>in</l><r><g><b/>in</g></r></p></e>
