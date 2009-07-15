@@ -1448,15 +1448,6 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
         <var n="persvar"/>
         <lit-tag v="2"/>
 </lu>
-<b/>
-<lu>
-	<lit v="WA"/>
-        <lit-tag v="v"/>
-        <lit-tag v="3"/>
-        <lit-tag v="4"/>
-        <var n="persvar"/>
-        <lit-tag  v="tam:WA"/>
-</lu>
 </chunk>
 </out>
 </action>
@@ -5391,13 +5382,6 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
                                 </tag>
 
                         </tags>
-
-
-<lu>
-<lit v="SAyaxa"/>
-<lit-tag v="defa"/>
-</lu>
-<b/>
 <lu>
         <clip pos="3" side="tl" part="lem"/>
         <clip pos="3" side="tl" part="a_verb"/>
@@ -5405,6 +5389,11 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
         <lit-tag v="3"/>
         <lit-tag v="4"/>
         <lit-tag v="5"/>
+</lu>
+<b/>
+<lu>
+<lit v="SAyaxa"/>
+<lit-tag v="adv"/>
 </lu>
 </chunk>
 </out>
@@ -5433,11 +5422,6 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
                                 </tag>
                         </tags>
 <lu>
-<lit v="SAyaxa"/>
-<lit-tag v="defa"/>
-</lu>
-<b/>
-<lu>
         <clip pos="3" side="tl" part="lem"/>
         <clip pos="3" side="tl" part="a_verb"/>
         
@@ -5452,6 +5436,11 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
         <lit-tag v="3"/>
         <lit-tag v="4"/>
         <lit-tag v="5"/>
+</lu>
+<b/>
+<lu>
+<lit v="SAyaxa"/>
+<lit-tag v="adv"/>
 </lu>
 </chunk>
 </out>
@@ -14317,10 +14306,10 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
 <lu>
         <clip pos="2" side="tl" part="lem"/>
         <clip pos="2" side="tl" part="a_verb"/>
-        <lit-tag v="2"/>
         <lit-tag v="3"/>
         <lit-tag v="4"/>
         <var n="persvar"/>
+        <lit-tag v="2"/>
 </lu>
 <b/>
 <lu>
@@ -17700,6 +17689,9 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
                                 <tag>
                                         <var n="persvar"/>
                                 </tag>
+                                <tag>
+                                        <var n="casevar"/>
+                                </tag>
 			</tags>
 <lu>
 	<clip pos="1" side="tl" part="lem"/>
@@ -17713,7 +17705,7 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
         <clip pos="2" side="tl" part="a_adj"/>
         <lit-tag v="2"/>
         <lit-tag v="3"/>
-        <var n="casevar"/>
+        <lit-tag v="5"/>
 </lu>
 <b/>
 <lu>
@@ -17721,7 +17713,7 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
         <clip pos="3" side="tl" part="a_nom"/>
         <lit-tag v="2"/>
         <lit-tag v="3"/>
-        <var n="casevar"/>
+        <lit-tag v="5"/>
 </lu>
 <b/>
 </chunk>

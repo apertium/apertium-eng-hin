@@ -511,6 +511,8 @@
 
 <e><p>          <l>.<s n="sent"/></l>       <r>.<s n="sent"/></r></p></e>
 
+<e><p>        <l>for<s n="pr"/></l>        <r>ke<b/>liye<s n="pr"/></r></p></e>
+
 <e><p>		<l>prpers<s n="prn"/><s n="obj"/></l>	<r>prperso<s n="prn"/></r></p></e>
 <e><p>          <l>prpers<s n="prn"/><s n="subj"/></l>    <r>prperss<s n="prn"/></r></p></e>
 <e><p>        <l>a<s n="det" /><s n="ind"/><s n="sg" /></l>        <r>eka<s n="prn"/></r></p></e>
@@ -880,6 +882,7 @@
 <e><p>        <l>alkaline<s n="adj"/></l>        <r>kRArIya<s n="adj"/></r></p></e>
 <e><p>        <l>alkaloid<s n="n"/></l>        <r>kRArABa<s n="n"/></r></p></e>
 <e><p>        <l>all<s n="adj"/></l>        <r>saba<s n="adj"/></r></p></e>
+<e><p>        <l>all<s n="prn"/></l>        <r>saba<s n="prn"/></r></p></e>
 <e><p>        <l>all<s n="n"/></l>        <r>sabakuCa<s n="n"/></r></p></e>
 <e><p>        <l>all<s n="predet"/></l>        <r>saba<s n="predet"/></r></p></e>
 <e><p>        <l>all-round<s n="adj"/></l>        <r>cOwaraPA<s n="adj"/></r></p></e>

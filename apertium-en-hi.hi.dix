@@ -91,6 +91,7 @@
 </pardef>
 
 <pardef n="art">
+<e><p><l></l><r>vaha<s n="art"/></r></p></e>
 <e><p><l></l><r>vaha<s n="art"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l></l><r>vaha<s n="art"/><s n="f"/><s n="sg"/></r></p></e>
 <e><p><l></l><r>vaha<s n="art"/><s n="m"/><s n="pl"/></r></p></e>
@@ -4122,10 +4123,31 @@
 <e><p><l>umhArI</l><r>U<s n="prn"/><s n="parsarg:kA"/><s n="fpl"/><s n="o"/><s n="f"/><s n="pl"/><s n="p2"/></r></p></e>
 </pardef>
 <pardef n="Apa/__pr">
-<e><p><l></l><r><s n="prn"/><s n="o"/><s n="parsarg:0"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l></l><r><s n="prn"/><s n="o"/><s n="parsarg:0"/><s n="m"/><s n="pl"/></r></p></e>
-<e><p><l></l><r><s n="prn"/><s n="o"/><s n="parsarg:0"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l></l><r><s n="prn"/><s n="o"/><s n="parsarg:0"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="sg"/><s n="p1"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="sg"/><s n="p2"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="pl"/><s n="p1"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="pl"/><s n="p2"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="sg"/><s n="p1"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="sg"/><s n="p2"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="pl"/><s n="p1"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="pl"/><s n="p2"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="sg"/><s n="p1"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="sg"/><s n="p2"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="pl"/><s n="p1"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="pl"/><s n="p2"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="sg"/><s n="p1"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="sg"/><s n="p2"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="pl"/><s n="p1"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="pl"/><s n="p2"/><s n="o"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+
 <e><p><l>ne</l><r><s n="prn"/><s n="o"/><s n="parsarg:ne"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>ne</l><r><s n="prn"/><s n="o"/><s n="parsarg:ne"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>ne</l><r><s n="prn"/><s n="o"/><s n="parsarg:ne"/><s n="f"/><s n="sg"/></r></p></e>
@@ -4290,6 +4312,8 @@
 <section id="main" type="standard">
 
 <!--<e lm="hE"><i></i><par n="parsarg"/></e>-->
+
+<e lm="ke liye"><i>ke<b/>liye</i><par n="parsarg"/></e>
 
 <e lm="prperso"><i></i><par n="/prperso"/></e>
 <e lm="prperss"><i></i><par n="/prperss"/></e>
@@ -25111,6 +25135,7 @@
 <e lm="ruxrawva"><i>ruxrawva</i><par n="kroXa/__n"/></e>
 <e lm="ruxrayajFa"><i>ruxrayajFa</i><par n="kroXa/__n"/></e>
 <e lm="ruzXa"><i>ruzX</i><par n="uT/a__v"/></e>
+<e lm="saba"><i>saba</i><par n="Apa/__pr"/></e>
 <e lm="SabAba"><i>SabAba</i><par n="kroXa/__n"/></e>
 <e lm="saBAcawura"><i>saBAcawura</i><par n="amIra/__adj"/></e>
 <e lm="saBAcAwurya"><i>saBAcAwurya</i><par n="kroXa/__n"/></e>

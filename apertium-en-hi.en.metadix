@@ -1219,7 +1219,7 @@
       <e>
         <p>
           <l/>
-          <r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r>
+          <r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>   
     </pardef>
@@ -23679,6 +23679,16 @@
 
 
 <e lm="go"><i></i><par n="/go__vblex"/></e>
+<e lm="come"><i>c</i><par n="bec/ome__vblex"/></e>
+<e lm="apply"><i>appl</i><par n="appl/y__vblex"/></e>
+<e lm="get"><i>g</i><par n="g/et__vblex"/></e>
+<e lm="give"><i>g</i><par n="g/ive__vblex"/></e>
+<e lm="bring"><i>br</i><par n="br/ing__vblex"/></e>
+<e lm="control"><i>control</i><par n="control__vblex"/></e>
+<e lm="deal"><i>deal</i><par n="deal__vblex"/></e>
+<e lm="keep"><i>ke</i><par n="ke/ep__vblex"/></e>
+<e lm="for"><i>for</i><par n="at__pr"/></e>
+
 
 <!-- new entries-->
 
