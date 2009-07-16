@@ -11,7 +11,7 @@
         <file name="en-hi.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="apertium-transfer -c">
         <file name="apertium-en-hi.en-hi.t1x"/>
         <file name="en-hi.t1x.bin"/>
         <file name="en-hi.autobil.bin"/>
