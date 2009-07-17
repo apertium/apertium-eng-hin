@@ -516,6 +516,7 @@
 <e><p>		<l>prpers<s n="prn"/><s n="obj"/></l>	<r>prperso<s n="prn"/></r></p></e>
 <e><p>          <l>prpers<s n="prn"/><s n="subj"/></l>    <r>prperss<s n="prn"/></r></p></e>
 <e><p>        <l>a<s n="det" /><s n="ind"/><s n="sg" /></l>        <r>eka<s n="prn"/></r></p></e>
+
 <e><p>        <l>cheque<s n="n"/></l>        <r>cEka<s n="n"/><s n="m"/></r></p></e>
 <e><p>        <l>abacus<s n="n"/></l>        <r>ginawArA<s n="n"/></r></p></e>
 <e><p>        <l>abandonment<s n="n"/></l>        <r>pariwyAga<s n="n"/><s n="m"/></r></p></e>
@@ -5354,7 +5355,7 @@
 <e><p>        <l>hip-hop<s n="n"/></l>        <r><s n="n"/></r></p></e>
 <e><p>        <l>hire<b/>hand<s n="n"/></l>        <r><s n="n"/></r></p></e>
 <e><p>        <l>his<s n="prn"/></l>        <r>usakA<s n="prn"/></r></p></e>
-<e><p>        <l>his<s n="det"/></l>        <r>usakA<s n="det"/></r></p></e>
+<e><p>        <l>his<s n="det"/></l>        <r>usakA<s n="prn"/></r></p></e>
 <e><p>        <l>histamine<s n="n"/></l>        <r><s n="n"/></r></p></e>
 <e><p>        <l>historian<s n="n"/></l>        <r>iwihAsakAra<s n="n"/></r></p></e>
 <e><p>        <l>historical<s n="adj"/></l>        <r>EwihAsika<s n="adj"/></r></p></e>
@@ -6455,7 +6456,6 @@
 <e><p>        <l>journalism<s n="n"/></l>        <r>pawrakAriwA<s n="n"/><s n="f"/></r></p></e>
 <e><p>        <l>journalist<s n="n"/></l>        <r>pawrakAra<s n="n"/><s n="m"/></r></p></e>
 <e><p>        <l>journey<s n="n"/></l>        <r>yAwrA<s n="n"/><s n="f"/></r></p></e>
-<e><p>        <l>journey<s n="n"/></l>        <r>yAwrA<s n="n"/><s n="m"/></r></p></e>
 <e><p>        <l>jovial<s n="adj"/></l>        <r>Ananxiwa<s n="adj"/></r></p></e>
 <e><p>        <l>jowl<s n="n"/></l>        <r>gAla<s n="n"/><s n="m"/></r></p></e>
 <e><p>        <l>joy<s n="n"/></l>        <r>Ananxa<s n="n"/></r></p></e>

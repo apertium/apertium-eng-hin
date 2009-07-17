@@ -527,6 +527,122 @@
       </action>
 </rule>
 
+<rule comment="REGLA: NP VP ADVP(Eg:the man ate soon)">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="verb"/>
+        <pattern-item n="adverb"/>
+      </pattern>
+      <action>
+<choose>
+<when>
+<test>
+<equal>
+<clip pos="2" part="subj_vibhakthi"/>
+<lit v=""/>
+</equal>
+</test>
+        <let>
+          <clip pos="2" part="nbr"/>
+          <clip pos="1" part="nbr"/>
+        </let>
+        <let>
+          <clip pos="2" part="gen"/>
+          <clip pos="1" part="gen"/>
+        </let>
+        <let>
+          <clip pos="2" part="pers"/>
+          <clip pos="1" part="pers"/>
+        </let>
+<out>
+         <chunk>
+          <clip pos="1" part="whole"/>
+         </chunk>
+         <b/>
+         <chunk>
+          <clip pos="3" part="whole"/>
+         </chunk>
+         <b/>
+         <chunk>
+          <clip pos="2" part="whole"/>
+         </chunk>
+</out>
+</when>
+<otherwise>
+        <let>
+          <clip pos="2" part="nbr"/>
+          <clip pos="1" part="nbr"/>
+        </let>
+        <let>
+          <clip pos="2" part="gen"/>
+          <clip pos="1" part="gen"/>
+        </let>
+        <let>
+          <clip pos="2" part="pers"/>
+          <clip pos="1" part="pers"/>
+        </let>
+        <let>
+          <clip pos="1" part="case"/>
+          <lit-tag v="o"/>
+        </let>
+<choose>
+<when>
+<test>
+<equal>
+<clip pos="1" part="lem"/>
+<lit v="pronoun"/>
+</equal>
+</test>
+        <out>
+         <chunk>
+          <clip pos="1" part="lem"/>
+          <clip pos="1" part="tags"/>
+          <clip pos="2" part="subj_vibhakthi"/>
+          <clip pos="1" part="chcontent"/>
+         </chunk>
+        <b/>
+         <chunk>
+          <clip pos="3" part="whole"/>
+         </chunk>
+         <b/>
+         <chunk>
+          <clip pos="2" part="whole"/>
+         </chunk>
+        </out>
+</when>
+<otherwise>
+        <call-macro n="vibhakthi_init">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+         <chunk>
+          <clip pos="1" part="lem"/>
+          <clip pos="1" part="tags"/>
+          <clip pos="2" part="subj_vibhakthi"/>
+          <clip pos="1" part="chcontent"/>
+         </chunk>
+        <b/>
+         <chunk>
+        <lit v="{^"/>
+        <var n="vibhakthi"/>
+        <lit v="$}"/>
+         </chunk>
+        <b/>
+         <chunk>
+          <clip pos="3" part="whole"/>
+         </chunk>
+        <b/>
+         <chunk>
+          <clip pos="2" part="whole"/>
+         </chunk>
+        </out>
+</otherwise>
+</choose>
+</otherwise>
+</choose>
+      </action>
+</rule>
+
 
 <rule comment="REGLA: NP VP NP (Eg:man ate apple)">
       <pattern>

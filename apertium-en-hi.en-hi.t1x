@@ -22903,11 +22903,12 @@ Verbs modals (have to, want to, be able to), que van seguits d'infinitiu (com el
                                 </tag>
 			</tags>
 <lu>
-	<clip pos="1" side="tl" part="lem"/>
+	<clip pos="1" side="tl" part="lemh"/>
         <clip pos="1" side="tl" part="a_nom"/>
         <lit-tag v="2"/>
         <lit-tag v="3"/>
         <lit-tag v="4"/>
+        <clip pos="1" side="tl" part="lemq"/>
 </lu>
 <b/>
 </chunk>

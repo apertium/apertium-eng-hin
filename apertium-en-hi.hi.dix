@@ -4247,6 +4247,7 @@
 </pardef>
 <pardef n="anya/__pr">
 <e><p><l></l><r><s n="prn"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="f"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="/mEM__pr">
 <e><p><l>mEM</l><r>mEM<s n="prn"/><s n="o"/><s n="parsarg:0"/><s n="m"/><s n="sg"/><s n="p1"/></r></p></e>
@@ -6734,6 +6735,7 @@
 <e lm="anyaciwwa"><i>anyaciwwa</i><par n="amIra/__adj"/></e>
 <e lm="anyagAmI"><i>anyagAm</i><par n="Axam/I__n"/></e>
 <e lm="anya"><i>anya</i><par n="anya/__pr"/></e>
+<e lm="usakA"><i>usakA</i><par n="anya/__pr"/></e>
 <e lm="anyajAwa"><i>anyajAwa</i><par n="amIra/__adj"/></e>
 <e lm="anyapuruRa"><i>anyapuruR</i><par n="Gar/a__n"/></e>
 <e lm="anyArWa"><i>anyArWa</i><par n="amIra/__adj"/></e>
