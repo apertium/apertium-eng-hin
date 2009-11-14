@@ -10,10 +10,14 @@
 /apertium-en-hi.en-hi.t3x -text
 /apertium-en-hi.en.acx -text
 /apertium-en-hi.en.metadix -text
+/apertium-en-hi.hi-en.dix -text
 /apertium-en-hi.hi.dix -text
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
+dev/conversion/adj.chopped.dix -text
+dev/conversion/hi.dix -text
+dev/conversion/nouns.chopped.dix -text
 dev/inconsistency.sh -text
 /en-hi.prob -text svneol=unset#unset
 /modes.xml -text
