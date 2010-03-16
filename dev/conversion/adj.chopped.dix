@@ -10,7 +10,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -22,7 +22,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="adj"/><s n="m"/><s n="pl"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="m"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
     </pardef>
@@ -36,7 +36,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -48,7 +48,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="adj"/><s n="m"/><s n="pl"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="m"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -60,7 +60,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -72,7 +72,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="adj"/><s n="f"/><s n="pl"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="f"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
     </pardef>
@@ -86,7 +86,7 @@
       <e>
         <p>
           <l>ए</l>
-          <r>आ<s n="adj"/><s n="m"/><s n="sg"/><s n="obj"/></r>
+          <r>आ<s n="adj"/><s n="m"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -98,7 +98,7 @@
       <e>
         <p>
           <l>ए</l>
-          <r>आ<s n="adj"/><s n="m"/><s n="pl"/><s n="obj"/></r>
+          <r>आ<s n="adj"/><s n="m"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -110,7 +110,7 @@
       <e>
         <p>
           <l>ई</l>
-          <r>आ<s n="adj"/><s n="f"/><s n="sg"/><s n="obj"/></r>
+          <r>आ<s n="adj"/><s n="f"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -122,7 +122,7 @@
       <e>
         <p>
           <l>ई</l>
-          <r>आ<s n="adj"/><s n="f"/><s n="pl"/><s n="obj"/></r>
+          <r>आ<s n="adj"/><s n="f"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
     </pardef>
@@ -136,7 +136,7 @@
       <e>
         <p>
           <l>ों</l>
-          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -148,7 +148,7 @@
       <e>
         <p>
           <l>ों</l>
-          <r><s n="adj"/><s n="m"/><s n="pl"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="m"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -160,7 +160,7 @@
       <e>
         <p>
           <l>ों</l>
-          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -172,7 +172,7 @@
       <e>
         <p>
           <l>ों</l>
-          <r><s n="adj"/><s n="f"/><s n="pl"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="f"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
     </pardef>
@@ -186,7 +186,7 @@
       <e>
         <p>
           <l>े</l>
-          <r>ा<s n="adj"/><s n="m"/><s n="sg"/><s n="obj"/></r>
+          <r>ा<s n="adj"/><s n="m"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -198,7 +198,7 @@
       <e>
         <p>
           <l>े</l>
-          <r>ा<s n="adj"/><s n="m"/><s n="pl"/><s n="obj"/></r>
+          <r>ा<s n="adj"/><s n="m"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -210,7 +210,7 @@
       <e>
         <p>
           <l>ी</l>
-          <r>ा<s n="adj"/><s n="f"/><s n="sg"/><s n="obj"/></r>
+          <r>ा<s n="adj"/><s n="f"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -222,7 +222,7 @@
       <e>
         <p>
           <l>ी</l>
-          <r>ा<s n="adj"/><s n="f"/><s n="pl"/><s n="obj"/></r>
+          <r>ा<s n="adj"/><s n="f"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
     </pardef>
@@ -236,7 +236,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -248,7 +248,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="adj"/><s n="f"/><s n="pl"/><s n="obj"/></r>
+          <r><s n="adj"/><s n="f"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
     </pardef>
@@ -262,7 +262,7 @@
       <e>
         <p>
           <l>ओं</l>
-          <r>अ<s n="adj"/><s n="m"/><s n="sg"/><s n="obj"/></r>
+          <r>अ<s n="adj"/><s n="m"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -274,7 +274,7 @@
       <e>
         <p>
           <l>ओं</l>
-          <r>अ<s n="adj"/><s n="m"/><s n="pl"/><s n="obj"/></r>
+          <r>अ<s n="adj"/><s n="m"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -286,7 +286,7 @@
       <e>
         <p>
           <l>ओं</l>
-          <r>अ<s n="adj"/><s n="f"/><s n="sg"/><s n="obj"/></r>
+          <r>अ<s n="adj"/><s n="f"/><s n="sg"/><s n="obl"/></r>
         </p>
       </e>
       <e>
@@ -298,7 +298,7 @@
       <e>
         <p>
           <l>ओं</l>
-          <r>अ<s n="adj"/><s n="f"/><s n="pl"/><s n="obj"/></r>
+          <r>अ<s n="adj"/><s n="f"/><s n="pl"/><s n="obl"/></r>
         </p>
       </e>
     </pardef>
