@@ -11,12 +11,18 @@
 /apertium-en-hi.en.acx -text
 /apertium-en-hi.en.metadix -text
 /apertium-en-hi.hi-en.dix -text
+/apertium-en-hi.hi-en.t1x -text
+/apertium-en-hi.hi-en.t2x -text
+/apertium-en-hi.hi-en.t3x -text
+/apertium-en-hi.hi.dix -text
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
 dev/apertium-en-hi.hi.dix -text
 dev/inconsistency.sh -text
 /en-hi.prob -text svneol=unset#unset
+/hi-en.prob -text svneol=unset#unset
 /modes.xml -text
+/pending-tests.sh -text
 /principal.xsl -text
 /translate-to-default-equivalent.xsl -text
