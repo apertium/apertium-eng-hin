@@ -3,6 +3,7 @@
 <sdefs>
 <sdef n="np"     c="Proper noun"/>
 <sdef n="n"      c="Noun"/>
+<sdef n="num"    c="Numeral"/>
 <sdef n="adv"    c="Adverb"/>
 <sdef n="adj"    c="Adjective"/>
 <sdef n="post"   c="Postposition"/>
@@ -16,6 +17,12 @@
 <sdef n="m"      c="Masculine"/>
 
 <sdef n="ind"    c="Indefinite"/>
+
+<sdef n="sp"     c="Singular / plural"/>
+
+<sdef n="sent"   c=""/>
+<sdef n="cm"   c=""/>
+<sdef n="guio"   c=""/>
 </sdefs>
 <section id="main" type="standard">
 <!-- Conjunctions -->
@@ -37,6 +44,10 @@
 <!-- Determiners -->
 
 <e><p><l>a<s n="det"/><s n="ind"/></l><r>एक<s n="det"/><s n="ind"/></r></p></e>
+
+<!-- Numerals -->
+
+<e><p><l>two<s n="num"/><s n="sp"/></l><r>दो<s n="num"/></r></p></e>
 
 <!-- Verbs -->
 
@@ -10596,7 +10607,7 @@
 <e><p><l>manufacture<s n="n"/></l><r>बनाना<s n="n"/></r></p></e>
 <e><p><l>manufacturing<s n="n"/></l><r>निर्माण<s n="n"/></r></p></e>
 <e><p><l>marauder<s n="n"/></l><r>लुटेरा<s n="n"/></r></p></e>
-<e><p><l>maraud<s n="n"/></l><r>हमला<s n="n"/></r></p></e>
+<e><p><l>attack<s n="n"/></l><r>हमला<s n="n"/></r></p></e>
 <e><p><l>marbles<s n="n"/></l><r>विवेक<s n="n"/></r></p></e>
 <e><p><l>marge<s n="n"/></l><r>मार्जरीन<s n="n"/></r></p></e>
 <e><p><l>marguerite<s n="n"/></l><r>मार्गरीट<s n="n"/></r></p></e>
@@ -19860,5 +19871,11 @@
 <e><p><l>urbane<s n="adj"/></l><r>शिष्ट<s n="adj"/></r></p></e>
 <e><p><l>usual<s n="adj"/></l><r>सामान्य<s n="adj"/></r></p></e>
 <e><p><l>utmost<s n="adj"/></l><r>अधिकतम<s n="adj"/></r></p></e>
+
+    <e><re>[,]</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+    <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
+    <e><re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+
+
 </section>
 </dictionary>

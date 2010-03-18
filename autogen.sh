@@ -1,6 +1,6 @@
 #! /bin/sh
 
-# $Id: autogen.sh,v 1.1 2006/07/12 11:04:38 sortiz Exp $
+# $Id: autogen.sh,v 1.2 2006/02/07 18:05:01 sortiz Exp $
 #
 # Copyright (c) 2002  Daniel Elstner  <daniel.elstner@gmx.net>
 #
@@ -31,14 +31,16 @@ fi
 
 rm -f config.cache acconfig.h
 
+DARWINPATH=/opt/local/bin
+
 echo "- aclocal."		&& \
-aclocal				&& \
+if test x$(uname -s) = xDarwin; then $DARWINPATH/aclocal -I /opt/local/share/aclocal ; else aclocal ; fi && \
 echo "- autoconf."		&& \
-autoconf			&& \
+if test x$(uname -s) = xDarwin; then $DARWINPATH/autoconf ; else autoconf ; fi && \
 echo "- autoheader."		&& \
-autoheader			&& \
+if test x$(uname -s) = xDarwin; then $DARWINPATH/autoheader ; else autoheader ; fi && \
 echo "- automake."		&& \
-automake --add-missing --gnu	&& \
+if test x$(uname -s) = xDarwin; then $DARWINPATH/automake -a --gnu ; else automake -a --gnu ; fi && \
 echo				&& \
 ./configure "$@"		&& exit 0
 

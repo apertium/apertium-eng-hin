@@ -157,6 +157,95 @@
     </pipeline>
   </mode>
 
+  <mode name="hi-en-morph" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="hi-en.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="hi-en-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="hi-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="hi-en.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="hi-en-chunker" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="hi-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="hi-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -c">
+        <file name="apertium-en-hi.hi-en.t1x"/>
+        <file name="hi-en.t1x.bin"/>
+        <file name="hi-en.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="hi-en-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="hi-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="hi-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -c">
+        <file name="apertium-en-hi.hi-en.t1x"/>
+        <file name="hi-en.t1x.bin"/>
+        <file name="hi-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-en-hi.hi-en.t2x"/>
+        <file name="hi-en.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+
+  <mode name="hi-en-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="hi-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g">
+        <file name="hi-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -c">
+        <file name="apertium-en-hi.hi-en.t1x"/>
+        <file name="hi-en.t1x.bin"/>
+        <file name="hi-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-en-hi.hi-en.t2x"/>
+        <file name="hi-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-en-hi.hi-en.t3x"/>
+        <file name="hi-en.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+
   <mode name="hi-en" install="yes">
     <pipeline>
       <program name="lt-proc">
