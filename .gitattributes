@@ -18,8 +18,8 @@
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
-dev/Unconverted.txt -text
-dev/apertium-en-hi.hi(converted-to-unicode).dix -text
+dev/ReadMe.txt -text
+dev/apertium-en-hi.hi(unicode-merged).dix -text
 dev/apertium-en-hi.hi.dix -text
 dev/inconsistency.sh -text
 /en-hi.prob -text svneol=unset#unset
