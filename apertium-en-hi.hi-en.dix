@@ -7,26 +7,35 @@
 <sdef n="adv"    c="Adverb"/>
 <sdef n="adj"    c="Adjective"/>
 <sdef n="post"   c="Postposition"/>
-
+<sdef n="vblex"   c="verb"/>
 <sdef n="det"    c="Determiner"/>
-
+<sdef n="prn"    c="Pronoun"/>
 <sdef n="pr"     c="Preposition"/>
 <sdef n="vbser"  c="Verb 'to be'"/>
 <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
 <sdef n="f"      c="Feminine"/>
 <sdef n="m"      c="Masculine"/>
-
+<sdef n="tn"      c=""/>
 <sdef n="ind"    c="Indefinite"/>
-
+<sdef n="ant"    c=""/>
 <sdef n="sp"     c="Singular / plural"/>
-
+<sdef n="sg"     c="Singular"/>
+<sdef n="pl"     c=" plural"/>
+<sdef n="sint"     c=" "/>
 <sdef n="sent"   c=""/>
 <sdef n="cm"   c=""/>
 <sdef n="guio"   c=""/>
 </sdefs>
 <section id="main" type="standard">
+
+<!-- Pronouns -->
+<e><p><l>this<s n="prn"/><s n="tn"/></l><r>य<s n="prn"/></r></p></e>
+
+<e><p><l>that<s n="prn"/><s n="tn"/></l><r>व<s n="prn"/></r></p></e>
+
 <!-- Conjunctions -->
 
+<e><p><l>but<s n="cnjcoo"/></l><r>लेकिन<s n="cnjcoo"/></r></p></e>
 <e><p><l>but<s n="cnjcoo"/></l><r>पर<s n="cnjcoo"/></r></p></e>
 <e><p><l>and<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
 
@@ -36,6 +45,7 @@
 <e><p><l>@<s n="pr"/></l><r>के<b/>द्वारा<s n="post"/></r></p></e>
 <e><p><l>@<s n="pr"/></l><r>के<b/>लिये<s n="post"/></r></p></e>
 <e><p><l>to<s n="pr"/></l><r>को<s n="post"/></r></p></e>
+<e><p><l>for<s n="pr"/></l><r>लिए<s n="post"/></r></p></e>
 <e><p><l></l><r>ने<s n="post"/></r></p></e> <!-- Ergative marker -->
 <e><p><l>on<s n="pr"/></l><r>पर<s n="post"/></r></p></e>
 <e><p><l>in<s n="pr"/></l><r>में<s n="post"/></r></p></e>
@@ -48,10 +58,11 @@
 <!-- Numerals -->
 
 <e><p><l>two<s n="num"/><s n="sp"/></l><r>दो<s n="num"/></r></p></e>
-
+<e><p><l>six<s n="num"/><s n="sp"/></l><r>छह<s n="num"/></r></p></e>
 <!-- Verbs -->
 
 <e><p><l>be<s n="vbser"/></l><r>होना<s n="vbser"/></r></p></e>
+<e><p><l>can</l><r>सक</r></p></e>
 
 <!-- Nouns -->
 <e><p><l>cheque<s n="n"/></l><r>चैक<s n="n"/><s n="m"/></r></p></e>
@@ -947,6 +958,7 @@
 <e><p><l>bustle<s n="n"/></l><r>हलचल<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>butcher<s n="n"/></l><r>कसाई<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>butler<s n="n"/></l><r>खानसामा<s n="n"/></r></p></e>
+
 <e><p><l>butter<s n="n"/></l><r>मक्खन<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>butterfly<s n="n"/></l><r>तितली<s n="n"/></r></p></e>
 <e><p><l>buttermilk<s n="n"/></l><r>मठ्ठा<s n="n"/></r></p></e>
@@ -4247,6 +4259,7 @@
 <e><p><l>lounge<s n="n"/></l><r>लॉंज<s n="n"/></r></p></e>
 <e><p><l>louse<s n="n"/></l><r>जूँ<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>love<s n="n"/></l><r>प्रेम<s n="n"/></r></p></e>
+<e><p><l>love<s n="n"/></l><r>प्यार<s n="n"/></r></p></e>
 <e><p><l>love<b/>letter<s n="n"/></l><r>प्रेमपत्र<s n="n"/></r></p></e>
 <e><p><l>love<b/>match<s n="n"/></l><r>प्रेमीयुगल<s n="n"/></r></p></e>
 <e><p><l>lover<s n="n"/></l><r>प्रेमी<s n="n"/></r></p></e>
@@ -5544,7 +5557,7 @@
 <e><p><l>platoon<s n="n"/></l><r>पलटन<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>platter<s n="n"/></l><r>कठौती<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>plaudit<s n="n"/></l><r>साधुवाद<s n="n"/></r></p></e>
-<e><p><l>play<s n="n"/></l><r>खेल<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>play</l><r>खेल</r></p></e>
 <e><p><l>playback<s n="n"/></l><r>प्रतिश्रवण<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>play<b/>off<s n="n"/></l><r>मुकाबला<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>play<b/>acting<s n="n"/></l><r>अभिनय<s n="n"/><s n="m"/></r></p></e>
@@ -6330,6 +6343,7 @@
 <e><p><l>revelation<s n="n"/></l><r>रहस्योद्घाटन<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>revenge<s n="n"/></l><r>प्रतिशोध<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>revenue<s n="n"/></l><r>कर<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>do</l><r>कर</r></p></e>
 <e><p><l>reverberation<s n="n"/></l><r>गूँज<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reverence<s n="n"/></l><r>आदर<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>reverie<s n="n"/></l><r>दिवास्वप्न<s n="n"/><s n="m"/></r></p></e>
@@ -7870,7 +7884,7 @@
 <e><p><l>tomb<s n="n"/></l><r>कब्र<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tom-bola<s n="n"/></l><r>लाटरी<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tomcat<s n="n"/></l><r>बिलाव<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>tomorrow<s n="n"/></l><r>कल<s n="n"/></r></p></e>
+
 <e><p><l>tone<s n="n"/></l><r>तान<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tone<s n="n"/></l><r>तान<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tongs<s n="n"/></l><r>चिमटा<s n="n"/><s n="m"/></r></p></e>
@@ -8566,6 +8580,7 @@
 <e><p><l>yataghan<s n="n"/></l><r>खंजर<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>yaw<s n="n"/></l><r>विचलन<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>year<s n="n"/></l><r>वर्ष<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>year<s n="n"/></l><r>साल<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>yearling<s n="n"/></l><r>घोडा<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>yearning<s n="n"/></l><r>चाह<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>yearning<s n="n"/></l><r>चाह<s n="n"/><s n="m"/></r></p></e>
@@ -10462,6 +10477,7 @@
 <e><p><l>justifier<s n="n"/></l><r>प्रतिसमर्थक<s n="n"/></r></p></e>
 <e><p><l>just<s n="n"/></l><r>ठीक<s n="n"/></r></p></e>
 <e><p><l>jut<s n="n"/></l><r>उभार<s n="n"/></r></p></e>
+<e><p><l>Kajol<s n="np"/><s n="ant"/></l><r>काजोल</r></p></e>
 <e><p><l>keen<s n="n"/></l><r>अत्यधिक<s n="n"/></r></p></e>
 <e><p><l>keenness<s n="n"/></l><r>कुशाग्रता<s n="n"/></r></p></e>
 <e><p><l>ketonuria<s n="n"/></l><r>एसीटोनमेह<s n="n"/></r></p></e>
@@ -11250,6 +11266,7 @@
 <e><p><l>quoits<s n="n"/></l><r>कौइट्स<s n="n"/></r></p></e>
 <e><p><l>quotidian<s n="n"/></l><r>साधारण<s n="n"/></r></p></e>
 <e><p><l>rabbi<s n="n"/></l><r>रब्बी<s n="n"/></r></p></e>
+<e><p><l>Rahul<s n="np"/><s n="ant"/></l><r>राहुल</r></p></e>
 <e><p><l>racetrack<s n="n"/></l><r>घुड़दौड़-मैदान<s n="n"/></r></p></e>
 <e><p><l>racketeering<s n="n"/></l><r>ठगी<s n="n"/></r></p></e>
 <e><p><l>racketeer<s n="n"/></l><r>ठग<s n="n"/></r></p></e>
@@ -12034,6 +12051,7 @@
 <e><p><l>toadstool<s n="n"/></l><r>कुकुरमुत्ता<s n="n"/></r></p></e>
 <e><p><l>tocopherol<s n="n"/></l><r>टोकोफ़ेरल<s n="n"/></r></p></e>
 <e><p><l>togetherness<s n="n"/></l><r>घनिष्ठता<s n="n"/></r></p></e>
+<e><p><l>together<s n="n"/></l><r>साथ<s n="n"/></r></p></e>
 <e><p><l>toiler<s n="n"/></l><r>परिश्रमी<s n="n"/></r></p></e>
 <e><p><l>toils<s n="n"/></l><r>जाल<s n="n"/></r></p></e>
 <e><p><l>tokenism<s n="n"/></l><r>प्रतीकवाद<s n="n"/></r></p></e>
@@ -13551,6 +13569,9 @@
 
 
 <!-- Adverbs -->
+<e><p><l>where</l><r>कहॉं</r></p></e>
+<e><p><l>when</l><r>कब</r></p></e>
+<e><p><l>why</l><r>क्यों</r></p></e>
 <e><p><l>aback<s n="adv"/></l><r>पीछे<s n="adv"/></r></p></e>
 <e><p><l>aboard<s n="adv"/></l><r>सवार<s n="adv"/></r></p></e>
 <e><p><l>above<s n="adv"/></l><r>ऊँचा<s n="adv"/></r></p></e>
@@ -13628,6 +13649,7 @@
 <e><p><l>entirely<s n="adv"/></l><r>सम्पूर्णतया<s n="adv"/></r></p></e>
 <e><p><l>ergo<s n="adv"/></l><r>इसलिए<s n="adv"/></r></p></e>
 <e><p><l>even<s n="adv"/></l><r>भी<s n="adv"/></r></p></e>
+<e><p><l>even<s n="adv"/></l><r>तो<s n="adv"/></r></p></e>
 <e><p><l>everywhere<s n="adv"/></l><r>सर्वत्र<s n="adv"/></r></p></e>
 <e><p><l>excessively<s n="adv"/></l><r>बाहुल्यतापूर्ण<s n="adv"/></r></p></e>
 <e><p><l>extremely<s n="adv"/></l><r>अत्यधिक<s n="adv"/></r></p></e>
@@ -13702,13 +13724,12 @@
 <e><p><l>meekly<s n="adv"/></l><r>चुपचाप<s n="adv"/></r></p></e>
 <e><p><l>mercifully<s n="adv"/></l><r>दयापूर्वक<s n="adv"/></r></p></e>
 <e><p><l>merely<s n="adv"/></l><r>सिर्फ<s n="adv"/></r></p></e>
-<e><p><l>mighty<s n="adv"/></l><r>बहुत<s n="adv"/></r></p></e>
+
 <e><p><l>moderately<s n="adv"/></l><r>औसतः<s n="adv"/></r></p></e>
 <e><p><l>moodily<s n="adv"/></l><r>उदासी<s n="adv"/></r></p></e>
 <e><p><l>mundanely<s n="adv"/></l><r>साधारण<s n="adv"/></r></p></e>
 <e><p><l>murderously<s n="adv"/></l><r>निर्दयता<s n="adv"/></r></p></e>
-<e><p><l>namely<s n="adv"/></l><r>जैसे<s n="adv"/></r></p></e>
-<e><p><l>nay<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
+<e><p><l>namely<s n="adv"/></l><r>जैसे<s n="adv"/></r></p></e>>
 <e><p><l>nevertheless<s n="adv"/></l><r>तथापि<s n="adv"/></r></p></e>
 <e><p><l>newly<s n="adv"/></l><r>नया<s n="adv"/></r></p></e>
 <e><p><l>nigh<s n="adv"/></l><r>लगभग<s n="adv"/></r></p></e>
@@ -13728,7 +13749,7 @@
 <e><p><l>onward<s n="adv"/></l><r>आगे<s n="adv"/></r></p></e>
 <e><p><l>originally<s n="adv"/></l><r>मूलतः<s n="adv"/></r></p></e>
 <e><p><l>out<s n="adv"/></l><r>बाहर<s n="adv"/></r></p></e>
-<e><p><l>outside<s n="adv"/></l><r>बाहर<s n="adv"/></r></p></e>
+
 <e><p><l>outwardly<s n="adv"/></l><r>बाह्यतः<s n="adv"/></r></p></e>
 <e><p><l>overtime<s n="adv"/></l><r>समयोपरि<s n="adv"/></r></p></e>
 <e><p><l>pat<s n="adv"/></l><r>तुरंत<s n="adv"/></r></p></e>
@@ -13804,7 +13825,7 @@
 <e><p><l>though<s n="adv"/></l><r>यद्यपि<s n="adv"/></r></p></e>
 <e><p><l>thoughtfully<s n="adv"/></l><r>विचारपूर्वक<s n="adv"/></r></p></e>
 <e><p><l>today<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
-<e><p><l>tomorrow<s n="adv"/></l><r>कल<s n="adv"/></r></p></e>
+
 <e><p><l>too<s n="adv"/></l><r>बहुत<s n="adv"/></r></p></e>
 <e><p><l>tremendously<s n="adv"/></l><r>जबरदस्त<s n="adv"/></r></p></e>
 <e><p><l>triumphantly<s n="adv"/></l><r>विजयोल्लास~के~साथ<s n="adv"/></r></p></e>
@@ -13834,7 +13855,7 @@
 <e><p><l>whereabouts<s n="adv"/></l><r>ठिकाना<s n="adv"/></r></p></e>
 <e><p><l>wherein<s n="adv"/></l><r>जिसमें<s n="adv"/></r></p></e>
 <e><p><l>within<s n="adv"/></l><r>भीतर<s n="adv"/></r></p></e>
-<e><p><l>without<s n="adv"/></l><r>बाहर<s n="adv"/></r></p></e>
+
 <e><p><l>worldwide<s n="adv"/></l><r>विश्वव्यापी<s n="adv"/></r></p></e>
 <e><p><l>wrong<s n="adv"/></l><r>गलतपूर्ण<s n="adv"/></r></p></e>
 <e><p><l>yea<s n="adv"/></l><r>हाँ<s n="adv"/></r></p></e>
@@ -13862,6 +13883,7 @@
 <e><p><l>basically<s n="adv"/></l><r>मूलतः<s n="adv"/></r></p></e>
 <e><p><l>bias<s n="adv"/></l><r>तिरछा<s n="adv"/></r></p></e>
 <e><p><l>big<s n="adv"/></l><r>बड़ा<s n="adv"/></r></p></e>
+<e><p><l>big<s n="adj"/><s n="sint"/></l><r>बड़े<s n="adj"/></r></p></e>
 <e><p><l>bimonthly<s n="adv"/></l><r>द्वैमासिक<s n="adv"/></r></p></e>
 <e><p><l>bitter<s n="adv"/></l><r>कड़ुवा<s n="adv"/></r></p></e>
 <e><p><l>blackout<s n="adv"/></l><r>अँधेरा<s n="adv"/></r></p></e>
@@ -13889,7 +13911,7 @@
 <e><p><l>contrary<s n="adv"/></l><r>प्रतिकूल<s n="adv"/></r></p></e>
 <e><p><l>contritely<s n="adv"/></l><r>खेदपूर्वक<s n="adv"/></r></p></e>
 <e><p><l>contumeliously<s n="adv"/></l><r>अवज्ञापूर्वक<s n="adv"/></r></p></e>
-<e><p><l>cool<s n="adv"/></l><r>ठंडा<s n="adv"/></r></p></e>
+<e><p><l>cool<s n="adv"/><s n= "sint"/></l><r>ठंडा<s n="adv"/></r></p></e>
 <e><p><l>cooperatively<s n="adv"/></l><r>सहयोगपूर्वक<s n="adv"/></r></p></e>
 <e><p><l>cordially<s n="adv"/></l><r>अत्यधिक<s n="adv"/></r></p></e>
 <e><p><l>correspondingly<s n="adv"/></l><r>परिणामस्वरूप<s n="adv"/></r></p></e>
@@ -14494,6 +14516,7 @@
 <e><p><l>bevelled<s n="adj"/></l><r>प्रवणित<s n="adj"/></r></p></e>
 <e><p><l>biennial<s n="adj"/></l><r>द्विवार्षिक<s n="adj"/></r></p></e>
 <e><p><l>big<s n="adj"/></l><r>बडा<s n="adj"/></r></p></e>
+
 <e><p><l>binding<s n="adj"/></l><r>आवश्यक<s n="adj"/></r></p></e>
 <e><p><l>bismuth<s n="adj"/></l><r>कांसा<s n="adj"/></r></p></e>
 <e><p><l>bitter<s n="adj"/></l><r>कडुवा<s n="adj"/></r></p></e>
@@ -15247,7 +15270,7 @@
 <e><p><l>glum<s n="adj"/></l><r>अप्रसन्न<s n="adj"/></r></p></e>
 <e><p><l>godless<s n="adj"/></l><r>नास्तिक<s n="adj"/></r></p></e>
 <e><p><l>golden<s n="adj"/></l><r>सुनहरा<s n="adj"/></r></p></e>
-<e><p><l>good<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
+<e><p><l>good<s n="adj"/><s n="sint"/></l><r>अच्छा<s n="adj"/></r></p></e>
 <e><p><l>gorgeous<s n="adj"/></l><r>भडकीला<s n="adj"/></r></p></e>
 <e><p><l>gory<s n="adj"/></l><r>रक्तमय<s n="adj"/></r></p></e>
 <e><p><l>graceful<s n="adj"/></l><r>सुशोभित<s n="adj"/></r></p></e>
@@ -16188,7 +16211,6 @@
 <e><p><l>neutral<s n="adj"/></l><r>तटस्थ<s n="adj"/></r></p></e>
 <e><p><l>newborn<s n="adj"/></l><r>नवजात<s n="adj"/></r></p></e>
 <e><p><l>next<s n="adj"/></l><r>अगला<s n="adj"/></r></p></e>
-<e><p><l>nice<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
 <e><p><l>niggardly<s n="adj"/></l><r>कृपण<s n="adj"/></r></p></e>
 <e><p><l>nimble<s n="adj"/></l><r>फुर्तीला<s n="adj"/></r></p></e>
 <e><p><l>nineteenth<s n="adj"/></l><r>उन्नीसवाँ<s n="adj"/></r></p></e>
@@ -16317,7 +16339,7 @@
 <e><p><l>outgoing<s n="adj"/></l><r>खुशमिजाज<s n="adj"/></r></p></e>
 <e><p><l>outlandish<s n="adj"/></l><r>बेतुका<s n="adj"/></r></p></e>
 <e><p><l>outlying<s n="adj"/></l><r>दूर<s n="adj"/></r></p></e>
-<e><p><l>outside<s n="adj"/></l><r>बाह्य<s n="adj"/></r></p></e>
+
 <e><p><l>outspoken<s n="adj"/></l><r>मुँहखुला<s n="adj"/></r></p></e>
 <e><p><l>outstanding<s n="adj"/></l><r>अप्रतिम<s n="adj"/></r></p></e>
 <e><p><l>outward<s n="adj"/></l><r>बाह्य<s n="adj"/></r></p></e>
@@ -16885,7 +16907,7 @@
 <e><p><l>savoury<s n="adj"/></l><r>स्वादिष्ट<s n="adj"/></r></p></e>
 <e><p><l>scabby<s n="adj"/></l><r>पपडीदार<s n="adj"/></r></p></e>
 <e><p><l>scabrous<s n="adj"/></l><r>खुरदारा<s n="adj"/></r></p></e>
-<e><p><l>Scalding<s n="adj"/></l><r>गर्म<s n="adj"/></r></p></e>
+
 <e><p><l>scally<s n="adj"/></l><r>पपडिला<s n="adj"/></r></p></e>
 <e><p><l>scandalous<s n="adj"/></l><r>दुखकारी<s n="adj"/></r></p></e>
 <e><p><l>scant<s n="adj"/></l><r>अपर्याप्त<s n="adj"/></r></p></e>
@@ -17867,7 +17889,7 @@
 <e><p><l>war-torn<s n="adj"/></l><r>युद्धग्रस्त<s n="adj"/></r></p></e>
 <e><p><l>ward<s n="adj"/></l><r>निगरानी<s n="adj"/></r></p></e>
 <e><p><l>warlike<s n="adj"/></l><r>जंगी<s n="adj"/></r></p></e>
-<e><p><l>warm<s n="adj"/></l><r>गर्म<s n="adj"/></r></p></e>
+<e><p><l>warm<s n="adj"/><s n="sint"/></l><r>गर्म<s n="adj"/></r></p></e>
 <e><p><l>wary<s n="adj"/></l><r>होशियार<s n="adj"/></r></p></e>
 <e><p><l>waste<s n="adj"/></l><r>व्यर्थ<s n="adj"/></r></p></e>
 <e><p><l>wasteful<s n="adj"/></l><r>हानिकारक<s n="adj"/></r></p></e>
