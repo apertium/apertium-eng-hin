@@ -27,4 +27,3 @@ dev/inconsistency.sh -text
 /modes.xml -text
 /pending-tests.sh -text
 /principal.xsl -text
-/translate-to-default-equivalent.xsl -text
