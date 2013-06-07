@@ -10,9 +10,10 @@
     <sdef n="vblex"   c="verb"/>
     <sdef n="det"     c="Determiner"/>
     <sdef n="prn"     c="Pronoun"/>
+	<sdef n="frm"     c="formal"/>
     <sdef n="subj"    c="Subject"/>
     <sdef n="itg"     c="Interrogative"/>
-    
+    <sdef n="obl"     c="oblique"/>
     <sdef n="pr"      c="Preposition"/>
     <sdef n="pers"    c="Personal"/>
     <sdef n="vbser"   c="Verb 'to be'"/>
@@ -42,6 +43,8 @@
     <sdef n="p1"      c="first person"/>
     <sdef n="p2"      c="second person"/>
     <sdef n="p3"      c="third person"/>
+    <sdef n="tv"      c="transitive"/>
+	<sdef n="iv"      c="intransitive"/>
     
   </sdefs>
   <section id="main" type="standard">
@@ -97,28 +100,25 @@
     <!-- SECTION: Pronouns -->
 
     <e><p><l>who<s n="prn"/></l><r>जो<s n="prn"/></r></p></e>
-    <e><p><l>who<s n="prn"/></l><r>किस<s n="prn"/></r></p></e>
-    <e><p><l>who<s n="prn"/></l><r>जिस<s n="prn"/></r></p></e>
-    <e><p><l>ैं</l><r>ैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s 	n="nom"/></r></p></e>
+    <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>हम<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+	<e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>तुम<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+	<e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>आप<s n="prn"/><s n="pers"/><s n="p2"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+	<e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>अप<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+	<e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="mf"/><s n="sg"/></l><r>इस<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+	<e><p><l>who<s n="prn"/><s n="itg"/><s n="sp"/></l><r>किस<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
+	<e><p><l>who<s n="prn"/><s n="itg"/><s n="sp"/></l><r>जिस<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
+	<e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="mf"/><s n="sg"/></l><r>उस<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+	<e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>इन<s n="prn"/><s n="pers"/><s n="p3"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+	<e><p><l>who<s n="prn"/><s n="itg"/><s n="sp"/></l><r>किन<s n="prn"/><s n="itg"/><s n="frm"/><s n="mf"/><s n="pl"/></r></p></e>	
+	<e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>उन<s n="prn"/><s n="pers"/><s n="p3"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>	
     <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></l><r>व<s n="prn"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></l><r>उस<s n="prn"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></l><r>इस<s n="prn"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></l><r>इन<s n="prn"/></r></p></e>
     <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></l><r>उन<s n="prn"/></r></p></e>
     <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></l><r>य<s n="prn"/></r></p></e>
     <e><p><l>any<s n="prn"/><s n="tn"/><s n="sp"/></l><r>कोई<s n="pr"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="tn"/></l><r>व<s n="prn"/></r></p></e>
     <e><p><l>towards<s n="pr"/></l><r>ओर<s n="pr"/></r></p></e>
     <e><p><l>by<s n="pr"/></l><r>द्वारा<s n="pr"/></r></p></e>	
-    <e><p><l>prpers<s n="prn"/><s n="FD"/><s n="p1"/><s n="mf"/></l><r>मैं<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/></r></p></e>	
-    <e><p><l>prpers<s n="prn"/></l><r>मैंने<s n="prn"/></r></p></e>	
-    <e><p><l>prpers<s n="prn"/></l><r>हम<s n="prn"/></r></p></e>
-	
-    <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>तुम<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>	
-    <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>तू<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>	
-    <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>आप<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>	
 
-    <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>तुम्हें<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>	
 
 
     <!-- SECTION: Numerals -->
@@ -4636,7 +4636,7 @@
     <e><p><l>treasure<s n="n"/></l><r>खजाना<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>treatment<s n="n"/></l><r>बर्ताव<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>treaty<s n="n"/></l><r>संधि<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tree<s n="n"/></l><r>पेड<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tree<s n="n"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>treetop<s n="n"/></l><r>फुनगी<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trellis<s n="n"/></l><r>जाफरी<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trellis<s n="n"/></l><r>जाफरी<s n="n"/><s n="m"/></r></p></e>
@@ -5016,7 +5016,9 @@
     <e><p><l>Rahul<s n="np"/><s n="ant"/></l><r>राहुल<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>James<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Mary<s n="np"/><s n="ant"/></l><r>मरियम<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Mary<s n="np"/><s n="ant"/></l><r>मैरी<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>India<s n="np"/><s n="ant"/></l><r>भारत</r></p></e>
+	
 
     <e><p><l>animal<s n="n"/></l><r>प्राणी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>abundance<s n="n"/></l><r>अधिकता<s n="n"/><s n="f"/></r></p></e>
@@ -20011,28 +20013,43 @@
     <e><p><l>take</l><r>लिया</r></p></e>
     <e><p><l>felt</l><r>लगा</r></p></e>
     <e><p><l>say</l><r>कहा</r></p></e>
-    <e><p><l>sleep</l><r>सो</r></p></e>
+
     <e><p><l>see</l><r>देख</r></p></e>
     <e><p><l>look</l><r>देख</r></p></e>
-    <e><p><l>go</l><r>जा</r></p></e>
+
     <e r="RL"><p><l></l><r>रह<s n="vblex"/><s n="pres"/></r></p></e>
     <e r="RL"><p><l></l><r>ही<s n="vblex"/><s n="pres"/></r></p></e>
     <e r="RL"><p><l></l><r>हो<s n="vblex"/><s n="pres"/></r></p></e>
-    <e><p><l>drink</l><r>पी</r></p></e>
+
     <e><p><l>laugh</l><r>हस</r></p></e>
     <e><p><l>talk</l><r>बोल</r></p></e>
-    <e><p><l>walk</l><r>चल</r></p></e>
+
     <e><p><l>run</l><r>भाग</r></p></e>
     <e><p><l>hear</l><r>सुन</r></p></e>
     <e><p><l>find</l><r>ढूॅंड</r></p></e>
     <e><p><l>know</l><r>जान</r></p></e>
     <e><p><l>think</l><r>सोच</r></p></e>
-    <e><p><l>sit</l><r>बैठ</r></p></e>
     <e><p><l>count</l><r>गिन</r></p></e>
     <e><p><l>finish</l><r>चुक</r></p></e>
-    <e><p><l>ask</l><r>पूछ</r></p></e>
-    <e><p><l>become</l><r>बन</r></p></e>
-	<e><p><l>write</l><r>लिख</r></p></e>
+    <e><p><l>say<s n="vblex"/></l><r>कहा<s n="vblex"/><s n="tv"/></r></p></e>		
+	<e><p><l>think<s n="vblex"/></l><r>सोच<s n="vblex"/><s n="tv"/></r></p></e>
+    <e><p><l>ask<s n="vblex"/></l><r>पूछ<s n="vblex"/><s n="tv"/></r></p></e>
+    <e><p><l>become<s n="vblex"/></l><r>बन<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>write<s n="vblex"/></l><r>लिख<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>tell<s n="vblex"/></l><r>बता<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>play<s n="vblex"/></l><r>खेल<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>find<s n="vblex"/></l><r>खोज<s n="vblex"/><s n="tv"/></r></p></e>
+    <e><p><l>drink<s n="vblex"/></l><r>पी<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>walk<s n="vblex"/></l><r>चल<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>sleep<s n="vblex"/></l><r>सो<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>laugh<s n="vblex"/></l><r>हँस<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>laugh<s n="vblex"/></l><r>हंस<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>sit<s n="vblex"/></l><r>बैठ<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>hide<s n="vblex"/></l><r>छुप<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>live<s n="vblex"/></l><r>रह<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>go<s n="vblex"/></l><r>जा<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>come<s n="vblex"/></l><r>आ<s n="vblex"/><s n="iv"/></r></p></e>
+	
 
     <!-- SECTION: Punctuation -->
 
