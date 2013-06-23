@@ -39,3 +39,12 @@ SELECT Vaux IF
 	(-1 Stem)
 	(0 Vaux OR Verb)
 	(1 Vbser);
+
+SELECT Vaux IF
+	(-1 Verb)
+	(0 Vaux OR Verb)
+
+SELECT Vbser IF
+	(-1 Verb)
+	(0 Verb OR Vbser)
+
