@@ -16,6 +16,7 @@
 /apertium-en-hi.hi-en.t2x -text
 /apertium-en-hi.hi-en.t3x -text
 /apertium-en-hi.hi.dix -text
+/article_translation -text
 /autogen.sh -text
 /configure.ac -text
 dev/ReadMe.txt -text
