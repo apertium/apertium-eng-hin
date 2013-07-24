@@ -308,7 +308,7 @@
 	<e><p><l>shareholders<s n="n"/></l><r>अंशधारी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>althypalthy<s n="n"/></l><r>आलथीपालथी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>aunt<s n="n"/></l><r>आँटी<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>israili<s n="n"/></l><r>इसराईली<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Israeli<s n="n"/></l><r>इसराईली<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>pounder<s n="n"/></l><r>उखली<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>sneak<s n="n"/></l><r>उचक्का<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>light<s n="n"/></l><r>उजियाला<s n="n"/><s n="m"/></r></p></e>
@@ -12758,7 +12758,7 @@
 	<e><p><l>apatrkritya<s n="n"/></l><r>अपात्रकृत्या<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>evident<s n="n"/></l><r>जाहिर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>placental<s n="n"/></l><r>अपरा<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>mahatma<s n="n"/></l><r>महात्मा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Mahatma<s n="n"/></l><r>महात्मा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dsmdsha<s n="n"/></l><r>दशमदशा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>aunt<s n="n"/></l><r>बुआ<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>ayrred<s n="n"/></l><r>एयररेड<s n="n"/><s n="m"/></r></p></e>
@@ -29357,21 +29357,12 @@
 
 
     <!-- SECTION: Adjectives -->
-<e><p><l>atijivi<s n="n"/></l><r>अतिजीवी<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>aduri<s n="n"/></l><r>अदौरी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>unmarried<s n="n"/></l><r>अनब्याहा<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>anbla<s n="n"/></l><r>अनभला<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>anuchari<s n="n"/></l><r>अनुचारी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dependent<s n="n"/></l><r>अनुजीवी<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>apmani<s n="n"/></l><r>अपमानी<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>arga<s n="n"/></l><r>अरघा<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>bier<s n="n"/></l><r>अरथी<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>arita<s n="n"/></l><r>अरीठा<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>asadhvi<s n="n"/></l><r>असाध्वी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>shareholders<s n="n"/></l><r>अंशधारी<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>althypalthy<s n="n"/></l><r>आलथीपालथी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>aunt<s n="n"/></l><r>आँटी<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>israili<s n="n"/></l><r>इसराईली<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Israeli<s n="n"/></l><r>इसराईली<s n="n"/><s n="m"/></r></p></e>
+
 	<e><p><l>pounder<s n="n"/></l><r>उखली<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>sneak<s n="n"/></l><r>उचक्का<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>light<s n="n"/></l><r>उजियाला<s n="n"/><s n="m"/></r></p></e>
@@ -29609,7 +29600,7 @@
 	<e><p><l>shell<s n="adj"/></l><r>शैल<s n="adj"/></r></p></e>
 	<e><p><l>shabr<s n="adj"/></l><r>शाबर<s n="adj"/></r></p></e>
 	<e><p><l>conspiracy<s n="adj"/></l><r>साजिशी<s n="adj"/></r></p></e>
-	<e><p><l>buddha<s n="adj"/></l><r>बुद्ध<s n="adj"/></r></p></e>
+	<e><p><l>Buddha<s n="adj"/></l><r>बुद्ध<s n="adj"/></r></p></e>
 	<e><p><l>unheeding<s n="adj"/></l><r>बेअदब<s n="adj"/></r></p></e>
 	<e><p><l>feud<s n="adj"/></l><r>सामंत<s n="adj"/></r></p></e>
 	<e><p><l>asur<s n="adj"/></l><r>आसुर<s n="adj"/></r></p></e>
@@ -33495,7 +33486,7 @@
 	<e><p><l>kulinwargiy<s n="adj"/></l><r>कुलीनवर्गीय<s n="adj"/></r></p></e>
 	<e><p><l>peen<s n="adj"/></l><r>पीन<s n="adj"/></r></p></e>
 	<e><p><l>illegibly<s n="adj"/></l><r>अवाच्य<s n="adj"/></r></p></e>
-	<e><p><l>buddha<s n="adj"/></l><r>बुद्ध<s n="adj"/></r></p></e>
+	<e><p><l>Buddha<s n="adj"/></l><r>बुद्ध<s n="adj"/></r></p></e>
 	<e><p><l>pihit<s n="adj"/></l><r>पिहित<s n="adj"/></r></p></e>
 	<e><p><l>mutilations<s n="adj"/></l><r>क्षतविक्षत<s n="adj"/></r></p></e>
 	<e><p><l>sntrnshil<s n="adj"/></l><r>संतरणशील<s n="adj"/></r></p></e>
@@ -33692,7 +33683,7 @@
 	<e><p><l>prhrshit<s n="adj"/></l><r>प्रहर्षित<s n="adj"/></r></p></e>
 	<e><p><l>dashed<s n="adj"/></l><r>धराशायी<s n="adj"/></r></p></e>
 	<e><p><l>anupd<s n="adj"/></l><r>अनुपद<s n="adj"/></r></p></e>
-	<e><p><l>krishna<s n="adj"/></l><r>कृष्ण<s n="adj"/></r></p></e>
+	<e><p><l>Krishna<s n="adj"/></l><r>कृष्ण<s n="adj"/></r></p></e>
 	<e><p><l>screwed<s n="adj"/></l><r>मदोन्मत<s n="adj"/></r></p></e>
 	<e><p><l>abyutthit<s n="adj"/></l><r>अभ्युत्थित<s n="adj"/></r></p></e>
 	<e><p><l>pramarjk<s n="adj"/></l><r>प्रमार्जक<s n="adj"/></r></p></e>
@@ -33810,10 +33801,6 @@
 	<e><p><l>mrmgati<s n="adj"/></l><r>मर्मघाती<s n="adj"/></r></p></e>
 	<e><p><l>rhittw<s n="adj"/></l><r>रहितत्व<s n="adj"/></r></p></e>
 	<e><p><l>hardworking<s n="adj"/></l><r>कर्मनिष्ठ<s n="adj"/></r></p></e>
-	<e><p><l>vicharmud<s n="adj"/></l><r>विचारमूढ<s n="adj"/></r></p></e>
-	<e><p><l>dhundhurit<s n="adj"/></l><r>धुंधुरित<s n="adj"/></r></p></e>
-	<e><p><l>shastranumodit<s n="adj"/></l><r>शास्त्रानुमोदित<s n="adj"/></r></p></e>
-	<e><p><l>anandan<s n="adj"/></l><r>आनंदन<s n="adj"/></r></p></e>
 	<e><p><l>series<s n="adj"/></l><r>शृंखलाबद्ध<s n="adj"/></r></p></e>
 	<e><p><l>kokjli<s n="adj"/></l><r>कोखजली<s n="adj"/></r></p></e>
 	<e><p><l>bhadra<s n="adj"/></l><r>भद्रा<s n="adj"/></r></p></e>
@@ -41464,6 +41451,29 @@
     <e><p><l>.<s n="sent"/></l><r>।<s n="sent"/></r></p></e>
     <e><re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
+
+</section>
+  <section id="unchecked" type="standard">
+
+    <!-- SECTION: Nouns -->
+
+    <e><p><l>atijivi<s n="n"/></l><r>अतिजीवी<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aduri<s n="n"/></l><r>अदौरी<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anbla<s n="n"/></l><r>अनभला<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>anuchari<s n="n"/></l><r>अनुचारी<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>apmani<s n="n"/></l><r>अपमानी<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arga<s n="n"/></l><r>अरघा<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bier<s n="n"/></l><r>अरथी<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>arita<s n="n"/></l><r>अरीठा<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>asadhvi<s n="n"/></l><r>असाध्वी<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>althypalthy<s n="n"/></l><r>आलथीपालथी<s n="n"/><s n="f"/></r></p></e>
+
+    <!-- SECTION: Adjectives -->
+
+    <e><p><l>vicharmud<s n="adj"/></l><r>विचारमूढ<s n="adj"/></r></p></e>
+    <e><p><l>dhundhurit<s n="adj"/></l><r>धुंधुरित<s n="adj"/></r></p></e>
+    <e><p><l>shastranumodit<s n="adj"/></l><r>शास्त्रानुमोदित<s n="adj"/></r></p></e>
+    <e><p><l>anandan<s n="adj"/></l><r>आनंदन<s n="adj"/></r></p></e>
 
 </section>
 </dictionary>
