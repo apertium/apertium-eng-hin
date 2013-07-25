@@ -15607,7 +15607,7 @@
     <e><p><l>life-giving<s n="adj"/></l><r>जीवनदायक<s n="adj"/></r></p></e>
     <e><p><l>life<b/>threatening<s n="adj"/></l><r>घातक<s n="adj"/></r></p></e>
     <e><p><l>lifelike<s n="adj"/></l><r>सजीव<s n="adj"/></r></p></e>
-    <e><p><l>like</l><r>पसंद</r></p></e>
+    <e><p><l>like<s n = "adj"/></l><r>पसंद<s n = "adj"/></r></p></e>
     <e><p><l>lifelong<s n="adj"/></l><r>आजीवन<s n="adj"/></r></p></e>
     <e><p><l>light<s n="adj"/></l><r>हलका<s n="adj"/></r></p></e>
 
