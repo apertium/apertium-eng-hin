@@ -12,7 +12,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-     $(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin $(PREFIX2).autolex.bin \
+     $(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin $(PREFIX2).autolex.bin $(PREFIX2).autopgen.bin \
      $(PREFIX2).rlx.bin \
      $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).mode \
      $(PREFIX2).t1x.bin  $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin $(PREFIX2).mode
@@ -47,6 +47,11 @@ $(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG1).acx
 	apertium-validate-acx $(BASENAME).$(LANG1).acx
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
 	lt-comp rl $(BASENAME).$(LANG1).dix $@ $(BASENAME).$(LANG1).acx
+
+$(PREFIX2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
+	apertium-validate-dictionary $(BASENAME).post-$(LANG1).dix
+	lt-comp lr $(BASENAME).post-$(LANG1).dix $@ 
+
 
 ##
 ##	DISAMBIGUATION RULES
@@ -133,6 +138,7 @@ apertium_en_hi_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX2).autobil.bin  \
                     $(PREFIX2).autolex.bin  \
                     $(PREFIX2).autogen.bin \
+                    $(PREFIX2).autopgen.bin \
                     $(PREFIX2).rlx.bin \
 		    $(PREFIX2).t1x.bin \
 		    $(PREFIX2).t2x.bin \
