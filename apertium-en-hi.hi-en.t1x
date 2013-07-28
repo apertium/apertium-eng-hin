@@ -74,6 +74,11 @@
       <cat-item tags="n.*"/>
     </def-cat>
 
+    <def-cat n="n-prop-ant">
+      <cat-item tags="np.ant.*"/>
+    </def-cat>
+
+
     <def-cat n="n-prop">
       <cat-item tags="np.*"/>
     </def-cat>
@@ -99,6 +104,8 @@
     <def-attr n="a_nom">
       <attr-item tags="n"/>
       <attr-item tags="np.top"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.cog"/>
     </def-attr>
 
     <def-attr n="a_adj">
@@ -151,13 +158,20 @@
       <attr-item tags="PD"/>
     </def-attr>
 
+    <def-attr n="a_gen">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="GD"/>
+    </def-attr>
+
+
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
       <attr-item tags="sp"/>
       <attr-item tags="ND"/>
     </def-attr>
-
 
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
@@ -186,6 +200,23 @@
     <def-macro n="conv_tense1" npar="1">
          <choose>
            <when>
+             <test><and>
+               <equal><clip pos="1" side="tl" part="a_verb"/><lit-tag v="vbser"/></equal>
+               <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pri"/></equal>
+               <not>
+                 <and>
+                   <equal><clip pos="1" side="tl" part="a_pers"/><lit-tag v="p3"/></equal>
+                   <equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal>
+                 </and>
+               </not>
+             </and></test>
+             <let><clip pos="1" side="tl" part="a_pers"/><lit v=""/></let>
+             <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+           </when>
+         </choose>
+         <choose>
+
+           <when>
              <test><or>
                <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pri"/></equal>
                <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="prs"/></equal>
@@ -193,6 +224,7 @@
              </or></test>
              <let><clip pos="1" side="tl" part="a_tense"/><lit-tag v="pres"/></let>
            </when>
+
 		   
 		   <when>
 		 	<test>
@@ -382,6 +414,33 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: n-prop-ant">
+      <pattern>
+        <pattern-item n="n-prop-ant"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+        <out>
+          <chunk name="prop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="sl" part="a_nbr"/></tag>
+              <tag><clip pos="1" side="sl" part="a_cas"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_gen"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: n-prop">
       <pattern>
         <pattern-item n="n-prop"/>
