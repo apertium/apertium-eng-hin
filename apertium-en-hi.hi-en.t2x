@@ -3,9 +3,9 @@
 <interchunk>
   <section-def-cats>
 
-    <def-cat n="SN-NOM">
-      <cat-item tags="SN.nom"/>  	
-      <cat-item tags="SN.nom.*"/>   
+    <def-cat n="SN-OBL">
+      <cat-item tags="SN.obl"/>  	
+      <cat-item tags="SN.obl.*"/>   
     </def-cat>
 
     <def-cat n="POST">
@@ -47,12 +47,35 @@
     </def-macro>
   </section-def-macros>
   <section-rules>
-    <rule comment="REGLA: SN">
+    <rule comment="REGLA: SN-OBL">
       <pattern>
-        <pattern-item n="SN"/>
+        <pattern-item n="SN-OBL"/>
       </pattern>
       <action>
         <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: SN-OBL POST">
+      <pattern>
+        <pattern-item n="SN-OBL"/>
+        <pattern-item n="POST"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
           <chunk>
             <clip pos="1" part="lem"/>
             <clip pos="1" part="tags"/>

@@ -15,7 +15,7 @@ TARGETS_COMMON =  \
      $(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin $(PREFIX2).autolex.bin $(PREFIX2).autopgen.bin \
      $(PREFIX2).rlx.bin \
      $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).mode \
-     $(PREFIX2).t1x.bin  $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin $(PREFIX2).mode
+     $(PREFIX2).t1x.bin  $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin $(PREFIX2).t4x.bin $(PREFIX2).mode
 
 ##
 ## 	DICTIONARIES (ANALYSER / BILINGUAL / GENERATOR / POSTGEN)
@@ -93,8 +93,12 @@ $(PREFIX2).t2x.bin: $(BASENAME).$(PREFIX2).t2x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t2x $@
 
 $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
-	apertium-validate-postchunk $(BASENAME).$(PREFIX2).t3x
+	apertium-validate-interchunk $(BASENAME).$(PREFIX2).t3x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t3x $@
+
+$(PREFIX2).t4x.bin: $(BASENAME).$(PREFIX2).t4x
+	apertium-validate-postchunk $(BASENAME).$(PREFIX2).t4x
+	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t4x $@
 
 
 
@@ -143,6 +147,7 @@ apertium_en_hi_DATA=$(PREFIX1).automorf.bin \
 		    $(PREFIX2).t1x.bin \
 		    $(PREFIX2).t2x.bin \
 		    $(PREFIX2).t3x.bin \
+		    $(PREFIX2).t4x.bin \
                     $(PREFIX1).prob \
 	            $(PREFIX1).mode modes.xml
 		  
