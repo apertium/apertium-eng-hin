@@ -16,8 +16,11 @@ LIST Vbser = vbser ;
 LIST Det = det ;
 LIST Conj = cnjcoo;
 LIST ConjAdv = cnjadv;
-
+LIST Prn = prn;
 SECTION
+
+SELECT Prn IF
+	(0 Prn or Det)
 
 SELECT Post IF
 	(-1 N)

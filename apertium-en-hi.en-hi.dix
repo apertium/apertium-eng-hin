@@ -5082,7 +5082,7 @@
 	<e><p><l>devoted<s n="n"/></l><r>समर्पित<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>devotee<s n="n"/></l><r>भक्त<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>devotee<s n="n"/></l><r>शौकीन<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>devotion<s n="n"/></l><r>प्यार<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>love<s n="n"/></l><r>प्यार<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>devoutness<s n="n"/></l><r>भक्ति<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>dev<s n="n"/></l><r>देव<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dewiness<s n="n"/></l><r>तरावट<s n="n"/><s n="f"/></r></p></e>
@@ -9143,7 +9143,7 @@
 	<e><p><l>ledge<s n="n"/></l><r>ताक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>leech<s n="n"/></l><r>जोंक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>lee<s n="n"/></l><r>आड<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>lee<s n="n"/></l><r>ओर<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>direction<s n="n"/></l><r>ओर<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>leftism<s n="n"/></l><r>वामपंथ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>leftist<s n="n"/></l><r>वामपंथी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>left<s n="n"/></l><r>वाम<s n="n"/><s n="f"/></r></p></e>
@@ -20465,6 +20465,7 @@
 	<e><p><l>cooccurring<s n="adj"/></l><r>सहवर्ती<s n="adj"/></r></p></e>
 	<e><p><l>cooler<s n="adj"/><s n="sint"/></l><r>शीतक<s n="adj"/></r></p></e>
 	<e><p><l>cool<s n="adj"/><s n="sint"/></l><r>कूल<s n="adj"/><s n="m"/></r></p></e>
+	<e><p><l>cool<s n="adj"/><s n="sint"/></l><r>ठंडा<s n="adj"/><s n="m"/></r></p></e>
 	<e><p><l>cool<s n="adj"/><s n="sint"/></l><r>ठंडक<s n="adj"/><s n="f"/></r></p></e>
     <e><p><l>cool<s n="adj"/><s n="sint"/></l><r>शांत<s n="adj"/></r></p></e>
     <e><p><l>cool<s n="adj"/><s n="sint"/></l><r>शीतल<s n="adj"/></r></p></e>
@@ -27941,6 +27942,7 @@
     <e><p><l>willy<b/>nilly<s n="adv"/></l><r>ज़बर्दस्ती<s n="adv"/></r></p></e>
     <e><p><l>where<s n="adv"/></l><r>जहाँ<s n="adv"/></r></p></e>
     <e><p><l>there<s n="adv"/></l><r>वहाँ<s n="adv"/></r></p></e>
+    <e><p><l>where<s n="adv"/><s n="itg"/></l><r>कहाँ<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>कहॉं<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>when<s n="adv"/><s n="itg"/></l><r>कब<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>why<s n="adv"/><s n="itg"/></l><r>क्यों<s n="adv"/><s n="itg"/></r></p></e>

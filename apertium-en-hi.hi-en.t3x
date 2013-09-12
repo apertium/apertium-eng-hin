@@ -25,7 +25,7 @@
     </def-cat>
 	<def-cat n="SN-SUBJ">
 
-      <cat-item tags="SN.subj.p3.*.*.GD"/>  	  	
+      <cat-item tags="SN.subj.p3.*"/>  	  	
     </def-cat>
 
 	<def-cat n="SN-OBJ">
@@ -96,6 +96,7 @@
       <attr-item tags="f"/>
 	  <attr-item tags="mf"/>
       <attr-item tags="GD"/>
+      <attr-item tags="nt"/>
     </def-attr>
 
     <def-attr n="a_tense">
@@ -237,29 +238,6 @@
 
 
 
-
-
-    <rule comment="REGLA: SN-OBL SV-PRI">
-      <pattern>
-        <pattern-item n="SN-OBL"/>
-        <pattern-item n="SV-PRI"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk>
-            <clip pos="2" part="lem"/>
-            <clip pos="2" part="tags"/>
-            <clip pos="2" part="chcontent"/>
-          </chunk>
-          <b pos="1"/>
-          <chunk>
-            <clip pos="1" part="lem"/>
-            <clip pos="1" part="tags"/>
-            <clip pos="1" part="chcontent"/>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
     <rule comment="REGLA: SN-SUBJ SV-PRI">
       <pattern>
@@ -574,34 +552,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: SN-OBJ SN SV-PRI ">
-      <pattern>
-        <pattern-item n="SN-OBJ"/>
-        <pattern-item n="SN"/>
-        <pattern-item n="SV-PRI"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk>
-            <clip pos="3" part="lem"/>
-            <clip pos="3" part="tags"/>
-            <clip pos="3" part="chcontent"/>
-          </chunk>
-          <b pos="1"/>
-          <chunk>
-            <clip pos="1" part="lem"/>
-            <clip pos="1" part="tags"/>
-            <clip pos="1" part="chcontent"/>
-          </chunk>
-          <b pos="2"/>
-          <chunk>
-            <clip pos="2" part="lem"/>
-            <clip pos="2" part="tags"/>
-            <clip pos="2" part="chcontent"/>
-          </chunk>
-        </out>
-      </action>
-    </rule>
+
     <rule comment="REGLA:  ADJ-ADV SV ">
       <pattern>
         <pattern-item n="ADJ-ADV"/>

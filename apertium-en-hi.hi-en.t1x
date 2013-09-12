@@ -111,6 +111,7 @@
       <attr-item tags="f"/>
 	  <attr-item tags="mf"/>
       <attr-item tags="GD"/>
+      <attr-item tags="nt"/>
     </def-attr>
 
     <def-attr n="a_tense">
@@ -235,7 +236,7 @@
                <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal>
              </and></test>
 			 <let><clip pos="1" side="tl" part="a_gender"/><lit-tag v="mf"/></let>	          
-		 </when>
+		 </when>	
 
          </choose>
     </def-macro>
@@ -286,17 +287,18 @@
          </choose>
          <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
     </def-macro>
+
     <def-macro n="prn_1" npar="1">
          <choose>
            <when>
-             <test><or>
-               <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="nom"/></equal>
-               <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="erg"/></equal>
-             </or></test>
-             <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="subj"/></let>
+             <test><and>
+               <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal>
+               <equal><clip pos="1" side="sl" part="a_pers"/><lit-tag v="p3"/></equal>
+             </and></test>
+             <let><clip pos="1" side="tl" part="a_gender"/><lit-tag v="nt"/></let>
            </when>
            <otherwise>
-             <let><clip pos="1" side="tl" part="a_gender"/><lit-tag v="f"/></let>
+             <let><clip pos="1" side="tl" part="a_gender"/><lit-tag v="mf"/></let>
            </otherwise>
 			
          </choose>
@@ -572,34 +574,7 @@
       </action>
     </rule>
 
- <rule comment="REGLA: adv adj">
-      <pattern>
-        <pattern-item n="adv"/>
-        <pattern-item n="adj"/>
-      </pattern>
-      <action>
-        <call-macro n="adj_1">
-          <with-param pos="2"/>
-        </call-macro>
-        <out>
-          <chunk name="adj-adv" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="Adj-Adv"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-            <b/>
-            <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_pos"/>
-              <clip pos="1" side="tl" part="a_deg"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
+
 
     <rule comment="REGLA: vbser-fin">
       <pattern>
@@ -934,12 +909,16 @@
         <call-macro n="conv_tense1">
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="vbser_1">
+          <with-param pos="3"/>
+        </call-macro>
         <out>
           <chunk name="vbser-ger" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="3" side="sl" part="a_tense"/></tag>
               <tag><clip pos="3" side="sl" part="a_pers"/></tag>
+              <tag><clip pos="2" side="sl" part="a_gender"/></tag>
               <tag><clip pos="3" side="sl" part="a_nbr"/></tag>
             </tags>
             <lu>
@@ -975,25 +954,16 @@
           <chunk name="vbser-ger" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="2" side="sl" part="a_tense"/></tag>
               <tag><clip pos="2" side="sl" part="a_pers"/></tag>
               <tag><clip pos="2" side="sl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="a_tense"/>
-              <clip pos="2" side="tl" part="a_pers"/>
-              <clip pos="2" side="tl" part="a_nbr"/>
-              <clip pos="2" side="tl" part="lemq"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
-              <lit-tag v="ger"/>
+              <lit-tag v ="past"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
+   
           </chunk>
         </out>
       </action>
