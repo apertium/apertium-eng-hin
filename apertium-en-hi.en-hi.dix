@@ -276,8 +276,9 @@
     <e><p><l>crore<s n="num"/><s n="sp"/></l><r>करोड़<s n="num"/></r></p></e>
     <e><p><l>lakh<s n="num"/><s n="sp"/></l><r>लाख<s n="num"/></r></p></e>
     <e><p><l>thousand<s n="num"/><s n="sp"/></l><r>हजार<s n="num"/></r></p></e>
+    <e><p><l>thousand<s n="num"/><s n="sp"/></l><r>हज़ार<s n="num"/></r></p></e>
     <e><p><l>billion<s n="num"/><s n="sp"/></l><r>अरब<s n="num"/></r></p></e>
-
+ 
     <e><p><l>first<s n="num"/><s n="ord"/></l><r>पहला<s n="num"/><s n="ord"/></r></p></e>
 	<e><p><l>first<s n="num"/><s n="ord"/></l><r>प्रथम<s n="num"/><s n="ord"/></r></p></e>
     <e><p><l>second<s n="num"/><s n="ord"/></l><r>दूसरा<s n="num"/><s n="ord"/></r></p></e>
@@ -4237,7 +4238,7 @@
 	<e><p><l>chaplain<s n="n"/></l><r>कुलगुरु<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>chaplet<s n="n"/></l><r>कंठा<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chap<s n="n"/></l><r>छोकरा<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>chap<s n="n"/></l><r>लडका<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>boy<s n="n"/></l><r>लडका<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chapter<s n="n"/></l><r>अध्याय<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>characterisation<s n="n"/></l><r>चित्रांकण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>character<s n="n"/></l><r>चरित्रवान<s n="n"/><s n="m"/></r></p></e>
@@ -10365,7 +10366,7 @@
 	<e><p><l>nervure<s n="n"/></l><r>पर्शुका<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>ness<s n="n"/></l><r>रास<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>nestling<s n="n"/></l><r>नीड़-शावक<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>nestling<s n="n"/></l><r>बच्चा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>kid<s n="n"/></l><r>बच्चा<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nest<s n="n"/></l><r>घोंसला<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>nest<s n="n"/></l><r>नीड<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>netball<s n="n"/></l><r>नेटबल<s n="n"/><s n="m"/></r></p></e>
@@ -17235,7 +17236,12 @@
 
 
     <!-- SECTION: Proper nouns -->
+
+ 	<e><p><l>Mary<s n="np"/><s n="ant"/></l><r>मैरी<s n="np"/><s n="ant"/></r></p></e>
+ 	<e><p><l>James<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
+
  	<e><p><l>Aamil<s n="np"/><s n="ant"/></l><r>आमिल<s n="np"/><s n="ant"/></r></p></e>
+
  	<e><p><l>Aamil<s n="np"/><s n="ant"/></l><r>आमिल<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>April<s n="n"/></l><r>अप्रैल<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>August<s n="n"/></l><r>अगस्त<s n="n"/><s n="m"/></r></p></e>
