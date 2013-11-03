@@ -4,28 +4,26 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-eng-hin.en.acx -text
-/apertium-eng-hin.en.dix -text
 /apertium-eng-hin.eng-hin.dix -text
 /apertium-eng-hin.eng-hin.t1x -text
 /apertium-eng-hin.eng-hin.t2x -text
 /apertium-eng-hin.eng-hin.t3x -text
-/apertium-eng-hin.hi.dix -text
+/apertium-eng-hin.eng.acx -text
+/apertium-eng-hin.eng.dix -text
 /apertium-eng-hin.hin-eng.lrx -text
 /apertium-eng-hin.hin-eng.rlx -text
 /apertium-eng-hin.hin-eng.t1x -text
 /apertium-eng-hin.hin-eng.t2x -text
 /apertium-eng-hin.hin-eng.t3x -text
 /apertium-eng-hin.hin-eng.t4x -text
-/apertium-eng-hin.post-en.dix -text
-/article_translation -text
+/apertium-eng-hin.hin.dix -text
+/apertium-eng-hin.post-eng.dix -text
 /autogen.sh -text
 /configure.ac -text
 dev/ReadMe.txt -text
 dev/apertium-en-hi.en-hi.dix -text
 dev/apertium-en-hi.hi(unicode-merged).dix -text
 dev/apertium-en-hi.hi.dix -text
-dev/cuento.hi.txt -text svneol=unset#application/octet-stream
 dev/inconsistency.sh -text
 dev/testvoc/inconsistency-summary.sh -text
 dev/testvoc/inconsistency.sh -text
@@ -36,5 +34,7 @@ dev/testvoc/testvoc.sh -text
 /modes.xml -text
 /pending-tests.sh -text
 texts/article2.txt -text svneol=unset#application/octet-stream
+texts/article_translation -text
+texts/cuento.hi.txt -text svneol=unset#application/octet-stream
 texts/test.txt -text svneol=unset#application/octet-stream
 texts/test_eng.txt -text
