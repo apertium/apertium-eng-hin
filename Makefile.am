@@ -1,6 +1,6 @@
 VERSION=0.1.0
-LANG1=en
-LANG2=hi
+LANG1=eng
+LANG2=hin
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
@@ -129,10 +129,10 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 
 #           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README 
 
-apertium_en_hidir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_en_modesdir=$(prefix)/share/apertium/modes/
+apertium_eng_hindir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
+apertium_eng_modesdir=$(prefix)/share/apertium/modes/
 
-apertium_en_hi_DATA=$(PREFIX1).automorf.bin \
+apertium_eng_hin_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin  \
                     $(PREFIX1).autogen.bin \
 		    $(PREFIX1).t1x.bin \
@@ -154,9 +154,9 @@ apertium_en_hi_DATA=$(PREFIX1).automorf.bin \
 install-data-local:
 	cp *.mode modes/
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_en_hidir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(apertium_en_hidir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_en_hidir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_eng_hindir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(apertium_eng_hindir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_eng_hindir)
 
 CLEANFILES = -rf $(TARGETS_COMMON) modes
 

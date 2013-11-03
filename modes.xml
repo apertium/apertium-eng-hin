@@ -3,288 +3,288 @@
 
   <!-- == Hindi → English == -->
 
-  <mode name="hi-en-morph" install="no">
+  <mode name="hin-eng-morph" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="hi-en-disam" install="no">
+  <mode name="hin-eng-disam" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace -g">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="hi-en-tagger" install="no">
+  <mode name="hin-eng-tagger" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="hi-en-biltrans" install="no">
+  <mode name="hin-eng-biltrans" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="hi-en.autobil.bin"/>
+        <file name="hin-eng.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="hi-en-lextor" install="no">
+  <mode name="hin-eng-lextor" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="hi-en.autobil.bin"/>
+        <file name="hin-eng.autobil.bin"/>
       </program>
       <program name="lrx-proc -t">
-        <file name="hi-en.autolex.bin"/>
+        <file name="hin-eng.autolex.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="hi-en-chunker" install="no">
+  <mode name="hin-eng-chunker" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="hi-en.autobil.bin"/>
+        <file name="hin-eng.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="hi-en.autolex.bin"/>
+        <file name="hin-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -t -b">
-        <file name="apertium-en-hi.hi-en.t1x"/>
-        <file name="hi-en.t1x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t1x"/>
+        <file name="hin-eng.t1x.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="hi-en-interchunk1" install="no">
+  <mode name="hin-eng-interchunk1" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="hi-en.autobil.bin"/>
+        <file name="hin-eng.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="hi-en.autolex.bin"/>
+        <file name="hin-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-en-hi.hi-en.t1x"/>
-        <file name="hi-en.t1x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t1x"/>
+        <file name="hin-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t2x"/>
-        <file name="hi-en.t2x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t2x"/>
+        <file name="hin-eng.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="hi-en-interchunk2" install="no">
+  <mode name="hin-eng-interchunk2" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="hi-en.autobil.bin"/>
+        <file name="hin-eng.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="hi-en.autolex.bin"/>
+        <file name="hin-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-en-hi.hi-en.t1x"/>
-        <file name="hi-en.t1x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t1x"/>
+        <file name="hin-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t2x"/>
-        <file name="hi-en.t2x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t2x"/>
+        <file name="hin-eng.t2x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t3x"/>
-        <file name="hi-en.t3x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t3x"/>
+        <file name="hin-eng.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="hi-en-postchunk" install="no">
+  <mode name="hin-eng-postchunk" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="hi-en.autobil.bin"/>
+        <file name="hin-eng.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="hi-en.autolex.bin"/>
+        <file name="hin-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-en-hi.hi-en.t1x"/>
-        <file name="hi-en.t1x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t1x"/>
+        <file name="hin-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t2x"/>
-        <file name="hi-en.t2x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t2x"/>
+        <file name="hin-eng.t2x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t3x"/>
-        <file name="hi-en.t3x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t3x"/>
+        <file name="hin-eng.t3x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-hi.hi-en.t4x"/>
-        <file name="hi-en.t4x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t4x"/>
+        <file name="hin-eng.t4x.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="hi-en" install="yes">
+  <mode name="hin-eng" install="yes">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="hi-en.autobil.bin"/>
+        <file name="hin-eng.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="hi-en.autolex.bin"/>
+        <file name="hin-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-en-hi.hi-en.t1x"/>
-        <file name="hi-en.t1x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t1x"/>
+        <file name="hin-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t2x"/>
-        <file name="hi-en.t2x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t2x"/>
+        <file name="hin-eng.t2x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t3x"/>
-        <file name="hi-en.t3x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t3x"/>
+        <file name="hin-eng.t3x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-hi.hi-en.t4x"/>
-        <file name="hi-en.t4x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t4x"/>
+        <file name="hin-eng.t4x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="hi-en.autogen.bin"/>
+        <file name="hin-eng.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="hi-en.autopgen.bin"/>
+        <file name="hin-eng.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
 
-  <mode name="hi-en-debug" install="no">
+  <mode name="hin-eng-debug" install="no">
     <pipeline>
       <program name="lt-proc">
-        <file name="hi-en.automorf.bin"/>
+        <file name="hin-eng.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="hi-en.rlx.bin"/>
+        <file name="hin-eng.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="hi-en.prob"/>
+        <file name="hin-eng.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="hi-en.autobil.bin"/>
+        <file name="hin-eng.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="hi-en.autolex.bin"/>
+        <file name="hin-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-en-hi.hi-en.t1x"/>
-        <file name="hi-en.t1x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t1x"/>
+        <file name="hin-eng.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t2x"/>
-        <file name="hi-en.t2x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t2x"/>
+        <file name="hin-eng.t2x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.hi-en.t3x"/>
-        <file name="hi-en.t3x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t3x"/>
+        <file name="hin-eng.t3x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-hi.hi-en.t4x"/>
-        <file name="hi-en.t4x.bin"/>
+        <file name="apertium-eng-hin.hin-eng.t4x"/>
+        <file name="hin-eng.t4x.bin"/>
       </program>
       <program name="lt-proc -d">
-        <file name="hi-en.autogen.bin"/>
+        <file name="hin-eng.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -293,153 +293,153 @@
 
   <!-- == English → Hindi == -->
 
-  <mode name="en-hi" install="no">
+  <mode name="eng-hin" install="no">
     <pipeline>
       <program name="lt-proc -c">
-        <file name="en-hi.automorf.bin"/>
+        <file name="eng-hin.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-hi.prob"/>
+        <file name="eng-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer -c">
-        <file name="apertium-en-hi.en-hi.t1x"/>
-        <file name="en-hi.t1x.bin"/>
-        <file name="en-hi.autobil.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t1x"/>
+        <file name="eng-hin.t1x.bin"/>
+        <file name="eng-hin.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.en-hi.t2x"/>
-        <file name="en-hi.t2x.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t2x"/>
+        <file name="eng-hin.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-hi.en-hi.t3x"/>
-        <file name="en-hi.t3x.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t3x"/>
+        <file name="eng-hin.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="en-hi.autogen.bin"/>
+        <file name="eng-hin.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="en-hi-anmor">
+  <mode name="eng-hin-anmor">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-hi.automorf.bin"/>
+        <file name="eng-hin.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-hi-tagger">
+  <mode name="eng-hin-tagger">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-hi.automorf.bin"/>
+        <file name="eng-hin.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-hi.prob"/>
+        <file name="eng-hin.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-hi-pretransfer">
+  <mode name="eng-hin-pretransfer">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-hi.automorf.bin"/>
+        <file name="eng-hin.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-hi.prob"/>
+        <file name="eng-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="en-hi-chunker">
+  <mode name="eng-hin-chunker">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-hi.automorf.bin"/>
+        <file name="eng-hin.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-hi.prob"/>
+        <file name="eng-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-hi.en-hi.t1x"/>
-        <file name="en-hi.t1x.bin"/>
-        <file name="en-hi.autobil.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t1x"/>
+        <file name="eng-hin.t1x.bin"/>
+        <file name="eng-hin.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
   
-  <mode name="en-hi-interchunk">
+  <mode name="eng-hin-interchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-hi.automorf.bin"/>
+        <file name="eng-hin.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-hi.prob"/>
+        <file name="eng-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-hi.en-hi.t1x"/>
-        <file name="en-hi.t1x.bin"/>
-        <file name="en-hi.autobil.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t1x"/>
+        <file name="eng-hin.t1x.bin"/>
+        <file name="eng-hin.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.en-hi.t2x"/>
-        <file name="en-hi.t2x.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t2x"/>
+        <file name="eng-hin.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-hi-postchunk">
+  <mode name="eng-hin-postchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-hi.automorf.bin"/>
+        <file name="eng-hin.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-hi.prob"/>
+        <file name="eng-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-hi.en-hi.t1x"/>
-        <file name="en-hi.t1x.bin"/>
-        <file name="en-hi.autobil.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t1x"/>
+        <file name="eng-hin.t1x.bin"/>
+        <file name="eng-hin.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.en-hi.t2x"/>
-        <file name="en-hi.t2x.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t2x"/>
+        <file name="eng-hin.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-hi.en-hi.t3x"/>
-        <file name="en-hi.t3x.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t3x"/>
+        <file name="eng-hin.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-hi-generador">
+  <mode name="eng-hin-generador">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-hi.automorf.bin"/>
+        <file name="eng-hin.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-hi.prob"/>
+        <file name="eng-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-hi.en-hi.t1x"/>
-        <file name="en-hi.t1x.bin"/>
-        <file name="en-hi.autobil.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t1x"/>
+        <file name="eng-hin.t1x.bin"/>
+        <file name="eng-hin.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-hi.en-hi.t2x"/>
-        <file name="en-hi.t2x.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t2x"/>
+        <file name="eng-hin.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-hi.en-hi.t3x"/>
-        <file name="en-hi.t3x.bin"/>
+        <file name="apertium-eng-hin.eng-hin.t3x"/>
+        <file name="eng-hin.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="en-hi.autogen.bin"/>
+        <file name="eng-hin.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
