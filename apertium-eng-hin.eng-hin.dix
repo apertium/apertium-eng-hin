@@ -28,6 +28,7 @@
     <sdef n="tn"      c="Tónic (stressed)"/>
     <sdef n="ind"     c="Indefinite"/>
     <sdef n="ant"     c="Anthroponym"/>
+    <sdef n="cog"     c="Cognomen"/>
     <sdef n="sp"      c="Singular / plural"/>
     <sdef n="pos"     c="Possessive"/>
     <sdef n="qnt"     c=""/>
@@ -118,7 +119,7 @@
     <e><p><l>behind<s n="pr"/></l><r>के<b/>पीछे<s n="post"/></r></p></e>
     <e><p><l>under<s n="pr"/></l><r>के<b/>नीचे<s n="post"/></r></p></e>
     <e><p><l>near<s n="pr"/></l><r>के<b/>पास<s n="post"/></r></p></e>
-    <e><p><l>according</b>to<s n="pr"/></l><r>के<b/>मुताबिक़<s n="post"/></r></p></e>
+    <e><p><l>according<b/>to<s n="pr"/></l><r>के<b/>मुताबिक़<s n="post"/></r></p></e>
 
 
 
@@ -24799,7 +24800,7 @@
 	<e><p><l>so<s n="adv"/></l><r>अत्यधिक<s n="adv"/></r></p></e>
 	<e><p><l>thoroughly<s n="adv"/></l><r>पूर्णत<s n="adv"/></r></p></e>
 	<e><p><l>haltingly<s n="adv"/></l><r><s n="adv"/></r></p></e>
-	<e><p><l>how<s n="adv"/><s n="itg"/></l><r>कैसे<s n="adv"/></r><s n="itg"/></p></e>
+	<e><p><l>how<s n="adv"/><s n="itg"/></l><r>कैसे<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>nevertheless<s n="adv"/></l><r>तथापि<s n="adv"/></r></p></e>
 	<e><p><l>certainly<s n="adv"/></l><r>निश्चित<b/>रूप<b/>से<s n="adv"/></r></p></e>
 	<e><p><l>certainly<s n="adv"/></l><r>निश्चित<b/>रूप<s n="adv"/></r></p></e>
