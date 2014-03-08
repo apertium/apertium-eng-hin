@@ -33658,8 +33658,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="amazing">       <i>amazing</i><par n="expensive__adj"/></e>
 <e lm="ambidextrous">       <i>ambidextrous</i><par n="expensive__adj"/></e>
 <e lm="ambient">       <i>ambient</i><par n="expensive__adj"/></e>
-<e lm="american">       <i>american</i><par n="expensive__adj"/></e>
-<e lm="american">       <i>american</i><par n="expensive__adj"/></e>
 <e lm="amorous">       <i>amorous</i><par n="expensive__adj"/></e>
 <e lm="anabatic">       <i>anabatic</i><par n="expensive__adj"/></e>
 <e lm="analgesic">       <i>analgesic</i><par n="expensive__adj"/></e>
@@ -37827,7 +37825,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="ultimate">       <i>ultimate</i><par n="house__n"/></e>
 <e lm="far">       <i>far</i><par n="house__n"/></e>
 <e lm="in">       <i>in</i><par n="house__n"/></e>
-<e lm="american">       <i>americ</i><par n="m/an__n"/></e>
 <e lm="small">       <i>small</i><par n="house__n"/></e>
 <e lm="do">       <i>do</i><par n="house__n"/></e>
 <e lm="domestic">       <i>domestic</i><par n="house__n"/></e>
