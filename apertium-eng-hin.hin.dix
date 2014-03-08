@@ -1245,6 +1245,7 @@
       <e><p><l>प</l><r>प<s n="prn"/><s n="pers"/><s n="p2"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>पका</l><r>प<s n="prn"/><s n="pers"/><s n="p2"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>पको</l><r>प<s n="prn"/><s n="pers"/><s n="p2"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>पके</l><r>प<s n="prn"/><s n="pers"/><s n="p2"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="obl"/></r></p></e>
       <e><p><l>पने</l><r>प<s n="prn"/><s n="pers"/><s n="p2"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="erg"/></r></p></e>
 	  <e><p><l>पकी</l><r>प<s n="prn"/><s n="pers"/><s n="p2"/><s n="frm"/><s n="mf"/><s n="pl"/><s n="obl"/></r></p></e>
     </pardef>
@@ -19500,6 +19501,7 @@
 	<e lm="नीहारिका"><i>नीहारिका</i><par n="ऊब__n_f"/></e>
 	<e lm="विष्ठा"><i>विष्ठा</i><par n="ऊब__n_f"/></e>
 	<e lm="कब"><i>कब</i><par n="ऐ__n_m"/></e>
+
 	<e lm="नीलसर"><i>नीलसर</i><par n="जड__n_f"/></e>
 	<e lm="कड"><i>कड</i><par n="जड__n_f"/></e>
 	<e lm="बेवकूफ़ी"><i>बेवकूफ़ी</i><par n="ऊब__n_f"/></e>
@@ -36467,6 +36469,8 @@
     <e lm="डटकर"><i>डटकर</i><par n="गलत__adv"/></e>
     <e lm="कब "><i>कब</i><par n="int__adv"/></e>
     <e lm="जब"><i>जब</i><par n="int__adv"/></e>
+    <e lm="कैसे"><i>कैसे</i><par n="int__adv"/></e>
+    <e lm="क्या"><i>क्या</i><par n="int__adv"/></e>
     <e lm="पीछे"><i>पीछे</i><par n="गलत__adv"/></e>
     <e lm="सवार"><i>सवार</i><par n="गलत__adv"/></e>
     <e lm="यहाँ"><i>यहाँ</i><par n="गलत__adv"/></e>
