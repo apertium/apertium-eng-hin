@@ -6758,7 +6758,7 @@
 	<e><p><l>fault<s n="n"/></l><r>कुसूर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>fauna<s n="n"/></l><r>जीवजंतु<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fauna<s n="n"/></l><r>पशु<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>favorite<s n="n"/></l><r>प्रिय<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>favourite<s n="n"/></l><r>प्रिय<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>fax<s n="n"/></l><r>फ़ैक्स<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>fearlessness<s n="n"/></l><r>निडरता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>fear<s n="n"/></l><r>त्रास<s n="n"/><s n="m"/></r></p></e>
@@ -16030,7 +16030,7 @@
 	<e><p><l>unfamiliarity<s n="n"/></l><r>अजनबीपन<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>unfamiliarity<s n="n"/></l><r>अपरिचय<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>unfamiliarity<s n="n"/></l><r>अपरिचितता<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>unfavorableness<s n="n"/></l><r>प्रतिकूलता<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>unfavourableness<s n="n"/></l><r>प्रतिकूलता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>unfeasibility<s n="n"/></l><r>अव्यवहार्यता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>unfortunate<s n="n"/></l><r>अभागा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>unfriendliness<s n="n"/></l><r>अमित्रता<s n="n"/><s n="f"/></r></p></e>
@@ -17907,7 +17907,7 @@
 	<e><p><l>amorphous<s n="adj"/></l><r>अस्फटिक<s n="adj"/></r></p></e>
 	<e><p><l>prolix<s n="adj"/></l><r>प्रपंची<s n="adj"/></r></p></e>
 	<e><p><l>expressive<s n="adj"/></l><r>भावबोधक<s n="adj"/></r></p></e>
-	<e><p><l>favorable<s n="adj"/></l><r>अनुकूल<s n="adj"/></r></p></e>
+	<e><p><l>favourable<s n="adj"/></l><r>अनुकूल<s n="adj"/></r></p></e>
 	<e><p><l>incorrupt<s n="adj"/></l><r>अदोष<s n="adj"/></r></p></e>
 	<e><p><l>reserved<s n="adj"/></l><r>आरक्षित<s n="adj"/></r></p></e>
 	<e><p><l>regional<s n="adj"/></l><r>क्षेत्रीय<s n="adj"/></r></p></e>
@@ -19757,10 +19757,10 @@
 	<e><p><l>fat<s n="adj"/><s n="sint"/></l><r>मोटा<s n="adj"/></r></p></e>
 	<e><p><l>fattened<s n="adj"/></l><r>परिपुष्ट<s n="adj"/></r></p></e>
     <e><p><l>fatty<s n="adj"/></l><r>चर्बीदार<s n="adj"/></r></p></e>
-	<e><p><l>favorable<s n="adj"/></l><r>उपकारक<s n="adj"/></r></p></e>
-	<e><p><l>favored<s n="adj"/></l><r>अनुगृहीत<s n="adj"/></r></p></e>
-	<e><p><l>favored<s n="adj"/></l><r>इष्ट<s n="adj"/></r></p></e>
-	<e><p><l>favored<s n="adj"/></l><r>पसंदीदा<s n="adj"/></r></p></e>
+	<e><p><l>favourable<s n="adj"/></l><r>उपकारक<s n="adj"/></r></p></e>
+	<e><p><l>favoured<s n="adj"/></l><r>अनुगृहीत<s n="adj"/></r></p></e>
+	<e><p><l>favoured<s n="adj"/></l><r>इष्ट<s n="adj"/></r></p></e>
+	<e><p><l>favoured<s n="adj"/></l><r>पसंदीदा<s n="adj"/></r></p></e>
     <e><p><l>favourite<s n="adj"/></l><r>प्रिय<s n="adj"/></r></p></e>
     <e><p><l>fearless<s n="adj"/></l><r>भयरहित<s n="adj"/></r></p></e>
     <e><p><l>featherless<s n="adj"/></l><r>बेपंख<s n="adj"/></r></p></e>
