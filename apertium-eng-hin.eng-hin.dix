@@ -5,7 +5,8 @@
     <sdef n="n"       c="Noun"/>
     <sdef n="num"     c="Numeral"/>
     <sdef n="adv"     c="Adverb"/>
-    <sdef n="top"     c=""/>
+    <sdef n="top"     c="Topological"/>
+    <sdef n="org"     c="organisation"/>
     <sdef n="adj"     c="Adjective"/>
     <sdef n="post"    c="Postposition"/>
     <sdef n="vblex"   c="verb"/>
@@ -309,7 +310,8 @@
     <e><p><l>hundredth<s n="num"/><s n="ord"/></l><r>सौवां<s n="num"/><s n="ord"/></r></p></e>
 
    
-	<!-- SECTION: Nouns -->    
+	<!-- SECTION: Nouns --> 
+	<e><p><l>global<s n="n"/></l><r>ग्लोबल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>close<s n="n"/></l><r>समीप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>guru<s n="n"/></l><r>गुरू<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>pay<s n="n"/></l><r>पे<s n="n"/><s n="m"/></r></p></e>
@@ -931,6 +933,7 @@
 	<e><p><l>mistress<s n="n"/></l><r>गृहस्वामिनी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>hostel<s n="n"/></l><r>छात्रावास<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>telecommunication<s n="n"/></l><r>दूरसंचार<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Telecom<s n="n"/></l><r>टेलीकॉम<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>finish<s n="n"/></l><r>खत्म<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>sire<s n="n"/></l><r>पुरखा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>excursion<s n="n"/></l><r>भ्रमण<s n="n"/><s n="m"/></r></p></e>
@@ -5948,7 +5951,7 @@
     <e><p><l>doings<s n="n"/></l><r>करतूत<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>dole<s n="n"/></l><r>बेकारी-अनुदान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>doles<s n="n"/></l><r>खैरात<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>dollar<s n="n"/></l><r>डलर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>dollar<s n="n"/></l><r>डॉलर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dollar<s n="n"/></l><r>डालर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>doll<s n="n"/></l><r>गुड़िया<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>doll<s n="n"/></l><r>डौल<s n="n"/><s n="m"/></r></p></e>
@@ -14031,7 +14034,7 @@
 	<e><p><l>sofa<s n="n"/></l><r>सोफ़ा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>softener<s n="n"/></l><r>मृदुकारी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>softness<s n="n"/></l><r>शिथिलता<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>software<s n="n"/></l><r>सफ़्टवेयर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>software<s n="n"/></l><r>सॉफ्टवेयर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>softy<s n="n"/></l><r>कमज़ोर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>soil<s n="n"/></l><r>मृदा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>soiree<s n="n"/></l><r>जेवनार<s n="n"/><s n="f"/></r></p></e>
@@ -17257,28 +17260,31 @@
 
  	<e><p><l>Mary<s n="np"/><s n="ant"/></l><r>मैरी<s n="np"/><s n="ant"/></r></p></e>
  	<e><p><l>James<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
-
  	<e><p><l>Aamil<s n="np"/><s n="ant"/></l><r>आमिल<s n="np"/><s n="ant"/></r></p></e>
-
- 	<e><p><l>Aamil<s n="np"/><s n="ant"/></l><r>आमिल<s n="np"/><s n="ant"/></r></p></e>
-    <e><p><l>April<s n="n"/></l><r>अप्रैल<s n="n"/><s n="m"/></r></p></e>
+ 	<e><p><l>Acton<s n="np"/><s n="cog"/></l><r>एक्टन<s n="np"/><s n="cog"/></r></p></e>
+    	<e><p><l>Ambani<s n="np"/><s n="cog"/></l><r>अंबानी<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>April<s n="n"/></l><r>अप्रैल<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>August<s n="n"/></l><r>अगस्त<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>Bravo<s n="np"/><s n="cog"/></l><r>ब्रावो<s n="n"/><s n="m"/></r></p></e>	
+	<e><p><l>Bravo<s n="np"/><s n="cog"/></l><r>ब्रावो<s n="np"/><s n="cog"/></r></p></e>	
+	<e><p><l>Brian<s n="np"/><s n="ant"/></l><r>ब्रायन<s n="np"/><s n="ant"/></r></p></e>	
 	<e><p><l>BBC<s n="n"/></l><r>बीबीसी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Calisto<s n="np"/><s n="top"/></l><r>कैलिस्टो<s n="np"/><s n="top"/></r></p></e> 
 	<e><p><l>Capricorn<s n="n"/></l><r>मकरराशि<s n="n"/><s n="m"/></r></p></e>
+ 	<e><p><l>Carlos<s n="np"/><s n="ant"/></l><r>कार्लोस<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>CEO<s n="n"/></l><r><s n="n"/>सीईओ<s n="GD"/></r></p></e>    
 	<e><p><l>Christianity<s n="n"/></l><r>ईसाईयतअ<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Devon<s n="n"/></l><r>डीवौन<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>DOS<s n="n"/></l><r>डस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Egypt<s n="n"/></l><r>मिस्र<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Facebook<s n="np"/><s n="org"/></l><r>फ़ेसबुक<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>February<s n="n"/></l><r>फ़रवरी<s n="n"/><s n="m"/></r></p></e>
+ 	<e><p><l>Forbes<s n="np"/><s n="cog"/></l><r>फोर्ब्स<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Friday<s n="n"/></l><r>शुक्रवार<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Gates<s n="np"/><s n="cog"/></l><r>गेट्स<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Gallileo<s n="np"/><s n="ant"/></l><r>गैलिलियो<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Ganga<s n="np"/><s n="top"/></l><r>गंगा<s n="np"/><s n="top"/></r></p></e>	   
 	<e><p><l>Ganimad<s n="np"/><s n="top"/></l><r>गेनीमेड<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Gemini<s n="n"/></l><r>मिथुन<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Gemini<s n="n"/></l><r>मिथुनअ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Gallileo<s n="np"/><s n="ant"/></l><r>गियूसपी<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Goliath<s n="n"/></l><r>सम्राट<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Harvey<s n="n"/></l><r>हार्वी<s n="n"/><s n="m"/></r></p></e>
@@ -17286,13 +17292,21 @@
     <e><p><l>Hinduism<s n="n"/></l><r>हिन्दुत्व<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>ID<s n="n"/></l><r>परिचय<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Islam<s n="n"/></l><r>इस्लाम<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Jan<s n="np"/><s n="ant"/></l><r>जैन<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Jain<s n="np"/><s n="cog"/></l><r>जैन<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>June<s n="n"/></l><r>जून<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Kabir<s n="np"/><s n="top"/></l><r>कबीर<s n="np"/><s n="top"/></r></p></e>	   
-	<e><p><l>Kajol<s n="np"/><s n="ant"/></l><r>काजोल<s n="np"/><s n="ant"/></r></p></e>
-	<e><p><l>Lo<s n="np"/><s n="top"/></l><r>लो<s n="np"/><s n="top"/></r></p></e>	    
-    <e><p><l>Mafia<s n="n"/></l><r>माफ़िया<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Kajol<s n="np"/><s n="ant"/></l><r>काजोल<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+	<e><p><l>Koum<s n="np"/><s n="cog"/></l><r>कुआम<s n="np"/><s n="cog"/></r></p></e>
+
+	<e><p><l>Lo<s n="np"/><s n="top"/></l><r>लो<s n="np"/><s n="top"/></r></p></e>	        
+	<e><p><l>Mukesh<s n="np"/><s n="ant"/></l><r>मुकेश<s n="np"/><s n="ant"/><s n="m"/></r></p></e>	
+	<e><p><l>Mafia<s n="n"/></l><r>माफ़िया<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>March<s n="n"/></l><r>मार्च<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>May<s n="n"/></l><r>मई<s n="n"/><s n="f"/></r></p></e>
+
+	<e><p><l>Microsoft<s n="np"/><s n="org"/></l><r>माइक्रोसॉफ्ट<s n="np"/><s n="org"/></r></p></e>	        
+
     <e><p><l>Middle<b/>East<s n="np"/></l><r>मध्यपूर्व<s n="np"/></r></p></e>
     <e><p><l>Midlands<s n="n"/></l><r>मिड्लैंड्स<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Monday<s n="n"/></l><r>सोमवार<s n="n"/><s n="m"/></r></p></e>
@@ -17308,11 +17322,15 @@
     <e><p><l>Rahul<s n="np"/><s n="ant"/></l><r>राहुल<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Russolillo<s n="np"/><s n="cog"/></l><r>रूसोलिलियो<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Ruben<s n="np"/><s n="ant"/></l><r>रूबेन<s n="np"/><s n="ant"/></r></p></e>	
+	<e><p><l>Sandberg<s n="np"/><s n="cog"/></l><r>सैंडबर्ग<s n="np"/><s n="cog"/></r></p></e>	
 	<e><p><l>Scot<s n="n"/></l><r>स्कटलैण्डवासी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Secession<s n="n"/></l><r>पार्थक्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>SEC<s n="n"/></l><r>सेक<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Shanghai<s n="n"/></l><r>शंघाई<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Sikh<s n="n"/></l><r>सिक्ख<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Shanghai<s n="n"/></l><r>शंघाई<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Sheryl<s n="np"/><s n="ant"/></l><r>शेरिल<s n="np"/><s n="ant"/></r></p></e>	
+	<e><p><l>Sikh<s n="n"/></l><r>सिक्ख<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Slim<s n="np"/><s n="cog"/></l><r>स्लिम<s n="np"/><s n="cog"/></r></p></e>	
+
     <e><p><l>Swede<s n="n"/></l><r>स्वीडनवासी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Sydney<s n="n"/></l><r>सिडनी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Thames<s n="n"/></l><r>टेम्स<s n="n"/><s n="f"/></r></p></e>
@@ -17328,6 +17346,7 @@
     <e><p><l>Virginia<s n="n"/></l><r>वर्जीनिया<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>Wagon<s n="n"/></l><r>सप्तर्षि<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Watt<s n="n"/></l><r>वाट<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>WhatsApp<s n="np"/><s n="org"/></l><r>वॉट्स-ऐप<s n="np"/><s n="org"/></r></p></e>	        
     <e><p><l>Wednesday<s n="n"/></l><r>बुधवार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Wed<s n="n"/></l><r>बुध<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Westminster<s n="n"/></l><r>वेस्टमिन्स्टर<s n="n"/><s n="m"/></r></p></e>
@@ -17338,6 +17357,7 @@
     <e><p><l>Yankee<s n="n"/></l><r>अमरीकी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Yank<s n="n"/></l><r>यैंक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Zion<s n="n"/></l><r>ज़ायन<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Zuckerberg<s n="np"/><s n="cog"/></l><r>ज़ुकरबर्ग<s n="np"/><s n="cog"/></r></p></e>	
 	
 	<e><p><l>Aaland<b/>Islands<s n="np"/><s n="top"/></l><r>आलैंड‌<b/>द्वीप‌<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Afghanistan<s n="np"/><s n="top"/></l><r>अफ़ग़ानिस्तान‌<s n="np"/><s n="top"/></r></p></e>
@@ -17464,7 +17484,7 @@
 	<e><p><l>Mauritania<s n="np"/><s n="top"/></l><r>मोरीतानिया<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Mauritius<s n="np"/><s n="top"/></l><r>मोरिशिय‌स‌<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Mayotte<s n="np"/><s n="top"/></l><r>मायोत‌<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Mexico<s n="np"/><s n="top"/></l><r>मेक्सिको<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Mexico<s n="np"/><s n="top"/></l><r>मैक्सिको<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Monaco<s n="np"/><s n="top"/></l><r>मोनाको<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Mongolia<s n="np"/><s n="top"/></l><r>मंगोलिया<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Montserrat<s n="np"/><s n="top"/></l><r>मोंत‌सेरात‌<s n="np"/><s n="top"/></r></p></e>
