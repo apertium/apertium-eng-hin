@@ -12955,8 +12955,8 @@
 	<e><p><l>ropeway<s n="n"/></l><r>रज्जुमार्ग<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rosary<s n="n"/></l><r>जपमाला<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rosary<s n="n"/></l><r>सुमिरनी<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>rose<s n="n"/></l><r>रोज<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>rosette<s n="n"/></l><r>गुलाब<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>rose<s n="n"/></l><r>रोज<s n="n"/><s n="m"/></r></p></e> 
+	<e><p><l>rose<s n="n"/></l><r>गुलाब<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rosiness<s n="n"/></l><r>गुलाबीपन<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>rosiness<s n="n"/></l><r>ललाई<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>rota<s n="n"/></l><r>कार्य-सूची<s n="n"/><s n="f"/></r></p></e>
@@ -16527,7 +16527,7 @@
 	<e><p><l>vociferation<s n="n"/></l><r>हो-हल्ला<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>vodka<s n="n"/></l><r>वोद्का<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vogue<s n="n"/></l><r>प्रचलन<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>vogue<s n="n"/></l><r>लोकप्रियता<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>popularity<s n="n"/></l><r>लोकप्रियता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>voicelessness<s n="n"/></l><r>मताधिकारहीनता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>voiceprint<s n="n"/></l><r>स्वर-मुद्रण<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>voicer<s n="n"/></l><r>मताधिकारी<s n="n"/><s n="m"/></r></p></e>
@@ -18023,7 +18023,6 @@
 	<e><p><l>requisite<s n="adj"/></l><r>जरूरत<s n="adj"/></r></p></e>
 	<e><p><l>political<s n="adj"/></l><r>राजनैतिक<s n="adj"/></r></p></e>
 	<e><p><l>last<s n="adj"/></l><r>अन्तिम<s n="adj"/></r></p></e>
-	<e><p><l>everyday<s n="adj"/></l><r>प्रतिदिन<s n="adj"/></r></p></e>
 	<e><p><l>likely<s n="adj"/></l><r>सम्भव<s n="adj"/></r></p></e>
 	<e><p><l>developing<s n="adj"/></l><r>विकासशील<s n="adj"/></r></p></e>
 	<e><p><l>kindred<s n="adj"/></l><r>सदृश<s n="adj"/></r></p></e>
@@ -19646,6 +19645,7 @@
 	<e><p><l>eventful<s n="adj"/></l><r>घटनापूर्ण<s n="adj"/></r></p></e>
 	<e><p><l>everlasting<s n="adj"/></l><r>सार्वकालिक<s n="adj"/></r></p></e>
     <e><p><l>everyday<s n="adj"/></l><r>प्रतिदिन<s n="adj"/></r></p></e>
+    <e><p><l>everyday<s n="adj"/></l><r>हर<b/>रोज़<s n="adj"/></r></p></e>
     <e><p><l>evident<s n="adj"/></l><r>प्रत्यक्ष<s n="adj"/></r></p></e>
     <e><p><l>evil<s n="adj"/></l><r>बुराई<s n="adj"/><s n="f"/></r></p></e>
 	<e><p><l>evolutionary<s n="adj"/></l><r>विकासमूलक<s n="adj"/></r></p></e>
@@ -19780,7 +19780,7 @@
 	<e><p><l>favourable<s n="adj"/></l><r>उपकारक<s n="adj"/></r></p></e>
 	<e><p><l>favoured<s n="adj"/></l><r>अनुगृहीत<s n="adj"/></r></p></e>
 	<e><p><l>favoured<s n="adj"/></l><r>इष्ट<s n="adj"/></r></p></e>
-	<e><p><l>favoured<s n="adj"/></l><r>पसंदीदा<s n="adj"/></r></p></e>
+	<e><p><l>favourite<s n="adj"/></l><r>पसंदीदा<s n="adj"/></r></p></e>
     <e><p><l>favourite<s n="adj"/></l><r>प्रिय<s n="adj"/></r></p></e>
     <e><p><l>fearless<s n="adj"/></l><r>भयरहित<s n="adj"/></r></p></e>
     <e><p><l>featherless<s n="adj"/></l><r>बेपंख<s n="adj"/></r></p></e>
