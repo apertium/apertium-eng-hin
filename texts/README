@@ -1,0 +1,13 @@
+*.hin.txt = Hindi Text file
+*.eng.txt = Post-edited in English file
+
+
+article 1 = pizza1*
+article 2 = blog2*
+article 3 = gravity3*
+article 4 = forbes*
+
+Development texts = pizza* and forbes*
+Test texts 	  = blog* and gravity*
+
+
