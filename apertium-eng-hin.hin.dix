@@ -2394,7 +2394,7 @@
 	<e lm="मांग"><i>मांग</i><par n="बोल__vblex_tv"/></e>
 	<e lm="गिरा"><i>गिरा</i><par n="बता__vblex_tv"/></e>
 	<e lm="नकार"><i>नकार</i><par n="बोल__vblex_tv"/></e>
-	<e lm="म"><i>म</i><par n="बोल__vblex_tv"/></e>
+<!--	<e lm="म"><i>म</i><par n="बोल__vblex_tv"/></e> -->
 	<e lm="छूट"><i>छूट</i><par n="बोल__vblex_tv"/></e>
 	<e lm="त्याग"><i>त्याग</i><par n="बोल__vblex_tv"/></e>
 	<e lm="डेसेर्टे"><i>डेसेर्टे</i><par n="बोल__vblex_tv"/></e>
