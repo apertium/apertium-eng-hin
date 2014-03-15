@@ -25,6 +25,9 @@
     <match lemma="कुत्ता" tags="n.*"><select lemma="dog" tags="n.*"/></match> 
   </rule>
   <rule>
+    <match lemma="उत्पाद" tags="n.*"><select lemma="product" tags="n.*"/></match> 
+  </rule>
+  <rule>
     <match lemma="स्वतंत्र" tags="adj.*"><select lemma="independent" tags="adj.*"/></match> 
   </rule>
   <rule>

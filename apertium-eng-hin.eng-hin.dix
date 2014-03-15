@@ -9812,7 +9812,7 @@
 	<e><p><l>menu<s n="n"/></l><r>व्यंजन-सूची<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>meow<s n="n"/></l><r>म्याऊँ-म्याऊँ<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mercenary<s n="n"/></l><r>लोभी<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>merchandise<s n="n"/></l><r>उत्पाद<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>merchandise<s n="n"/></l><r>उत्पाद<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>merchandise<s n="n"/></l><r>तिजारत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>merchant<s n="n"/></l><r>मर्चेंट<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>merchant<s n="n"/></l><r>व्यापारी<s n="n"/><s n="m"/></r></p></e>
@@ -11920,6 +11920,7 @@
 	<e><p><l>production<s n="n"/></l><r>प्रस्तुति<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>productivity<s n="n"/></l><r>उत्पादकता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>productivity<s n="n"/></l><r>उर्वरता<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>product<s n="n"/></l><r>उत्पाद<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>product<s n="n"/></l><r>गुणन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>product<s n="n"/></l><r>गुणनफल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>proenzyme<s n="n"/></l><r>किण्वजन<s n="n"/><s n="m"/></r></p></e>
@@ -19629,7 +19630,7 @@
     <e><p><l>esoteric<s n="adj"/></l><r>गूढ़<s n="adj"/></r></p></e>
     <e><p><l>essential<s n="adj"/></l><r>आवश्यक<s n="adj"/></r></p></e>
 	<e><p><l>esthetical<s n="adj"/></l><r>सौंदर्य-संबंधी<s n="adj"/></r></p></e>
-	<e><p><l>esthetic<s n="adj"/></l><r>कलात्मक<s n="adj"/></r></p></e>
+	<e><p><l>esthetic<s n="adj"/></l><r>सौंदर्यात्मक<s n="adj"/></r></p></e>
 	<e><p><l>estimable<s n="adj"/></l><r>आदरणिय<s n="adj"/></r></p></e>
 	<e><p><l>esurient<s n="adj"/></l><r>भुखमरा<s n="adj"/></r></p></e>
 	<e><p><l>eternal<s n="adj"/></l><r>अनादि<s n="adj"/></r></p></e>
@@ -23438,6 +23439,7 @@
     <e><p><l>unarmed<s n="adj"/></l><r>निःशस्त्र<s n="adj"/></r></p></e>
 	<e><p><l>unarmored<s n="adj"/></l><r>अकवचित<s n="adj"/></r></p></e>
 	<e><p><l>unarmored<s n="adj"/></l><r>कवचरहित<s n="adj"/></r></p></e>
+	<e><p><l>artistic<s n="adj"/></l><r>कलात्मक<s n="adj"/></r></p></e>
 	<e><p><l>unartistic<s n="adj"/></l><r>अकलात्मक<s n="adj"/></r></p></e>
 	<e><p><l>unascertainable<s n="adj"/></l><r>अनिश्चेय<s n="adj"/></r></p></e>
     <e><p><l>unashamed<s n="adj"/></l><r>लज्जाहीन<s n="adj"/></r></p></e>
@@ -29209,8 +29211,6 @@
 	<e><p><l>course<s n="vblex"/></l><r>शिकार<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>court<s n="vblex"/></l><r>साथ<b/>रह<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>court<s n="vblex"/></l><r>पैदा<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>court<s n="vblex"/></l><r>ध्यान<b/>दे<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>court<s n="vblex"/></l><r>ध्यान<b/>दे<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>court<s n="vblex"/></l><r>प्रेम<b/>जता<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>court<s n="vblex"/></l><r>ध्यान<b/>दे<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>cover<s n="vblex"/></l><r>काम<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
@@ -33069,7 +33069,6 @@
 	<e><p><l>mimic<s n="vblex"/></l><r>नकल<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>mince<s n="vblex"/></l><r>कीमा<b/>बना<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>mind<s n="vblex"/></l><r>चिन्ता<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>mind<s n="vblex"/></l><r>ध्यान<b/>दे<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>mind<s n="vblex"/></l><r>ध्यान<b/>दे<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>mind<s n="vblex"/></l><r>स्मरण<b/>रख<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>mind<s n="vblex"/></l><r>याद<b/>रख<s n="vblex"/><s n="tv"/></r></p></e>
