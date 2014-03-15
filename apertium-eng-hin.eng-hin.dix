@@ -24954,7 +24954,7 @@
     <e><p><l>sensitively<s n="adv"/></l><r>संवेदनापूर्वक<s n="adv"/></r></p></e>
     <e><p><l>sententiously<s n="adv"/></l><r>वाक्यगत<s n="adv"/></r></p></e>
     <e><p><l>off<s n="adv"/></l><r>अलग<s n="adv"/></r></p></e>
-    <e><p><l>severally<s n="adv"/></l><r>अलग-अलग<s n="adv"/></r></p></e>
+    <e><p><l>different<s n="adv"/></l><r>अलग-अलग<s n="adv"/></r></p></e>
     <e><p><l>shortly<s n="adv"/></l><r>अविलम्ब<s n="adv"/></r></p></e>
     <e><p><l>significantly<s n="adv"/></l><r>अर्थपूर्णतासे<s n="adv"/></r></p></e>
     <e><p><l>solely<s n="adv"/></l><r>मात्र<s n="adv"/></r></p></e>
@@ -28959,8 +28959,6 @@
 	<e><p><l>consist<s n="vblex"/></l><r>अनुसार<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>consist<s n="vblex"/></l><r>बना<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>consist<s n="vblex"/></l><r>शामिल<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
-	<e><p><l>consist<s n="vblex"/></l><r>बना<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
-	<e><p><l>consist<s n="vblex"/></l><r>बना<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>consolidate<s n="vblex"/></l><r>मिल<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>consolidate<s n="vblex"/></l><r>मजबूत<b/>बना<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>conspire<s n="vblex"/></l><r>षड्यंत्र<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
@@ -32884,6 +32882,7 @@
 	<e><p><l>maintain<s n="vblex"/></l><r>क़ायम<b/>रख<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>maintain<s n="vblex"/></l><r>मरम्मत<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>maintain<s n="vblex"/></l><r>बनाए<b/>रख<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>make<s n="vblex"/></l><r>बना<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>	
 	<e><p><l>make<s n="vblex"/></l><r>निर्माण<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>make<s n="vblex"/></l><r>अर्जित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>make<s n="vblex"/></l><r>तय<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
