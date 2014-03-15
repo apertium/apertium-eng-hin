@@ -17658,7 +17658,8 @@
 
 
     <!-- SECTION: Adjectives -->
-		
+	
+	<e><p><l>harmful<s n="adj"/></l><r>हानिकारक<s n="adj"/></r></p></e>    		
 	<e><p><l>bulky<s n="adj"/></l><r>बडा<s n="adj"/></r></p></e>
 	<e><p><l>only<s n="adj"/></l><r>तभी<s n="adj"/></r></p></e>
 	<e><p><l>juvenile<s n="adj"/></l><r>अल्पायु<s n="adj"/></r></p></e>
@@ -24905,7 +24906,6 @@
     <e><p><l>indulgently<s n="adv"/></l><r>अनुग्रहपूर्वक<s n="adv"/></r></p></e>
     <e><p><l>ineffectively<s n="adv"/></l><r>वृथा<s n="adv"/></r></p></e>
     <e><p><l>inexhaustibly<s n="adv"/></l><r>अविध्वंसिता<s n="adv"/></r></p></e>
-    <e><p><l>harmful<s n="adv"/></l><r>हानिकारक<s n="adv"/></r></p></e>
     <e><p><l>instantaneously<s n="adv"/></l><r>तत्क्षण<s n="adv"/></r></p></e>
     <e><p><l>instantly<s n="adv"/></l><r>शीघ्र<s n="adv"/></r></p></e>
     <e><p><l>intelligently<s n="adv"/></l><r>बुद्धिमत्तापूर्वक<s n="adv"/></r></p></e>
