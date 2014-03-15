@@ -24,14 +24,22 @@
     <match lemma="स्वतंत्र" tags="adj.*"><select lemma="independent" tags="adj.*"/></match> 
   </rule>
   <rule>
+    <match lemma="कुल" tags="adj.*"><select lemma="total" tags="adj.*"/></match> 
+  </rule>
+  <rule>
     <match lemma="निश्चित" tags="adj.*"><select lemma="certain" tags="adj.*"/></match> 
   </rule>	
+  
   <rule>
     <match lemma="लगभग" tags="adv"><select lemma="almost" tags="adv"/></match> 
   </rule>	
   <rule>
     <match lemma="मोटापा" tags="n.*"><select lemma="obesity" tags="n.*"/></match> 
   </rule>
+  <rule>
+    <match lemma="हिस्सा" tags="n.*"><select lemma="part" tags="n.*"/></match> 
+  </rule>
+  
   <rule>
     <match lemma="के पीछे" tags="post"/>
     <match lemma="से" tags="post"><select lemma="from" tags="pr"/></match> 

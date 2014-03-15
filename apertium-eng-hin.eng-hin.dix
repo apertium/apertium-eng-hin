@@ -13378,6 +13378,7 @@
 	<e><p><l>seer<s n="n"/></l><r>सीर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>segmentation<s n="n"/></l><r>विभाजन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>segment<s n="n"/></l><r>हिस्सा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>part<s n="n"/></l><r>हिस्सा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>seigniory<s n="n"/></l><r>राजसत्ता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>seine<s n="n"/></l><r>सीन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>seismograph<s n="n"/></l><r>भूकंपलेखी<s n="n"/><s n="m"/></r></p></e>
@@ -18268,7 +18269,8 @@
     <e><p><l>aforesaid<s n="adj"/></l><r>उपर्युक्त<s n="adj"/></r></p></e>
 	<e><p><l>aforesaid<s n="adj"/></l><r>पूर्वोक्त<s n="adj"/></r></p></e>
 	<e><p><l>aged<s n="adj"/></l><r>वृद्ध<s n="adj"/></r></p></e>
-    <e><p><l>aggregate<s n="adj"/></l><r>कुल<s n="adj"/></r></p></e>
+    	<e><p><l>aggregate<s n="adj"/></l><r>कुल<s n="adj"/></r></p></e>
+	<e><p><l>total<s n="adj"/></l><r>कुल<s n="adj"/></r></p></e>
 	<e><p><l>aggregate<s n="adj"/></l><r>समुदित<s n="adj"/></r></p></e>
 	<e><p><l>aghast<s n="adj"/></l><r>भयाक्रांत<s n="adj"/></r></p></e>
     <e><p><l>agile<s n="adj"/></l><r>फुर्तीला<s n="adj"/></r></p></e>
