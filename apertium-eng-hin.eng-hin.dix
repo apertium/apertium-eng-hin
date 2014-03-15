@@ -14525,6 +14525,9 @@
 	<e><p><l>storytelling<s n="n"/></l><r>कथाकारिता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>stoup<s n="n"/></l><r>कमण्डल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>stoutness<s n="n"/></l><r>मोटापा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>obesity<s n="n"/></l><r>मोटापा<s n="n"/></r></p></e>
+	<e><p><l>obesity<s n="n"/></l><r>ओबेसिटी<s n="n"/></r></p></e>
+
 	<e><p><l>stove<s n="n"/></l><r>चूल्हा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>strabismus<s n="n"/></l><r>भेंगापन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>straggle<s n="n"/></l><r>छितराव<s n="n"/><s n="m"/></r></p></e>
@@ -21379,8 +21382,7 @@
 	<e><p><l>nutrient<s n="adj"/></l><r>पुष्टिकर<s n="adj"/></r></p></e>
     <e><p><l>nymphomaniac<s n="adj"/></l><r>कामोन्मादिनी<s n="adj"/></r></p></e>
 	<e><p><l>oaken<s n="adj"/></l><r>बलूती<s n="adj"/></r></p></e>
-    <e><p><l>obesity<s n="adj"/></l><r>मोटापा<s n="adj"/></r></p></e>
-	<e><p><l>obese<s n="adj"/></l><r>स्थूलकाय<s n="adj"/></r></p></e>
+    <e><p><l>obese<s n="adj"/></l><r>स्थूलकाय<s n="adj"/></r></p></e>
     <e><p><l>objectionable<s n="adj"/></l><r>आपत्तिपूर्ण<s n="adj"/></r></p></e>
 	<e><p><l>objective<s n="adj"/></l><r>निष्पक्ष<s n="adj"/></r></p></e>
     <e><p><l>obligated<s n="adj"/></l><r>मज़बूर<s n="adj"/></r></p></e>

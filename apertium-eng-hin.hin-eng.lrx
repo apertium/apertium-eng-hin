@@ -30,6 +30,9 @@
     <match lemma="लगभग" tags="adv"><select lemma="almost" tags="adv"/></match> 
   </rule>	
   <rule>
+    <match lemma="मोटापा" tags="n.*"><select lemma="obesity" tags="n.*"/></match> 
+  </rule>
+  <rule>
     <match lemma="के पीछे" tags="post"/>
     <match lemma="से" tags="post"><select lemma="from" tags="pr"/></match> 
   </rule>
