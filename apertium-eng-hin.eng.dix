@@ -2363,7 +2363,8 @@ I can switch <subs> on and off in a ger_subs paradigm?
 </pardef>
 
 <pardef n="meag/re__adj">
-  <e>       <p><l>er</l>        <r>re<s n="adj"/></r></p></e>
+  <e>       <p><l>re</l>        <r>re<s n="adj"/></r></p></e>
+  <e r="LR">       <p><l>er</l>        <r>re<s n="adj"/></r></p></e>
 </pardef>
 
 <pardef n="ficus__n">
@@ -34605,7 +34606,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="marshy">       <i>marshy</i><par n="expensive__adj"/></e>
 <e lm="matriarchal">       <i>matriarchal</i><par n="expensive__adj"/></e>
 <e lm="matt">       <i>matt</i><par n="expensive__adj"/></e>
-<e lm="meagre">       <i>meagre</i><par n="expensive__adj"/></e>
 <e lm="meagre">       <i>meagre</i><par n="expensive__adj"/></e>
 <e lm="mechanistic">       <i>mechanistic</i><par n="expensive__adj"/></e>
 <e lm="mechanistic">       <i>mechanistic</i><par n="expensive__adj"/></e>
