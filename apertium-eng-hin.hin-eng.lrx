@@ -22,6 +22,9 @@
     <match lemma="खेल" tags="n.*"><select lemma="game" tags="n.*"/></match> 
   </rule>
   <rule>
+    <match lemma="शुरुआत" tags="n.*"><select lemma="beginning" tags="n.*"/></match> 
+  </rule>
+  <rule>
     <match lemma="कुत्ता" tags="n.*"><select lemma="dog" tags="n.*"/></match> 
   </rule>
   <rule>

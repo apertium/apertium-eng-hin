@@ -1716,6 +1716,7 @@
 	<e><p><l>in<s n="n"/></l><r>प्रति<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>seat<s n="n"/></l><r>केन्द्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>beginning<s n="n"/></l><r>आरंभ<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>beginning<s n="n"/></l><r>शुरुआत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>god<s n="n"/></l><r>भगवान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>reality<s n="n"/></l><r>वास्तव<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>september<s n="n"/></l><r>सितम्बर<s n="n"/><s n="m"/></r></p></e>
@@ -9181,7 +9182,7 @@
 	<e><p><l>level<s n="n"/></l><r>साधनी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>level<s n="n"/></l><r>स्तरीय<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>leverage<s n="n"/></l><r>उत्तोलन<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>leverage<s n="n"/></l><r>प्रभाव<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>influence<s n="n"/></l><r>प्रभाव<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>levy<s n="n"/></l><r>उगाही<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>levy<s n="n"/></l><r>लेवी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>lexicographer<s n="n"/></l><r>कोशकार<s n="n"/><s n="m"/></r></p></e>
@@ -20170,7 +20171,7 @@
     <e><p><l>heady<s n="adj"/></l><r>मादक<s n="adj"/></r></p></e>
 	<e><p><l>healed<s n="adj"/></l><r>चंगा<s n="adj"/></r></p></e>
 	<e><p><l>healthful<s n="adj"/></l><r>स्वास्थ्यप्रद<s n="adj"/><s n="m"/></r></p></e>
-	<e><p><l>healthful<s n="adj"/></l><r>स्वास्थ्यवर्धक<s n="adj"/></r></p></e>
+	<e><p><l>healthy<s n="adj"/></l><r>स्वास्थ्यवर्धक<s n="adj"/></r></p></e>
 	<e><p><l>healthy<s n="adj"/><s n="sint"/></l><r>निरामय<s n="adj"/></r></p></e>
 	<e><p><l>hearing<s n="adj"/></l><r>वाच्य<s n="adj"/></r></p></e>
 	<e><p><l>heartbreaking<s n="adj"/></l><r>मर्माहत<s n="adj"/></r></p></e>
