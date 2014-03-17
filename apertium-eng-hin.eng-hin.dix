@@ -25135,7 +25135,7 @@
 
 
     <!-- SECTION: Verbs -->
-
+	<e><p><l>कम हो<s n="vblex"/></l><r>कम<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>baffle<s n="vblex"/></l><r>चकरा<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>twitter<s n="vblex"/></l><r>चहक<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>clash<s n="vblex"/></l><r>टकरा<s n="vblex"/><s n="iv"/></r></p></e>
@@ -33291,7 +33291,6 @@
 	<e><p><l>need<s n="vblex"/></l><r>आवश्यकता<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>need<s n="vblex"/></l><r>ज़रूरत<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>need<s n="vblex"/></l><r>अपेक्षा<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>need<s n="vblex"/></l><r>ज़रूरत<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>needle<s n="vblex"/></l><r>सीलाई<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>needle<s n="vblex"/></l><r>सूई<b/>लगा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>need<s n="vblex"/></l><r>जरूरत<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
@@ -36926,6 +36925,7 @@
 	<e><p><l>want<s n="vblex"/></l><r>इच्छा<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>want<s n="vblex"/></l><r>आवश्यकता<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>want<s n="vblex"/></l><r>आवश्यकता<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>want<s n="vblex"/></l><r>चाहिए<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>warm<s n="vblex"/></l><r>गरम<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>warm<s n="vblex"/></l><r>गरम<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>warn<s n="vblex"/></l><r>चेतावनी<b/>दे<s n="vblex"/><s n="tv"/></r></p></e>

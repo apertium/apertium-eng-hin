@@ -1389,7 +1389,8 @@
       <e><p><l></l><r><s n="num"/></r></p></e>
     </pardef>
 
-  </pardefs>
+</pardefs>
+
   <section id="main" type="standard">
 
     <!-- SECTION: Postpositions -->
@@ -1619,6 +1620,9 @@
 		
 
    <!-- Verbs -->
+
+
+	<e lm="चाहिए"><i>चाह</i><par n="चल__vblex_iv"/></e>
 	<e lm="चकरा"><i>चकरा</i><par n="आ__vblex_iv"/></e>
 	<e lm="चहक"><i>चहक</i><par n="चल__vblex_iv"/></e>
 	<e lm="टकरा"><i>टकरा</i><par n="आ__vblex_iv"/></e>
