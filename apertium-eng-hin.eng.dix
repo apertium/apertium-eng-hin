@@ -5340,6 +5340,10 @@ I can switch <subs> on and off in a ger_subs paradigm?
 <e lm="bracket">         <i>bracket</i><par n="house__n"/></e>
 <e lm="brackish">        <i>brackish</i><par n="expensive__adj"/></e>
 <e lm="bract">           <i>bract</i><par n="house__n"/></e>
+<e lm="Bravo">           <i>Bravo</i><par n="Smith__np"/></e>
+<e lm="Gallileo">        <i>Gallileo</i><par n="Mark__np"/></e>
+<e lm="Russolillo">      <i>Russolillo</i><par n="Smith__np"/></e>
+
 <e lm="Brad">            <i>Brad</i><par n="Mark__np"/></e>
 <e lm="Braddey">         <i>Braddey</i><par n="Mark__np"/></e>
 <e lm="Braden">          <i>Braden</i><par n="Mark__np"/></e>
@@ -14382,7 +14386,6 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="Jamar">           <i>Jamar</i><par n="Mark__np"/></e>
 <e lm="Jamari">          <i>Jamari</i><par n="Mark__np"/></e>
 <e lm="Jamel">           <i>Jamel</i><par n="Mark__np"/></e>
-<e lm="James">           <i>James</i><par n="Mark__np"/><par n="gen__apos"/></e>
 <e lm="James">           <i>James</i><par n="Mark__np"/><par n="gen__apos"/></e>
 <e lm="James">           <i>James</i><par n="Ifans__np"/><par n="gen__apos"/></e>
 <e lm="James I">         <i>James<b/>I</i><par n="Mark__np"/></e>

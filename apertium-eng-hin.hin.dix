@@ -117,7 +117,7 @@
     </pardef>    
     
     <pardef n="मोटलानी__np">
-	<e><p><l></l><r><s n="np"/><s n="cog"/><s n="sg"/><s n="mf"/></r></p></e>
+	<e><p><l></l><r><s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="भारत__np">

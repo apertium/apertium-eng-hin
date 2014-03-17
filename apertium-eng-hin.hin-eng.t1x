@@ -5,7 +5,7 @@
     <def-cat n="vblex-stem">
       <cat-item tags="vblex.*.stem"/>
     </def-cat>
-	<def-cat n="vblex-perf">
+    <def-cat n="vblex-perf">
       <cat-item tags="vblex.*.perf.*"/>
     </def-cat>
     <def-cat n="vblex-impf">
@@ -21,10 +21,10 @@
       <cat-item tags="vblex.*.fut.*"/>
     </def-cat>
 
-   <def-cat n="vblex-agnt">
+    <def-cat n="vblex-agnt">
       <cat-item tags="vblex.*.agnt.*"/>
     </def-cat>
-   <def-cat n="vblex-gna">
+    <def-cat n="vblex-gna">
       <cat-item tags="vblex.*.gna"/>
     </def-cat>
 
@@ -71,11 +71,10 @@
     </def-cat>
 
     <def-cat n="nmod">
-
-	  <cat-item tags="det"/>
+      <cat-item tags="det"/>
       <cat-item tags="det.*"/>
     </def-cat>
-	<def-cat n="num">
+    <def-cat n="num">
       <cat-item tags="num"/>
       <cat-item tags="num.*"/>
     </def-cat>
@@ -99,17 +98,18 @@
       <cat-item tags="sent"/>
     </def-cat>
 	
-	<def-cat n="adj">
-	  <cat-item tags="adj"/>
-	  <cat-item tags="adj.*"/>
-	</def-cat>
-
+    <def-cat n="adj">
+	<cat-item tags="adj"/>
+	<cat-item tags="adj.*"/>
+    </def-cat>
 
 
   </section-def-cats>
 
-  <section-def-attrs>
-    <def-attr n="a_nom">
+	<!-- Attributes -->
+  
+    <section-def-attrs>
+      <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
 
@@ -122,7 +122,7 @@
     <def-attr n="a_gender">
       <attr-item tags="m"/>
       <attr-item tags="f"/>
-	  <attr-item tags="mf"/>
+      <attr-item tags="mf"/>
       <attr-item tags="GD"/>
       <attr-item tags="nt"/>
     </def-attr>
