@@ -4185,6 +4185,7 @@
 	<e><p><l>century<s n="n"/></l><r>शतक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>century<s n="n"/></l><r>शती<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>century<s n="n"/></l><r>सदी<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>century<s n="n"/></l><r>शताब्दी<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ceramicist<s n="n"/></l><r>कुम्हार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>ceramics<s n="n"/></l><r>चीनीमिट्टी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>ceramics<s n="n"/></l><r>मृत्तिका<s n="n"/><s n="f"/></r></p></e>
@@ -6780,7 +6781,6 @@
 	<e><p><l>feed<s n="n"/></l><r>संभरण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>feeler<s n="n"/></l><r>स्पर्शक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>feeling<s n="n"/></l><r>अभिवृत्ति<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>feeling<s n="n"/></l><r>प्रेम<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>feel<s n="n"/></l><r>निस्संकोच<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>feel<s n="n"/></l><r>महसूस<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fellowship<s n="n"/></l><r>सदस्यता<s n="n"/><s n="f"/></r></p></e>
@@ -9424,6 +9424,7 @@
 	<e><p><l>love<s n="n"/></l><r>मुहब्बत<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>love<s n="n"/></l><r>मोहब्बत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>love<s n="n"/></l><r>वात्सल्य<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>love<s n="n"/></l><r>प्रेम<s n="n"/><s n="m"/></r></p></e>	
 	<e><p><l>lower<s n="n"/></l><r>असम्मान<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lowland<s n="n"/></l><r>तराई<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>lowland<s n="n"/></l><r>नीचा<s n="n"/><s n="m"/></r></p></e>
@@ -9954,7 +9955,7 @@
 	<e><p><l>minister<s n="n"/></l><r>अमात्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>minister<s n="n"/></l><r>मिनिस्टर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>minister<s n="n"/></l><r>मंत्री<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>ministry<s n="n"/></l><r>मंत्रालय<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Ministry<s n="n"/></l><r>मंत्रालय<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>ministry<s n="n"/></l><r>सेवकाई<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>mink<s n="n"/></l><r>मिंक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>minority<s n="n"/></l><r>अल्पसंख्यक<s n="n"/><s n="m"/></r></p></e>
@@ -18765,6 +18766,7 @@
     <e><p><l>censorious<s n="adj"/></l><r>छिद्रान्वेषी<s n="adj"/></r></p></e>
 	<e><p><l>centenary<s n="adj"/></l><r>शतवार्षिकी<s n="adj"/></r></p></e>
     <e><p><l>centenary<s n="adj"/></l><r>शताब्दी<s n="adj"/></r></p></e>
+	    <e><p><l>century<s n="adj"/></l><r>शताब्दी<s n="adj"/></r></p></e>	
 	<e><p><l>centennial<s n="adj"/></l><r>शतवर्षीय<s n="adj"/></r></p></e>
     <e><p><l>center<s n="adj"/></l><r>केन्द्र<s n="adj"/></r></p></e>
 	<e><p><l>center<s n="adj"/></l><r>केन्द्रीय<s n="adj"/></r></p></e>
@@ -19654,7 +19656,7 @@
 	<e><p><l>eventful<s n="adj"/></l><r>घटनापूर्ण<s n="adj"/></r></p></e>
 	<e><p><l>everlasting<s n="adj"/></l><r>सार्वकालिक<s n="adj"/></r></p></e>
     <e><p><l>everyday<s n="adj"/></l><r>प्रतिदिन<s n="adj"/></r></p></e>
-    <e><p><l>everyday<s n="adj"/></l><r>हर<b/>रोज़<s n="adj"/></r></p></e>
+    <e><p><l>each day<s n="adj"/></l><r>हर<b/>रोज़<s n="adj"/></r></p></e>
     <e><p><l>evident<s n="adj"/></l><r>प्रत्यक्ष<s n="adj"/></r></p></e>
     <e><p><l>evil<s n="adj"/></l><r>बुराई<s n="adj"/><s n="f"/></r></p></e>
 	<e><p><l>evolutionary<s n="adj"/></l><r>विकासमूलक<s n="adj"/></r></p></e>
@@ -19876,7 +19878,7 @@
 	<e><p><l>flowered<s n="adj"/></l><r>पुष्प-सज्जित<s n="adj"/></r></p></e>
     <e><p><l>flowered<s n="adj"/></l><r>पुष्पित<s n="adj"/></r></p></e>
 	<e><p><l>flowering<s n="adj"/></l><r>कुसुमित<s n="adj"/></r></p></e>
-    <e><p><l>flowering<s n="adj"/></l><r>बढ़ना<s n="adj"/></r></p></e>
+    <e><p><l>increase<s n="adj"/></l><r>बढ़ना<s n="adj"/></r></p></e>
     <e><p><l>flowery<s n="adj"/></l><r>फूलोंवाली<s n="adj"/></r></p></e>
     <e><p><l>fluent<s n="adj"/></l><r>धराप्रवाह<s n="adj"/></r></p></e>
 	<e><p><l>fluent<s n="adj"/></l><r>प्रवाही<s n="adj"/></r></p></e>
@@ -24708,7 +24710,9 @@
 	<e><p><l>powerful<s n="adv"/></l><r>शक्तिशाली<s n="adv"/></r></p></e>
 	<e><p><l>fortnightly<s n="adv"/></l><r>पाक्षिक<s n="adv"/></r></p></e>
 	<e><p><l>admittedly<s n="adv"/></l><r>निस्सन्देह<s n="adv"/></r></p></e>
-    <e><p><l>hereafter<s n="adv"/></l><r>इसकेबाद<s n="adv"/></r></p></e>
+	<e><p><l>hereafter<s n="adv"/></l><r>इसकेबाद<s n="adv"/></r></p></e>
+	<e><p><l>hereafter<s n="adv"/></l><r>इसके बाद<s n="adv"/></r></p></e>
+
     <e><p><l>yet<s n="adv"/></l><r>अतिरिक्त<s n="adv"/></r></p></e>
     <e><p><l>together<s n="adv"/></l><r>साथ<s n="adv"/></r></p></e>
     <e><p><l>bad<s n="adv"/></l><r>खराब<s n="adv"/></r></p></e>
@@ -26142,7 +26146,7 @@
 	<e><p><l>erase<s n="vblex"/></l><r>मिटा<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>etch<s n="vblex"/></l><r>उकेर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>exercise<s n="vblex"/></l><r>बरत<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>expand<s n="vblex"/></l><r>खुल<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>open<s n="vblex"/></l><r>खुल<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>experience<s n="vblex"/></l><r>भोग<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>explain<s n="vblex"/></l><r>बतला<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>explain<s n="vblex"/></l><r>समजा<s n="vblex"/><s n="iv"/></r></p></e>
@@ -26518,7 +26522,6 @@
 	<e><p><l>shoot<s n="vblex"/></l><r>छौड़<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>shout<s n="vblex"/></l><r>पुकार्<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>sink<s n="vblex"/></l><r>धँस<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>sit<s n="vblex"/></l><r>से<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>skim<s n="vblex"/></l><r>छिछला<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>sky<s n="vblex"/></l><r>टा़ग<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>slide<s n="vblex"/></l><r>खीसका<s n="vblex"/><s n="iv"/></r></p></e>
@@ -29812,7 +29815,6 @@
 	<e><p><l>devour<s n="vblex"/></l><r>नष्ट<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>devour<s n="vblex"/></l><r>खा<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>devour<s n="vblex"/></l><r>भक्षण<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>devour<s n="vblex"/></l><r>खा<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>devour<s n="vblex"/></l><r>नष्ट<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>diagnose<s n="vblex"/></l><r>निदान<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>dial<s n="vblex"/></l><r>टेलीफोन<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
@@ -30307,7 +30309,6 @@
 	<e><p><l>eat<s n="vblex"/></l><r>खा<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>eat<s n="vblex"/></l><r>नष्ट<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>eat<s n="vblex"/></l><r>नष्ट<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>eat<s n="vblex"/></l><r>खा<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>eat<s n="vblex"/></l><r>खाट<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>eat<s n="vblex"/></l><r>गल<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>eat<s n="vblex"/></l><r>खाये<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
@@ -33418,7 +33419,7 @@
 	<e><p><l>obtain<s n="vblex"/></l><r>हाशिल<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>obtain<s n="vblex"/></l><r>प्रचलित<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>obtain<s n="vblex"/></l><r>पाया<b/>जा<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>obtain<s n="vblex"/></l><r>प्राप्त<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>obtain<s n="vblex"/></l><r>मिलने<b/>वाली<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>obtrude<s n="vblex"/></l><r>दखल<b/>दे<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>obviate<s n="vblex"/></l><r>निराकरण<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>occasion<s n="vblex"/></l><r>कारण<b/>बन<s n="vblex"/><s n="iv"/></r></p></e>
