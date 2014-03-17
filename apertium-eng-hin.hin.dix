@@ -56,6 +56,7 @@
 	<sdef n="pri"    c="present indicative"/>	 	 
 	<sdef n="stem"  c="stem"/>
 	<sdef n="ord"  c="ordinal"/>
+	<sdef n="percent"  c="Percent"/>
 
     <sdef n="cm"         c="Comma"/>
     <sdef n="sent"       c="Sentence marker"/>
@@ -78,8 +79,10 @@
     <!-- SECTION: Punctuation -->      
     <pardef n="numeros">
       <e><re>[०१२३४५६७८९]+([.,][०१२३४५६७८९]+)?</re><p><l/><r><s n="num"/></r></p></e>
+  <e>       <re>[0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+  <e>       <re>[0-9]+([.,][0-9]+)?%</re><p><l></l><r><s n="num"/><s n="percent"/></r></p></e>
     </pardef>
-          
+
     <pardef n="separa">
       <e><re>[.\?;:!।॥]</re><p><l/><r><s n="sent"/></r></p></e>
     </pardef>
