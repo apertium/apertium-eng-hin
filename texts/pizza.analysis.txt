@@ -1,0 +1,258 @@
+हर रोज़ चार करोड़ से अधिक अमरीकी पित्ज़ा खाना पसंद करते हैं.
+everyday four #crore sit excessive American pizza eat prefer.
+#each day over four crore Americans prefer eating pizza.
+
+हर रोज़  = multi-word. meaning daily/everyday (added, but still #each :/ )
+transliterate( रोज ) = rose
+Rule 24 से<vblex><tv><stem>/sit<vblex><stem> = need to be changed, because verb is "पसंद करते हैं" & से is postposition
+spectie's eg:
+input: ^खा<vblex><tv><inf><nom>$ ^पसंद कर<vblex><tv><impf><m><pl>$ ^हो<vbser><pri><p1><pl>$
+output: ^prefer<vblex><pres>$ ^to<pr>$ ^eat<vblex><inf>$  
+
+--------------------
+यह दुनिया का सबसे लोकप्रिय खाद्य पदार्थ माना जाता है.
+it world #of #all popular eatable stuff reckons.
+it is beleived to be most popular eatable stuff in the world.
+
+खाद्य पदार्थ = literally means {eatable material} . good translation would be "meal" or multiword
+input : ^दुनिया<n><f><sg><obl>$ ^का<post><m><sg><nom>$
+output : ^of<pr><m><sg><nom>$ ^world<n><sg>$ 
+
+"it" -> "eatable stuff"
+ 
+(alternate post-edit : "it is reckoned as most popular eatable stuff of world." 
+but "reckonED" past tense whereas माना जाता है is present continuous! ) #dillema
+
+--------------------
+निश्चित तौर पर यह अमरीकियों के सबसे पसंदीदा भोजन में शामिल है.
+certainly it Americans of #all favored food in included is.
+certainly it in all favoured foods of Americans is included (spectie post edit)
+Certainly it is one of the favorite foods of Americans
+
+i/p: ^अमरीकी<n><f><pl><obl>$ ^का<post>$
+o/p: ^of<pr>$ ^American<n><pl>$ 
+
+incorrect POS : ^सब<prn><pers><p3><mf><pl><obl>$ , because here (& in previous sentece as well) सबसे => most
+eg : सबसे पसंदीदा = most favorite , सबसे लोकप्रिय = most popular
+BUT  सब  = all (a pronoun)!!
+सबसे => most of all => (eg: most "popular of all", "most favorite of all". 'of all' isn;t written because it's inherently understood.)
+
+--------------------
+अमरीकी कृषि मंत्रालय ने इसकी लोकप्रियता को देखते हुए हाल ही में इसकी खपत के बारे में एक रिपोर्ट जारी की है.
+American agriculture ministry by it see to popularity #be condition perfect deny it a report about consumption issued.
+Seeing its popularity, the American agriculture ministry released a report about its consumption.
+
+लोकप्रियता = popularity (edited :))
+
+i/p: ^इस<prn><pers><p3><mf><sg><gen>$ ^लोकप्रियता<n><f><sg><obl>$ ^को<post>$ ^देख<vblex><tv><impf><m><pl>$ ^हो<vbser><imp><p2><frm><pl>$
+o/p:  ^see<vblex><ger>$ ^prpers<prn><obj><p3><nt><sg>$ ^popularity<n><sg>$ 
+(there's a difference in word order , from what is the tagger output now, and what it should be. also, some extra token get added like "to" & "be")
+
+i/p : ^इस<prn><pers><p3><mf><sg><gen>$ ^खपत<n><m><sg><obl>$ ^के बारे में<post>$
+o/p : ^about<pr>$ ^prpers<prn><obj><p3><nt><sg>$ ^consumption<n><sg>$
+
+--------------------
+रिपोर्ट में इसे अमरीकी खाने में वसा, कैल्शियम और सोडियम के साथ-साथ पोषक तत्वों का योगदान देने वाला खाद्य पदार्थ बताया गया है.
+report in it American eat in fat, #calcium and #sodium with@-*साथ foster elements #of contribute *वाला eatable stuff told went.
+The report describes it as the eatable which contributes fat, calcium and sodium along with nutrients to American food. 
+
+^रिपोर्ट<n><f><sg><obl>$ ^में<post>
+^report<n><sg>$ ^in<pr>$
+
+-------------------------------------------------------------------
+यह लोकप्रिय तो है, लेकिन क्या यह आपके लिए हानिकारक भी है ?
+it popular then is, but *क्या it *आपके took insidiously also is ?
+It is popular, but is it also harmful for you?
+------------------------------------------------------------------------
+विशेषज्ञों का तर्क है कि पित्ज़ा स्वास्थ्य के लिए हानिकारक नहीं है, असल समस्या यह है कि इसे आप कब और कैसे खाते हैं.
+logic #of specialists is that *पित्ज़ा health for insidiously is not, really conundrum #prpers is that it you when and *कैसे  eat.
+Scientists argue that pizza isn't harmful for health, real problem is when and how do you eat it.
+--------------------------------------------------------------------------
+इस रिपोर्ट के मुताबिक़ हर दिन तक़रीबन 13 फ़ीसदी अमरीकी पित्ज़ा खाते हैं, बच्चों और किशोरों को शामिल कर लेने पर यह आंकड़ा बढ़कर 22 फ़ीसदी हो जाता है.
+it report of *मुताबिक़ each day *तक़रीबन 13 *फ़ीसदी American *पित्ज़ा eat, encompass to #kid and #juvenile take but it *आंकड़ा after growing 22 *फ़ीसदी becomes.
+According to this report almost 13 percent Americans eat pizza everyday, including kids and youngsters the figure increases to 22 percent. 
+-----------------------------------------------------------
+अगर यह घर पर बना होता तो चिंता की कोई बात नहीं होती.
+if it craft on house then worried @कोई thing not happen.
+If it were made at home then there would not be anything to worry about.
+
+1. "hoti" -> happen, not tru in the case, but otherwise is.
+2  "not anything to be worry about " would it do in postedit ?
+
+------------------------------------------------------------
+स्पेन के आहार विशेषज्ञों के संगठन के अध्यक्ष गियूसपी रूसोलिलियो कहते हैं, "आपको यह ध्यान में रखना होगा कि इटली में बहुत से लोग इसे कलात्मक उत्पाद मानते हैं तो, अमरीका में इसे जंक फूड के रूप में देखा जाता है."
+*स्पेन of sustenance specialists of director of coalition *गियूसपी *रूसोलिलियो say, "you it keep in meditation #be that *इटली deny too sit people it esthetic merchandise admit then, *अमरीका deny it *जंक *फूड of saw in form goes."
+The president of Spanish Association of Nutritionists Giuseppe Russolillo says, "you should keep in mind that many people consider it as artistic product in Italy, it is seen as a form of junk food in America."
+-----------------------------------------------------------------------------------------
+वह कहते हैं कि पित्ज़ा को अधिकतर किसी फ़ास्ट फूड की दुकान से या सुपरमार्केट से ख़रीदा जाता है.
+he say that pizza to mostly who fast food #of shop with or purchased with supermarket goes.
+They say that pizza is mostly bought from fast food shops or supermarkets.
+
+1.) वह कहते हैं => they say
+कहते is  <e><p><l>ते</l><r><s n="vblex"/><s n="tv"/><s n="impf"/><s n="m"/><s n="pl"/></r></p></e>
+but "they" is like <s n="mf"/>
+
+2.) किसी => some  (किसी फ़ास्ट फूड की दुकान -> some fast food of shop)
+3.) से here means FROM, it's there is dictionary as "post" but has too many forms as postpositions.. "from" isnt selected even after commenting "with".
+
+
+-----------------------------------------------------------------------------------------
+अमरीका में महिलाओं की तुलना में पुरुष अधिक पित्ज़ा खाते हैं लेकिन जातीय समूहों में इसे खाने की आदत अलग-अलग होती है.
+America in women #of man in comparison excessive pizza eat but ethnic groups in it eat #of habit #different happens.
+Man eat more pizza in comparison to women in America but eating habit in different ethnic groups.
+
+1.) होती है > is/are and not "happen"
+2) खाते (impf) => eat-"ing" 
+
+---------------------------------------------------------------------------------
+ग़ैर-लातिनी मूल के गोरों में से 16 फ़ीसदी लोग पित्ज़ा खाते हैं जबकि 14 फ़ीसदी ग़ैर-लातिनी काले या लातिनी लोग किसी एक दिन कम से कम पित्ज़ा का एक टुकड़ा खाते हैं.
+*ग़ैर@-*लातिनी origin of @से in fairs 16 percent people pizza eat whereas 14 percent *ग़ैर@-*लातिनी black or *लातिनी people who a day at least a slice #of pizza eat.
+16 percent of the non-Hispanic white people eat pizza while 14 percent of non-Hispanic black people or Hispanics eat at least one slice of pizza a day.
+
+1.) गोरों<nom><pl><onl> => white
+2) किसी दिन => someday ! but Here, किसी एक दिन => on a given day / someday , how to add this?
+
+--------------------------------------------------------------------------------------
+यूरोपियन मेडिकल इंस्टीट्यूट ऑफ ओबेसिटी के रूबेन ब्रावो ने बीबीसी से कहा, "इससे अमरीकी खुराक के बारे में पता चलता है. यह भी एक कारण भी हो सकता है कि अमरीका में मोटापे के सबसे अधिक मामले हैं."
+European medical institute off obesity of Ruben Bravo by said with #BBC, "it American transpires about portion. it also a reason also allows that America in obesity of #all excessive matter are."
+Ruben Bravo of European Medical Institute of Obesity tells BBC, "This tells about American diet. It could also be a reason why America has highest number of cases of obesity. "
+Ruben Bravo of European Medical Institute of Obesity tells the BBC, "This says about the American diet. It could also be a reason why America has highest number of cases of obesity. "
+
+1. again, post->prep (Ruben Bravo of) 
+2. transpires!!
+3.पता चलता है => come to know, shows(in this case),
+4.हो सकता है =>हो सकता /could है/be . 
+5. again! सबसे =! all , in the case. it could be most.
+---------------------------------------------------------------------------
+ब्रावो की इस दलील से रूसोलिलियो भी सहमत हैं.
+Bravo did it argument with Russolillo also agreeable are.
+Russolillo also did agree with this arguement of Bravo.
+
+1.
+i/p: ^सहमत<adj><m><sg><nom>$ ^हो<vbser><pri><p1><pl>  
+o/p: ^सहमत<vblex><iv>$ ^हो<vbser><pri><p1><pl>
+2. re-order.
+3. इस => this
+(^इस<prn><pers><p3><mf><sg><nom>/prpers<prn><FD><p3><mf><sg><nom>)
+
+---------------------------------------------------------------------------
+वह कहते हैं कि एक महीने में दो-तीन बार से अधिक पित्ज़ा नहीं खाना चाहिए.
+he say that a month in two@-three time with excessive pizza not eat like.
+He says that pizza should not be eaten more than two-three times a month.
+
+1.) New Rule!!
+entence start <sent> tag ka first character CAPITALISE!
+
+2.)^दो<num>/two<num><sp>$^-<guio>/@-<guio>$^तीन<num>/three<num><sp>$^$
+(hexdump of hyphen != one typed on computer/in dictionary)
+
+3.) से अधिक  => more than
+4.) again! चाहिए ?? its "should" over here!
+5.) बार  > should be plural form , because of do-teen! 
+^बार<n><m><sg><nom> => ^बार<n><m><pl><nom>
+time => times
+-------------------------------------------------------------------------
+वह कहते हैं, "यह रोज़ाना के खाने का हिस्सा नहीं होना चाहिए.
+he say, "it daily of eat #of part not happen like.
+He says, "it should not be a part of everyday diet."
+
+1.) New Rule!!
+entence start <sent> tag ka first character CAPITALISE!
+2. chahiye => should, AGAIN!
+in hi.dix both present,
+	<e lm="चाह"><i>चाह</i><par n="बोल__vblex_tv"/></e>
+	<e lm="चाहिए"><i>चाह</i><par n="चल__vblex_iv"/></e>
+echo "चाहिए " | apertium -d . hin-eng-biltrans
+^चाह<vblex><tv><imp><p2><frm><pl>/like<vblex><imp><p2><frm><pl>$^.<sent>/.<sent>$ 
+translator catches it as TV, चाहिए -> चाह ! why ? How can it be changed ?
+----------------------------------------------------------------------------
+बच्चों के लिए तो यह और भी कम होना चाहिए, क्योंकि यह समय उनके विकास का होता है, ऐसे समय में आप उन्हें अलग-अलग तरह का स्वास्थ्यवर्धक भोजन सब्जियों और फलों के साथ दे सकते हैं."
+kids for then it and also sink like, because it period they development costs, #such period in you them #different manner #of healthy food can add with #vegetable and #fruit."
+It should be even lesser for kids, because it is their developmental period, in this period you should give them different types of healthy food with vegetables and fruits."
+1.) i/p: ^बच्चा<n><m><pl><obl>$ ^के लिए<post>$^ 
+	o/p:^के लिए<post>$^ ^बच्चा<n><m><pl><obl>$
+2) i/p:  कम होना चाहिए
+3) o/p should be less (doubt if this can be added as multiword verb in hindi and how!)
+
+testing chahiye but system gives error on make :/
+
+
+---------------------------------------------------------------------------------------------
+अमरीका में बीसवीं शताब्दी की शुरुआत में इट‌ली से आने वाले लोगों के प्रभाव में पित्ज़ा प्रचलन में आया.
+America in #twenty century #of beginning in Italy @से come *वाले peoples of pizza in influence came in vogue. 
+Pizza came in vogue in America at the beginning of 20th century due to influence of Italian immigrants.
+
+1.) ^से<vblex><tv><stem>/sit<vblex><stem>$ ^आ<vblex><iv><inf><obl>/come<vblex><inf><obl>$ ^*वाले/*वाले$ ^लोग<n><m><pl><obl>/people<n><pl><obl>$ ^का<post>/of<pr>/in<pr>$
+2. again! "-se" is verb!!
+3. -वाले  -वाला -वाली  => should be added as individual suffixes, 
+or a rule needs to be added which is dropped but agrees/marks gender,number information to noun.
+it means something like --> आने वाले लोगों = people/लोगों  who are/वाले  coming(आने)
+
+4. i/p : ^आ<vblex><iv><inf><obl>$ ^*वाले$ ^लोग<n><m><pl><obl>$ ^का<post>$ ^प्रभाव<n><m><sg><obl>$ ^में<post>$^.<sent>$ 
+5.i/p : ^में<post>$^.<sent>$ प्रभाव<n><m><sg><obl>$ ^आ<vblex><iv><inf><obl>$ ^*वाले$ ^लोग<n><m><pl><obl>$ ^का<post>$
+
+6 -se aane wale log > "immigrants" ?
+
+----------------------------------------------------------------------------------------
+न्यूयॉर्क में साल 1905 में पहला रेस्तरां खुला था.
+New York in #first restaurant 1905 in 1905 year expanded was. 
+The first restaurant open in New York in 1905.
+
+
+1. Where does the extra "1905" come from.
+
+^New York<np><top><sg>$ ^in<pr>$ ^first<num><ord>$ ^restaurant<n><sg>$ 1905 ^in<pr>$ 1905 ^year<n><sg>$ ^expand<vblex><past>$ ^be<vbser><past><p3><sg>$^.<sent>$^.<sent>$ 
+^न्यूयॉर्क<np><top><sg>/New York<np><top><sg>$ ^में<post>/in<pr>$ ^साल<n><m><sg><obl>/year<n><sg><obl>$ 1905 ^में<post>/in<pr>$ ^पहला<num><ord>/first<num><ord>$ ^रेस्तरां<n><m><sg><nom>/restaurant<n><sg><nom>$ ^खुल<vblex><tv><perf><m><sg>/expand<vblex><perf><m><sg>$ ^हो<vbser><impf><p3><m><sg>/be<vbser><impf><p3><m><sg>$^.<sent>/.<sent>$^.<sent>/.<sent>$ 
+
+2. post(hin) -> prep(eng) :: after-verb-->before-verb rule
+
+3. खुला --> open. intransitive verb, follows 2 paradigms!! which one to choose ?
+
+------------------------------------------------------------
+इसके बाद अमरीकियों का पित्ज़ा प्रेम बढ़ता गया.
+hereafter pizza #of Americans love grow went.
+Hereafter, Americans' pizza love kept increasing.
+
+1. need a multiword for "बढ़ता गया" -> kept increasing / increased.
+2. post(hin) -> prep(eng) :: after-verb-->before-verb rule
+i/p :  ^अमरीकी<n><f><pl><obl>$ ^का<post><m><sg><nom>$
+o/p :  ^of<pr><m><sg><nom>$  ^American<n><pl>$ 
+ 
+--------------------------------------------------------------------------------
+एक अनुमान के मुताबिक़ अमरीका में हर साल तीन अरब पित्ज़ा बेचे जाते हैं.
+a speculation according to America in each year three billion pizza sell go.
+According to a specualtion three billion pizzas are sold in America every year.
+
+1. Word ordering primarily! 
+
+--------------------------------------------------------------------------------
+अमरीकी कृषि मंत्रालय की रिपोर्ट के मुताबिक़ 19 साल तक के बच्चों को खाने से मिलने वाली कुल ऊर्जा में पित्ज़ा का योगदान छह फ़ीसदी होता है.
+American agriculture ministry #of year according to report until of eat to kids with meet *वाली total energy in contribution #of pizza six percent happens.
+According to report of American agriculture ministry pizza has 6% contibution in the total energy obtained from the meal of a 19 year old. 
+
+1. Capitalisation of Nouns
+2. common problem -- placement of postpositions as preposition after translation
+i/p :^का<post><f><sg><nom>$ ^रिपोर्ट<n><f><sg><obl>
+o/p :^report<n><sg>$ ^of<pr><f><sg><nom>$ 
+3. why this doesn't work! --> <e lm="मिलने वाली"><i>मिलने<b/>वाल</i><par n="बोल__vblex_tv"/></e>
+4. permanent solution for " <b/>वाली  " kind of verbs! 
+-------------------------------------------------------------------------------------------
+वयस्कों में यह चार फ़ीसदी है.
+adults in it four percent is.
+It is 4% in adults.
+
+1.) Word order difference primarily!
+i/p: ^वयस्क<n><m><pl><obl> ^में<post>
+o/p: in<pr>$ adult<n><pl><obl>$
+i/p: ^य<prn><pers><p3><mf><sg><nom> ^चार<adj><m><sg><nom> ^फ़ीसदी<n><m><sg><nom> ^हो<vbser><pri><p3><sg>
+o/p: /prpers<prn><FD><p3><GD><sg><nom>$ be<vbser><pri><p3><sg>$^. four<adj><m><sg><nom>$ /percent<n><sg><nom>$ 
+
+
+------------------------------
+वहीं जिस दिन पित्ज़ा खाया जाता है, उस दिन सभी उम्र के उपभोक्ताओं की कुल ऊर्जा में इसका योगदान 27 फ़ीसदी होता है.
+who day pizza ate goes, it day all age of consumers #of total energy in it contribution 27 percent costs.
+The day pizza is consumed, it contributes to 27% of the total energy of consumers of all age groups.
+
+1.)% <-- percent = how ?
+2.) edited खा<b/>जा vblex. 
+Compilation error for :: doesnt work! <e lm="खा जा"><i>खा</i><b/><par n="बता__vblex_tv"/><i>जा</i><par n="बता__vblex_tv"/></e> 

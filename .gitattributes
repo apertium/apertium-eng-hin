@@ -43,6 +43,7 @@ texts/forbes.eng.txt -text
 texts/forbes.hin.txt -text svneol=unset#application/octet-stream
 texts/gravity3.eng.txt -text
 texts/gravity3.hin.txt -text svneol=unset#application/octet-stream
+texts/pizza.analysis.txt -text
 texts/pizza1.eng.txt -text
 texts/pizza1.hin.txt -text svneol=unset#application/octet-stream
 texts/test.txt -text svneol=unset#application/octet-stream
