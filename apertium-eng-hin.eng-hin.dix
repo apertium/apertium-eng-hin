@@ -108,7 +108,7 @@
     <e><p><l>in<s n="pr"/></l><r>में<s n="post"/></r></p></e>
     <e><p><l>from<s n="pr"/></l><r>से<s n="post"/></r></p></e>
     <e><p><l>by<s n="pr"/></l><r>से<s n="post"/></r></p></e>
-    <e><p><l>with<s n="pr"/></l><r>से<s n="post"/></r></p></e>
+    <e><p><l>with<s n="pr"/></l><r>से<s n="post"/></r></p></e> <!-- with love , with care-->
     <e><p><l>towards<s n="pr"/></l><r>ओर<s n="pr"/></r></p></e>
     <e><p><l>for<s n="pr"/></l><r>के<b/>लिये<s n="post"/></r></p></e>
     <e><p><l>for<s n="pr"/></l><r>के<b/>लिए<s n="post"/></r></p></e> 
@@ -4918,7 +4918,7 @@
 	<e><p><l>contract<s n="n"/></l><r>इकरारनामा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>contract<s n="n"/></l><r>वाग्दान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>contract<s n="n"/></l><r>संविदा<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>contrast<s n="n"/></l><r>तुलना<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>comparison<s n="n"/></l><r>तुलना<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>contrast<s n="n"/></l><r>वैषम्य<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>contretemps<s n="n"/></l><r>अनिष्ट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>contribution<s n="n"/></l><r>अवदान<s n="n"/><s n="m"/></r></p></e>
@@ -6167,12 +6167,12 @@
 	<e><p><l>easterly<s n="n"/></l><r>पुरवाई<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>east<s n="n"/></l><r>उदयाचल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>eater<s n="n"/></l><r>भक्षक<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>eating<s n="n"/></l><r>भक्षण<s n="n"/><s n="m"/></r></p></e>
+<!--	<e><p><l>eating<s n="n"/></l><r>भक्षण<s n="n"/><s n="m"/></r></p></e> -->
 	<e><p><l>eaves<s n="n"/></l><r>ओरी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>ebbing<s n="n"/></l><r>ह्रासअ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>ebonite<s n="n"/></l><r>एबोनाइट<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ebony<s n="n"/></l><r>आबनूस<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>ebony<s n="n"/></l><r>काला<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>black<s n="n"/></l><r>काला<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>echolalia<s n="n"/></l><r>शब्दानुकरण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>echo<s n="n"/></l><r>गुँज<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>echo<s n="n"/></l><r>प्रतिवचन<s n="n"/><s n="m"/></r></p></e>
@@ -7674,6 +7674,7 @@
 	<e><p><l>grouping<s n="n"/></l><r>समूहीकरण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>group<s n="n"/></l><r>ग्रुप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>group<s n="n"/></l><r>मंडली<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>group<s n="n"/></l><r>समूह<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>growling<s n="n"/></l><r>गुर्राहट<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>growth<s n="n"/></l><r>संवृद्धि<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>grub<s n="n"/></l><r>सूंड़ी<s n="n"/><s n="f"/></r></p></e>
@@ -8138,7 +8139,7 @@
 	<e><p><l>host<s n="n"/></l><r>पोषिता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>host<s n="n"/></l><r>मेजबान<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>host<s n="n"/></l><r>यजमान<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>host<s n="n"/></l><r>समूह<s n="n"/><s n="m"/></r></p></e>
+ <!--   <e><p><l>host<s n="n"/></l><r>समूह<s n="n"/><s n="m"/></r></p></e> -->
 	<e><p><l>hotelier<s n="n"/></l><r>होटल-मालिक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>hotel<s n="n"/></l><r>विश्रामालय<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hotel<s n="n"/></l><r>होटल<s n="n"/><s n="m"/></r></p></e>
@@ -9605,6 +9606,7 @@
 	<e><p><l>man<s n="n"/></l><r>इन्सान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>man<s n="n"/></l><r>मर्द<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>man<s n="n"/></l><r>मैन<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>man<s n="n"/></l><r>पुरुष<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mantle<s n="n"/></l><r>आवरण<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mantle<s n="n"/></l><r>लबादा<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mantra<s n="n"/></l><r>मन्त्र<s n="n"/><s n="f"/></r></p></e>
@@ -11227,7 +11229,6 @@
 	<e><p><l>personnel<s n="n"/></l><r>कार्यकर्ता<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>person<s n="n"/></l><r>ति<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>person<s n="n"/></l><r>देह<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>person<s n="n"/></l><r>पुरुष<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>person<s n="n"/></l><r>शख्स<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>perspective<s n="n"/></l><r>परिप्रेक्ष्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>perspiration<s n="n"/></l><r>स्वेद<s n="n"/><s n="m"/></r></p></e>
@@ -13975,7 +13976,8 @@
 	<e><p><l>sniff<s n="n"/></l><r>भनक<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>snifter<s n="n"/></l><r>SarAba<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>snipe<s n="n"/></l><r>स्नाइप<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>snippet<s n="n"/></l><r>टुकड़ा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>slice<s n="n"/></l><r>टुकड़ा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>piece<s n="n"/></l><r>टुकड़ा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>snip<s n="n"/></l><r>धज्जी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>snips<s n="n"/></l><r>कैंचा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>snitcher<s n="n"/></l><r>उठाईगीषा<s n="n"/><s n="m"/></r></p></e>
@@ -15174,7 +15176,7 @@
 	<e><p><l>tenant<s n="n"/></l><r>किराएदार<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tenant<s n="n"/></l><r>किरायेदार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>tench<s n="n"/></l><r>टेंच<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tendency<s n="n"/></l><r>आदत<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>habit<s n="n"/></l><r>आदत<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>tendency<s n="n"/></l><r>जुकाव<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>tendency<s n="n"/></l><r>प्रकृति<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tenderness<s n="n"/></l><r>कोमलता<s n="n"/><s n="f"/></r></p></e>
@@ -20997,7 +20999,6 @@
 	<e><p><l>maledict<s n="adj"/></l><r>शापग्रस्त<s n="adj"/></r></p></e>
 	<e><p><l>maleficent<s n="adj"/></l><r>अपकारी<s n="adj"/></r></p></e>
 	<e><p><l>male<s n="adj"/></l><r>नर<s n="adj"/></r></p></e>
-    <e><p><l>male<s n="adj"/></l><r>पुरुष<s n="adj"/></r></p></e>
 	<e><p><l>malevolent<s n="adj"/></l><r>द्वेषपूर्ण<s n="adj"/></r></p></e>
 	<e><p><l>malicious<s n="adj"/></l><r>दुर्भावनापूर्ण<s n="adj"/></r></p></e>
     <e><p><l>malicious<s n="adj"/></l><r>द्वेशी<s n="adj"/></r></p></e>
@@ -24618,6 +24619,7 @@
 
 
     <!-- SECTION: Adverbs -->  
+	<e><p><l>at<b/>least<s n="adv"/></l><r>कम<b/>से<b/>कम<s n="adv"/></r></p></e>
 	<e><p><l>then<s n="adv"/></l><r>तो<s n="adv"/></r></p></e>
 	<e><p><l>almost<s n="adv"/></l><r>तक़रीबन<s n="adv"/></r></p></e>
 	<e><p><l>where<s n="adv"/></l><r>कहॉं<s n="adv"/></r></p></e>
@@ -25906,7 +25908,7 @@
 	<e><p><l>bury<s n="vblex"/></l><r>डाल<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>bury<s n="vblex"/></l><r>डुबा<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>bus<s n="vblex"/></l><r>फौंछ<s n="vblex"/><s n="iv"/></r></p></e>
-	<e><p><l>buy<s n="vblex"/></l><r>खरीद<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>buy<s n="vblex"/></l><r>ख़रीद<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>bypass<s n="vblex"/></l><r>कतरा<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>cake<s n="vblex"/></l><r>ढँक<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>call<s n="vblex"/></l><r>चहचहा<s n="vblex"/><s n="iv"/></r></p></e>
