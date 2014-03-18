@@ -37,6 +37,9 @@
     <match lemma="शताब्दी" tags="adj.*"><select lemma="century" tags="adj.*"/></match> 
   </rule>
   <rule>
+    <match lemma="रोज़ाना" tags="adj.*"><select lemma="everyday" tags="adj.*"/></match> 
+  </rule>
+  <rule>
     <match lemma="कुल" tags="adj.*"><select lemma="total" tags="adj.*"/></match> 
   </rule>
   <rule>

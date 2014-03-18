@@ -5993,6 +5993,7 @@
 	<e><p><l>dormouse<s n="n"/></l><r>डरमाउस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dose<s n="n"/></l><r>अनुपान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dose<s n="n"/></l><r>ख़ुराक<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>diet<s n="n"/></l><r>खुराक<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dossier<s n="n"/></l><r>फाइल<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>dotage<s n="n"/></l><r>सठियापा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dot<s n="n"/></l><r>बिंदी<s n="n"/><s n="f"/></r></p></e>
@@ -8585,7 +8586,7 @@
     <e><p><l>instalment<s n="n"/></l><r>किस्त<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>instance<s n="n"/></l><r>उदाहरण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>institute<s n="n"/></l><r>संस्था-भवन<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>institute<s n="n"/></l><r>इंस्टीट्यूट<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Institute<s n="n"/></l><r>इंस्टीट्यूट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>institution<s n="n"/></l><r>संसठा<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>institution<s n="n"/></l><r>संस्थान<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>instruction<s n="n"/></l><r>निर्देश<s n="n"/><s n="m"/></r></p></e>
@@ -19163,6 +19164,8 @@
 	<e><p><l>custom<s n="adj"/></l><r>रीति<s n="adj"/></r></p></e>
 	<e><p><l>custom<s n="adj"/></l><r>सानुकूल<s n="adj"/></r></p></e>
     <e><p><l>cylindrical<s n="adj"/></l><r>बेलनाकार<s n="adj"/></r></p></e>
+	<e><p><l>everyday<s n="adj"/></l><r>रोज़ाना<s n="adj"/></r></p></e>
+	
 	<e><p><l>daily<s n="adj"/></l><r>रोज़ाना<s n="adj"/></r></p></e>
 	<e><p><l>dainty<s n="adj"/></l><r>मृदु<s n="adj"/></r></p></e>
 	<e><p><l>damned<s n="adj"/></l><r>कमबख्त<s n="adj"/></r></p></e>
@@ -21431,7 +21434,7 @@
 	<e><p><l>official<s n="adj"/></l><r>ऑफिसियल<s n="adj"/></r></p></e>
 	<e><p><l>officious<s n="adj"/></l><r>दस्तंदाज़<s n="adj"/></r></p></e>
     <e><p><l>offshore<s n="adj"/></l><r>अपतट<s n="adj"/></r></p></e>
-	<e><p><l>off<s n="adj"/></l><r>ऑफ<s n="adj"/></r></p></e>
+	<e><p><l>of<s n="adj"/></l><r>ऑफ<s n="adj"/></r></p></e>
 	<e><p><l>oily<s n="adj"/></l><r>तेलयुक्त<s n="adj"/></r></p></e>
     <e><p><l>oily<s n="adj"/></l><r>तेलहा<s n="adj"/></r></p></e>
 	<e><p><l>olfactory<s n="adj"/></l><r>घ्राणेंद्रिय-विषयक<s n="adj"/></r></p></e>
