@@ -12,10 +12,16 @@
     <match tags="post"/>
   </rule>
   <rule>
+    <match lemma="शामिल कर" tags="vblex.*"><select lemma="include" tags="vblex.*"/></match> 
+  </rule>
+  <rule>
     <match lemma="बना हो" tags="vblex.*"><select lemma="make" tags="vblex.*"/></match> 
   </rule>
   <rule>
     <match lemma="लोग" tags="n.*"><select lemma="people" tags="n.*"/></match> 
+  </rule>
+  <rule>
+    <match lemma="किशोर" tags="n.*"><select lemma="youngster" tags="n.*"/></match> 
   </rule>
   <rule>
     <match lemma="से" tags="post"><select lemma="with" tags="pr"/></match> 

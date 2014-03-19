@@ -9430,6 +9430,8 @@ I can switch <subs> on and off in a ger_subs paradigm?
 <e lm="earmark">         <i>earmark</i><par n="accept__vblex"/></e>
 <e lm="earn">            <i>earn</i><par n="accept__vblex"/></e>
 <e lm="earnest">         <i>earnest</i><par n="expensive__adj"/></e>
+<e lm="each day">         <i>each<b/>day</i><par n="expensive__adj"/></e>
+
 <e lm="earnestly">       <i>earnestly</i><par n="maybe__adv"/></e>
 <e lm="earnings">        <i>earnings</i><par n="personnel__n"/><par n="gen__apos"/></e>
 <e lm="earring">         <i>earring</i><par n="house__n"/></e>
@@ -10316,6 +10318,7 @@ I can switch <subs> on and off in a ger_subs paradigm?
 <e lm="evermore">        <i>evermore</i><par n="maybe__adv"/></e>
 <e lm="every now and again"><i>every<b/>now<b/>and<b/>again</i><par n="maybe__adv"/></e>
 <e lm="everyday">        <i>everyday</i><par n="expensive__adj"/></e>
+<e lm="every day">        <i>every<b/>day</i><par n="expensive__adj"/></e>
 <!--
 <e lm="everything">           <i>everything</i><par n="house__n"/></e>
 -->
@@ -27372,6 +27375,8 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
           group num
       ****************************** -->
 <e lm="billion">         <i>billion</i><par n="hundred__num"/></e>
+<e lm="crore">           <i>crore</i><par n="hundred__num"/></e>
+
 
 <e lm="eight">           <i>eight</i><par n="two__num"/></e>
 <e lm="eighteen">        <i>eighteen</i><par n="two__num"/></e>

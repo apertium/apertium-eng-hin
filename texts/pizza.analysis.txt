@@ -1,6 +1,6 @@
 हर रोज़ चार करोड़ से अधिक अमरीकी पित्ज़ा खाना पसंद करते हैं.
-everyday four #crore sit excessive American pizza eat prefer.
-#each day over four crore Americans prefer eating pizza.
+#each day four #crore with excessive American pizza eat prefer.
+each day over four crore Americans prefer eating pizza.
 
 हर रोज़  = multi-word. meaning daily/everyday (added, but still #each :/ )
 transliterate( रोज ) = rose
@@ -59,18 +59,24 @@ The report describes it as the eatable which contributes fat, calcium and sodium
 ^रिपोर्ट<n><f><sg><obl>$ ^में<post>
 ^report<n><sg>$ ^in<pr>$
 
--------------------------------------------------------------------
+------------------------------------------------------------------------------
 यह लोकप्रिय तो है, लेकिन क्या यह आपके लिए हानिकारक भी है ?
-it popular then is, but *क्या it *आपके took insidiously also is ?
+it popular then is, but #what it you took harmful also is ?
 It is popular, but is it also harmful for you?
-------------------------------------------------------------------------
+
+1.) आपके लिए , mere liye, uske liye, tumhare liye ... for _prn_  and NOT "took" !
+2. RULE -> तो है => तो  before a verb => skip it !
+-------------------------------------------------------------------------------
 विशेषज्ञों का तर्क है कि पित्ज़ा स्वास्थ्य के लिए हानिकारक नहीं है, असल समस्या यह है कि इसे आप कब और कैसे खाते हैं.
-logic #of specialists is that *पित्ज़ा health for insidiously is not, really conundrum #prpers is that it you when and *कैसे  eat.
+logic #of specialists is that *पित्ज़ा health for insidiously is not, real conundrum #prpers is that it you when and *कैसे  eat.
 Scientists argue that pizza isn't harmful for health, real problem is when and how do you eat it.
 --------------------------------------------------------------------------
 इस रिपोर्ट के मुताबिक़ हर दिन तक़रीबन 13 फ़ीसदी अमरीकी पित्ज़ा खाते हैं, बच्चों और किशोरों को शामिल कर लेने पर यह आंकड़ा बढ़कर 22 फ़ीसदी हो जाता है.
-it report of *मुताबिक़ each day *तक़रीबन 13 *फ़ीसदी American *पित्ज़ा eat, encompass to #kid and #juvenile take but it *आंकड़ा after growing 22 *फ़ीसदी becomes.
-According to this report almost 13 percent Americans eat pizza everyday, including kids and youngsters the figure increases to 22 percent. 
+it report according to every day almost 13 percent American pizza eat, encompass to #kid and #youngster take but it figure after growing 22 percent becomes.
+according to this report almost 13 percent Americans eat pizza every day, including kids and youngsters the figure increases to 22 percent. 
+
+1. needs AND rule .
+2. increases v/s grow
 -----------------------------------------------------------
 अगर यह घर पर बना होता तो चिंता की कोई बात नहीं होती.
 if it craft on house then worried @कोई thing not happen.
@@ -173,9 +179,9 @@ It should be even lesser for kids, because it is their developmental period, in 
 	o/p:^के लिए<post>$^ ^बच्चा<n><m><pl><obl>$
 2) i/p:  कम होना चाहिए
 3) o/p should be less (doubt if this can be added as multiword verb in hindi and how!)
-
 testing chahiye but system gives error on make :/
 
+4) 
 
 ---------------------------------------------------------------------------------------------
 अमरीका में बीसवीं शताब्दी की शुरुआत में इट‌ली से आने वाले लोगों के प्रभाव में पित्ज़ा प्रचलन में आया.
@@ -195,18 +201,12 @@ it means something like --> आने वाले लोगों = people/ल�
 
 ----------------------------------------------------------------------------------------
 न्यूयॉर्क में साल 1905 में पहला रेस्तरां खुला था.
-New York in #first restaurant 1905 in 1905 year expanded was. 
-The first restaurant open in New York in 1905.
+New York in year 1905 in #first restaurant opened was.
+the first restaurant was opened in New York in 1905.
 
-
-1. Where does the extra "1905" come from.
-
-^New York<np><top><sg>$ ^in<pr>$ ^first<num><ord>$ ^restaurant<n><sg>$ 1905 ^in<pr>$ 1905 ^year<n><sg>$ ^expand<vblex><past>$ ^be<vbser><past><p3><sg>$^.<sent>$^.<sent>$ 
-^न्यूयॉर्क<np><top><sg>/New York<np><top><sg>$ ^में<post>/in<pr>$ ^साल<n><m><sg><obl>/year<n><sg><obl>$ 1905 ^में<post>/in<pr>$ ^पहला<num><ord>/first<num><ord>$ ^रेस्तरां<n><m><sg><nom>/restaurant<n><sg><nom>$ ^खुल<vblex><tv><perf><m><sg>/expand<vblex><perf><m><sg>$ ^हो<vbser><impf><p3><m><sg>/be<vbser><impf><p3><m><sg>$^.<sent>/.<sent>$^.<sent>/.<sent>$ 
+1. #first -> present in all 3 dicts, still #tag !!
 
 2. post(hin) -> prep(eng) :: after-verb-->before-verb rule
-
-3. खुला --> open. intransitive verb, follows 2 paradigms!! which one to choose ?
 
 ------------------------------------------------------------
 इसके बाद अमरीकियों का पित्ज़ा प्रेम बढ़ता गया.
