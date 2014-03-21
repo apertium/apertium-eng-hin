@@ -12400,6 +12400,8 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="have">            <i>ha</i><par n="ha/ve__vblex"/></e>
 <e lm="Habib">           <i>Habib</i><par n="Mark__np"/></e>
 <e lm="habilitation">    <i>habilitation</i><par n="house__n"/></e>
+<e lm="Hispanic">        <i>Hispanic</i><par n="house__n"/></e>
+<e lm="non-Hispanic">    <i>non-Hispanic</i><par n="house__n"/></e>
 <e lm="habit">           <i>habit</i><par n="house__n"/></e>
 <e lm="habitat">         <i>habitat</i><par n="house__n"/></e>
 <e lm="habitual">        <i>habitual</i><par n="expensive__adj"/></e>

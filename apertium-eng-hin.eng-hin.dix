@@ -313,6 +313,10 @@
 
    
 	<!-- SECTION: Nouns --> 
+
+
+	<e><p><l>Hispanic<s n="n"/></l><r>लातिनी<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>non-Hispanic<s n="n"/></l><r>ग़ैर-लातिनी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>global<s n="n"/></l><r>ग्लोबल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>close<s n="n"/></l><r>समीप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>guru<s n="n"/></l><r>गुरू<s n="n"/><s n="f"/></r></p></e>

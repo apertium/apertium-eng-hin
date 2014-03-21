@@ -94,6 +94,10 @@
       <cat-item lemma="नहीं" tags="adv"/>
     </def-cat>
 
+    <def-cat n="to">
+      <cat-item lemma="to" tags="pr"/>
+    </def-cat>
+
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -1243,6 +1247,69 @@
         </out>
       </action>
     </rule>
+
+<!-- NEW RULE! 3 + 22 -->
+    <rule comment = "REGLA: vblex-impf vblex-fin to vblex-inf">
+	<pattern>
+        <pattern-item n="vblex-impf"/>
+        <pattern-item n="vbser-fin"/>
+	<pattern-item n="vblex-inf"/>
+      </pattern>
+      <action>
+        <call-macro n="conv_tense1">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="vbser_2">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="vblex-impf-fin to vblex-inf" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="sl" part="a_tense"/></tag>
+              <tag><clip pos="2" side="sl" part="a_pers"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gender"/></tag>
+              <tag><clip pos="2" side="sl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="a_tense"/>
+              <clip pos="2" side="tl" part="a_pers"/>
+              <clip pos="2" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+	    <b/>
+<!-- add V-inf here-->
+            <lu>
+	      <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="a_tense"/>
+              <clip pos="1"  side="tl"  part="lemq"/>
+            </lu>		
+          </chunk>
+        </out>
+      </action>
+
+<!-- add TO here
+      <action>
+        <out>
+          <chunk name="pr_to" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="pr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+-->
+
+
+   </rule>
+
+
 
 
     <rule comment="REGLA: post">

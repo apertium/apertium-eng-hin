@@ -4,7 +4,6 @@ each day over four crore Americans prefer eating pizza.
 
 हर रोज़  = multi-word. meaning daily/everyday (added, but still #each :/ )
 transliterate( रोज ) = rose
-Rule 24 से<vblex><tv><stem>/sit<vblex><stem> = need to be changed, because verb is "पसंद करते हैं" & से is postposition
 spectie's eg:
 input: ^खा<vblex><tv><inf><nom>$ ^पसंद कर<vblex><tv><impf><m><pl>$ ^हो<vbser><pri><p1><pl>$
 output: ^prefer<vblex><pres>$ ^to<pr>$ ^eat<vblex><inf>$  
