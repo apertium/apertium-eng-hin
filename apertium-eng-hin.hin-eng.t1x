@@ -94,9 +94,6 @@
       <cat-item lemma="नहीं" tags="adv"/>
     </def-cat>
 
-    <def-cat n="to">
-      <cat-item lemma="to" tags="pr"/>
-    </def-cat>
 
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -1249,7 +1246,7 @@
     </rule>
 
 <!-- NEW RULE! 3 + 22 -->
-    <rule comment = "REGLA: vblex-impf vblex-fin to vblex-inf">
+    <rule comment = "REGLA: vblex-impf vblex-fin vblex-inf">
 	<pattern>
         <pattern-item n="vblex-impf"/>
         <pattern-item n="vbser-fin"/>

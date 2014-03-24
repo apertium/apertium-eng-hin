@@ -10541,6 +10541,7 @@
 	<e><p><l>nutcrackers<s n="n"/></l><r>सरौता<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nutmeg<s n="n"/></l><r>जायफल<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nutrient<s n="n"/></l><r>पोषक<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>nutrient<s n="n"/></l><r>पोषक<b/>तत्व<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>nutrition<s n="n"/></l><r>पोषणअ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>nut<s n="n"/></l><r>काष्ठफल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>nut<s n="n"/></l><r>ढिबरी<s n="n"/><s n="f"/></r></p></e>
@@ -21662,7 +21663,7 @@
     <e><p><l>perennial<s n="adj"/></l><r>चिरस्थायी<s n="adj"/></r></p></e>
 	<e><p><l>perennial<s n="adj"/></l><r>बारहमासी<s n="adj"/></r></p></e>
     <e><p><l>perfect<s n="adj"/></l><r>पूर्णभूत<s n="adj"/></r></p></e>
-	<e><p><l>perfect<s n="adj"/></l><r>ही<s n="adj"/></r></p></e>
+<!--	<e><p><l>perfect<s n="adj"/></l><r>ही<s n="adj"/></r></p></e> -->
 	<e><p><l>perforated<s n="adj"/></l><r>छिद्रित<s n="adj"/></r></p></e>
 	<e><p><l>perfumed<s n="adj"/></l><r>खुशबूदार<s n="adj"/></r></p></e>
 	<e><p><l>perfunctory<s n="adj"/></l><r>यन्त्रवत्<s n="adj"/></r></p></e>
