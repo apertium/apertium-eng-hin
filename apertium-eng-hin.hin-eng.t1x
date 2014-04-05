@@ -1247,10 +1247,10 @@
 
 <!-- NEW RULE! 3 + 22 -->
     <rule comment = "REGLA: vblex-impf vblex-fin vblex-inf">
-	<pattern>
+        <pattern>
+        <pattern-item n="vblex-inf"/> 
         <pattern-item n="vblex-impf"/>
         <pattern-item n="vbser-fin"/>
-	<pattern-item n="vblex-inf"/>
       </pattern>
       <action>
         <call-macro n="conv_tense1">
@@ -1269,25 +1269,26 @@
               <tag><clip pos="2" side="sl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
               <clip pos="2" side="tl" part="a_tense"/>
               <clip pos="2" side="tl" part="a_pers"/>
               <clip pos="2" side="tl" part="a_nbr"/>
-              <clip pos="1" side="tl" part="lemq"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
-	    <b/>
+            <b/>
+            <lu><lit v="to"/><lit-tag v="pr"/></lu>
+            <b/>
 <!-- add V-inf here-->
             <lu>
-	      <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="a_tense"/>
               <clip pos="1"  side="tl"  part="lemq"/>
-            </lu>		
+            </lu>
           </chunk>
         </out>
       </action>
-
 <!-- add TO here
       <action>
         <out>
@@ -1302,8 +1303,6 @@
         </out>
       </action>
 -->
-
-
    </rule>
 
 

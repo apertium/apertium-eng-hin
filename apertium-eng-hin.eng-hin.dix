@@ -51,6 +51,8 @@
     <sdef n="tv"      c="transitive"/>
 	<sdef n="iv"      c="intransitive"/>
 	<sdef n="ord"      c="ordinal"/>
+	<sdef n="lpar"      c="Left parenthesis"/>
+	<sdef n="rpar"      c="Right parenthesis"/>
     
   </sdefs>
   <section id="main" type="standard">
@@ -38387,6 +38389,8 @@
     <!-- SECTION: Punctuation -->
 
     <e><re>[,]</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+    <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
+    <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
     <e><p><l>.<s n="sent"/></l><r>।<s n="sent"/></r></p></e>
     <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
     <e><re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
