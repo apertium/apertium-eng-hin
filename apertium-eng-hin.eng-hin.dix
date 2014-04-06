@@ -1,4 +1,4 @@
-﻿<dictionary>
+<dictionary>
   <alphabet/>
   <sdefs>
     <sdef n="np"      c="Proper noun"/>
@@ -4520,7 +4520,7 @@
     <e><p><l>cluster<s n="n"/></l><r>झुण्ड<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>clutch<s n="n"/></l><r>चंगुल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>coalition<s n="n"/></l><r>ऐक्यअ<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>coalition<s n="n"/></l><r>संगठन<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>association<s n="n"/></l><r>संगठन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>coal<s n="n"/></l><r>कोयला<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>coarseness<s n="n"/></l><r>घटियापन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>coastline<s n="n"/></l><r>तट-रेखा<s n="n"/><s n="f"/></r></p></e>
@@ -5775,7 +5775,7 @@
     <e><p><l>directorate<s n="n"/></l><r>निदेशालय<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>directorate<s n="n"/></l><r>संचालक-मंडल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>directorship<s n="n"/></l><r>निदेशक-पद<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>director<s n="n"/></l><r>अध्यक्ष<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>president<s n="n"/></l><r>अध्यक्ष<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>director<s n="n"/></l><r>डाइरेक्टर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>director<s n="n"/></l><r>निदेशक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>director<s n="n"/></l><r>संचालक<s n="n"/><s n="m"/></r></p></e>
@@ -10544,6 +10544,8 @@
     <e><p><l>nutmeg<s n="n"/></l><r>जायफल<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nutrient<s n="n"/></l><r>पोषक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>nutrient<s n="n"/></l><r>पोषक<b/>तत्व<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nutritionist<s n="n"/></l><r>आहार<b/>विशेषज्ञ<s n="n"/><s n="m"/></r></p></e>
+    
 	<e><p><l>nutrition<s n="n"/></l><r>पोषणअ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>nut<s n="n"/></l><r>काष्ठफल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>nut<s n="n"/></l><r>ढिबरी<s n="n"/><s n="f"/></r></p></e>
@@ -17305,7 +17307,7 @@
 	<e><p><l>Ganga<s n="np"/><s n="top"/></l><r>गंगा<s n="np"/><s n="top"/></r></p></e>	   
 	<e><p><l>Ganimad<s n="np"/><s n="top"/></l><r>गेनीमेड<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Gemini<s n="n"/></l><r>मिथुन<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>Gallileo<s n="np"/><s n="ant"/></l><r>गियूसपी<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Giuseppe<s n="np"/><s n="ant"/></l><r>गियूसपी<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Goliath<s n="n"/></l><r>सम्राट<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Harvey<s n="n"/></l><r>हार्वी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Hindi<s n="n"/></l><r>हिन्दी<s n="n"/><s n="f"/></r></p></e>
@@ -18048,7 +18050,7 @@
 	<e><p><l>likely<s n="adj"/></l><r>सम्भव<s n="adj"/></r></p></e>
 	<e><p><l>developing<s n="adj"/></l><r>विकासशील<s n="adj"/></r></p></e>
 	<e><p><l>kindred<s n="adj"/></l><r>सदृश<s n="adj"/></r></p></e>
-	<e><p><l>agreeable<s n="adj"/></l><r>सहमत<s n="adj"/></r></p></e>
+	<e><p><l>agree<s n="adj"/></l><r>सहमत<s n="adj"/></r></p></e>
 	<e><p><l>sovereign<s n="adj"/></l><r>शासकीय<s n="adj"/></r></p></e>
 	<e><p><l>internal<s n="adj"/></l><r>आन्तरिक<s n="adj"/></r></p></e>
 	<e><p><l>continental<s n="adj"/></l><r>महाद्वीपीय<s n="adj"/></r></p></e>
@@ -30881,7 +30883,7 @@
 	<e><p><l>fall<s n="vblex"/></l><r>कम<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>fall<s n="vblex"/></l><r>सतित्व<b/>खो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>fall<s n="vblex"/></l><r>धस<b/>जाना<s n="vblex"/><s n="iv"/></r></p></e>
-	<e><p><l>fall<s n="vblex"/></l><r>सहमत<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
+	
 	<e><p><l>fall<s n="vblex"/></l><r>गिर<b/>पड़<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>fall<s n="vblex"/></l><r>भ्रष्ट<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>fall<s n="vblex"/></l><r>कम<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
@@ -35438,6 +35440,8 @@
 	<e><p><l>save<s n="vblex"/></l><r>रक्षा<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>save<s n="vblex"/></l><r>सहायता<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>save<s n="vblex"/></l><r>सुरक्षित<b/>रखनाअ<s n="vblex"/><s n="tv"/></r></p></e>
+    <e><p><l>keep<b/>in<b/>mind<s n="vblex"/></l><r>ध्यान<b/>में<b/>रख<s n="vblex"/><s n="tv"/></r></p></e>
+    
 	<e><p><l>save<s n="vblex"/></l><r>सुरक्षित<b/>रख<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>save<s n="vblex"/></l><r>रक्षा<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>save<s n="vblex"/></l><r>जमा<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
@@ -35523,7 +35527,7 @@
 	<e><p><l>section<s n="vblex"/></l><r>विभाजित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>secure<s n="vblex"/></l><r>प्राप्त<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>secure<s n="vblex"/></l><r>सुरक्षित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>see<s n="vblex"/></l><r>महसूस<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>feel<s n="vblex"/></l><r>महसूस<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>see<s n="vblex"/></l><r>कल्पना<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>see<s n="vblex"/></l><r>विदा<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>see<s n="vblex"/></l><r>साथ<b/>दे<s n="vblex"/><s n="tv"/></r></p></e>
@@ -35534,6 +35538,9 @@
 	<e><p><l>see<s n="vblex"/></l><r>निश्चय<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>see<s n="vblex"/></l><r>देख<b/>ले<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>see<s n="vblex"/></l><r>सलाह<b/>ले<s n="vblex"/><s n="tv"/></r></p></e>
+    <e><p><l>seen<s n="vblex"/></l><r>देखा<b/>जा<s n="vblex"/><s n="iv"/></r></p></e>
+
+
 	<e><p><l>seek<s n="vblex"/></l><r>कोशिश<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>see-saw<s n="vblex"/></l><r>नीचे-ऊपर<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>see-saw<s n="vblex"/></l><r>झूमा-झूमी<b/>खेल<s n="vblex"/><s n="iv"/></r></p></e>
