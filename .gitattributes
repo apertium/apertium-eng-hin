@@ -16,7 +16,6 @@
 /apertium-eng-hin.hin-eng.t2x -text
 /apertium-eng-hin.hin-eng.t3x -text
 /apertium-eng-hin.hin-eng.t4x -text
-/apertium-eng-hin.hin.dix -text
 /apertium-eng-hin.post-eng.dix -text
 /autogen.sh -text
 /configure.ac -text
@@ -29,6 +28,7 @@ dev/testvoc/inconsistency-summary.sh -text
 dev/testvoc/inconsistency.sh -text
 dev/testvoc/testvoc-summary.hin-eng.txt -text
 dev/testvoc/testvoc.sh -text
+dev/to_merge-apertium-eng-hin.hin.dix -text
 /eng-hin.prob -text svneol=unset#unset
 /hin-eng.prob -text svneol=unset#unset
 /modes.xml -text
