@@ -76,7 +76,7 @@ then
 fi
 
 
-AP_CHECK_LING([1], [apertium-hin])
+AP_CHECK_LING([2], [apertium-hin])
 
 AP_MKINCLUDE
 
