@@ -2428,7 +2428,7 @@
 	<e><p><l>acquisition<s n="n"/></l><r>अभिग्रहण<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>acquisition<s n="n"/></l><r>अर्जन<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>acquisition<s n="n"/></l><r>संकलन<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>acquisition<s n="n"/></l><r>संपत्ति<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>assets<s n="n"/></l><r>संपत्ति<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>acquisitiveness<s n="n"/></l><r>अर्जनशीलता<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>acquittal<s n="n"/></l><r>रिहाई<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>acre<s n="n"/></l><r>एकड<s n="n"/><s n="m"/></r></p></e>
@@ -3421,6 +3421,7 @@
 	<e><p><l>billfold<s n="n"/></l><r>बटुआ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>billingsgate<s n="n"/></l><r>अश्लीलता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>billionaire<s n="n"/></l><r>अरबपति<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>billionaire<s n="n"/></l><r>बिलिनेयर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>bill<s n="n"/></l><r>फरसा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>bill<s n="n"/></l><r>विपत्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>bill<s n="n"/></l><r>हुंडी<s n="n"/><s n="f"/></r></p></e>
@@ -5974,6 +5975,7 @@
 	<e><p><l>dome<s n="n"/></l><r>डोम<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>domicile<s n="n"/></l><r>निवास-स्थान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dominance<s n="n"/></l><r>प्राबल्य<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dominance<s n="n"/></l><r>दबदबा<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dominant<s n="n"/></l><r>प्रभावशाली<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>dominant<s n="n"/></l><r>हावी<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>domination<s n="n"/></l><r>वर्चस्व<s n="n"/><s n="m"/></r></p></e>
@@ -6470,7 +6472,7 @@
     <e><p><l>essence<s n="n"/></l><r>सार<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>establishment<s n="n"/></l><r>नींव<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>establishment<s n="n"/></l><r>संस्था<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>establishment<s n="n"/></l><r>स्थान<s n="n"/><s n="m"/></r></p></e>
+<!--    <e><p><love>establishment<s n="n"/></l><r>स्थान<s n="n"/><s n="m"/></r></p></e> -->
     <e><p><l>establishment<s n="n"/></l><r>स्थापना<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>estate<s n="n"/></l><r>भूसंपत्ति<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>estate<s n="n"/></l><r>संपदा<s n="n"/><s n="f"/></r></p></e>
@@ -8031,7 +8033,7 @@
     <e><p><l>hind<s n="n"/></l><r>हिरनी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>hind<s n="n"/></l><r>हिंद<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>hinduism<s n="n"/></l><r>हिंदुत्व<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>hindu<s n="n"/></l><r>भारतीय<s n="n"/><s n="m"/></r></p></e>
+	
 	<e><p><l>hindu<s n="n"/></l><r>हिंदू<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>hip<s n="n"/></l><r>नितम्ब<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>hiss<s n="n"/></l><r>फुफकार<s n="n"/><s n="f"/></r></p></e>
@@ -8455,7 +8457,8 @@
 	<e><p><l>indian<s n="n"/></l><r>भारतवासी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>indian<s n="n"/></l><r>रुद्रजटा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>indian<s n="n"/></l><r>हिंदुस्तानी<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>india<s n="n"/></l><r>भारतवर्ष<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Indian<s n="n"/></l><r>भारतीय<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>india<s n="n"/></l><r>भारतवर्ष<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>india<s n="n"/></l><r>हिंदुस्तान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>indicative<s n="n"/></l><r>परिचायक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>indicator<s n="n"/></l><r>सूचक<s n="n"/><s n="m"/></r></p></e>
@@ -8853,7 +8856,7 @@
 	<e><p><l>journalist<s n="n"/></l><r>गजब<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>journalist<s n="n"/></l><r>पत्रकार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>journal<s n="n"/></l><r>डायरी<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>journal<s n="n"/></l><r>पत्रिका<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>magazine<s n="n"/></l><r>पत्रिका<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>journeyer<s n="n"/></l><r>मुसाफ़िर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>joy<s n="n"/></l><r>ख़ुशी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>joystick<s n="n"/></l><r>जयस्टिक<s n="n"/><s n="f"/></r></p></e>
@@ -9323,6 +9326,9 @@
 	<e><p><l>list<s n="n"/></l><r>कोर<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>list<s n="n"/></l><r>लिस्ट<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>list<s n="n"/></l><r>सूचि<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>list<s n="n"/></l><r>सूची<s n="n"/><s n="f"/></r></p></e>
+
 	<e><p><l>litany<s n="n"/></l><r>स्तुति-माला<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>literacy<s n="n"/></l><r>साक्षरता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>literati<s n="n"/></l><r>विद्वज्जन<s n="n"/><s n="m"/></r></p></e>
@@ -12954,7 +12960,7 @@
 	<e><p><l>roofing<s n="n"/></l><r>छाजन<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>roofing<s n="n"/></l><r>पाटन<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>roof<s n="n"/></l><r>तालू<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>roof<s n="n"/></l><r>शीर्ष<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>top<s n="n"/></l><r>शीर्ष<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>rook<s n="n"/></l><r>किश्ती<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>rook<s n="n"/></l><r>रूक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>rook<s n="n"/></l><r>हाथी<s n="n"/><s n="m"/></r></p></e>
@@ -15356,7 +15362,7 @@
 	<e><p><l>tichodrome<s n="n"/></l><r>टाइकोड्रोमअ<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>ticker<s n="n"/></l><r>दिल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>ticket<s n="n"/></l><r>पत्रक<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>ticket<s n="n"/></l><r>सूची<s n="n"/><s n="f"/></r></p></e>
+<!--	<e><p><l>ticket<s n="n"/></l><r>सूची<s n="n"/><s n="f"/></r></p></e> -->
 	<e><p><l>tickle<s n="n"/></l><r>गुदगुदी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>tickle<s n="n"/></l><r>चुनचुनी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>tiddlywinks<s n="n"/></l><r>टिडलीविंक्स<s n="n"/><s n="m"/></r></p></e>
@@ -17363,6 +17369,7 @@
     <e><p><l>Unionist<s n="n"/></l><r>संघवादी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>America<s n="np"/></l><r>अमेरिका<s n="np"/></r></p></e>
 	<e><p><l>America<s n="np"/></l><r>अमरीका<s n="np"/></r></p></e>
+    <e><p><l>Asia<s n="np"/></l><r>एशिया<s n="np"/></r></p></e>
     <e><p><l>Vandal<s n="n"/></l><r>वैंडाल<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>VAT<s n="n"/></l><r>वैट<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Virginia<s n="n"/></l><r>वर्जीनिया<s n="n"/><s n="f"/></r></p></e>
@@ -26235,7 +26242,7 @@
 	<e><p><l>give<s n="vblex"/></l><r>सौम्प<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>give<s n="vblex"/></l><r>निकाले<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>give<s n="vblex"/></l><r>पिघल<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>give<s n="vblex"/></l><r>कुल<s n="vblex"/><s n="iv"/></r></p></e>
+	
 	<e><p><l>give<s n="vblex"/></l><r>उचका<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>glare<s n="vblex"/></l><r>तरेर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>gleam<s n="vblex"/></l><r>चमचमा<s n="vblex"/><s n="iv"/></r></p></e>

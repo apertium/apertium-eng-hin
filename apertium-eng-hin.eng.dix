@@ -5344,6 +5344,15 @@ I can switch <subs> on and off in a ger_subs paradigm?
 <e lm="Bravo">           <i>Bravo</i><par n="Smith__np"/></e>
 <e lm="Gallileo">        <i>Gallileo</i><par n="Mark__np"/></e>
 <e lm="Russolillo">      <i>Russolillo</i><par n="Smith__np"/></e>
+<e lm="Gates">           <i>Gates</i><par n="Smith__np"/></e>
+<e lm="Forbes">          <i>Forbes</i><par n="Smith__np"/></e>
+<e lm="Ambani">          <i>Ambani</i><par n="Smith__np"/></e>
+<e lm="Mukesh">        	 <i>Mukesh</i><par n="Mark__np"/></e>
+<e lm="Zuckerberg">	 <i>Zuckerberg</i><par n="Smith__np"/></e>
+<e lm="Sandberg">	 <i>Sandberg</i><par n="Smith__np"/></e>
+<e lm="Koum">		 <i>Koum</i><par n="Smith__np"/></e>
+<e lm="Acton">		 <i>Acton</i><par n="Smith__np"/></e>
+
 
 <e lm="Brad">            <i>Brad</i><par n="Mark__np"/></e>
 <e lm="Braddey">         <i>Braddey</i><par n="Mark__np"/></e>
@@ -16083,6 +16092,11 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="Maciel">          <i>Maciel</i><par n="Mark__np"/></e>
 <e lm="Maciela">         <i>Maciela</i><par n="Mary__np"/></e>
 <e lm="Macintosh">       <i>Macintosh</i><par n="Linux__np"/></e>
+<e lm="Microsoft">       <i>Microsoft</i><par n="Linux__np"/></e>
+<e lm="Facebook">        <i>Facebook</i><par n="Linux__np"/></e>
+<e lm="WhatsApp">        <i>WhatsApp</i><par n="Linux__np"/></e>
+
+
 <e lm="Mackay">          <i>Mackay</i><par n="Ifans__np"/></e>
 <e lm="Mackenzie">       <i>Mackenzie</i><par n="Mark__np"/></e>
 <e lm="Mackenzie">       <i>Mackenzie</i><par n="Mary__np"/></e>
@@ -24564,7 +24578,8 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="Tegan">           <i>Tegan</i><par n="Mary__np"/></e>
 <e lm="Teinad">          <i>Teinad</i><par n="Mark__np"/></e>
 <e lm="telex">           <i>tel</i><par n="ind/ex__n"/></e>
-<e lm="telecommunication"><i>telecommunication</i><par n="house__n"/></e>
+<e lm="telecommunication">	<i>telecommunication</i><par n="house__n"/></e>
+<e lm="Telecom">	 <i>Telecom</i><par n="house__n"/></e>
 <e lm="teleconferencing"><i>teleconferencing</i><par n="house__n"/></e>
 <e lm="telegram">        <i>telegram</i><par n="house__n"/></e>
 <e lm="telegraph">       <i>telegraph</i><par n="house__n"/></e>
@@ -29738,6 +29753,7 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="glazier">       <i>glazier</i><par n="house__n"/></e>
 <e lm="gloaming">       <i>gloaming</i><par n="house__n"/></e>
 <e lm="glycerin">       <i>glycerin</i><par n="house__n"/></e>
+<e lm="global">          <i>global</i><par n="house__n"/></e>
 <e lm="gnat">       <i>gnat</i><par n="house__n"/></e>
 <e lm="gnosis">       <i>gnosis</i><par n="politics__n"/></e>
 <e lm="gnu">       <i>gnu</i><par n="house__n"/></e>
