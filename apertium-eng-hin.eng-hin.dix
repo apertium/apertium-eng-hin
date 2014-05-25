@@ -96,7 +96,7 @@
 
     <!-- SECTION: Postpositions -->
 
-   
+	<e><p><l>by<s n="pr"/></l><r>ने<s n="post"/></r></p></e>   
 	<e><p><l>according<s n="pr"/></l><r>अनुसार<s n="post"/></r></p></e>
 	<e><p><l>by<s n="pr"/></l><r>ने<s n="post"/></r></p></e>
 	<e><p><l>of<s n="pr"/></l><r>का<s n="post"/></r></p></e>
@@ -125,6 +125,8 @@
     <e><p><l>under<s n="pr"/></l><r>के<b/>नीचे<s n="post"/></r></p></e>
     <e><p><l>near<s n="pr"/></l><r>के<b/>पास<s n="post"/></r></p></e>
     <e><p><l>according<b/>to<s n="pr"/></l><r>के<b/>मुताबिक़<s n="post"/></r></p></e>
+    <e><p><l>during<s n="pr"/></l><r>के<b/>समय<s n="post"/></r></p></e>
+    <e><p><l>during<s n="pr"/></l><r>के<b/>दौरान<s n="post"/></r></p></e>
 
 
 
@@ -316,7 +318,7 @@
    
 	<!-- SECTION: Nouns --> 
 
-
+	<e><p><l>th<s n="n"/></l><r>वीं<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>Hispanic<s n="n"/></l><r>लातिनी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>non-Hispanic<s n="n"/></l><r>ग़ैर-लातिनी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>global<s n="n"/></l><r>ग्लोबल<s n="n"/><s n="m"/></r></p></e>
@@ -6361,7 +6363,9 @@
 	<e><p><l>engineer<s n="n"/></l><r>अभियंता<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>engineer<s n="n"/></l><r>इंजीनियर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>englishman<s n="n"/></l><r>अँग्रेज<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>englishman<s n="n"/></l><r>अंग्रेज<s n="n"/><s n="m"/></r></p></e>	
 	<e><p><l>english<s n="n"/></l><r>अँग्रेजी<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>english<s n="n"/></l><r>अंग्रेजी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>engraver<s n="n"/></l><r>उत्कीर्णक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>engraver<s n="n"/></l><r>नक्काश<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>engrossment<s n="n"/></l><r>अन्यचित्तता<s n="n"/><s n="f"/></r></p></e>
@@ -10115,7 +10119,11 @@
 	<e><p><l>monopoly<s n="n"/></l><r>एकाधिकार<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>monopoly<s n="n"/></l><r>एकाधिपत्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>monosyllable<s n="n"/></l><r>एकाक्षर<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>monsieur<s n="n"/></l><r>श्रीमान<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>monsieur<s n="n"/></l><r>श्रीमान<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>mister<s n="n"/></l><r>श्रीमान<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>Mr<s n="n"/></l><r>श्री<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>Mrs<s n="n"/></l><r>श्रीमती<s n="n"/><s n="f"/></r></p></e>
+
 	<e><p><l>monsoon<s n="n"/></l><r>मानसून<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>monsoon<s n="n"/></l><r>मानसून-काल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>monster<s n="n"/></l><r>दस्यु<s n="n"/><s n="m"/></r></p></e>
@@ -11441,7 +11449,7 @@
     <e><p><l>placenta<s n="n"/></l><r>खेडी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>placenta<s n="n"/></l><r>गर्भनाल<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>placenta<s n="n"/></l><r>नाल<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>place<s n="n"/></l><r>थान<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>place<s n="n"/></l><r>स्थान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>place<s n="n"/></l><r>नंबर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>plagiarizer<s n="n"/></l><r>चोर-लेखक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>plague<s n="n"/></l><r>प्लेग<s n="n"/><s n="m"/></r></p></e>
@@ -17292,7 +17300,7 @@
  	<e><p><l>Acton<s n="np"/><s n="cog"/></l><r>एक्टन<s n="np"/><s n="cog"/></r></p></e>
     	<e><p><l>Ambani<s n="np"/><s n="cog"/></l><r>अंबानी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>April<s n="n"/></l><r>अप्रैल<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>August<s n="n"/></l><r>अगस्त<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>August<s n="n"/></l><r>अगस्त<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Bravo<s n="np"/><s n="cog"/></l><r>ब्रावो<s n="np"/><s n="cog"/></r></p></e>	
 	<e><p><l>Brian<s n="np"/><s n="ant"/></l><r>ब्रायन<s n="np"/><s n="ant"/></r></p></e>	
 	<e><p><l>BBC<s n="n"/></l><r>बीबीसी<s n="n"/></r></p></e>
@@ -17301,13 +17309,13 @@
  	<e><p><l>Carlos<s n="np"/><s n="ant"/></l><r>कार्लोस<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>CEO<s n="n"/></l><r><s n="n"/>सीईओ<s n="GD"/></r></p></e>    
 	<e><p><l>Christianity<s n="n"/></l><r>ईसाईयतअ<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Devon<s n="n"/></l><r>डीवौन<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>DOS<s n="n"/></l><r>डस<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>Devon<s n="n"/></l><r>डीवौन<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>DOS<s n="n"/></l><r>डस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Egypt<s n="n"/></l><r>मिस्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Facebook<s n="np"/><s n="org"/></l><r>फ़ेसबुक<s n="np"/><s n="org"/></r></p></e>
-    <e><p><l>February<s n="n"/></l><r>फ़रवरी<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>February<s n="n"/></l><r>फ़रवरी<s n="n"/><s n="m"/></r></p></e>
  	<e><p><l>Forbes<s n="np"/><s n="cog"/></l><r>फोर्ब्स<s n="np"/><s n="cog"/></r></p></e>
-    <e><p><l>Friday<s n="n"/></l><r>शुक्रवार<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>Friday<s n="n"/></l><r>शुक्रवार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Gates<s n="np"/><s n="cog"/></l><r>गेट्स<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Gallileo<s n="np"/><s n="ant"/></l><r>गैलिलियो<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Ganga<s n="np"/><s n="top"/></l><r>गंगा<s n="np"/><s n="top"/></r></p></e>	   
@@ -17315,8 +17323,8 @@
 	<e><p><l>Gemini<s n="n"/></l><r>मिथुन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Giuseppe<s n="np"/><s n="ant"/></l><r>गियूसपी<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Goliath<s n="n"/></l><r>सम्राट<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Harvey<s n="n"/></l><r>हार्वी<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Hindi<s n="n"/></l><r>हिन्दी<s n="n"/><s n="f"/></r></p></e>
+    	<e><p><l>Harvey<s n="n"/></l><r>हार्वी<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>Hindi<s n="n"/></l><r>हिन्दी<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Hinduism<s n="n"/></l><r>हिन्दुत्व<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>ID<s n="n"/></l><r>परिचय<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Islam<s n="n"/></l><r>इस्लाम<s n="n"/><s n="m"/></r></p></e>
@@ -17663,7 +17671,13 @@
 	<e><p><l>Silvassa<s n="np"/><s n="top"/></l><r>सिल्वासा<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Daman<b/>and<b/>Diu<s n="np"/><s n="top"/></l><r>दमन<b/>और<b/>दीव<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Daman<s n="np"/><s n="top"/></l><r>दमन<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Delhi<b/><s n="np"/><s n="top"/></l><r>दिल्ली<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Delhi<b/><s n="np"/><s n="top"/></l><r>दिल्ली<s n="np"/><s n="top"/></r></p></e>	
+	<e><p><l>Allahabad<b/><s n="np"/><s n="top"/></l><r>इलाहाबाद<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Agra<b/><s n="np"/><s n="top"/></l><r>आगरा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Aligarh<b/><s n="np"/><s n="top"/></l><r>अलीगढ़<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Bhagalpur<b/><s n="np"/><s n="top"/></l><r>भागलपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Farrukhabad<b/><s n="np"/><s n="top"/></l><r>फर्रुखाबाद<s n="np"/><s n="top"/></r></p></e>
+	
 	<e><p><l>Lakshadeep<s n="np"/><s n="top"/></l><r>लक्षद्वीप<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Kavaratti<s n="np"/><s n="top"/></l><r>कवरेटी<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Pondicherr<s n="np"/><s n="top"/></l><r>पॉन्डीचैरी<s n="np"/><s n="top"/></r></p></e>
@@ -19438,6 +19452,7 @@
 	<e><p><l>disturbing<s n="adj"/></l><r>विक्षोभकारी<s n="adj"/></r></p></e>
     <e><p><l>diurnal<s n="adj"/></l><r>दैनिक<s n="adj"/></r></p></e>
 	<e><p><l>diverse<s n="adj"/></l><r>विविधतापूर्ण<s n="adj"/></r></p></e>
+	<e><p><l>diverse<s n="adj"/></l><r>भिन्न<s n="adj"/></r></p></e>
 	<e><p><l>divine<s n="adj"/></l><r>ईश्वरीय<s n="adj"/><s n="m"/></r></p></e>
 	<e><p><l>divisible<s n="adj"/></l><r>विभाज्य<s n="adj"/></r></p></e>
 	<e><p><l>divisional<s n="adj"/></l><r>प्रभागीय<s n="adj"/></r></p></e>
@@ -24273,7 +24288,7 @@
 	<e><p><l>varicose<s n="adj"/></l><r>अपस्फीत<s n="adj"/></r></p></e>
 	<e><p><l>varied<s n="adj"/></l><r>नानारूप<s n="adj"/><s n="m"/></r></p></e>
 	<e><p><l>variegated<s n="adj"/></l><r>रंग-बिरंगा<s n="adj"/></r></p></e>
-    <e><p><l>various<s n="adj"/></l><r>भिन्न<s n="adj"/></r></p></e>
+    <e><p><l>various<s n="adj"/></l><r>विभिन्न<s n="adj"/></r></p></e>
 	<e><p><l>varying<s n="adj"/></l><r>घटता-बढ़ता<s n="adj"/></r></p></e>
 	<e><p><l>vascular<s n="adj"/></l><r>वाहिकीय<s n="adj"/></r></p></e>
     <e><p><l>vascular<s n="adj"/></l><r>संवहनी<s n="adj"/></r></p></e>
