@@ -6634,6 +6634,7 @@
 	<e><p><l>expressiveness<s n="n"/></l><r>अभिव्यंजकता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>express<s n="n"/></l><r>इजहार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>express<s n="n"/></l><r>एक्सप्रेस<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>express<s n="n"/></l><r>एक्स्प्रेस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>express<s n="n"/></l><r>प्रकट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>expropriation<s n="n"/></l><r>सम्पत्तिहरण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>extent<s n="n"/></l><r>हद<s n="n"/><s n="m"/></r></p></e>
@@ -8039,6 +8040,8 @@
 	<e><p><l>hinduism<s n="n"/></l><r>हिंदुत्व<s n="n"/><s n="m"/></r></p></e>
 	
 	<e><p><l>hindu<s n="n"/></l><r>हिंदू<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>hindu<s n="n"/></l><r>हिन्दू<s n="n"/><s n="m"/></r></p></e>
+
 	<e><p><l>hip<s n="n"/></l><r>नितम्ब<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>hiss<s n="n"/></l><r>फुफकार<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>hiss<s n="n"/></l><r>सिसकारी<s n="n"/><s n="m"/></r></p></e>
@@ -8959,6 +8962,8 @@
 	<e><p><l>kilogram<s n="n"/></l><r>किलोग्राम<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kilohertz<s n="n"/></l><r>किलोहर्ट्झ्ॅअ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kilometre<s n="n"/></l><r>किलोमीटर<s n="n"/><s n="m"/></r></p></e>
+	    <e><p><l>kilometres<s n="n"/></l><r>किमी<s n="n"/><s n="m"/></r></p></e>
+	    <e><p><l>k.m.<s n="n"/></l><r>किमी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kilo<s n="n"/></l><r>किलो<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kilowatt<s n="n"/></l><r>किलोवाट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kilt<s n="n"/></l><r>स्कर्ट<s n="n"/><s n="f"/></r></p></e>
@@ -10123,6 +10128,8 @@
 	<e><p><l>mister<s n="n"/></l><r>श्रीमान<s n="n"/><s n="m"/></r></p></e>
     	<e><p><l>Mr<s n="n"/></l><r>श्री<s n="n"/><s n="m"/></r></p></e>
     	<e><p><l>Mrs<s n="n"/></l><r>श्रीमती<s n="n"/><s n="f"/></r></p></e>
+    	<e><p><l>Dr<s n="n"/></l><r>डॉ<s n="n"/><s n="m"/></r></p></e>
+
 
 	<e><p><l>monsoon<s n="n"/></l><r>मानसून<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>monsoon<s n="n"/></l><r>मानसून-काल<s n="n"/><s n="m"/></r></p></e>
@@ -10510,6 +10517,7 @@
 	<e><p><l>nose<s n="n"/></l><r>घ्राण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>nosewheel<s n="n"/></l><r>नासिकाचक्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>no<s n="n"/></l><r>इनकार<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>no<s n="n"/></l><r>नही<s n="n"/></r></p></e>
 	<e><p><l>nostril<s n="n"/></l><r>नासापुट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>notebook<s n="n"/></l><r>बुक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>notepad<s n="n"/></l><r>नोटपैड<s n="n"/><s n="m"/></r></p></e>
@@ -12343,8 +12351,8 @@
 	<e><p><l>railroad<s n="n"/></l><r>रेलमार्ग<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>rail<s n="n"/></l><r>छड़<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rail<s n="n"/></l><r>रेल<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>rail<s n="n"/></l><r>रेलवे<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>railway<s n="n"/></l><r>रेलमंत्री<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Railway<s n="n"/></l><r>रेलवे<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Railway<b/>Minister<s n="n"/></l><r>रेलमंत्री<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rainbow<s n="n"/></l><r>इंद्रधनुष<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>rainbow<s n="n"/></l><r>ऐरावत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>raincoat<s n="n"/></l><r>रेनकोट<s n="n"/><s n="m"/></r></p></e>
@@ -15191,7 +15199,8 @@
 	<e><p><l>temple<s n="n"/></l><r>कनपटी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>temple<s n="n"/></l><r>गिरजा-घर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>temple<s n="n"/></l><r>देवालय<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>temple<s n="n"/></l><r>मंदिर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>temple<s n="n"/></l><r>मंदिर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>temple<s n="n"/></l><r>मन्दिर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>temporal<s n="n"/></l><r>कालवाचक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>temporariness<s n="n"/></l><r>क्षणिकता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>tempo<s n="n"/></l><r>रफ़्तार<s n="n"/><s n="f"/></r></p></e>
@@ -16464,7 +16473,8 @@
 	<e><p><l>vignette<s n="n"/></l><r>लघुचित्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>vileness<s n="n"/></l><r>द्वेषपूर्णता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>village<s n="n"/></l><r>गाव<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>village<s n="n"/></l><r>गाँव<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>village<s n="n"/></l><r>गाँव<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>village<s n="n"/></l><r>गांव<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>villainess<s n="n"/></l><r>खलनायिका<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>villainousness<s n="n"/></l><r>खलनायकत्व<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>villa<s n="n"/></l><r>विला<s n="n"/><s n="m"/></r></p></e>
@@ -17677,7 +17687,9 @@
 	<e><p><l>Aligarh<b/><s n="np"/><s n="top"/></l><r>अलीगढ़<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Bhagalpur<b/><s n="np"/><s n="top"/></l><r>भागलपुर<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Farrukhabad<b/><s n="np"/><s n="top"/></l><r>फर्रुखाबाद<s n="np"/><s n="top"/></r></p></e>
-	
+	<e><p><l>Begusarai<b/><s n="np"/><s n="top"/></l><r>बेगूसराय<s n="np"/><s n="top"/></r></p></e>
+
+
 	<e><p><l>Lakshadeep<s n="np"/><s n="top"/></l><r>लक्षद्वीप<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Kavaratti<s n="np"/><s n="top"/></l><r>कवरेटी<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Pondicherr<s n="np"/><s n="top"/></l><r>पॉन्डीचैरी<s n="np"/><s n="top"/></r></p></e>
@@ -24662,7 +24674,8 @@
 	<e><p><l>where<s n="adv"/></l><r>कहाँ<s n="adv"/></r></p></e>
 	<e><p><l>why<s n="adv"/></l><r>क्यों<s n="adv"/></r></p></e>
 	<e><p><l>where<s n="adv"/></l><r>जहाँ<s n="adv"/></r></p></e>
-	<e><p><l>everywhere<s n="adv"/></l><r>सब जगह<s n="adv"/></r></p></e>
+	<e><p><l>where<s n="adv"/></l><r>जहां<s n="adv"/></r></p></e>
+	<e><p><l>everywhere<s n="adv"/></l><r>सब<b/>जगह<s n="adv"/></r></p></e>
 	<e><p><l>always<s n="adv"/></l><r>सदा<s n="adv"/></r></p></e>
 	<e><p><l>everywhere<s n="adv"/></l><r>सर्वत्र<s n="adv"/></r></p></e>
 	<e><p><l>both<s n="adv"/></l><r>दोनों<s n="adv"/></r></p></e>
@@ -24974,6 +24987,9 @@
     <e><p><l>nonchalantly<s n="adv"/></l><r>निश्चिंततापूर्वक<s n="adv"/></r></p></e>
     <e><p><l>normally<s n="adv"/></l><r>सामान्यत<s n="adv"/></r></p></e>
     <e><p><l>not<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
+
+    <e><p><l>not<s n="adv"/></l><r>नही<s n="adv"/></r></p></e>
+
     <e><p><l>now<s n="adv"/></l><r>अब<s n="adv"/></r></p></e>
     <e><p><l>now<s n="adv"/></l><r>अभी<s n="adv"/></r></p></e>
     <e><p><l>numerically<s n="adv"/></l><r>संख्यानुसार<s n="adv"/></r></p></e>
