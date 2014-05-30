@@ -8190,6 +8190,7 @@
 	<e><p><l>hotshot<s n="n"/></l><r>उस्ताद<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hound<s n="n"/></l><r>शिकारीकुत्ता<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>hourglass<s n="n"/></l><r>रेतघड़ी<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>houseboat<s n="n"/></l><r>शिकारा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>houseboat<s n="n"/></l><r>बजरा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>housebreaker<s n="n"/></l><r>सेंघमार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>housecoat<s n="n"/></l><r>हाउसकोट<s n="n"/><s n="m"/></r></p></e>
@@ -10227,6 +10228,7 @@
 	<e><p><l>mother<s n="n"/></l><r>जननी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>mother<s n="n"/></l><r>मातृ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mother<s n="n"/></l><r>माँ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Amma<s n="n"/></l><r>अम्मा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>mother<s n="n"/></l><r>मॉं<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>moth<s n="n"/></l><r>पतंगा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>moth<s n="n"/></l><r>फतिंगा<s n="n"/><s n="m"/></r></p></e>
@@ -14100,6 +14102,7 @@
 	<e><p><l>softener<s n="n"/></l><r>मृदुकारी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>softness<s n="n"/></l><r>शिथिलता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>software<s n="n"/></l><r>सॉफ्टवेयर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>software<s n="n"/></l><r>सफ़्टवेयर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>softy<s n="n"/></l><r>कमज़ोर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>soil<s n="n"/></l><r>मृदा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>soiree<s n="n"/></l><r>जेवनार<s n="n"/><s n="f"/></r></p></e>
@@ -17770,6 +17773,13 @@
 
     <!-- SECTION: Adjectives -->
 
+	<e><p><l><s n="adj"/></l><r>वाला<s n="adj"/></r></p></e> <!--issue disambiguating this!-->	
+	<e><p><l>thin<s n="adj"/></l><r>दुबला<s n="adj"/></r></p></e>	
+	<e><p><l>thin<s n="adj"/></l><r>पतला<s n="adj"/></r></p></e>	
+	<e><p><l>fair<s n="adj"/><s n="sint"/></l><r>सांवला<s n="adj"/></r></p></e>	
+	<e><p><l>fair<s n="adj"/><s n="sint"/></l><r>साँवला<s n="adj"/></r></p></e>	
+	<e><p><l>named<s n="adj"/></l><r>नामक<s n="adj"/></r></p></e>	
+	<e><p><l>residential<s n="adj"/></l><r>रिहायशी<s n="adj"/></r></p></e>	
 
 	<e><p><l>Vedic<s n="adj"/></l><r>वैदिक<s n="adj"/></r></p></e>	
 	<e><p><l>prevalent<s n="adj"/></l><r>प्रचलित<s n="adj"/></r></p></e>	
@@ -25349,7 +25359,7 @@
 	<e><p><l>show<s n="vblex"/></l><r>दिखा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>spread<s n="vblex"/></l><r>फैला<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>shake<s n="vblex"/></l><r>हिला<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>read<s n="vblex"/></l><r>पढा<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>read<s n="vblex"/></l><r>पढ़ा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>scare<s n="vblex"/></l><r>डरा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>wash<s n="vblex"/></l><r>धो<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>remove<s n="vblex"/></l><r>हटा<s n="vblex"/><s n="tv"/></r></p></e>
@@ -25973,7 +25983,7 @@
 	<e><p><l>block<s n="vblex"/></l><r>बना<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>bloom<s n="vblex"/></l><r>फूल<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>bloom<s n="vblex"/></l><r>बेहतर<s n="vblex"/><s n="iv"/></r></p></e>
-	<e><p><l>blossom<s n="vblex"/></l><r>बढ<s n="vblex"/><s n="iv"/></r></p></e>
+	<e><p><l>blossom<s n="vblex"/></l><r>बढ़<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>blow<s n="vblex"/></l><r>हाँफ<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>blow<s n="vblex"/></l><r>बज<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>blow<s n="vblex"/></l><r>उड़ा<s n="vblex"/><s n="iv"/></r></p></e>
