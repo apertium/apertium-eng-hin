@@ -325,11 +325,17 @@
 	<e><p><l>Ramayana<s n="n"/></l><r>रामायण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Mahabharata<s n="n"/></l><r>महाभारत<s n="n"/><s n="m"/></r></p></e>
 
+	<e><p><l>New<b/>Year<s n="n"/></l><r>विक्रमी<b/>संवत्<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>New<b/>Year<s n="n"/></l><r>विक्रम<b/>संवत<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>kalyuga<s n="n"/></l><r>कलियुग<s n="n"/><s n="m"/></r></p></e>
+	
+	<e><p><l>etc<s n="n"/></l><r>इत्यादि<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>etc<s n="n"/></l><r>आदि<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>th<s n="n"/></l><r>वीं<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>Hispanic<s n="n"/></l><r>लातिनी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>non-Hispanic<s n="n"/></l><r>ग़ैर-लातिनी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Tehsil<s n="n"/></l><r>तहसील<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>global<s n="n"/></l><r>ग्लोबल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Global<s n="n"/></l><r>ग्लोबल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Mandal<s n="n"/></l><r>मण्डल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Solar<b/>System<s n="n"/>सौर<b/>मण्डल</l><r><s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>close<s n="n"/></l><r>समीप<s n="n"/><s n="m"/></r></p></e>
@@ -4770,6 +4776,7 @@
 	<e><p><l>compunction<s n="n"/></l><r>मलाल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>computerization<s n="n"/></l><r>कंप्यूटरीकरण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>computer<s n="n"/></l><r>कम्पूटर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>computer<s n="n"/></l><r>कंप्यूटर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>computer<s n="n"/></l><r>गणक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>computer<s n="n"/></l><r>संगणक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>computing<s n="n"/></l><r>संगणना<s n="n"/><s n="f"/></r></p></e>
@@ -17349,6 +17356,8 @@
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गांधी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गाँधी<s n="np"/><s n="cog"/></r></p></e>
 
+	<e><p><l>John<s n="np"/><s n="ant"/></l><r>जॉन<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Vikram<s n="np"/><s n="ant"/></l><r>विक्रम<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Akbar<s n="np"/><s n="ant"/></l><r>अकबर<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Nehru<s n="np"/><s n="cog"/></l><r>नेहरू<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Premchand<s n="np"/><s n="ant"/></l><r>प्रेमचंद<s n="np"/><s n="ant"/></r></p></e>
@@ -17508,6 +17517,8 @@
 	<e><p><l>Cambodia<s n="np"/><s n="top"/></l><r>कंबोडिया<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Cameroon<s n="np"/><s n="top"/></l><r>कैम‌रून‌<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Canada<s n="np"/><s n="top"/></l><r>कैनेडा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Canada<s n="np"/><s n="top"/></l><r>कनाडा<s n="np"/><s n="top"/></r></p></e>
+
 	<e><p><l>Cape<b/>Verde<s n="np"/><s n="top"/></l><r>केप‌<b/>व‌र्द<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Cayman<b/>Islands<s n="np"/><s n="top"/></l><r>केमैन‌<b/>द्वीप‌<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Central<b/>African<b/>Republic<s n="np"/><s n="top"/></l><r>म‌ध्य‌<b/>अफ़्रीकी<b/>ग‌ण‌राज्य‌<s n="np"/><s n="top"/></r></p></e>
@@ -17748,6 +17759,8 @@
 	<e><p><l>Dehradun<s n="np"/><s n="top"/></l><r>देहरादून<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Uttar<b/>Pradesh<s n="np"/><s n="top"/></l><r>उत्तर<b/>प्रदेश<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Lucknow<s n="np"/><s n="top"/></l><r>लखनऊ<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Nainital<s n="np"/><s n="top"/></l><r>नैनीताल<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Garhwal<s n="np"/><s n="top"/></l><r>गढ़वाल<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>West<b/>Bengal<s n="np"/><s n="top"/></l><r>पश्चिम<b/>बंगाल<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Kolkata<s n="np"/><s n="top"/></l><r>कोलकाता<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Port<b/>Blair<s n="np"/><s n="top"/></l><r>पोर्ट<b/>ब्लैर<s n="np"/><s n="top"/></r></p></e>
@@ -17791,6 +17804,9 @@
 
     <!-- SECTION: Adjectives -->
 
+	<e><p><l>Solar<s n="adj"/></l><r>सौर<s n="adj"/></r></p></e>	
+	<e><p><l>aforementioned<s n="adj"/></l><r>उपरोक्त<s n="adj"/></r></p></e>	
+	<e><p><l>within<s n="adj"/></l><r>अन्तर्गत<s n="adj"/></r></p></e>	
 	<e><p><l><s n="adj"/></l><r>वाला<s n="adj"/></r></p></e> <!--issue disambiguating this!-->	
 	<e><p><l>thin<s n="adj"/></l><r>दुबला<s n="adj"/></r></p></e>	
 	<e><p><l>thin<s n="adj"/></l><r>पतला<s n="adj"/></r></p></e>	
@@ -17972,6 +17988,7 @@
 	<e><p><l>multicolored<s n="adj"/></l><r>सारंग<s n="adj"/></r></p></e>
 	<e><p><l>helpful<s n="adj"/></l><r>उपयोगी<s n="adj"/></r></p></e>
 	<e><p><l>unsuccessful<s n="adj"/></l><r>असफल<s n="adj"/></r></p></e>
+	<e><p><l>successful<s n="adj"/></l><r>सफल<s n="adj"/></r></p></e>
 	<e><p><l>ignorant<s n="adj"/></l><r>नावाकिफ<s n="adj"/></r></p></e>
 	<e><p><l>prodigal<s n="adj"/></l><r>शाहखर्च<s n="adj"/></r></p></e>
 	<e><p><l>inexplicable<s n="adj"/></l><r>निर्वचनीय<s n="adj"/></r></p></e>
@@ -22814,6 +22831,7 @@
 	<e><p><l>sinhalese<s n="adj"/></l><r>सिंहली<s n="adj"/></r></p></e>
     <e><p><l>sinister<s n="adj"/></l><r>अशुभ<s n="adj"/></r></p></e>
 	<e><p><l>situated<s n="adj"/></l><r>स्थित<s n="adj"/></r></p></e>
+
     <e><p><l>sixpenny<s n="adj"/></l><r>सस्ता<s n="adj"/></r></p></e>
 	<e><p><l>sixteenth<s n="adj"/></l><r>सोलहवाँ<s n="adj"/></r></p></e>
 	<e><p><l>sixth<s n="adj"/></l><r>छठी<s n="adj"/><s n="f"/></r></p></e>
