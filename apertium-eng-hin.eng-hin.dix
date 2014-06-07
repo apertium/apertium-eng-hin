@@ -328,7 +328,10 @@
 	<e><p><l>th<s n="n"/></l><r>वीं<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>Hispanic<s n="n"/></l><r>लातिनी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>non-Hispanic<s n="n"/></l><r>ग़ैर-लातिनी<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Tehsil<s n="n"/></l><r>तहसील<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>global<s n="n"/></l><r>ग्लोबल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Mandal<s n="n"/></l><r>मण्डल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Solar<b/>System<s n="n"/>सौर<b/>मण्डल</l><r><s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>close<s n="n"/></l><r>समीप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>guru<s n="n"/></l><r>गुरू<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>pay<s n="n"/></l><r>पे<s n="n"/><s n="m"/></r></p></e>
@@ -3946,8 +3949,11 @@
 	<e><p><l>calculus<s n="n"/></l><r>कैलकुलस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>calculus<s n="n"/></l><r>पथरी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>calculus<s n="n"/></l><r>युक्ति-भाषा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>calendar<s n="n"/></l><r>पंचाग<s n="n"/><s n="m"/></r></p></e>
+
 	<e><p><l>calendar<s n="n"/></l><r>कलेंडर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>calendar<s n="n"/></l><r>कैलेंडर<s n="n"/><s n="m"/></r></p></e>
+	    <e><p><l>calendar<s n="n"/></l><r>कलेण्डर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>calendar<s n="n"/></l><r>कैलंडर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>calendar<s n="n"/></l><r>तालिका<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>calendar<s n="n"/></l><r>तिथिपत्र<s n="n"/><s n="m"/></r></p></e>
@@ -17332,12 +17338,22 @@
 
     <!-- SECTION: Proper nouns -->
 
+
+ 	<e><p><l>Jesus<b/>Christ<s n="np"/></l><r>ईसा<b/>मसीह<s n="np"/></r></p></e>
+ 	<e><p><l>Jesus<s n="np"/></l><r>ईसा<s n="np"/></r></p></e>
+
  	<e><p><l>Mary<s n="np"/><s n="ant"/></l><r>मैरी<s n="np"/><s n="ant"/></r></p></e>
  	<e><p><l>James<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Krishna<s n="np"/><s n="ant"/></l><r>कृष्णा<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Krishna<s n="np"/><s n="ant"/></l><r>कृष्ण<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गांधी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गाँधी<s n="np"/><s n="cog"/></r></p></e>
+
+	<e><p><l>Akbar<s n="np"/><s n="ant"/></l><r>अकबर<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Nehru<s n="np"/><s n="cog"/></l><r>नेहरू<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Premchand<s n="np"/><s n="ant"/></l><r>प्रेमचंद<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Amitabh<s n="np"/><s n="ant"/></l><r>अमिताभ<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Bachchan<s n="np"/><s n="cog"/></l><r>बच्चन<s n="np"/><s n="cog"/></r></p></e>
 
 	<e><p><l>Vishnu<s n="np"/><s n="ant"/></l><r>विष्णु<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Kumar<s n="np"/><s n="cog"/></l><r>कुमार<s n="np"/><s n="cog"/></r></p></e>
@@ -17366,7 +17382,8 @@
 	<e><p><l>Egypt<s n="np"/><s n="top"/></l><r>मिस्र<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Facebook<s n="np"/><s n="org"/></l><r>फ़ेसबुक<s n="np"/><s n="org"/></r></p></e>
 	<e><p><l>Wikipedia<s n="np"/><s n="org"/></l><r>विकिपीडिया<s n="np"/><s n="org"/></r></p></e>
-    	<e><p><l>February<s n="n"/></l><r>फ़रवरी<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Google<s n="np"/><s n="org"/></l><r>गूगल<s n="np"/><s n="org"/></r></p></e>
+	<e><p><l>February<s n="n"/></l><r>फ़रवरी<s n="n"/><s n="m"/></r></p></e>
  	<e><p><l>Forbes<s n="np"/><s n="cog"/></l><r>फोर्ब्स<s n="np"/><s n="cog"/></r></p></e>
     	<e><p><l>Friday<s n="n"/></l><r>शुक्रवार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Gates<s n="np"/><s n="cog"/></l><r>गेट्स<s n="np"/><s n="cog"/></r></p></e>
@@ -17704,6 +17721,7 @@
 	<e><p><l>Kerala<s n="np"/><s n="top"/></l><r>केरल<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Thiruvananthapuram<s n="np"/><s n="top"/></l><r>तिरुवनंतपुरम<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Madhya<b/>Pradesh<s n="np"/><s n="top"/></l><r>मध्य<b/>प्रदेश<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Uttrakhand<s n="np"/><s n="top"/></l><r>उत्तराखण्ड<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Bhopal<s n="np"/><s n="top"/></l><r>भोपाल<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Maharashtra<s n="np"/><s n="top"/></l><r>महाराष्ट्र<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Mumbai<s n="np"/><s n="top"/></l><r>मुम्बई<s n="np"/><s n="top"/></r></p></e>
@@ -18658,6 +18676,8 @@
     <e><p><l>baroque<s n="adj"/></l><r>अत्यलंकृत<s n="adj"/></r></p></e>
     <e><p><l>barren<s n="adj"/><s n="sint"/></l><r>ऊसर<s n="adj"/></r></p></e>
 	<e><p><l>based<s n="adj"/></l><r>आधारित<s n="adj"/></r></p></e>
+	<e><p><l>based<s n="adj"/></l><r>अधारित<s n="adj"/></r></p></e>
+
     <e><p><l>baseless<s n="adj"/></l><r>निराधार<s n="adj"/></r></p></e>
 	<e><p><l>basic<s n="adj"/></l><r>बुनियादी<s n="adj"/></r></p></e>
     <e><p><l>basic<s n="adj"/></l><r>मूलतत्त्व<s n="adj"/></r></p></e>
