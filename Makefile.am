@@ -37,10 +37,10 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
 	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
 
-$(PREFIX1).autogen.bin: $(AP_LIB2)/$(LANG2).autogen.bin
+$(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
 	cp $< $@
 
-$(PREFIX2).automorf.bin: $(AP_LIB2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
 
 $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
