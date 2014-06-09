@@ -324,7 +324,8 @@
 
 	<e><p><l>Ramayana<s n="n"/></l><r>रामायण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Mahabharata<s n="n"/></l><r>महाभारत<s n="n"/><s n="m"/></r></p></e>
-
+	<e><p><l>Lok<b/>Sabha<s n="n"/></l><r>लोकसभा<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>Lok<b/>Sabha<s n="n"/></l><r>लोक<b/>सभा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>New<b/>Year<s n="n"/></l><r>विक्रमी<b/>संवत्<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>New<b/>Year<s n="n"/></l><r>विक्रम<b/>संवत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kalyuga<s n="n"/></l><r>कलियुग<s n="n"/><s n="m"/></r></p></e>
@@ -4776,6 +4777,7 @@
 	<e><p><l>compunction<s n="n"/></l><r>मलाल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>computerization<s n="n"/></l><r>कंप्यूटरीकरण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>computer<s n="n"/></l><r>कम्पूटर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>computer<s n="n"/></l><r>कम्प्यूटर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>computer<s n="n"/></l><r>कंप्यूटर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>computer<s n="n"/></l><r>गणक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>computer<s n="n"/></l><r>संगणक<s n="n"/><s n="m"/></r></p></e>
@@ -17349,6 +17351,7 @@
  	<e><p><l>Jesus<b/>Christ<s n="np"/></l><r>ईसा<b/>मसीह<s n="np"/></r></p></e>
  	<e><p><l>Jesus<s n="np"/></l><r>ईसा<s n="np"/></r></p></e>
 
+ 	<e><p><l>Gregory<s n="np"/><s n="ant"/></l><r>ग्रेगोरी<s n="np"/><s n="ant"/></r></p></e>
  	<e><p><l>Mary<s n="np"/><s n="ant"/></l><r>मैरी<s n="np"/><s n="ant"/></r></p></e>
  	<e><p><l>James<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Krishna<s n="np"/><s n="ant"/></l><r>कृष्णा<s n="np"/><s n="ant"/></r></p></e>
@@ -17356,6 +17359,10 @@
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गांधी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गाँधी<s n="np"/><s n="cog"/></r></p></e>
 
+	<e><p><l>George<s n="np"/><s n="ant"/></l><r>जॉर्ज<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>David<s n="np"/><s n="ant"/></l><r>डेविड<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Charles<s n="np"/></l><r>चार्ल्स<s n="np"/></r></p></e>
+	<e><p><l>Arjun<s n="np"/><s n="ant"/></l><r>अर्जुन<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>John<s n="np"/><s n="ant"/></l><r>जॉन<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Vikram<s n="np"/><s n="ant"/></l><r>विक्रम<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Akbar<s n="np"/><s n="ant"/></l><r>अकबर<s n="np"/><s n="ant"/></r></p></e>
@@ -17410,7 +17417,7 @@
 	<e><p><l>Jan<s n="np"/><s n="ant"/></l><r>जैन<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Jain<s n="np"/><s n="cog"/></l><r>जैन<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>June<s n="n"/></l><r>जून<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>Kabir<s n="np"/><s n="top"/></l><r>कबीर<s n="np"/><s n="top"/></r></p></e>	   
+	<e><p><l>Kabir<s n="np"/><s n="ant"/></l><r>कबीर<s n="np"/><s n="ant"/></r></p></e>	   
 	<e><p><l>Kajol<s n="np"/><s n="ant"/></l><r>काजोल<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 	<e><p><l>Koum<s n="np"/><s n="cog"/></l><r>कुआम<s n="np"/><s n="cog"/></r></p></e>
 
@@ -17581,7 +17588,8 @@
 	<e><p><l>Iran<s n="np"/><s n="top"/></l><r>ईरान<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Ireland<s n="np"/><s n="top"/></l><r>आय‌र‌लैंड‌<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Israel<s n="np"/><s n="top"/></l><r>इस्राईल‌<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Italy<s n="np"/><s n="top"/></l><r>इट‌ली<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Italy<s n="np"/><s n="top"/></l><r>इट‌ली<s n="np"/><s n="top"/></r></p></e> <!-- ZWNJ-->
+	<e><p><l>Italy<s n="np"/><s n="top"/></l><r>इटली<s n="np"/><s n="top"/></r></p></e> 
 	<e><p><l>Jamaica<s n="np"/><s n="top"/></l><r>जमाइका<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Japan<s n="np"/><s n="top"/></l><r>जापान‌<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Jordan<s n="np"/><s n="top"/></l><r>जोर्ड‌न‌<s n="np"/><s n="top"/></r></p></e>
@@ -17667,6 +17675,7 @@
 	<e><p><l>Somalia<s n="np"/><s n="top"/></l><r>सोमालिया<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>South<b/>Africa<s n="np"/><s n="top"/></l><r>द‌क्षिण‌<b/>अफ़्रीका<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Spain<s n="np"/><s n="top"/></l><r>स्पेन‌<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Spain<s n="np"/><s n="top"/></l><r>स्पेन<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Sri<b/>Lanka<s n="np"/><s n="top"/></l><r>श्रीलंका<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Sudan<s n="np"/><s n="top"/></l><r>सुदान<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Suriname<s n="np"/><s n="top"/></l><r>सूरीनाम‌<s n="np"/><s n="top"/></r></p></e>
@@ -17759,6 +17768,11 @@
 	<e><p><l>Dehradun<s n="np"/><s n="top"/></l><r>देहरादून<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Uttar<b/>Pradesh<s n="np"/><s n="top"/></l><r>उत्तर<b/>प्रदेश<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Lucknow<s n="np"/><s n="top"/></l><r>लखनऊ<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Yamkeshwar<s n="np"/><s n="top"/></l><r>यमकेश्वर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Bageshwar<s n="np"/><s n="top"/></l><r>बागेश्वर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Chamoli<s n="np"/><s n="top"/></l><r>चमोली<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Almora<s n="np"/><s n="top"/></l><r>अल्मोड़ा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Kannauj<s n="np"/><s n="top"/></l><r>कन्नौज<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Nainital<s n="np"/><s n="top"/></l><r>नैनीताल<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Garhwal<s n="np"/><s n="top"/></l><r>गढ़वाल<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>West<b/>Bengal<s n="np"/><s n="top"/></l><r>पश्चिम<b/>बंगाल<s n="np"/><s n="top"/></r></p></e>
@@ -17804,6 +17818,7 @@
 
     <!-- SECTION: Adjectives -->
 
+	<e><p><l>resultant<s n="adj"/></l><r>परिणामस्वरूप<s n="adj"/></r></p></e>	
 	<e><p><l>Solar<s n="adj"/></l><r>सौर<s n="adj"/></r></p></e>	
 	<e><p><l>aforementioned<s n="adj"/></l><r>उपरोक्त<s n="adj"/></r></p></e>	
 	<e><p><l>within<s n="adj"/></l><r>अन्तर्गत<s n="adj"/></r></p></e>	
