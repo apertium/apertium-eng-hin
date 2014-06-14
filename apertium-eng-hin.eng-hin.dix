@@ -10117,8 +10117,8 @@
 	<e><p><l>modulation<s n="n"/></l><r>स्वर-सामंजस्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>module<s n="n"/></l><r>इकाई<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>module<s n="n"/></l><r>मडूलअ<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>mogul<s n="n"/></l><r>मुगल<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>mohammed<s n="n"/></l><r>मुहम्मद<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Mughal<s n="n"/></l><r>मुगल<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Muhammed<s n="n"/></l><r>मुहम्मद<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>molar<s n="n"/></l><r>दाढ<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>molar<s n="n"/></l><r>दाढ़<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>molasses<s n="n"/></l><r>राब<s n="n"/><s n="f"/></r></p></e>
@@ -17358,10 +17358,33 @@
 	<e><p><l>Krishna<s n="np"/><s n="ant"/></l><r>कृष्ण<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गांधी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गाँधी<s n="np"/><s n="cog"/></r></p></e>
-
+	<e><p><l>Patel<s n="np"/><s n="cog"/></l><r>पटेल<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>George<s n="np"/><s n="ant"/></l><r>जॉर्ज<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>David<s n="np"/><s n="ant"/></l><r>डेविड<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Bharat<s n="np"/><s n="ant"/></l><r>भरत<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Indira<s n="np"/><s n="ant"/></l><r>इंदिरा<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Duryodhana<s n="np"/><s n="ant"/></l><r>दुर्योधन<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Charles<s n="np"/></l><r>चार्ल्स<s n="np"/></r></p></e>
+
+	<e><p><l>Draupadi<s n="np"/><s n="ant"/></l><r>द्रौपदी<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Abdul<s n="np"/><s n="ant"/></l><r>अब्दुल<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Laxman<s n="np"/><s n="ant"/></l><r>लक्ष्मण<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Jawaharlal<s n="np"/><s n="ant"/></l><r>जवाहरलाल<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Tulsidas<s n="np"/><s n="ant"/></l><r>तुलसीदास<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Hanuman<s n="np"/><s n="ant"/></l><r>हनुमान<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Sachin<s n="np"/><s n="ant"/></l><r>सचिन<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Ravana<s n="np"/><s n="ant"/></l><r>रावण<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Obama<s n="np"/><s n="ant"/></l><r>ओबामा<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Bhishma<s n="np"/><s n="ant"/></l><r>भीष्म<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Valmiki<s n="np"/><s n="ant"/></l><r>वाल्मीकि<s n="np"/><s n="ant"/></r></p></e>
+
+	<e><p><l>Dutt<s n="np"/><s n="cog"/></l><r>दत्त<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Tendulkar<s n="np"/><s n="cog"/></l><r>तेंडुलकर<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Kalam<s n="np"/><s n="cog"/></l><r>कलाम<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Chawla<s n="np"/><s n="cog"/></l><r>चावला<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Mohammed<s n="np"/></l><r>मोहम्मद<s n="np"/></r></p></e>
+	<e><p><l>Bose<s n="np"/><s n="cog"/></l><r>बोस<s n="np"/><s n="cog"/></r></p></e>
+	
 	<e><p><l>Arjun<s n="np"/><s n="ant"/></l><r>अर्जुन<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>John<s n="np"/><s n="ant"/></l><r>जॉन<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Vikram<s n="np"/><s n="ant"/></l><r>विक्रम<s n="np"/><s n="ant"/></r></p></e>
