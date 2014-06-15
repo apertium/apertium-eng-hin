@@ -329,7 +329,12 @@
 	<e><p><l>New<b/>Year<s n="n"/></l><r>विक्रमी<b/>संवत्<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>New<b/>Year<s n="n"/></l><r>विक्रम<b/>संवत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kalyuga<s n="n"/></l><r>कलियुग<s n="n"/><s n="m"/></r></p></e>
-	
+	<e><p><l>crease<s n="n"/></l><r>क्रीज<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>crease<s n="n"/></l><r>क्रीज़<s n="n"/><s n="m"/></r></p></e>
+
+	<e><p><l>Soviet<b/>Union<s n="n"/></l><r>सोविएत<b/>संघ<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Supreme<b/>Court<s n="n"/></l><r>सुप्रीम<b/>कोर्ट<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Times<s n="n"/></l><r>टाइम्स<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>etc<s n="n"/></l><r>इत्यादि<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>etc<s n="n"/></l><r>आदि<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>th<s n="n"/></l><r>वीं<s n="n"/><s n="f"/></r></p></e>
@@ -2063,6 +2068,7 @@
 	<e><p><l>deduction<s n="n"/></l><r>निगमन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>thermodynamics<s n="n"/></l><r>उष्मागतिकी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>internet<s n="n"/></l><r>अन्तरजाल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>internet<s n="n"/></l><r>इंटरनेट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>sun<s n="n"/></l><r>अवि<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>object<s n="n"/></l><r>हेतू<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>boyfriend<s n="n"/></l><r>सनम<s n="n"/><s n="m"/></r></p></e>
@@ -3535,6 +3541,7 @@
 	<e><p><l>block<s n="n"/></l><r>मुश्त<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>blog<s n="n"/></l><r>चिट्ठा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>blog<s n="n"/></l><r>ब्लौग<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>blog<s n="n"/></l><r>ब्लॉग<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bloodshed<s n="n"/></l><r>रक्तपात<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>blood<s n="n"/></l><r>खानदान<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>blood<s n="n"/></l><r>खून<s n="n"/><s n="m"/></r></p></e>
@@ -3690,6 +3697,7 @@
 	<e><p><l>box<s n="n"/></l><r>पेटी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>box<s n="n"/></l><r>बकस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>box<s n="n"/></l><r>बक्स<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>box<s n="n"/></l><r>बॉक्स<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>boycott<s n="n"/></l><r>बायकाट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>boycott<s n="n"/></l><r>वहिष्कार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>boyhood<s n="n"/></l><r>लड़कपन<s n="n"/><s n="m"/></r></p></e>
@@ -10097,6 +10105,7 @@
 	<e><p><l>modelling<s n="n"/></l><r>मडलिंग<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>model<s n="n"/></l><r>मडल<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>model<s n="n"/></l><r>माडल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>model<s n="n"/></l><r>मॉडल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>modem<s n="n"/></l><r>मोडम<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>moderate<s n="n"/></l><r>मध्यम<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>moderator<s n="n"/></l><r>धर्माधिकारी<s n="n"/><s n="m"/></r></p></e>
@@ -10118,6 +10127,7 @@
 	<e><p><l>module<s n="n"/></l><r>इकाई<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>module<s n="n"/></l><r>मडूलअ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Mughal<s n="n"/></l><r>मुगल<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Mughal<s n="n"/></l><r>मुग़ल<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Muhammed<s n="n"/></l><r>मुहम्मद<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>molar<s n="n"/></l><r>दाढ<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>molar<s n="n"/></l><r>दाढ़<s n="n"/><s n="f"/></r></p></e>
@@ -10464,7 +10474,10 @@
 	<e><p><l>netball<s n="n"/></l><r>नेटबल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>net<s n="n"/></l><r>क़िमत<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>nets<s n="n"/></l><r>मच्छरदानी<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>network<s n="n"/></l><r>जाल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>network<s n="n"/></l><r>जाल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>network<s n="n"/></l><r>नेटवर्क<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>unicode<s n="n"/></l><r>यूनिकोड<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>channel<s n="n"/></l><r>चैनल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>neuralgia<s n="n"/></l><r>तंत्रिकाशूलअ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>neuritis<s n="n"/></l><r>तंत्रिका-शोथ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>neurologist<s n="n"/></l><r>तंत्रिका-विज्ञानी<s n="n"/><s n="m"/></r></p></e>
@@ -10712,6 +10725,7 @@
 	<e><p><l>officer<s n="n"/></l><r>अफसर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>officer<s n="n"/></l><r>आफिसर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>officer<s n="n"/></l><r>ऑफिसर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>office<s n="n"/></l><r>ऑफिस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>office<s n="n"/></l><r>आफिस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>office<s n="n"/></l><r>दफ्तर<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>office<s n="n"/></l><r>दफ़्तर<s n="n"/><s n="m"/></r></p></e>
@@ -10943,6 +10957,7 @@
 	<e><p><l>palace<s n="n"/></l><r>बँगला<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>palace<s n="n"/></l><r>राजभवन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>palace<s n="n"/></l><r>राजमहल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Palace<s n="n"/></l><r>पैलेस<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palatal<s n="n"/></l><r>तालव्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>palate<s n="n"/></l><r>तालु<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paleness<s n="n"/></l><r>पीलापन<s n="n"/><s n="m"/></r></p></e>
@@ -11478,6 +11493,7 @@
 	<e><p><l>pitcher<s n="n"/></l><r>मटकी<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pitchfork<s n="n"/></l><r>जेली<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>pitch<s n="n"/></l><r>अलकतरा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>pitch<s n="n"/></l><r>पिच<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>pitch<s n="n"/></l><r>प्रकाष्ठा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>pitch<s n="n"/></l><r>विक्रय-वार्ता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>pith<s n="n"/></l><r>मज्जा<s n="n"/><s n="f"/></r></p></e>
@@ -14463,6 +14479,7 @@
 	<e><p><l>starlet<s n="n"/></l><r>तारिका<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>starling<s n="n"/></l><r>तिलियर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>starling<s n="n"/></l><r>सारिका<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>star<s n="n"/></l><r>स्टार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>star<s n="n"/></l><r>तारक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>star<s n="n"/></l><r>तारा<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>star<s n="n"/></l><r>नक्षत्र<s n="n"/><s n="m"/></r></p></e>
@@ -15988,6 +16005,7 @@
 	<e><p><l>tuxedo<s n="n"/></l><r>टक्सीडो<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>tux<s n="n"/></l><r>टक्स<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tv<s n="n"/></l><r>दूरदर्शन<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>TV<s n="n"/></l><r>टीवी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>twang<s n="n"/></l><r>टंकार<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>tweak<s n="n"/></l><r>चिकोटी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>tweed<s n="n"/></l><r>ट्वीड<s n="n"/><s n="m"/></r></p></e>
@@ -16506,6 +16524,7 @@
 	<e><p><l>victualer<s n="n"/></l><r>रसद-संभरक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>videocassette<s n="n"/></l><r>वीडियोकैसेट<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>video<s n="n"/></l><r>वीडियो<s n="n"/><s n="m"/></r></p></e>
+ 	<e><p><l>video<s n="n"/></l><r>विडियो<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>videotape<s n="n"/></l><r>वीडियोटेप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>viewer<s n="n"/></l><r>व्यूअर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>viewing<s n="n"/></l><r>शोक-प्रदर्शन<s n="n"/><s n="m"/></r></p></e>
@@ -16851,7 +16870,8 @@
 	<e><p><l>weaver<s n="n"/></l><r>बुनकर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>weave<s n="n"/></l><r>बुनावट<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>weber<s n="n"/></l><r>वेबर<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>webmaster<s n="n"/></l><r>टर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>webmaster<s n="n"/></l><r>वेबमास्टर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>website<s n="n"/></l><r>वेबसाइट<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wedding<s n="n"/></l><r>विवाह<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>wedge<s n="n"/></l><r>रुखानी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>wedge<s n="n"/></l><r>वैज<s n="n"/><s n="m"/></r></p></e>
@@ -17132,6 +17152,7 @@
 	<e><p><l>world<s n="n"/></l><r>दुनिया<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>world<s n="n"/></l><r>पृथ्वी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>world<s n="n"/></l><r>संसार<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>world<s n="n"/></l><r>वर्ल्ड<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wormhole<s n="n"/></l><r>सूराख<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>worm<s n="n"/></l><r>कीड़ा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>worm<s n="n"/></l><r>वर्म<s n="n"/><s n="m"/></r></p></e>
@@ -17366,6 +17387,12 @@
 	<e><p><l>Duryodhana<s n="np"/><s n="ant"/></l><r>दुर्योधन<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Charles<s n="np"/></l><r>चार्ल्स<s n="np"/></r></p></e>
 
+	<e><p><l>Nobel<s n="np"/><s n="ant"/></l><r>नोबेल<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Mumtaz<s n="np"/><s n="ant"/></l><r>मुमताज<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Ganesh<s n="np"/><s n="ant"/></l><r>गणेश<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Aishwarya<s n="np"/><s n="ant"/></l><r>ऐश्वर्या<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Hitler<s n="np"/><s n="cog"/></l><r>हिटलर<s n="np"/><s n="cog"/></r></p></e>
+
 	<e><p><l>Draupadi<s n="np"/><s n="ant"/></l><r>द्रौपदी<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Abdul<s n="np"/><s n="ant"/></l><r>अब्दुल<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Laxman<s n="np"/><s n="ant"/></l><r>लक्ष्मण<s n="np"/><s n="ant"/></r></p></e>
@@ -17378,6 +17405,7 @@
 	<e><p><l>Bhishma<s n="np"/><s n="ant"/></l><r>भीष्म<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Valmiki<s n="np"/><s n="ant"/></l><r>वाल्मीकि<s n="np"/><s n="ant"/></r></p></e>
 
+	<e><p><l>Rafi<s n="np"/><s n="cog"/></l><r>रफ़ी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Dutt<s n="np"/><s n="cog"/></l><r>दत्त<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Tendulkar<s n="np"/><s n="cog"/></l><r>तेंडुलकर<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Kalam<s n="np"/><s n="cog"/></l><r>कलाम<s n="np"/><s n="cog"/></r></p></e>
@@ -17422,6 +17450,7 @@
 	<e><p><l>Facebook<s n="np"/><s n="org"/></l><r>फ़ेसबुक<s n="np"/><s n="org"/></r></p></e>
 	<e><p><l>Wikipedia<s n="np"/><s n="org"/></l><r>विकिपीडिया<s n="np"/><s n="org"/></r></p></e>
 	<e><p><l>Google<s n="np"/><s n="org"/></l><r>गूगल<s n="np"/><s n="org"/></r></p></e>
+	<e><p><l>YouTube<s n="np"/><s n="org"/></l><r>यूट्यूब<s n="np"/><s n="org"/></r></p></e>
 	<e><p><l>February<s n="n"/></l><r>फ़रवरी<s n="n"/><s n="m"/></r></p></e>
  	<e><p><l>Forbes<s n="np"/><s n="cog"/></l><r>फोर्ब्स<s n="np"/><s n="cog"/></r></p></e>
     	<e><p><l>Friday<s n="n"/></l><r>शुक्रवार<s n="n"/><s n="m"/></r></p></e>
@@ -21661,6 +21690,8 @@
 	<e><p><l>omniscient<s n="adj"/></l><r>सर्वदर्शी<s n="adj"/></r></p></e>
 	<e><p><l>omnivorous<s n="adj"/></l><r>सर्वभक्षी<s n="adj"/></r></p></e>
 	<e><p><l>online<s n="adj"/></l><r>ऑन-लाइन<s n="adj"/></r></p></e>
+	<e><p><l>online<s n="adj"/></l><r>आनलाइन<s n="adj"/></r></p></e>
+	<e><p><l>online<s n="adj"/></l><r>ऑनलाइन<s n="adj"/></r></p></e>
 	<e><p><l>only<s n="adj"/></l><r>इकलौता<s n="adj"/></r></p></e>
 	<e><p><l>only<s n="adj"/></l><r>महज<s n="adj"/></r></p></e>
 	<e><p><l>only<s n="adj"/></l><r>मात्र<s n="adj"/></r></p></e>
