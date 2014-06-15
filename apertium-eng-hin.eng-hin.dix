@@ -322,6 +322,7 @@
    
 	<!-- SECTION: Nouns --> 
 
+	<e><p><l>Ramacharitmanas<s n="n"/></l><r>रामचरितमानस<s n="n"/><s n="m"/></r></p></e>	
 	<e><p><l>Ramayana<s n="n"/></l><r>रामायण<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Mahabharata<s n="n"/></l><r>महाभारत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Lok<b/>Sabha<s n="n"/></l><r>लोकसभा<s n="n"/><s n="f"/></r></p></e>
@@ -2069,6 +2070,7 @@
 	<e><p><l>thermodynamics<s n="n"/></l><r>उष्मागतिकी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>internet<s n="n"/></l><r>अन्तरजाल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>internet<s n="n"/></l><r>इंटरनेट<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>internet<s n="n"/></l><r>इन्टरनेट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>sun<s n="n"/></l><r>अवि<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>object<s n="n"/></l><r>हेतू<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>boyfriend<s n="n"/></l><r>सनम<s n="n"/><s n="m"/></r></p></e>
@@ -8998,7 +9000,6 @@
 	<e><p><l>key<s n="n"/></l><r>चाभी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>keyword<s n="n"/></l><r>संकेतशब्द<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>khaddar<s n="n"/></l><r>खादी<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>khan<s n="n"/></l><r>खाँ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>khis<s n="n"/></l><r>खहिश<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kick<s n="n"/></l><r>किक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kick<s n="n"/></l><r>लात<s n="n"/><s n="f"/></r></p></e>
@@ -17377,6 +17378,7 @@
  	<e><p><l>James<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Krishna<s n="np"/><s n="ant"/></l><r>कृष्णा<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Krishna<s n="np"/><s n="ant"/></l><r>कृष्ण<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Shri Krishna<s n="np"/><s n="ant"/></l><r>श्रीकृष्ण<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गांधी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गाँधी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Patel<s n="np"/><s n="cog"/></l><r>पटेल<s n="np"/><s n="cog"/></r></p></e>
@@ -17386,12 +17388,31 @@
 	<e><p><l>Indira<s n="np"/><s n="ant"/></l><r>इंदिरा<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Duryodhana<s n="np"/><s n="ant"/></l><r>दुर्योधन<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Charles<s n="np"/></l><r>चार्ल्स<s n="np"/></r></p></e>
+<e><p><l>Surdas<s n="np"/><s n="ant"/></l><r>सूरदास<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Julian<s n="np"/><s n="ant"/></l><r>जूलियन<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>William<s n="np"/><s n="ant"/></l><r>विलियम<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Michael<s n="np"/><s n="ant"/></l><r>माइकल<s n="np"/><s n="ant"/></r></p></e>
 
+<e><p><l>Henry<s n="np"/><s n="ant"/></l><r>हेनरी<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Mahatma<s n="np"/><s n="ant"/></l><r>महात्मा<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Paul<s n="np"/><s n="ant"/></l><r>पॉल<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Robert<s n="np"/><s n="ant"/></l><r>रॉबर्ट<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Bhagat<s n="np"/><s n="ant"/></l><r>भगत<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Buddha<s n="np"/><s n="ant"/></l><r>बुद्ध<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Shah Jahan<s n="np"/><s n="ant"/></l><r>शाहजहाँ<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Laxmibai<s n="np"/><s n="ant"/></l><r>लक्ष्मीबाई<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Jhansi<s n="np"/><s n="ant"/></l><r>झाँसी<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Indra<s n="np"/><s n="ant"/></l><r>इन्द्र<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Mohan<s n="np"/><s n="ant"/></l><r>मोहन<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Vedvyas<s n="np"/><s n="ant"/></l><r>वेदव्यास<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Gautam<s n="np"/><s n="ant"/></l><r>गौतम<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Nobel<s n="np"/><s n="ant"/></l><r>नोबेल<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Mumtaz<s n="np"/><s n="ant"/></l><r>मुमताज<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Ganesh<s n="np"/><s n="ant"/></l><r>गणेश<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Aishwarya<s n="np"/><s n="ant"/></l><r>ऐश्वर्या<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Hitler<s n="np"/><s n="cog"/></l><r>हिटलर<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Khan<s n="np"/><s n="cog"/></l><r>खाँ<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Khan<s n="np"/><s n="cog"/></l><r>खां<s n="np"/><s n="cog"/></r></p></e>
 
 	<e><p><l>Draupadi<s n="np"/><s n="ant"/></l><r>द्रौपदी<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Abdul<s n="np"/><s n="ant"/></l><r>अब्दुल<s n="np"/><s n="ant"/></r></p></e>
@@ -17820,6 +17841,21 @@
 	<e><p><l>Dehradun<s n="np"/><s n="top"/></l><r>देहरादून<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Uttar<b/>Pradesh<s n="np"/><s n="top"/></l><r>उत्तर<b/>प्रदेश<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Lucknow<s n="np"/><s n="top"/></l><r>लखनऊ<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Yamuna<s n="np"/><s n="top"/></l><r>यमुना<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Udaipur<s n="np"/><s n="top"/></l><r>उदयपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Ayodhya<s n="np"/><s n="top"/></l><r>अयोध्या<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Jodhpur<s n="np"/><s n="top"/></l><r>जोधपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Bharatpur<s n="np"/><s n="top"/></l><r>भरतपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Varanasi<s n="np"/><s n="top"/></l><r>वाराणसी<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Fatehpur<s n="np"/><s n="top"/></l><r>फतेहपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Jaisalmer<s n="np"/><s n="top"/></l><r>जैसलमेर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Paris<s n="np"/><s n="top"/></l><r>पेरिस<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>California<s n="np"/><s n="top"/></l><r>कैलिफोर्निया<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Anantpur<s n="np"/><s n="top"/></l><r>अनंतपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Calcutta<s n="np"/><s n="top"/></l><r>कलकत्ता<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Champawat<s n="np"/><s n="top"/></l><r>चम्पावत<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Kumaon<s n="np"/><s n="top"/></l><r>कुमाऊँ<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Korea<s n="np"/><s n="top"/></l><r>कोरिया<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Yamkeshwar<s n="np"/><s n="top"/></l><r>यमकेश्वर<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Bageshwar<s n="np"/><s n="top"/></l><r>बागेश्वर<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Chamoli<s n="np"/><s n="top"/></l><r>चमोली<s n="np"/><s n="top"/></r></p></e>
