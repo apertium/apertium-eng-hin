@@ -93,6 +93,7 @@
     <e><p><l>because<s n="cnjadv"/></l><r>क्योंकि<s n="cnjadv"/></r></p></e>
 	<e><p><l>because<s n="cnjadv"/></l><r>चूंकि<s n="cnjadv"/></r></p></e> 
 	<e><p><l>therefore<s n="cnjadv"/></l><r>इसलिए<s n="cnjadv"/></r></p></e>
+	<e><p><l>therefore<s n="cnjadv"/></l><r>अतः<s n="cnjadv"/></r></p></e>
 	<e><p><l>whereas<s n="cnjadv"/></l><r>जबकि<s n="cnjadv"/></r></p></e>
 
     <!-- SECTION: Postpositions -->
@@ -332,6 +333,7 @@
 	<e><p><l>Gita<s n="n"/></l><r>गीता<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Kuran<s n="n"/></l><r>कुरान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Quran<s n="n"/></l><r>क़ुरान<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Kama<b/>Sutra<s n="n"/></l><r>कामसूत्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Vidhan<b/>Sabha<s n="n"/></l><r>विधानसभा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>Rajya<b/>Sabha<s n="n"/></l><r>राज्यसभा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>Rajya<b/>Sabha<s n="n"/></l><r>राज्य<b/>सभा<s n="n"/><s n="f"/></r></p></e>	
@@ -339,6 +341,9 @@
 	<e><p><l>Lok<b/>Sabha<s n="n"/></l><r>लोक<b/>सभा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>New<b/>Year<s n="n"/></l><r>विक्रमी<b/>संवत्<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>New<b/>Year<s n="n"/></l><r>विक्रम<b/>संवत<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Taj<b/>Mahal<s n="n"/></l><r>ताजमहल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Taj<b/>Mahal<s n="n"/></l><r>ताज<b/>महल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Greenhouse<s n="n"/></l><r>ग्रीनहाउस<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kalyuga<s n="n"/></l><r>कलियुग<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>crease<s n="n"/></l><r>क्रीज<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>crease<s n="n"/></l><r>क्रीज़<s n="n"/><s n="m"/></r></p></e>
@@ -386,6 +391,8 @@
 	<e><p><l>Global<s n="n"/></l><r>ग्लोबल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Mandal<s n="n"/></l><r>मण्डल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Solar<b/>System<s n="n"/>सौर<b/>मण्डल</l><r><s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Hazrat<s n="n"/></l><r>हज़रत<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Hazrat<s n="n"/></l><r>हजरत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>close<s n="n"/></l><r>समीप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>guru<s n="n"/></l><r>गुरू<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>pay<s n="n"/></l><r>पे<s n="n"/><s n="m"/></r></p></e>
@@ -3976,6 +3983,8 @@
 	<e><p><l>caber<s n="n"/></l><r>केबर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>cabinet<s n="n"/></l><r>कैबिनेट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>cabinet<s n="n"/></l><r>मंत्रिमंडल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>The<b/>Cabinet<s n="n"/></l><r>मंत्रिपरिषद<s n="n"/><s n="m"/></r></p></e>
+
     <e><p><l>cabin<s n="n"/></l><r>कोठरी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>cabin<s n="n"/></l><r>झोंपड़ी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>cable<s n="n"/></l><r>केबल<s n="n"/><s n="m"/></r></p></e>
@@ -6654,6 +6663,7 @@
     <e><p><l>execution<s n="n"/></l><r>फाँसी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>executive<s n="n"/></l><r>कार्यकारिणी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>executive<s n="n"/></l><r>कार्यपालक<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Executive<s n="n"/></l><r>कार्यपालिका<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>executive<s n="n"/></l><r>कार्याध्यक्ष<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>executive<s n="n"/></l><r>विशेष<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>exemplar<s n="n"/></l><r>आदर्श्<s n="n"/><s n="m"/></r></p></e>
@@ -9278,6 +9288,7 @@
 	<e><p><l>legislature<s n="n"/></l><r>विधानमंडल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>legislature<s n="n"/></l><r>विधायिका<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>leg<s n="n"/></l><r>टाँग<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>leg<s n="n"/></l><r>पांव<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>lei<s n="n"/></l><r>पुष्पमाला<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>leisure<s n="n"/></l><r>फुरसत<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>leisure<s n="n"/></l><r>फुर्सत<s n="n"/><s n="m"/></r></p></e>
@@ -17610,7 +17621,7 @@
 	<e><p><l>Sheryl<s n="np"/><s n="ant"/></l><r>शेरिल<s n="np"/><s n="ant"/></r></p></e>	
 	<e><p><l>Sikh<s n="n"/></l><r>सिक्ख<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Slim<s n="np"/><s n="cog"/></l><r>स्लिम<s n="np"/><s n="cog"/></r></p></e>	
-
+	
     <e><p><l>Swede<s n="n"/></l><r>स्वीडनवासी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Sydney<s n="np"/></l><r>सिडनी<s n="np"/></r></p></e>
     <e><p><l>Thames<s n="n"/></l><r>टेम्स<s n="n"/><s n="f"/></r></p></e>
@@ -17999,6 +18010,7 @@
 
     <!-- SECTION: Adjectives -->
 
+	<e><p><l>global<s n="adj"/></l><r>वैश्विक<s n="adj"/></r></p></e>	
 	<e><p><l>resultant<s n="adj"/></l><r>परिणामस्वरूप<s n="adj"/></r></p></e>	
 	<e><p><l>Solar<s n="adj"/></l><r>सौर<s n="adj"/></r></p></e>	
 	<e><p><l>aforementioned<s n="adj"/></l><r>उपरोक्त<s n="adj"/></r></p></e>	
@@ -25146,6 +25158,7 @@
 	<e><p><l>regularly<s n="adv"/></l><r>नय<s n="adv"/><s n="m"/></r></p></e>
 	<e><p><l>aside<s n="adv"/></l><r>किनार<s n="adv"/><s n="m"/></r></p></e>
 	<e><p><l>most<s n="adv"/></l><r>अधिसंख्य<s n="adv"/><s n="m"/></r></p></e>
+	<e><p><l>most<s n="adv"/></l><r>ज्यादातर<s n="adv"/><s n="m"/></r></p></e>
 	<e><p><l>flat<s n="adv"/></l><r>फ्लैट<s n="adv"/><s n="m"/></r></p></e>
 	<e><p><l>up<s n="adv"/></l><r>यूप<s n="adv"/><s n="m"/></r></p></e>
 	<e><p><l>thankfully<s n="adv"/></l><r>गनीमत<s n="adv"/><s n="f"/></r></p></e>
@@ -25771,6 +25784,8 @@
 	<e><p><l>arise<s n="vblex"/></l><r>उठ<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>belong<s n="vblex"/></l><r>हो<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>build<s n="vblex"/></l><r>बना<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>build<s n="vblex"/></l><r>बनवा<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>build<s n="vblex"/></l><r>बनवाया<b/>जा<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>carry<s n="vblex"/></l><r>उठा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>celebrate<s n="vblex"/></l><r>मना<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>choose<s n="vblex"/></l><r>चुन<s n="vblex"/><s n="tv"/></r></p></e>
