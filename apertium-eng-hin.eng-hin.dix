@@ -68,6 +68,7 @@
     <e><p><l>and<s n="cnjcoo"/></l><r>तथा<s n="cnjcoo"/></r></p></e>
     <e><p><l>and<s n="cnjcoo"/></l><r>एवं<s n="cnjcoo"/></r></p></e>
 	<e><p><l>and<s n="cnjcoo"/></l><r>एण्ड<s n="cnjcoo"/></r></p></e>
+	<e><p><l>and<s n="cnjcoo"/></l><r>एंड<s n="cnjcoo"/></r></p></e>
     <e><p><l>or<s n="cnjcoo"/></l><r>या<s n="cnjcoo"/></r></p></e>
 	<e><p><l>but<s n="cnjcoo"/></l><r>पर<s n="cnjcoo"/></r></p></e>
 	<e><p><l>but<s n="cnjcoo"/></l><r>मगर<s n="cnjcoo"/></r></p></e>
@@ -124,9 +125,12 @@
     <e><p><l>because<b/>of<s n="pr"/></l><r>की<b/>वजह<b/>से<s n="post"/></r></p></e>
     <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>के<b/>सामने<s n="post"/></r></p></e>
     <e><p><l>with<s n="pr"/></l><r>के<b/>साथ<s n="post"/></r></p></e>
-	    <e><p><l>after<s n="pr"/></l><r>के<b/>पश्चात<s n="post"/></r></p></e>
-
-
+    <e><p><l>after<s n="pr"/></l><r>के<b/>पश्चात<s n="post"/></r></p></e>
+    <e><p><l>against<s n="pr"/></l><r>के<b/>खिलाफ़<s n="post"/></r></p></e>
+    <e><p><l>against<s n="pr"/></l><r>के<b/>खिलाफ<s n="post"/></r></p></e>
+	<e><p><l>under<s n="pr"/></l><r>के<b/>तहत<s n="post"/></r></p></e>
+	<e><p><l>under<s n="pr"/></l><r>तहत<s n="post"/></r></p></e>
+    <e><p><l>as<s n="pr"/></l><r>के<b/>तौर<b/>पर<s n="post"/></r></p></e>
     <e><p><l>along<b/>with<s n="pr"/></l><r>के<b/>साथ-साथ<s n="post"/></r></p></e>
 	<e><p><l>along<b/>with<s n="pr"/></l><r>सहित<s n="post"/></r></p></e>
 	
@@ -18393,7 +18397,7 @@
 	<e><p><l>poor<s n="adj"/></l><r>मुहताज<s n="adj"/></r></p></e>
 	<e><p><l>confident<s n="adj"/></l><r>आश्वस्त<s n="adj"/></r></p></e>
 <e><p><l>contrary<s n="adj"/></l><r>विपरीत<s n="adj"/></r></p></e>
-	<e><p><l>virtual<s n="adj"/></l><r>वास्तविक<s n="adj"/></r></p></e>
+	<e><p><l>real<s n="adj"/></l><r>वास्तविक<s n="adj"/></r></p></e>
 	<e><p><l>indelible<s n="adj"/></l><r>स्थायी<s n="adj"/></r></p></e>
 	<e><p><l>requisite<s n="adj"/></l><r>जरूरत<s n="adj"/></r></p></e>
 	<e><p><l>political<s n="adj"/></l><r>राजनैतिक<s n="adj"/></r></p></e>
@@ -22735,7 +22739,7 @@
 	<e><p><l>roguish<s n="adj"/></l><r>शठ<s n="adj"/></r></p></e>
     <e><p><l>roman<s n="adj"/></l><r>रोमन<s n="adj"/></r></p></e>
 	<e><p><l>roman<s n="adj"/></l><r>रोमन-कैथोलिक<s n="adj"/></r></p></e>
-	<e><p><l>romantic<s n="adj"/></l><r>अवास्तविक<s n="adj"/></r></p></e>
+	<e><p><l>virtual<s n="adj"/></l><r>अवास्तविक<s n="adj"/></r></p></e>
 	<e><p><l>romantic<s n="adj"/></l><r>प्रेमावेशपूर्ण<s n="adj"/></r></p></e>
 	<e><p><l>romantic<s n="adj"/></l><r>प्रेमावेशमय<s n="adj"/></r></p></e>
     <e><p><l>roomy<s n="adj"/></l><r>जगहदार<s n="adj"/></r></p></e>
@@ -25393,6 +25397,8 @@
     <e><p><l>unstintingly<s n="adv"/></l><r>प्रचुरता<s n="adv"/></r></p></e>
     <e><p><l>unthinkingly<s n="adv"/></l><r>अनजाने<s n="adv"/></r></p></e>
     <e><p><l>unusually<s n="adv"/></l><r>असमान्यतः<s n="adv"/></r></p></e>
+    <e><p><l>usually<s n="adv"/></l><r>आमतौर<s n="adv"/></r></p></e>
+	<e><p><l>generally<s n="adv"/></l><r>आम<b/>तौर<s n="adv"/></r></p></e>
     <e><p><l>usually<s n="adv"/></l><r>साधारणतयः<s n="adv"/></r></p></e>
     <e><p><l>verbatim<s n="adv"/></l><r>शब्दशः<s n="adv"/></r></p></e>
     <e><p><l>within<s n="adv"/></l><r>भीतर<s n="adv"/></r></p></e>
