@@ -16,6 +16,7 @@
 	<sdef n="frm"     c="formal"/>
     <sdef n="subj"    c="Subject"/>
     <sdef n="itg"     c="Interrogative"/>
+    <sdef n="rel"     c="relative"/>
     <sdef n="obl"     c="oblique"/>
     <sdef n="pr"      c="Preposition"/>
     <sdef n="pers"    c="Personal"/>
@@ -94,9 +95,14 @@
     	<e><p><l>because<s n="cnjadv"/></l><r>क्योंकि<s n="cnjadv"/></r></p></e>
 	<e><p><l>because<s n="cnjadv"/></l><r>क्यूंकि<s n="cnjadv"/></r></p></e>
 	<e><p><l>because<s n="cnjadv"/></l><r>चूंकि<s n="cnjadv"/></r></p></e> 
+	<e><p><l>because<s n="cnjadv"/></l><r>चूँकि<s n="cnjadv"/></r></p></e>
 	<e><p><l>therefore<s n="cnjadv"/></l><r>इसलिए<s n="cnjadv"/></r></p></e>
 	<e><p><l>therefore<s n="cnjadv"/></l><r>अतः<s n="cnjadv"/></r></p></e>
+	<e><p><l>therefore<s n="cnjadv"/></l><r>इसलिये<s n="cnjadv"/></r></p></e>
+	<e><p><l>therefore<s n="cnjadv"/></l><r>इसीलिए<s n="cnjadv"/></r></p></e>
 	<e><p><l>whereas<s n="cnjadv"/></l><r>जबकि<s n="cnjadv"/></r></p></e>
+	<e><p><l>i.e.<s n="cnjadv"/></l><r>अर्थात्<s n="cnjadv"/></r></p></e>
+	<e><p><l>i.e.<s n="cnjadv"/></l><r>अर्थात<s n="cnjadv"/></r></p></e>
 
     <!-- SECTION: Postpositions -->
 
@@ -372,6 +378,9 @@
 
 	<e><p><l>Al<s n="n"/></l><r>अल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Soviet<s n="n"/></l><r>सोवियत<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Italian<s n="n"/></l><r>इतालवी<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Sunni<s n="n"/></l><r>सुन्नी<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>Shia<s n="n"/></l><r>शिया<s n="n"/><s n="f"/></r></p></e>	
 	<e><p><l>Soviet<b/>Union<s n="n"/></l><r>सोवियत<b/>संघ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Soviet<b/>Union<s n="n"/></l><r>सोविएत<b/>संघ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Supreme<b/>Court<s n="n"/></l><r>सुप्रीम<b/>कोर्ट<s n="n"/><s n="m"/></r></p></e>
@@ -2800,6 +2809,7 @@
 	<e><p><l>airport<s n="n"/></l><r>विमानतल<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>airport<s n="n"/></l><r>विमानपत्तन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>airport<s n="n"/></l><r>हवाईअड्डा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>airport<s n="n"/></l><r>विमानक्षेत्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>airship<s n="n"/></l><r>वायुपोत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>air<s n="n"/></l><r>एयर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>air<s n="n"/></l><r>पवन<s n="n"/><s n="m"/></r></p></e>
@@ -9001,7 +9011,7 @@
     <e><p><l>issue<s n="n"/></l><r>लाभ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>issue<s n="n"/></l><r>संतति<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>isthmus<s n="n"/></l><r>स्थलडमरूमध्य<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>italian<s n="n"/></l><r>इटालियन<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Italian<s n="n"/></l><r>इटालियन<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>itching<s n="n"/></l><r>खुजलाहट<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>itch<s n="n"/></l><r>खुजली<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>item<s n="n"/></l><r>मद<s n="n"/><s n="m"/></r></p></e>
@@ -9677,6 +9687,7 @@
 	<e><p><l>love<s n="n"/></l><r>मोहब्बत<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>love<s n="n"/></l><r>वात्सल्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>love<s n="n"/></l><r>प्रेम<s n="n"/><s n="m"/></r></p></e>	
+	<e><p><l>love<s n="n"/></l><r>इश्क<s n="n"/><s n="m"/></r></p></e>	
 	<e><p><l>lower<s n="n"/></l><r>असम्मान<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lowland<s n="n"/></l><r>तराई<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>lowland<s n="n"/></l><r>नीचा<s n="n"/><s n="m"/></r></p></e>
@@ -10755,6 +10766,7 @@
 	<e><p><l>nosewheel<s n="n"/></l><r>नासिकाचक्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>no<s n="n"/></l><r>इनकार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>no<s n="n"/></l><r>नही<s n="n"/></r></p></e>
+	<e><p><l>no<s n="n"/></l><r>नहीं<s n="n"/></r></p></e>
 	<e><p><l>nostril<s n="n"/></l><r>नासापुट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>notebook<s n="n"/></l><r>बुक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>notepad<s n="n"/></l><r>नोटपैड<s n="n"/><s n="m"/></r></p></e>
@@ -11915,7 +11927,7 @@
     <e><p><l>poop<s n="n"/></l><r>पिछाडी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>poor<s n="n"/></l><r>मुहताज<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>popcorn<s n="n"/></l><r>पपकर्न<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>poplar<s n="n"/></l><r>पीपल<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Peepal<s n="n"/></l><r>पीपल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>poplin<s n="n"/></l><r>पपलिन<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poppycock<s n="n"/></l><r>ऊटपटांग<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poppy<s n="n"/></l><r>पोस्ता<s n="n"/><s n="m"/></r></p></e>
@@ -12802,7 +12814,8 @@
 	<e><p><l>reeve<s n="n"/></l><r>खानसामा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>refection<s n="n"/></l><r>कलेवा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>reference<s n="n"/></l><r>जिक्र<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>reference<s n="n"/></l><r>संदर्भ<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>reference<s n="n"/></l><r>संदर्भ<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>referencing<s n="n"/></l><r>संदर्भित<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>reference<s n="n"/></l><r>हवाला<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>referendum<s n="n"/></l><r>जनमत-संग्रह<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>refill<s n="n"/></l><r>रीङिल<s n="n"/><s n="f"/></r></p></e>
@@ -12881,10 +12894,12 @@
 	<e><p><l>relation<s n="n"/></l><r>रिश्ता<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>relation<s n="n"/></l><r>रिश्तेदारी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>relation<s n="n"/></l><r>संबन्ध<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>relative<s n="n"/></l><r>रिश्तेदार<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>relation<s n="n"/></l><r>संबंध<s n="n"/><s n="m"/></r></p></e>
+    	<e><p><l>relative<s n="n"/></l><r>रिश्तेदार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>relativism<s n="n"/></l><r>सापेक्षवाद<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>relativity<s n="n"/></l><r>आपेक्षिकता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>relaxation<s n="n"/></l><r>शिथिलीकरण<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>like<s n="n"/></l><r>भाँति<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>release<s n="n"/></l><r>निस्तार<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>release<s n="n"/></l><r>रिलीज<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>release<s n="n"/></l><r>रिलीज़<s n="n"/><s n="m"/></r></p></e>
@@ -13771,6 +13786,7 @@
 	<e><p><l>service<s n="n"/></l><r>उपासना<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>service<s n="n"/></l><r>मरम्म्त<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>service<s n="n"/></l><r>सर्विस<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>services<s n="n"/></l><r>सेवाएं<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>servitor<s n="n"/></l><r>भृत्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>servomechanism<s n="n"/></l><r>सर्वोमैकेनिज़्म<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>servo<s n="n"/></l><r>सर्वो<s n="n"/><s n="m"/></r></p></e>
@@ -15552,9 +15568,6 @@
 	<e><p><l>therapeutics<s n="n"/></l><r>चिकित्साशास्त्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>therapy<s n="n"/></l><r>मनश्चिकित्सा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>therapy<s n="n"/></l><r>रोगोपचार<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>there<s n="n"/></l><r>वहा<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>there<s n="n"/></l><r>वहां<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>there<s n="n"/></l><r>वहीं<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>thermodynamics<s n="n"/></l><r>ऊष्मागतिकी<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>thermometer<s n="n"/></l><r>थर्मामीटर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>thermostat<s n="n"/></l><r>तापस्थापी<s n="n"/><s n="m"/></r></p></e>
@@ -16460,6 +16473,7 @@
 	<e><p><l>urn<s n="n"/></l><r>जलपात्र<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>usage<s n="n"/></l><r>उपयोग<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>usage<s n="n"/></l><r>रिवाज़<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>user<s n="n"/></l><r>उपयोगकर्ता<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>user<s n="n"/></l><r>प्रयोगकर्त्ता<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>usher<s n="n"/></l><r>द्वारपाल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>usher<s n="n"/></l><r>परिचयकर्ता<s n="n"/><s n="m"/></r></p></e>
@@ -17567,6 +17581,7 @@
 
  	<e><p><l>Jesus<b/>Christ<s n="np"/></l><r>ईसा<b/>मसीह<s n="np"/></r></p></e>
  	<e><p><l>Jesus<s n="np"/></l><r>ईसा<s n="np"/></r></p></e>
+ 	<e><p><l>Sadar<b/>Shah<s n="np"/></l><r>सदर<b/>शाह<s n="np"/></r></p></e>
  	<e><p><l>Maa<b/>Annapurna<s n="np"/></l><r>मां<b/>अन्नपूर्णा<s n="np"/></r></p></e>
 	<e><p><l>Manu<s n="np"/><s n="ant"/></l><r>मनु<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Maharaja<s n="np"/><s n="ant"/></l><r>महाराजा<s n="np"/><s n="ant"/></r></p></e>
@@ -18139,8 +18154,10 @@
 	<e><p><l>Yamkeshwar<s n="np"/><s n="top"/></l><r>यमकेश्वर<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Bageshwar<s n="np"/><s n="top"/></l><r>बागेश्वर<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Chamoli<s n="np"/><s n="top"/></l><r>चमोली<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Bhikiasain<s n="np"/><s n="top"/></l><r>भिकियासैण<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Almora<s n="np"/><s n="top"/></l><r>अल्मोड़ा<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Almora<s n="np"/><s n="top"/></l><r>अल्मोडा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Kayamganj<s n="np"/><s n="top"/></l><r>कायमगंज<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Kannauj<s n="np"/><s n="top"/></l><r>कन्नौज<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Nainital<s n="np"/><s n="top"/></l><r>नैनीताल<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Garhwal<s n="np"/><s n="top"/></l><r>गढ़वाल<s n="np"/><s n="top"/></r></p></e>
@@ -18194,6 +18211,7 @@
 	<e><p><l>Asian<s n="adj"/></l><r>एशियाई<s n="adj"/></r></p></e>
 	<e><p><l>Australian<s n="adj"/></l><r>ऑस्ट्रेलियाई<s n="adj"/></r></p></e>
 	<e><p><l>French<s n="adj"/></l><r>फ्रांसीसी<s n="adj"/></r></p></e>
+	<e><p><l>Italian<s n="adj"/></l><r>इतालवी<s n="adj"/></r></p></e>
 	<e><p><l>Nepali<s n="adj"/></l><r>नेपाली<s n="adj"/></r></p></e>
 	<e><p><l>Portugese<s n="adj"/></l><r>पुर्तगाली<s n="adj"/></r></p></e>
 	<e><p><l>Iranian<s n="adj"/></l><r>ईरानी<s n="adj"/></r></p></e>
@@ -18205,9 +18223,12 @@
 	<e><p><l>Portuguese<s n="adj"/></l><r>पुर्तगाली<s n="adj"/></r></p></e>
 
 
+	<e><p><l>present<s n="adj"/></l><r>प्रस्तुत<s n="adj"/></r></p></e>
+	<e><p><l>operated<s n="adj"/></l><r>संचालित<s n="adj"/></r></p></e>
+	<e><p><l>main<s n="adj"/></l><r>सदर<s n="adj"/></r></p></e>
 	<e><p><l>sand<s n="adj"/></l><r>बलुआ<s n="adj"/></r></p></e>
 	<e><p><l>new<s n="adj"/></l><r>नवीन<s n="adj"/></r></p></e>
-	<e><p><l>generate<s n="adj"/></l><r>उत्पन्न<s n="adj"/></r></p></e>
+	<e><p><l>generated<s n="adj"/></l><r>उत्पन्न<s n="adj"/></r></p></e>
 	<e><p><l>meticulous<s n="adj"/></l><r>सूक्ष्म<s n="adj"/></r></p></e>
 	<e><p><l>parliamentary<s n="adj"/></l><r>संसदीय<s n="adj"/></r></p></e>
 	<e><p><l>first<s n="adj"/></l><r>सर्वप्रथम<s n="adj"/></r></p></e>
@@ -18466,7 +18487,8 @@
 	<e><p><l>bright<s n="adj"/></l><r>चमकदार<s n="adj"/></r></p></e>
 	<e><p><l>sheepish<s n="adj"/></l><r>भोंदू<s n="adj"/></r></p></e>
 	<e><p><l>diffident<s n="adj"/></l><r>शंकाशील<s n="adj"/></r></p></e>
-	<e><p><l>existent<s n="adj"/></l><r>अविद्यमान<s n="adj"/></r></p></e>
+	<e><p><l>non-existent<s n="adj"/></l><r>अविद्यमान<s n="adj"/></r></p></e>
+	<e><p><l>existent<s n="adj"/></l><r>विद्यमान<s n="adj"/></r></p></e>
 	<e><p><l>proved<s n="adj"/></l><r>साबित<s n="adj"/></r></p></e>
 	<e><p><l>more<s n="adj"/></l><r>ज्यादा<s n="adj"/></r></p></e>
 	<e><p><l>degenerative<s n="adj"/></l><r>अपकर्षक<s n="adj"/></r></p></e>
@@ -19583,6 +19605,7 @@
 	<e><p><l>conspiratorial<s n="adj"/></l><r>षड्यंत्रपूर्ण<s n="adj"/></r></p></e>
 	<e><p><l>constituent<s n="adj"/></l><r>अवयवी<s n="adj"/></r></p></e>
 	<e><p><l>constituent<s n="adj"/></l><r>संघटक<s n="adj"/></r></p></e>
+	<e><p><l>component<s n="adj"/></l><r>घटक<s n="adj"/></r></p></e>
     <e><p><l>constitutional<s n="adj"/></l><r>संविधानी<s n="adj"/></r></p></e>
 	<e><p><l>constitutional<s n="adj"/></l><r>संवैधानिक<s n="adj"/></r></p></e>
 	<e><p><l>constrained<s n="adj"/></l><r>निरुद्ध<s n="adj"/></r></p></e>
@@ -21657,7 +21680,7 @@
 	<e><p><l>maximum<s n="adj"/></l><r>महत्तम<s n="adj"/></r></p></e>
     <e><p><l>mayoral<s n="adj"/></l><r>महापौरीय<s n="adj"/></r></p></e>
 	<e><p><l>meagre<s n="adj"/></l><r>अत्यल्प<s n="adj"/></r></p></e>
-    <e><p><l>meagre<s n="adj"/></l><r>कम<s n="adj"/></r></p></e>
+    <e><p><l>less<s n="adj"/></l><r>कम<s n="adj"/></r></p></e>
     <e><p><l>meaningful<s n="adj"/></l><r>अर्थपूर्ण<s n="adj"/></r></p></e>
     <e><p><l>meaningless<s n="adj"/></l><r>अर्थहीन<s n="adj"/></r></p></e>
 	<e><p><l>measurable<s n="adj"/></l><r>परिमेय<s n="adj"/></r></p></e>
@@ -25102,7 +25125,8 @@
 	<e><p><l>white<s n="adj"/><s n="sint"/></l><r>धवल<s n="adj"/></r></p></e>
 	<e><p><l>white<s n="adj"/><s n="sint"/></l><r>शुभ्र<s n="adj"/></r></p></e>
 	<e><p><l>white<s n="adj"/><s n="sint"/></l><r>श्वेत<s n="adj"/></r></p></e>
-    <e><p><l>white<s n="adj"/><s n="sint"/></l><r>सफेद<s n="adj"/></r></p></e>
+    	<e><p><l>white<s n="adj"/><s n="sint"/></l><r>सफेद<s n="adj"/></r></p></e>
+	<e><p><l>white<s n="adj"/><s n="sint"/></l><r>सफ़ेद<s n="adj"/></r></p></e>
 	<e><p><l>whitish<s n="adj"/></l><r>श्वेताभ<s n="adj"/></r></p></e>
     <e><p><l>whitish<s n="adj"/></l><r>सफ़ेद-सा<s n="adj"/></r></p></e>
 	<e><p><l>whitish<s n="adj"/></l><r>सफ़ेद-सा<s n="adj"/></r></p></e>
@@ -25229,11 +25253,10 @@
 
     <!-- SECTION: Adverbs -->  
 
-	<e><p><l>more<s n="adj"/></l><r>ज़्यादा<s n="adj"/></r></p></e>
+	<e><p><l>consequently<s n="adv"/></l><r>फलस्वरूप<s n="adv"/></r></p></e>
+	<e><p><l>more<s n="adv"/></l><r>ज़्यादा<s n="adv"/></r></p></e>
 	<e><p><l>relatively<s n="adv"/></l><r>अपेक्षाकृत<s n="adv"/></r></p></e>
 	<e><p><l>near<s n="adv"/></l><r>आसपास<s n="adv"/></r></p></e>
-	<e><p><l>that<b/>is<s n="adv"/></l><r>अर्थात्<s n="adv"/></r></p></e>
-	<e><p><l>that<b/>is<s n="adv"/></l><r>अर्थात<s n="adv"/></r></p></e>
 	<e><p><l>really<s n="adv"/></l><r>वास्तव<b/>में<s n="adv"/></r></p></e>
 	<e><p><l>actually<s n="adv"/></l><r>दरअसल<s n="adv"/></r></p></e>
 	<e><p><l>instead<s n="adv"/></l><r>बजाय<s n="adv"/></r></p></e>
@@ -25241,11 +25264,11 @@
 	<e><p><l>often<s n="adv"/></l><r>अक्सर<s n="adv"/></r></p></e>
 	<e><p><l>then<s n="adv"/></l><r>तो<s n="adv"/></r></p></e>
 	<e><p><l>almost<s n="adv"/></l><r>तक़रीबन<s n="adv"/></r></p></e>
-	<e><p><l>where<s n="adv"/></l><r>कहॉं<s n="adv"/></r></p></e>
-	<e><p><l>where<s n="adv"/></l><r>कहाँ<s n="adv"/></r></p></e>
+	<e><p><l>where<s n="adv"/><s n="itg"/></l><r>कहॉं<s n="adv"/><s n="itg"/></r></p></e>
+	<e><p><l>where<s n="adv"/><s n="itg"/></l><r>कहाँ<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>why<s n="adv"/></l><r>क्यों<s n="adv"/></r></p></e>
-	<e><p><l>where<s n="adv"/></l><r>जहाँ<s n="adv"/></r></p></e>
-	<e><p><l>where<s n="adv"/></l><r>जहां<s n="adv"/></r></p></e>
+	<e><p><l>where<s n="rel"/><s n="adv"/></l><r>जहाँ<s n="rel"/><s n="adv"/></r></p></e>
+	<e><p><l>where<s n="rel"/><s n="adv"/></l><r>जहां<s n="rel"/><s n="adv"/></r></p></e>
 	<e><p><l>everywhere<s n="adv"/></l><r>सब<b/>जगह<s n="adv"/></r></p></e>
 	<e><p><l>always<s n="adv"/></l><r>सदा<s n="adv"/></r></p></e>
 	<e><p><l>everywhere<s n="adv"/></l><r>सर्वत्र<s n="adv"/></r></p></e>
@@ -25274,6 +25297,7 @@
 	<e><p><l>direct<s n="adv"/></l><r>सीधा<s n="adv"/></r></p></e>	
 	<e><p><l>fiercely<s n="adv"/></l><r>डटकर<s n="adv"/></r></p></e>
 	<e><p><l>here<s n="adv"/></l><r>यहां<s n="adv"/></r></p></e>
+	<e><p><l>here<s n="adv"/></l><r>यहीं<s n="adv"/></r></p></e>
 	<e><p><l>so<s n="adv"/></l><r>इतना<s n="adv"/></r></p></e>
 	<e><p><l>apiece<s n="adv"/></l><r>प्रत्येक<s n="adv"/></r></p></e>
 	<e><p><l>each<s n="adv"/></l><r>हर<s n="adv"/></r></p></e>
@@ -25347,7 +25371,8 @@
     <e><p><l>bad<s n="adv"/></l><r>खराब<s n="adv"/></r></p></e>
     <e><p><l>poorly<s n="adv"/></l><r>अस्वस्थ<s n="adv"/></r></p></e>
     <e><p><l>easy<s n="adv"/></l><r>सरल<s n="adv"/></r></p></e>
-    <e><p><l>inevitably<s n="adv"/></l><r>अवश्य<s n="adv"/></r></p></e>
+    <e><p><l>surely<s n="adv"/></l><r>अवश्य<s n="adv"/></r></p></e>
+	<e><p><l>inevitably<s n="adv"/></l><r>अवश्य<s n="adv"/></r></p></e>
     <e><p><l>likely<s n="adv"/></l><r>सम्भव<s n="adv"/></r></p></e>
     <e><p><l>primarily<s n="adv"/></l><r>मुख्यतः<s n="adv"/></r></p></e>
 	<e><p><l>sure<s n="adv"/></l><r>निस्संशय<s n="adv"/><s n="m"/></r></p></e>
@@ -25465,7 +25490,7 @@
 	<e><p><l>thoroughly<s n="adv"/></l><r>पूर्णत<s n="adv"/></r></p></e>
 	<e><p><l>haltingly<s n="adv"/></l><r><s n="adv"/></r></p></e>
 	<e><p><l>how<s n="adv"/><s n="itg"/></l><r>कैसे<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>nevertheless<s n="adv"/></l><r>तथापि<s n="adv"/></r></p></e>
+	<e><p><l>nevertheless<s n="adv"/></l><r>तथापि<s n="adv"/></r></p></e>
 	<e><p><l>certainly<s n="adv"/></l><r>निश्चित<b/>रूप<b/>से<s n="adv"/></r></p></e>
 	<e><p><l>certainly<s n="adv"/></l><r>निश्चित<b/>रूप<s n="adv"/></r></p></e>
 	<e><p><l>certainly<s n="adv"/></l><r>निश्चित<b/>तौर<b/>पर<s n="adv"/></r></p></e>	
@@ -25514,7 +25539,6 @@
     <e><p><l>emotionally<s n="adv"/></l><r>भावुकतापूर्वक<s n="adv"/></r></p></e>
     <e><p><l>enormously<s n="adv"/></l><r>अतिशय<s n="adv"/></r></p></e>
     <e><p><l>entirely<s n="adv"/></l><r>सम्पूर्णतया<s n="adv"/></r></p></e>
-    <e><p><l>ergo<s n="adv"/></l><r>इसलिए<s n="adv"/></r></p></e>
     <e><p><l>excessively<s n="adv"/></l><r>बाहुल्यतापूर्ण<s n="adv"/></r></p></e>
     <e><p><l>faithfully<s n="adv"/></l><r>आस्थापूर्क<s n="adv"/></r></p></e>
     <e><p><l>fearfully<s n="adv"/></l><r>भयसहित<s n="adv"/></r></p></e>
@@ -25533,6 +25557,7 @@
     <e><p><l>haughtily<s n="adv"/></l><r>अहंकारपूर्वक<s n="adv"/></r></p></e>
     <e><p><l>heatedly<s n="adv"/></l><r>क्रोधपूर्वक<s n="adv"/></r></p></e>
     <e><p><l>here<s n="adv"/></l><r>यहाँ<s n="adv"/></r></p></e>
+
     <e><p><l>hotfoot<s n="adv"/></l><r>जल्दी-जल्दी<s n="adv"/></r></p></e>
     <e><p><l>however<s n="adv"/></l><r>फिरभी<s n="adv"/></r></p></e>
     <e><p><l>hungrily<s n="adv"/></l><r>भूखसे<s n="adv"/></r></p></e>
@@ -25565,8 +25590,10 @@
     <e><p><l>nonchalantly<s n="adv"/></l><r>निश्चिंततापूर्वक<s n="adv"/></r></p></e>
     <e><p><l>normally<s n="adv"/></l><r>सामान्यत<s n="adv"/></r></p></e>
     <e><p><l>not<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
-
+    <e><p><l>not<s n="adv"/></l><r>ना<s n="adv"/></r></p></e>
+	<e><p><l>not<s n="adv"/></l><r>न<s n="adv"/></r></p></e>
     <e><p><l>not<s n="adv"/></l><r>नही<s n="adv"/></r></p></e>
+    <e><p><l>no<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
 
     <e><p><l>now<s n="adv"/></l><r>अब<s n="adv"/></r></p></e>
     <e><p><l>now<s n="adv"/></l><r>अभी<s n="adv"/></r></p></e>
@@ -25590,6 +25617,8 @@
     <e><p><l>rather<s n="adv"/></l><r>बल्कि<s n="adv"/></r></p></e>
     <e><p><l>repeatedly<s n="adv"/></l><r>बार-बार<s n="adv"/></r></p></e>
     <e><p><l>respectively<s n="adv"/></l><r>क्रमशः<s n="adv"/></r></p></e>
+    <e><p><l>respectively<s n="adv"/></l><r>क्रमश:<s n="adv"/></r></p></e>
+    <e><p><l>serially<s n="adv"/></l><r>क्रमश<s n="adv"/></r></p></e>
     <e><p><l>scathingly<s n="adv"/></l><r>कटुतापूर्वक<s n="adv"/></r></p></e>
     <e><p><l>secondly<s n="adv"/></l><r>दूसरे<s n="adv"/></r></p></e>
     <e><p><l>secretively<s n="adv"/></l><r>छिपकर<s n="adv"/></r></p></e>
@@ -25636,6 +25665,9 @@
     <e><p><l>accelerando<s n="adv"/></l><r>लयवर्धन<s n="adv"/></r></p></e>
     <e><p><l>again<s n="adv"/></l><r>दुबारा<s n="adv"/></r></p></e>
     <e><p><l>again<s n="adv"/></l><r>फ़िर<s n="adv"/></r></p></e>
+	<e><p><l>again<s n="adv"/></l><r>पुनः<s n="adv"/></r></p></e>
+	<e><p><l>again<s n="adv"/></l><r>पुन<s n="adv"/></r></p></e>
+	<e><p><l>again<s n="adv"/></l><r>फिर<b/>से<s n="adv"/></r></p></e>
     <e><p><l>anticlockwise<s n="adv"/></l><r>वामावर्त्ती<s n="adv"/></r></p></e>
     <e><p><l>appreciatively<s n="adv"/></l><r>कृतज्ञतापूर्वक<s n="adv"/></r></p></e>
     <e><p><l>audaciously<s n="adv"/></l><r>दुःसाहसपूर्वक<s n="adv"/></r></p></e>
@@ -25764,6 +25796,10 @@
     <e><p><l>voluptuously<s n="adv"/></l><r>विलासितापूर्वक<s n="adv"/></r></p></e>
     <e><p><l>wilfully<s n="adv"/></l><r>जानते-बूझते<s n="adv"/></r></p></e>
     <e><p><l>there<s n="adv"/></l><r>वहाँ<s n="adv"/></r></p></e>
+	<e><p><l>there<s n="adv"/></l><r>वहा<s n="adv"/></r></p></e>
+	<e><p><l>there<s n="adv"/></l><r>वहां<s n="adv"/></r></p></e>
+	<e><p><l>there<s n="adv"/></l><r>वहीं<s n="adv"/></r></p></e>
+
     <e><p><l>when<s n="adv"/><s n="itg"/></l><r>कब<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>when<s n="adv"/><s n="itg"/></l><r>जब<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>what<s n="adv"/><s n="itg"/></l><r>क्या<s n="adv"/><s n="itg"/></r></p></e>
@@ -25820,6 +25856,8 @@
 	<e><p><l>mislead<s n="vblex"/></l><r>बहका<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>extinguish<s n="vblex"/></l><r>बुझा<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>call<s n="vblex"/></l><r>बुला<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>call<s n="vblex"/></l><r>कहलाना<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>call<s n="vblex"/></l><r>बुलाया जाना<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>instigate<s n="vblex"/></l><r>भड़का<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>soak<s n="vblex"/></l><r>भिगो<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>roast<s n="vblex"/></l><r>भुना<s n="vblex"/><s n="tv"/></r></p></e>
@@ -34071,6 +34109,7 @@
 	<e><p><l>operate<s n="vblex"/></l><r>चालू<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>operate<s n="vblex"/></l><r>कार्य<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>operate<s n="vblex"/></l><r>चालू<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>operate<s n="vblex"/></l><r>संचालित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>oppose<s n="vblex"/></l><r>सामना<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>oppose<s n="vblex"/></l><r>बाधा<b/>डाल<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>oppose<s n="vblex"/></l><r>विरोध<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
