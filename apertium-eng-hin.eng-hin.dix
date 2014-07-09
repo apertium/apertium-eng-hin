@@ -472,6 +472,9 @@
 	<e><p><l>hit<s n="n"/></l><r>हिट<s n="n"/><s n="m"/></r></p></e>
 
 	<!-- temporary transliterations-->
+	<e><p><l>W<s n="n"/></l><r>डबल्यू<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Dr.<s n="n"/></l><r>डा<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>day<s n="n"/></l><r>डे<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>the<s n="n"/></l><r>दि<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l><s n="n"/></l><r>व<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>e<s n="n"/></l><r>ई<s n="n"/><s n="m"/></r></p></e>
@@ -1996,6 +1999,7 @@
 	<e><p><l>sun<s n="n"/></l><r>भास्कर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>score<s n="n"/></l><r>स्कोर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>heart<s n="n"/></l><r>ह्रदय<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>heart<s n="n"/></l><r>हार्ट<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>father<s n="n"/></l><r>बाप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>domestic<s n="n"/></l><r>स्वदेशी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>bin<s n="n"/></l><r>बिन<s n="n"/><s n="m"/></r></p></e>
@@ -17619,6 +17623,7 @@
 	<e><p><l>Shivaji<s n="np"/><s n="ant"/></l><r>शिवाजी<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Edward<s n="np"/><s n="ant"/></l><r>एडवर्ड<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Austin<s n="np"/><s n="cog"/></l><r>ऑस्टिन<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Da<s n="np"/><s n="cog"/></l><r>डा<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Thomas<s n="np"/><s n="ant"/></l><r>थॉमस<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Richard<s n="np"/><s n="ant"/></l><r>रिचर्ड<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Thakur<s n="np"/><s n="ant"/></l><r>ठाकुर<s n="np"/><s n="ant"/></r></p></e>
@@ -17657,6 +17662,8 @@
 	<e><p><l>Tulsidasji<s n="np"/><s n="ant"/></l><r>तुलसीदासजी<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Rao<s n="np"/><s n="cog"/></l><r>राव<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Maurya<s n="np"/><s n="cog"/></l><r>मौर्य<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Dey<s n="np"/><s n="cog"/></l><r>डे<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>De<s n="np"/><s n="cog"/></l><r>डे<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Yudhishtir<s n="np"/><s n="ant"/></l><r>युधिष्ठिर<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Bhushan<s n="np"/><s n="cog"/></l><r>भूषण<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Drona<s n="np"/><s n="ant"/></l><r>द्रोण<s n="np"/><s n="ant"/></r></p></e>
@@ -17866,6 +17873,7 @@
 	<e><p><l>London<s n="np"/><s n="top"/></l><r>लन्दन<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Washington<s n="np"/><s n="top"/></l><r>वाशिंगटन<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>San<s n="np"/><s n="top"/></l><r>सैन<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Los<s n="np"/><s n="top"/></l><r>लॉस<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Los<b/>Angeles<s n="np"/><s n="top"/></l><r>लॉस<b/>एंजलिस<s n="np"/><s n="top"/></r></p></e>
 
 	<e><p><l>Aaland<b/>Islands<s n="np"/><s n="top"/></l><r>आलैंड‌<b/>द्वीप‌<s n="np"/><s n="top"/></r></p></e>
@@ -20189,6 +20197,7 @@
 	<e><p><l>electrolytic<s n="adj"/></l><r>विद्युत्-अपघटनी<s n="adj"/></r></p></e>
 	<e><p><l>electromagnetic<s n="adj"/></l><r>विद्युत्-चुंबकीय<s n="adj"/></r></p></e>
 	<e><p><l>electronic<s n="adj"/></l><r>इलेक्ट्रनिक<s n="adj"/></r></p></e>
+	<e><p><l>electronic<s n="adj"/></l><r>इलेक्ट्रॉनिक<s n="adj"/></r></p></e>
     <e><p><l>elect<s n="adj"/></l><r>निर्वाचित<s n="adj"/></r></p></e>
 	<e><p><l>elemental<s n="adj"/></l><r>तात्त्विक<s n="adj"/></r></p></e>
     <e><p><l>elevated<s n="adj"/></l><r>उच्चस्तरीय<s n="adj"/></r></p></e>
