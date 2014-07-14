@@ -152,6 +152,7 @@
     <e><p><l>under<s n="pr"/></l><r>के<b/>नीचे<s n="post"/></r></p></e>
     <e><p><l>near<s n="pr"/></l><r>के<b/>पास<s n="post"/></r></p></e>
     <e><p><l>according<b/>to<s n="pr"/></l><r>के<b/>मुताबिक़<s n="post"/></r></p></e>
+    <e><p><l>according<b/>to<s n="pr"/></l><r>के<b/>मुताबिक<s n="post"/></r></p></e>
     <e><p><l>during<s n="pr"/></l><r>के<b/>समय<s n="post"/></r></p></e>
     <e><p><l>during<s n="pr"/></l><r>के<b/>दौरान<s n="post"/></r></p></e>
     <e><p><l>because<b/>of<s n="pr"/></l><r>के<b/>कारण<s n="post"/></r></p></e>
@@ -372,9 +373,15 @@
 	<e><p><l>up<s n="n"/></l><r>चढाव<s n="n"/><s n="m"/></r></p></e>
 	
 	<e><p><l>IPCC<s n="n"/></l><r>आईपीसीसी<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>AD<s n="n"/></l><r>ईस्वी<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>BC<s n="n"/></l><r>ईसापूर्व<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>A.D.<s n="n"/></l><r>ईस्वी<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>B.C.<s n="n"/></l><r>ईसापूर्व<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>IME<s n="n"/></l><r>आईएमई<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>AIDS<s n="n"/></l><r>एड्स<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>HIV<s n="n"/></l><r>एचआईवी<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>DNA<s n="n"/></l><r>डीएनए<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>DVD<s n="n"/></l><r>डीवीडी<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>CBS<s n="n"/></l><r>सीबीएस<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>CBS<s n="n"/></l><r>एनबीसी<s n="n"/><s n="m"/></r></p></e>
 
 	<e><p><l>Al<s n="n"/></l><r>अल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Soviet<s n="n"/></l><r>सोवियत<s n="n"/><s n="m"/></r></p></e>
@@ -438,8 +445,10 @@
 	<e><p><l>browser<s n="n"/></l><r>ब्राउजर<s n="n"/><s n="m"/></r></p></e>
 
 
-	<!-- english transliterations -->	
-
+	<!-- english transliterations -->
+	<e><p><l>stock<s n="n"/></l><r>स्टॉक<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>credit<s n="n"/></l><r>क्रेडिट<s n="n"/><s n="m"/></r></p></e>	
+	<e><p><l>pop<s n="n"/></l><r>पॉप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>download<s n="n"/></l><r>डाउनलोड<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>tool<s n="n"/></l><r>टूल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>aggregator<s n="n"/></l><r>एग्रीगेटर<s n="n"/><s n="m"/></r></p></e>
@@ -490,6 +499,7 @@
 	<e><p><l>h<s n="n"/></l><r>एच<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>pu<s n="n"/></l><r>पू<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>th<s n="n"/></l><r>वें<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>th<s n="n"/></l><r>वां<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>f<s n="n"/></l><r>एफ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>to<s n="n"/></l><r>टू<s n="n"/><s n="m"/></r></p></e>
 
@@ -497,6 +507,7 @@
 	<e><p><l>Shivaratri<s n="n"/></l><r>शिवरात्रि<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Filmfare<s n="n"/></l><r>फिल्मफेयर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Prime<b/>Minister<s n="n"/></l><r>प्रधानमन्त्री<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Cheif<b/>Minister<s n="n"/></l><r>मुख्यमंत्री<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>power<s n="n"/></l><r>शक्ति<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>research<s n="n"/></l><r>रिसर्च<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Bollywood<s n="n"/></l><r>बॉलीवुड<s n="n"/><s n="m"/></r></p></e>
@@ -1548,6 +1559,7 @@
 	<e><p><l>proportion<s n="n"/></l><r>फबती<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>ethic<s n="n"/></l><r>आचारसंहिता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>relative<s n="n"/></l><r>नातेदार<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>relative<s n="n"/></l><r>सम्बन्धी<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>brother<s n="n"/></l><r>जीजा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>landlord<s n="n"/></l><r>मकानमालिक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>asylum<s n="n"/></l><r>शरण<s n="n"/><s n="m"/></r></p></e>
@@ -2342,6 +2354,7 @@
 	<e><p><l>dialect<s n="n"/></l><r>उपभाषा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>lion<s n="n"/></l><r>नाहर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>land<s n="n"/></l><r>भूमी<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>land<s n="n"/></l><r>ज़मीन<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>taunt<s n="n"/></l><r>निन्दा<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>traditionalist<s n="n"/></l><r>परंपरावादी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>bloodshed<s n="n"/></l><r>रक्तपात<s n="n"/><s n="m"/></r></p></e>
@@ -6148,6 +6161,7 @@
 	<e><p><l>distraction<s n="n"/></l><r>व्याकुकता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>distressfulness<s n="n"/></l><r>चिंताजनकता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>district<s n="n"/></l><r>जनपद<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>district<s n="n"/></l><r>ज़िला<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>disturbance<s n="n"/></l><r>खलल<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>disuse<s n="n"/></l><r>अनुपयोग<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>ditto<s n="n"/></l><r>तदेव<s n="n"/><s n="m"/></r></p></e>
@@ -6179,8 +6193,9 @@
 	<e><p><l>docility<s n="n"/></l><r>आज्ञापरायणता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>docker<s n="n"/></l><r>गोदी-मजदूर<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>dockyard<s n="n"/></l><r>गोदी-बाड़ा<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>doctor<s n="n"/></l><r>डाक्टर<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>doctor<s n="n"/></l><r>पंडित<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>doctor<s n="n"/></l><r>डाक्टर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>doctor<s n="n"/></l><r>डॉक्टर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>Pandit<s n="n"/></l><r>पंडित<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>doctrine<s n="n"/></l><r>मत<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>documentation<s n="n"/></l><r>प्रलेखन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>document<s n="n"/></l><r>दस्तावेज<s n="n"/><s n="m"/></r></p></e>
@@ -8726,6 +8741,7 @@
     <e><p><l>Indian<s n="n"/></l><r>भारतीय<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>India<s n="n"/></l><r>भारतवर्ष<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>India<s n="n"/></l><r>हिंदुस्तान<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>India<s n="n"/></l><r>हिन्दुस्तान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>indicative<s n="n"/></l><r>परिचायक<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>indicator<s n="n"/></l><r>सूचक<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>indicator<s n="n"/></l><r>संकेतक<s n="n"/><s n="m"/></r></p></e>
@@ -13617,6 +13633,7 @@
 	<e><p><l>screwing<s n="n"/></l><r>सेक्स<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>screw<s n="n"/></l><r>केतकी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>script<s n="n"/></l><r>आलेख<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>script<s n="n"/></l><r>पटकथा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>scripture<s n="n"/></l><r>त्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>scripture<s n="n"/></l><r>धर्मग्रंथ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>scriptwriter<s n="n"/></l><r>आलेखक<s n="n"/><s n="m"/></r></p></e>
@@ -15164,6 +15181,7 @@
 	<e><p><l>surgery<s n="n"/></l><r>शल्यचिकित्सा<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>surgery<s n="n"/></l><r>शल्यचिकित्सा-शास्त्र<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>surgery<s n="n"/></l><r>शल्यविज्ञान<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>surgery<s n="n"/></l><r>शल्य<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>surgery<s n="n"/></l><r>सर्जरी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>surge<s n="n"/></l><r>हिलोर<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>surge<s n="n"/></l><r>हिलोरा<s n="n"/><s n="m"/></r></p></e>
@@ -17623,6 +17641,26 @@
 	<e><p><l>Shivaji<s n="np"/><s n="ant"/></l><r>शिवाजी<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Edward<s n="np"/><s n="ant"/></l><r>एडवर्ड<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Austin<s n="np"/><s n="cog"/></l><r>ऑस्टिन<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Faisal<s n="np"/><s n="ant"/></l><r>फ़ैसल<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Majid<s n="np"/><s n="ant"/></l><r>मजीद<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Jackson<s n="np"/><s n="cog"/></l><r>जैक्सन<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Abi<s n="np"/><s n="ant"/></l><r>अबी<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Bala<s n="np"/><s n="ant"/></l><r>बाला<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Kareem<s n="np"/><s n="ant"/></l><r>करीम<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Ghalib<s n="np"/><s n="ant"/></l><r>ग़ालिब<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Mirza<s n="np"/><s n="cog"/></l><r>मिर्जा<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Anees<s n="np"/><s n="ant"/></l><r>अनीस<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Abbas<s n="np"/><s n="ant"/></l><r>अब्बास<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Mukhtar<s n="np"/><s n="ant"/></l><r>मुख़तार<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Ibrahim<s n="np"/><s n="ant"/></l><r>इब्राहिम<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Abdali<s n="np"/><s n="ant"/></l><r>अबदाली<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Hanafi<s n="np"/><s n="ant"/></l><r>हनफ़ी<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Henry<s n="np"/><s n="ant"/></l><r>हैनरी<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Qureshi<s n="np"/><s n="cog"/></l><r>क़ुरैशी<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Alice<s n="np"/><s n="ant"/></l><r>एलिस<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Jafar<s n="np"/><s n="ant"/></l><r>जाफ़र<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Singh<s n="np"/><s n="cog"/></l><r>सिंह<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Anna<s n="np"/><s n="ant"/></l><r>अन्ना<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Da<s n="np"/><s n="cog"/></l><r>डा<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Thomas<s n="np"/><s n="ant"/></l><r>थॉमस<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Richard<s n="np"/><s n="ant"/></l><r>रिचर्ड<s n="np"/><s n="ant"/></r></p></e>
@@ -17639,6 +17677,35 @@
 	<e><p><l>Shastri<s n="np"/><s n="cog"/></l><r>शास्त्री<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Mukharjee<s n="np"/><s n="cog"/></l><r>मुखर्जी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Motilal<s n="np"/><s n="ant"/></l><r>मोतीलाल<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>White<s n="np"/><s n="cog"/></l><r>व्हाइट<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Williams<s n="np"/><s n="cog"/></l><r>विलियम्स<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Parshuram<s n="np"/><s n="ant"/></l><r>परशुराम<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>MacMohan<s n="np"/><s n="ant"/></l><r>मैकमोहन<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Arthur<s n="np"/><s n="ant"/></l><r>आर्थर<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Kalidas<s n="np"/><s n="ant"/></l><r>कालिदास<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Chris<s n="np"/><s n="ant"/></l><r>क्रिस<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Joshi<s n="np"/><s n="cog"/></l><r>जोशी<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Aurangzeb<s n="np"/><s n="ant"/></l><r>औरंगजेब<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Newton<s n="np"/><s n="ant"/></l><r>न्यूटन<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Chauhan<s n="np"/><s n="cog"/></l><r>चौहान<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Goswami<s n="np"/><s n="cog"/></l><r>गोस्वामी<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Carl<s n="np"/><s n="ant"/></l><r>कार्ल<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Steve<s n="np"/><s n="ant"/></l><r>स्टीव<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Dwivedi<s n="np"/><s n="cog"/></l><r>द्विवेदी<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Raj<s n="np"/><s n="ant"/></l><r>राज्<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Jones<s n="np"/><s n="cog"/></l><r>जोन्स<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Shankaracharya<s n="np"/><s n="ant"/></l><r>शंकराचार्य<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Vikramaditya<s n="np"/><s n="ant"/></l><r>विक्रमादित्य<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Bismil<s n="np"/><s n="ant"/></l><r>बिस्मिल<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Wilson<s n="np"/><s n="ant"/></l><r>विल्सन<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Mehmood<s n="np"/><s n="ant"/></l><r>महमूद<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Sriram<s n="np"/><s n="ant"/></l><r>श्रीराम<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Sri<b/>Ram<s n="np"/><s n="ant"/></l><r>श्रीराम<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Bheem<s n="np"/><s n="ant"/></l><r>भीम<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Lui<s n="np"/><s n="ant"/></l><r>लुई<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Leela<s n="np"/><s n="ant"/></l><r>लीला<s n="np"/><s n="ant"/></r></p></e>
+	<e><p><l>Vaishali<s n="np"/><s n="ant"/></l><r>वैशाली<s n="np"/><s n="ant"/></r></p></e>
+
 
 	<e><p><l>Gregory<s n="np"/><s n="ant"/></l><r>ग्रेगोरी<s n="np"/><s n="ant"/></r></p></e>
  	<e><p><l>Mary<s n="np"/><s n="ant"/></l><r>मैरी<s n="np"/><s n="ant"/></r></p></e>
@@ -17650,6 +17717,8 @@
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गांधी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Gandhi<s n="np"/><s n="cog"/></l><r>गाँधी<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Patel<s n="np"/><s n="cog"/></l><r>पटेल<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Bharti<s n="np"/><s n="cog"/></l><r>भारती<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Bharti<s n="np"/><s n="ant"/></l><r>भारती<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>George<s n="np"/><s n="ant"/></l><r>जॉर्ज<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>David<s n="np"/><s n="ant"/></l><r>डेविड<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Bharat<s n="np"/><s n="ant"/></l><r>भरत<s n="np"/><s n="ant"/></r></p></e>
@@ -17769,6 +17838,7 @@
 	<e><p><l>Wikipedia<s n="np"/><s n="org"/></l><r>विकिपीडिया<s n="np"/><s n="org"/></r></p></e>
 	<e><p><l>Google<s n="np"/><s n="org"/></l><r>गूगल<s n="np"/><s n="org"/></r></p></e>
 	<e><p><l>YouTube<s n="np"/><s n="org"/></l><r>यूट्यूब<s n="np"/><s n="org"/></r></p></e>
+	<e><p><l>Vividh<b/>Bharti<s n="np"/><s n="org"/></l><r>विविध<b/>भारती<s n="np"/><s n="org"/></r></p></e>
 	<e><p><l>February<s n="n"/></l><r>फ़रवरी<s n="n"/><s n="m"/></r></p></e>
  	<e><p><l>Forbes<s n="np"/><s n="cog"/></l><r>फोर्ब्स<s n="np"/><s n="cog"/></r></p></e>
     	<e><p><l>Friday<s n="n"/></l><r>शुक्रवार<s n="n"/><s n="m"/></r></p></e>
@@ -18167,6 +18237,50 @@
 	<e><p><l>Bombay<s n="np"/><s n="top"/></l><r>बॉम्बे<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Persia<s n="np"/><s n="top"/></l><r>फारस<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Gorakhpur<s n="np"/><s n="top"/></l><r>गोरखपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Gangolihat<s n="np"/><s n="top"/></l><r>गंगोलीहाट<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Chibramau<s n="np"/><s n="top"/></l><r>छिबरामऊ<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Mysore<s n="np"/><s n="top"/></l><r>मैसूर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Tharali<s n="np"/><s n="top"/></l><r>थराली<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Kanda<s n="np"/><s n="top"/></l><r>कांडा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Sweden<s n="np"/><s n="top"/></l><r>स्वीडन<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Florida<s n="np"/><s n="top"/></l><r>फ्लोरिडा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Chicago<s n="np"/><s n="top"/></l><r>शिकागो<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Kanpur<s n="np"/><s n="top"/></l><r>कानपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Burma<s n="np"/><s n="top"/></l><r>बर्मा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Brazil<s n="np"/><s n="top"/></l><r>ब्राजील<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Gwalior<s n="np"/><s n="top"/></l><r>ग्वालियर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Goa<s n="np"/><s n="top"/></l><r>गोवा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Banaras<s n="np"/><s n="top"/></l><r>बनारस<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Belgium<s n="np"/><s n="top"/></l><r>बेल्जियम<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Dubai<s n="np"/><s n="top"/></l><r>दुबई<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Nagpur<s n="np"/><s n="top"/></l><r>नागपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>France<s n="np"/><s n="top"/></l><r>फ़्रांस<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Bhanoli<s n="np"/><s n="top"/></l><r>भनोली<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Ahmadabad<s n="np"/><s n="top"/></l><r>अहमदाबाद<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Ramnagar<s n="np"/><s n="top"/></l><r>रामनगर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Madhya<b/>Pradesh<s n="np"/><s n="top"/></l><r>मध्यप्रदेश<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>England<s n="np"/><s n="top"/></l><r>इंग्लैण्ड<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Haridwar<s n="np"/><s n="top"/></l><r>हरिद्वार<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Ujjain<s n="np"/><s n="top"/></l><r>उज्जैन<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Sydney<s n="np"/><s n="top"/></l><r>सिडनी<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Netherlands<s n="np"/><s n="top"/></l><r>नीदरलैंड<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Berlin<s n="np"/><s n="top"/></l><r>बर्लिन<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Manchester<s n="np"/><s n="top"/></l><r>मैनचेस्टर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Denmark<s n="np"/><s n="top"/></l><r>डेनमार्क<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Afganistan<s n="np"/><s n="top"/></l><r>अफ़ग़ानिस्तान<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Australia<s n="np"/><s n="top"/></l><r>आस्ट्रेलिया<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Rampur<s n="np"/><s n="top"/></l><r>रामपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Imamganj<s n="np"/><s n="top"/></l><r>इमामगंज<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Pokhari<s n="np"/><s n="top"/></l><r>पोखरी<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Portugal<s n="np"/><s n="top"/></l><r>पुर्तगाल<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Bundelkhand<s n="np"/><s n="top"/></l><r>बुंदेलखंड<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Kiraoli<s n="np"/><s n="top"/></l><r>किरौली<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Raigarh<s n="np"/><s n="top"/></l><r>रायगढ<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Ajmer<s n="np"/><s n="top"/></l><r>अजमेर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Meerut<s n="np"/><s n="top"/></l><r>मेरठ<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Srinagar<s n="np"/><s n="top"/></l><r>श्रीनगर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Amritsar<s n="np"/><s n="top"/></l><r>अमृतसर<s n="np"/><s n="top"/></r></p></e>
+
 
 	<e><p><l>Tibbet<s n="np"/><s n="top"/></l><r>तिब्बत<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Bikaner<s n="np"/><s n="top"/></l><r>बीकानेर<s n="np"/><s n="top"/></r></p></e>
@@ -18209,6 +18323,8 @@
 	<e><p><l>Delhi<b/><s n="np"/><s n="top"/></l><r>दिल्ली<s n="np"/><s n="top"/></r></p></e>	
 	<e><p><l>Allahabad<b/><s n="np"/><s n="top"/></l><r>इलाहाबाद<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Agra<b/><s n="np"/><s n="top"/></l><r>आगरा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Koel<b/><s n="np"/><s n="top"/></l><r>कोइल<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Koil<b/><s n="np"/><s n="top"/></l><r>कोइल<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Aligarh<b/><s n="np"/><s n="top"/></l><r>अलीगढ़<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Bhagalpur<b/><s n="np"/><s n="top"/></l><r>भागलपुर<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Farrukhabad<b/><s n="np"/><s n="top"/></l><r>फर्रुखाबाद<s n="np"/><s n="top"/></r></p></e>
@@ -18261,6 +18377,7 @@
 	<e><p><l>Portuguese<s n="adj"/></l><r>पुर्तगाली<s n="adj"/></r></p></e>
 
 
+	<e><p><l>directed<s n="adj"/></l><r>निर्देशित<s n="adj"/></r></p></e>
 	<e><p><l>present<s n="adj"/></l><r>प्रस्तुत<s n="adj"/></r></p></e>
 	<e><p><l>operated<s n="adj"/></l><r>संचालित<s n="adj"/></r></p></e>
 	<e><p><l>main<s n="adj"/></l><r>सदर<s n="adj"/></r></p></e>
@@ -19257,6 +19374,7 @@
     <e><p><l>blubbery<s n="adj"/></l><r>चरबीदार<s n="adj"/></r></p></e>
 	<e><p><l>blue<s n="adj"/></l><r>नीलवर्ण<s n="adj"/></r></p></e>
 	<e><p><l>blue<s n="adj"/></l><r>नीला<s n="adj"/></r></p></e>
+	<e><p><l>blue<s n="adj"/></l><r>नील<s n="adj"/></r></p></e>
 	<e><p><l>bluff<s n="adj"/></l><r>रूखा<s n="adj"/><s n="m"/></r></p></e>
     <e><p><l>blunt<s n="adj"/><s n="sint"/></l><r>भौंथरा<s n="adj"/></r></p></e>
     <e><p><l>blurry<s n="adj"/></l><r>धुंधला<s n="adj"/></r></p></e>
@@ -19585,13 +19703,13 @@
 	<e><p><l>complete<s n="adj"/></l><r>सिद्धहस्त<s n="adj"/></r></p></e>
 	<e><p><l>complex<s n="adj"/></l><r>जटिल<s n="adj"/></r></p></e>
 	<e><p><l>complex<s n="adj"/></l><r>मिक्ष<s n="adj"/></r></p></e>
-    <e><p><l>compliant<s n="adj"/></l><r>सम्मत<s n="adj"/></r></p></e>
-    <e><p><l>complimentary<s n="adj"/></l><r>प्रशंसासूचक<s n="adj"/></r></p></e>
+    	<e><p><l>compliant<s n="adj"/></l><r>सम्मत<s n="adj"/></r></p></e>
+    	<e><p><l>complimentary<s n="adj"/></l><r>प्रशंसासूचक<s n="adj"/></r></p></e>
 	<e><p><l>complimentary<s n="adj"/></l><r>मानार्थ<s n="adj"/></r></p></e>
-    <e><p><l>composite<s n="adj"/></l><r>सम्मिश्र<s n="adj"/></r></p></e>
+    	<e><p><l>composite<s n="adj"/></l><r>सम्मिश्र<s n="adj"/></r></p></e>
 	<e><p><l>compound<s n="adj"/></l><r>चक्रवृद्धि<s n="adj"/><s n="f"/></r></p></e>
-    <e><p><l>compound<s n="adj"/></l><r>मिश्रण<s n="adj"/><s n="m"/></r></p></e>
-    <e><p><l>compound<s n="adj"/></l><r>मिश्रित<s n="adj"/></r></p></e>
+    	<e><p><l>compound<s n="adj"/></l><r>मिश्रण<s n="adj"/><s n="m"/></r></p></e>
+	<e><p><l>compound<s n="adj"/></l><r>मिश्रित<s n="adj"/></r></p></e>
 	<e><p><l>compound<s n="adj"/></l><r>यौगिक<s n="adj"/></r></p></e>
 	<e><p><l>compound<s n="adj"/></l><r>समास<s n="adj"/><s n="m"/></r></p></e>
 	<e><p><l>comprehensive<s n="adj"/></l><r>बहुपाठ्यक्रम<s n="adj"/></r></p></e>
@@ -19604,7 +19722,7 @@
 	<e><p><l>concave<s n="adj"/></l><r>अवतल<s n="adj"/></r></p></e>
 	<e><p><l>concentric<s n="adj"/></l><r>सकेन्द्री<s n="adj"/></r></p></e>
 	<e><p><l>concerned<s n="adj"/></l><r>संपृक्त<s n="adj"/></r></p></e>
-    <e><p><l>conciliatory<s n="adj"/></l><r>शान्तिकर<s n="adj"/></r></p></e>
+    	<e><p><l>conciliatory<s n="adj"/></l><r>शान्तिकर<s n="adj"/></r></p></e>
 	<e><p><l>concise<s n="adj"/></l><r>लघु<s n="adj"/></r></p></e>
 	<e><p><l>concomitant<s n="adj"/></l><r>सहगामी<s n="adj"/></r></p></e>
 	<e><p><l>concrete<s n="adj"/></l><r>ठौस<s n="adj"/></r></p></e>
@@ -20835,6 +20953,7 @@
 	<e><p><l>healthful<s n="adj"/></l><r>स्वास्थ्यप्रद<s n="adj"/><s n="m"/></r></p></e>
 	<e><p><l>healthy<s n="adj"/></l><r>स्वास्थ्यवर्धक<s n="adj"/></r></p></e>
 	<e><p><l>healthy<s n="adj"/><s n="sint"/></l><r>निरामय<s n="adj"/></r></p></e>
+	<e><p><l>healthy<s n="adj"/><s n="sint"/></l><r>स्वस्थ<s n="adj"/></r></p></e>
 	<e><p><l>hearing<s n="adj"/></l><r>वाच्य<s n="adj"/></r></p></e>
 	<e><p><l>heartbreaking<s n="adj"/></l><r>मर्माहत<s n="adj"/></r></p></e>
 	<e><p><l>heartbreaking<s n="adj"/></l><r>शोकाकुल<s n="adj"/></r></p></e>
@@ -21238,7 +21357,8 @@
 	<e><p><l>inimitable<s n="adj"/></l><r>अननुकरणीय<s n="adj"/></r></p></e>
     <e><p><l>inimitable<s n="adj"/></l><r>अनुपम<s n="adj"/></r></p></e>
     <e><p><l>iniquitous<s n="adj"/></l><r>अन्यायपूर्ण<s n="adj"/></r></p></e>
-    <e><p><l>initial<s n="adj"/></l><r>प्रारम्भिक<s n="adj"/></r></p></e>
+	<e><p><l>initial<s n="adj"/></l><r>प्रारम्भिक<s n="adj"/></r></p></e>
+	<e><p><l>initial<s n="adj"/></l><r>शुरुआती<s n="adj"/></r></p></e>
     <e><p><l>injudicious<s n="adj"/></l><r>अयुक्त<s n="adj"/></r></p></e>
     <e><p><l>injured<s n="adj"/></l><r>घायल<s n="adj"/></r></p></e>
 	<e><p><l>injured<s n="adj"/></l><r>जखमी<s n="adj"/></r></p></e>
@@ -24293,6 +24413,7 @@
 	<e><p><l>undiversified<s n="adj"/></l><r>अविविधीकृत<s n="adj"/></r></p></e>
 	<e><p><l>undomesticated<s n="adj"/></l><r>परिवार-विरक्त<s n="adj"/></r></p></e>
 	<e><p><l>undomestic<s n="adj"/></l><r>अपारिवारिक<s n="adj"/></r></p></e>
+	<e><p><l>domestic<s n="adj"/></l><r>पारिवारिक<s n="adj"/></r></p></e>
 	<e><p><l>undone<s n="adj"/></l><r>बरबाद<s n="adj"/></r></p></e>
 	<e><p><l>undrained<s n="adj"/></l><r>अनपवाहित<s n="adj"/></r></p></e>
 	<e><p><l>undramatic<s n="adj"/></l><r>अनाटकीय<s n="adj"/></r></p></e>
@@ -25298,6 +25419,7 @@
 
     <!-- SECTION: Adverbs -->  
 
+	<e><p><l>absolutely<s n="adv"/></l><r>बिल्कुल<s n="adv"/></r></p></e>
 	<e><p><l>consequently<s n="adv"/></l><r>फलस्वरूप<s n="adv"/></r></p></e>
 	<e><p><l>more<s n="adv"/></l><r>ज़्यादा<s n="adv"/></r></p></e>
 	<e><p><l>relatively<s n="adv"/></l><r>अपेक्षाकृत<s n="adv"/></r></p></e>
@@ -25421,6 +25543,7 @@
 	<e><p><l>inevitably<s n="adv"/></l><r>अवश्य<s n="adv"/></r></p></e>
     <e><p><l>likely<s n="adv"/></l><r>सम्भव<s n="adv"/></r></p></e>
     <e><p><l>primarily<s n="adv"/></l><r>मुख्यतः<s n="adv"/></r></p></e>
+	<e><p><l>primarily<s n="adv"/></l><r>मुख्यत<s n="adv"/></r></p></e>
 	<e><p><l>sure<s n="adv"/></l><r>निस्संशय<s n="adv"/><s n="m"/></r></p></e>
 	<e><p><l>straight<s n="adv"/></l><r>सीधा<s n="adv"/><s n="m"/></r></p></e>
 	<e><p><l>pretty<s n="adv"/></l><r>मनोहर<s n="adv"/><s n="m"/></r></p></e>
