@@ -148,6 +148,8 @@
     </def-attr>
     <def-attr n="a_deg">
       <attr-item tags="sint"/>
+      <attr-item tags="sint.comp"/>
+      <attr-item tags="sint.sup"/>
     </def-attr>
     <def-attr n="a_pers">
       <attr-item tags="p1"/>
