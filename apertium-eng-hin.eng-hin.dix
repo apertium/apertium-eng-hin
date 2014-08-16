@@ -50,6 +50,7 @@
     <sdef n="p2"      c="second person"/>
     <sdef n="p3"      c="third person"/>
     <sdef n="tv"      c="transitive"/>
+    <sdef n="sup"      c="superlitive"/>
 	<sdef n="iv"      c="intransitive"/>
 	<sdef n="ord"      c="ordinal"/>
 	<sdef n="lpar"      c="Left parenthesis"/>
@@ -446,6 +447,7 @@
 	<e><p><l>feature<s n="n"/></l><r>विशेषता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>speciality<s n="n"/></l><r>विशेषता<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>sandstone<s n="n"/></l><r>बलुआ-पत्थर<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>sand<s n="n"/></l><r>बलुआ<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Sub-Continent<s n="n"/></l><r>उपमहाद्वीप<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>constitution<s n="n"/></l><r>सविन्धान<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Indic<s n="n"/></l><r>इण्डिक<s n="n"/><s n="m"/></r></p></e>
@@ -18606,9 +18608,8 @@
 
 	<e><p><l>directed<s n="adj"/></l><r>निर्देशित<s n="adj"/></r></p></e>
 	<e><p><l>present<s n="adj"/></l><r>प्रस्तुत<s n="adj"/></r></p></e>
-	<e><p><l>operated<s n="adj"/></l><r>संचालित<s n="adj"/></r></p></e>
+	<e><p><l>coordinated<s n="adj"/></l><r>संचालित<s n="adj"/></r></p></e>
 	<e><p><l>main<s n="adj"/></l><r>सदर<s n="adj"/></r></p></e>
-	<e><p><l>sand<s n="adj"/></l><r>बलुआ<s n="adj"/></r></p></e>
 	<e><p><l>new<s n="adj"/></l><r>नवीन<s n="adj"/></r></p></e>
 	<e><p><l>generated<s n="adj"/></l><r>उत्पन्न<s n="adj"/></r></p></e>
 	<e><p><l>meticulous<s n="adj"/></l><r>सूक्ष्म<s n="adj"/></r></p></e>
@@ -18624,7 +18625,6 @@
 	<e><p><l>commercial<s n="adj"/></l><r>वाणिज्यिक<s n="adj"/></r></p></e>
 	<e><p><l>revealed<s n="adj"/></l><r>अवतरित<s n="adj"/></r></p></e>
 	<e><p><l>honoured<s n="adj"/></l><r>सम्मानित<s n="adj"/></r></p></e>
-	<e><p><l>oldest<s n="adj"/></l><r>प्राचीनतम<s n="adj"/></r></p></e>
 	<e><p><l>rare<s n="adj"/></l><r>दुर्लभ<s n="adj"/></r></p></e>
 	<e><p><l>right<s n="adj"/></l><r>दायें<s n="adj"/></r></p></e>
 	<e><p><l>finish<s n="adj"/></l><r>ख़त्म<s n="adj"/></r></p></e>
@@ -20266,7 +20266,7 @@
 	<e><p><l>derelict<s n="adj"/></l><r>नष्टप्राय<s n="adj"/></r></p></e>
     <e><p><l>derelict<s n="adj"/></l><r>परित्यक्त<s n="adj"/></r></p></e>
 	<e><p><l>derived<s n="adj"/></l><r>जन्मसिद्ध<s n="adj"/></r></p></e>
-	<e><p><l>derivative<s n="adj"/></l><r>व्युत्पन्न<s n="adj"/></r></p></e>
+	<e><p><l>derived<s n="adj"/></l><r>व्युत्पन्न<s n="adj"/></r></p></e>
 	<e><p><l>dermatological<s n="adj"/></l><r>त्वचाविज्ञान-संबंधी<s n="adj"/></r></p></e>
     <e><p><l>derogatory<s n="adj"/></l><r>अपमानजनक<s n="adj"/></r></p></e>
     <e><p><l>descendent<s n="adj"/></l><r>वंशज<s n="adj"/></r></p></e>
@@ -21239,7 +21239,7 @@
     <e><p><l>hilarious<s n="adj"/></l><r>हर्ष-भरा<s n="adj"/></r></p></e>
 	<e><p><l>hilarious<s n="adj"/></l><r>हास्यप्रद<s n="adj"/></r></p></e>
 
-    	<e><p><l>hill<s n="adj"/></l><r>पहाड़ी<s n="adj"/></r></p></e>
+    	<e><p><l>hilly<s n="adj"/></l><r>पहाड़ी<s n="adj"/></r></p></e>
     	<e><p><l>hilly<s n="adj"/></l><r>पर्वतीय<s n="adj"/></r></p></e>
     	<e><p><l>hind<s n="adj"/></l><r>पिछला<s n="adj"/></r></p></e>
 	<e><p><l>hirsute<s n="adj"/></l><r>रोयेंदार<s n="adj"/></r></p></e>
@@ -22334,6 +22334,7 @@
     <e><p><l>newborn<s n="adj"/></l><r>नवजात<s n="adj"/></r></p></e>
 
 	<e><p><l>old<s n="adj"/><s n="sint"/></l><r>पुराना<s n="adj"/></r></p></e>
+	<e><p><l>old<s n="adj"/><s n="sint"/><s n="sup"/></l><r>प्राचीनतम<s n="adj"/></r></p></e>
 	<e><p><l>new<s n="adj"/><s n="sint"/></l><r>नई<s n="adj"/></r></p></e>
 	<e><p><l>new<s n="adj"/><s n="sint"/></l><r>नए<s n="adj"/></r></p></e>
     <e><p><l>new<s n="adj"/><s n="sint"/></l><r>नया<s n="adj"/></r></p></e>
@@ -28017,6 +28018,7 @@
 	<e><p><l>appeal<s n="vblex"/></l><r>पसंद<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>appeal<s n="vblex"/></l><r>संकेत<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>appeal<s n="vblex"/></l><r>विनती<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>appear<s n="vblex"/></l><r>अवतरित<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>appear<s n="vblex"/></l><r>प्रकट<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>appear<s n="vblex"/></l><r>हाजिर<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
 	<e><p><l>appear<s n="vblex"/></l><r>प्रकाशित<b/>हो<s n="vblex"/><s n="iv"/></r></p></e>
@@ -29991,7 +29993,7 @@
 	<e><p><l>conduct<s n="vblex"/></l><r>संचालित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>conduct<s n="vblex"/></l><r>मार्गदर्शन<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>conduct<s n="vblex"/></l><r>संचालन<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>conduct<s n="vblex"/></l><r>संचालित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>conduct<s n="vblex"/></l><r>संचालित<b/>हो<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>conduct<s n="vblex"/></l><r>संचालन<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>conduct<s n="vblex"/></l><r>संचालन<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>confer<s n="vblex"/></l><r>प्रदान<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
@@ -34512,6 +34514,7 @@
 	<e><p><l>operate<s n="vblex"/></l><r>कार्य<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>operate<s n="vblex"/></l><r>चालू<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>operate<s n="vblex"/></l><r>संचालित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>operate<s n="vblex"/></l><r>संचालित<b/>हो<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>oppose<s n="vblex"/></l><r>सामना<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>oppose<s n="vblex"/></l><r>बाधा<b/>डाल<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>oppose<s n="vblex"/></l><r>विरोध<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>

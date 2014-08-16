@@ -17538,6 +17538,7 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="mulch">           <i>mulch</i><par n="access__n"/></e>
 <e lm="mule">            <i>mule</i><par n="house__n"/></e>
 <e lm="mull">            <i>mull</i><par n="accept__vblex"/></e>
+<e lm="multi-">   <i>multi-</i><par n="expensive__adj"/></e>
 <e lm="multi-lingual">   <i>multi-lingual</i><par n="expensive__adj"/></e>
 <e lm="multi-purpose">   <i>multi-purpose</i><par n="expensive__adj"/></e>
 <e lm="multicultural">   <i>multicultural</i><par n="expensive__adj"/></e>
@@ -33295,6 +33296,7 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="vegetarianism">       <i>vegetarianism</i><par n="house__n"/></e>
 <e lm="vegetarianism">       <i>vegetarianism</i><par n="house__n"/></e>
 <e lm="vegetarian">       <i>vegetari</i><par n="m/an__n"/></e>
+<e lm="vegetarian">       <i>vegetarian</i><par n="expensive__adj"/></e>
 <e lm="velar">       <i>velar</i><par n="house__n"/></e>
 <e lm="velcro">       <i>velcro</i><par n="house__n"/></e>
 <e lm="velum">       <i>vel</i><par n="maxim/um__n"/></e>
@@ -34606,7 +34608,7 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="incandescent">       <i>incandescent</i><par n="expensive__adj"/></e>
 <e lm="incandescent">       <i>incandescent</i><par n="expensive__adj"/></e>
 <e lm="incarnate">       <i>incarnate</i><par n="expensive__adj"/></e>
-<e lm="incarnate">       <i>incarnate</i><par n="expensive__adj"/></e>
+<e lm="incarnated">       <i>incarnated</i><par n="expensive__adj"/></e>
 <e lm="incarnate">       <i>incarnate</i><par n="expensive__adj"/></e>
 <e lm="inchoate">       <i>inchoate</i><par n="expensive__adj"/></e>
 <e lm="incipient">       <i>incipient</i><par n="expensive__adj"/></e>
