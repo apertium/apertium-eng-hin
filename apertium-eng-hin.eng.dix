@@ -13760,6 +13760,7 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="inflow">          <i>inflow</i><par n="up__n"/></e>
 <e lm="influence">       <i>influenc</i><par n="liv/e__vblex"/></e>
 <e lm="influence">       <i>influence</i><par n="house__n"/></e>
+<e lm="influenced">     <i>influenced</i><par n="expensive__adj"/></e>
 <e lm="influential">     <i>influential</i><par n="expensive__adj"/></e>
 <e lm="influenza">       <i>influenza</i><par n="up__n"/></e>
 <e lm="influx">          <i>influx</i><par n="access__n"/></e>
@@ -27039,6 +27040,7 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="wizard">          <i>wizard</i><par n="house__n"/></e>
 <e lm="wobble">          <i>wobble</i><par n="house__n"/></e>
 <e lm="woe">             <i>woe</i><par n="house__n"/></e>
+<e lm="Vedic">       <i>Vedic</i><par n="expensive__adj"/></e>
 <e lm="woebegone">       <i>woebegone</i><par n="expensive__adj"/></e>
 <e lm="woeful">          <i>woeful</i><par n="expensive__adj"/></e>
 <e lm="woefully">        <i>woefully</i><par n="maybe__adv"/></e>
@@ -39131,6 +39133,8 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="dashing">       <i>dashing</i><par n="expensive__adj"/></e>
 <e lm="declared">       <i>declared</i><par n="expensive__adj"/></e>
 <e lm="defined">       <i>defined</i><par n="expensive__adj"/></e>
+<e lm="emitted">       <i>emitted</i><par n="expensive__adj"/></e>
+<e lm="generated">       <i>generated</i><par n="expensive__adj"/></e>
 <e lm="degenerate">       <i>degenerate</i><par n="expensive__adj"/></e>
 <e lm="dehydrated">       <i>dehydrated</i><par n="expensive__adj"/></e>
 <e lm="delineated">       <i>delineated</i><par n="expensive__adj"/></e>

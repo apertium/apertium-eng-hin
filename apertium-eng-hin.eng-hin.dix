@@ -144,6 +144,7 @@
     <e><p><l>against<s n="pr"/></l><r>के<b/>खिलाफ<s n="post"/></r></p></e>
 	<e><p><l>against<s n="pr"/></l><r>के<b/>विरुद्ध<s n="post"/></r></p></e>
 	<e><p><l>against<s n="pr"/></l><r>के<b/>विरूद्ध<s n="post"/></r></p></e>
+	<e><p><l>within<s n="pr"/></l><r>के<b/>अन्तर्गत<s n="post"/></r></p></e>
 	<e><p><l>under<s n="pr"/></l><r>के<b/>तहत<s n="post"/></r></p></e>
 	<e><p><l>under<s n="pr"/></l><r>तहत<s n="post"/></r></p></e>
     <e><p><l>as<s n="pr"/></l><r>के<b/>तौर<b/>पर<s n="post"/></r></p></e>
@@ -18596,7 +18597,6 @@
 	<e><p><l>French<s n="adj"/></l><r>फ्रांसीसी<s n="adj"/></r></p></e>
 	<e><p><l>Italian<s n="adj"/></l><r>इतालवी<s n="adj"/></r></p></e>
 	<e><p><l>Nepali<s n="adj"/></l><r>नेपाली<s n="adj"/></r></p></e>
-	<e><p><l>Portugese<s n="adj"/></l><r>पुर्तगाली<s n="adj"/></r></p></e>
 	<e><p><l>Iranian<s n="adj"/></l><r>ईरानी<s n="adj"/></r></p></e>
 	<e><p><l>Arab<s n="adj"/></l><r>अरब<s n="adj"/></r></p></e>
 	<e><p><l>African<s n="adj"/></l><r>अफ्रीकी<s n="adj"/></r></p></e>
@@ -18627,12 +18627,10 @@
 	<e><p><l>honoured<s n="adj"/></l><r>सम्मानित<s n="adj"/></r></p></e>
 	<e><p><l>rare<s n="adj"/></l><r>दुर्लभ<s n="adj"/></r></p></e>
 	<e><p><l>right<s n="adj"/></l><r>दायें<s n="adj"/></r></p></e>
-	<e><p><l>finish<s n="adj"/></l><r>ख़त्म<s n="adj"/></r></p></e>
 	<e><p><l>global<s n="adj"/></l><r>वैश्विक<s n="adj"/></r></p></e>	
 	<e><p><l>resultant<s n="adj"/></l><r>परिणामस्वरूप<s n="adj"/></r></p></e>	
 	<e><p><l>Solar<s n="adj"/></l><r>सौर<s n="adj"/></r></p></e>	
 	<e><p><l>aforementioned<s n="adj"/></l><r>उपरोक्त<s n="adj"/></r></p></e>	
-	<e><p><l>within<s n="adj"/></l><r>अन्तर्गत<s n="adj"/></r></p></e>	
 	<e><p><l><s n="adj"/></l><r>वाला<s n="adj"/></r></p></e> <!--issue disambiguating this!-->	
 	<e><p><l>thin<s n="adj"/></l><r>दुबला<s n="adj"/></r></p></e>	
 	<e><p><l>thin<s n="adj"/></l><r>पतला<s n="adj"/></r></p></e>	
@@ -19536,7 +19534,7 @@
 	<e><p><l>beautiful<s n="adj"/></l><r>खूबसूरत<s n="adj"/></r></p></e>
 	<e><p><l>beautiful<s n="adj"/></l><r>शोभायमान<s n="adj"/></r></p></e>
     <e><p><l>beautiful<s n="adj"/></l><r>सुन्दर<s n="adj"/></r></p></e>
-    <e><p><l>containing<s n="adj"/></l><r>युक्त<s n="adj"/></r></p></e>
+    <e><p><l>contained<s n="adj"/></l><r>युक्त<s n="adj"/></r></p></e>
     <e><p><l>bedridden<s n="adj"/></l><r>शय्याग्रस्त<s n="adj"/></r></p></e>
 	<e><p><l>beefy<s n="adj"/></l><r>माँसल<s n="adj"/></r></p></e>
 	<e><p><l>behavioural<s n="adj"/></l><r>व्यवहारवादी<s n="adj"/></r></p></e>
@@ -19549,7 +19547,6 @@
     <e><p><l>bent<s n="adj"/></l><r>झुकाव<s n="adj"/></r></p></e>
 	<e><p><l>bereaved<s n="adj"/></l><r>शोकसंतप्त<s n="adj"/></r></p></e>
 	<e><p><l>besotted<s n="adj"/></l><r>दीवानाआ<s n="adj"/></r></p></e>
-    <e><p><l>best<s n="adj"/><s n="sint"/></l><r>बेहतरीन<s n="adj"/></r></p></e>
     <e><p><l>beta<s n="adj"/></l><r>बीटा<s n="adj"/></r></p></e>
 	<e><p><l>bibliographic<s n="adj"/></l><r>संदर्भिका<s n="adj"/><s n="f"/></r></p></e>
 	<e><p><l>bicameral<s n="adj"/></l><r>द्विसदन<s n="adj"/></r></p></e>
@@ -19991,7 +19988,6 @@
 	<e><p><l>conspiratorial<s n="adj"/></l><r>षड्यंत्रपूर्ण<s n="adj"/></r></p></e>
 	<e><p><l>constituent<s n="adj"/></l><r>अवयवी<s n="adj"/></r></p></e>
 	<e><p><l>constituent<s n="adj"/></l><r>संघटक<s n="adj"/></r></p></e>
-	<e><p><l>component<s n="adj"/></l><r>घटक<s n="adj"/></r></p></e>
     <e><p><l>constitutional<s n="adj"/></l><r>संविधानी<s n="adj"/></r></p></e>
 	<e><p><l>constitutional<s n="adj"/></l><r>संवैधानिक<s n="adj"/></r></p></e>
 	<e><p><l>constrained<s n="adj"/></l><r>निरुद्ध<s n="adj"/></r></p></e>
@@ -20792,8 +20788,8 @@
 	<e><p><l>fattened<s n="adj"/></l><r>परिपुष्ट<s n="adj"/></r></p></e>
     <e><p><l>fatty<s n="adj"/></l><r>चर्बीदार<s n="adj"/></r></p></e>
 	<e><p><l>favourable<s n="adj"/></l><r>उपकारक<s n="adj"/></r></p></e>
-	<e><p><l>favoured<s n="adj"/></l><r>अनुगृहीत<s n="adj"/></r></p></e>
-	<e><p><l>favoured<s n="adj"/></l><r>इष्ट<s n="adj"/></r></p></e>
+	<e><p><l>favored<s n="adj"/></l><r>अनुगृहीत<s n="adj"/></r></p></e>
+	<e><p><l>desired<s n="adj"/></l><r>इष्ट<s n="adj"/></r></p></e>
 	<e><p><l>favourite<s n="adj"/></l><r>पसंदीदा<s n="adj"/></r></p></e>
     <e><p><l>favourite<s n="adj"/></l><r>प्रिय<s n="adj"/></r></p></e>
     <e><p><l>fearless<s n="adj"/></l><r>भयरहित<s n="adj"/></r></p></e>
@@ -21070,6 +21066,7 @@
     <e><p><l>gold<s n="adj"/></l><r>सोना<s n="adj"/><s n="m"/></r></p></e>
 	<e><p><l>good<s n="adj"/><s n="sint"/></l><r>अच्छा<s n="adj"/></r></p></e>
 	<e><p><l>good<s n="adj"/><s n="sint"/></l><r>भला<s n="adj"/></r></p></e>
+	<e><p><l>good<s n="adj"/><s n="sint"/><s n="sup"/></l><r>बेहतरीन<s n="adj"/></r></p></e>
     <e><p><l>gory<s n="adj"/></l><r>रक्तमय<s n="adj"/></r></p></e>
     <e><p><l>gossipy<s n="adj"/></l><r>गप्पी<s n="adj"/></r></p></e>
 	<e><p><l>gouty<s n="adj"/></l><r>गठियाग्रस्त<s n="adj"/></r></p></e>
@@ -21484,6 +21481,7 @@
 	<e><p><l>incumbent<s n="adj"/></l><r>पदस्थ<s n="adj"/></r></p></e>
     <e><p><l>incurable<s n="adj"/></l><r>अचिकित्स्य<s n="adj"/></r></p></e>
 	<e><p><l>incurable<s n="adj"/></l><r>लाइलाज<s n="adj"/></r></p></e>
+	<e><p><l>indebted<s n="adj"/></l><r>अनुगृहीत<s n="adj"/></r></p></e>
 	<e><p><l>indebted<s n="adj"/></l><r>आभारी<s n="adj"/></r></p></e>
 	<e><p><l>indebted<s n="adj"/></l><r>ऋणग्रस्त<s n="adj"/></r></p></e>
 	<e><p><l>indecent<s n="adj"/></l><r>अनुचित<s n="adj"/></r></p></e>
@@ -22075,7 +22073,7 @@
 	<e><p><l>maximum<s n="adj"/></l><r>महत्तम<s n="adj"/></r></p></e>
     <e><p><l>mayoral<s n="adj"/></l><r>महापौरीय<s n="adj"/></r></p></e>
 	<e><p><l>meagre<s n="adj"/></l><r>अत्यल्प<s n="adj"/></r></p></e>
-    <e><p><l>less<s n="adj"/></l><r>कम<s n="adj"/></r></p></e>
+    <e><p><l>less<s n="adv"/></l><r>कम<s n="adv"/></r></p></e>
     <e><p><l>meaningful<s n="adj"/></l><r>अर्थपूर्ण<s n="adj"/></r></p></e>
     <e><p><l>meaningless<s n="adj"/></l><r>अर्थहीन<s n="adj"/></r></p></e>
 	<e><p><l>measurable<s n="adj"/></l><r>परिमेय<s n="adj"/></r></p></e>
@@ -32102,10 +32100,11 @@
 	<e><p><l>finish<s n="vblex"/></l><r>पूर्ण<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>finish<s n="vblex"/></l><r>वध<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>finish<s n="vblex"/></l><r>पूरा<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>finish<s n="vblex"/></l><r>खतम<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
-	<e><p><l>finish<s n="vblex"/></l><r>खतम<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>finish<s n="vblex"/></l><r>खतम<b/>हो<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>finish<s n="vblex"/></l><r>समाप्त<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>finish<s n="vblex"/></l><r>समाप्त<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>finish<s n="vblex"/></l><r>ख़त्म<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
+	<e><p><l>finish<s n="vblex"/></l><r>ख़त्म<b/>हो<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>fire<s n="vblex"/></l><r>उत्साहित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>fire<s n="vblex"/></l><r>अनुप्राणित<b/>कर<s n="vblex"/><s n="tv"/></r></p></e>
 	<e><p><l>fire<s n="vblex"/></l><r>जोश<b/>दिला<s n="vblex"/><s n="tv"/></r></p></e>
