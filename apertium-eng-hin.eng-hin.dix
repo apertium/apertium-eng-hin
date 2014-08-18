@@ -166,7 +166,7 @@
     <e><p><l>my<s n="det"/><s n="pos"/></l><r>मेरे<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>my<s n="det"/><s n="pos"/></l><r>मेरी<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>a<s n="det"/><s n="ind"/></l><r>एक<s n="det"/><s n="ind"/></r></p></e>
-    <e><p><l>such<s n="det"/><s n="ind"/></l><r>ऐस<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>such<s n="det"/><s n="ind"/></l><r>ऐसा<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>other<s n="det"/><s n="ind"/></l><r>दूसरी<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>many<s n="det"/><s n="qnt"/></l><r>कई<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>many<s n="det"/><s n="qnt"/></l><r>अनेक<s n="det"/><s n="qnt"/></r></p></e>
@@ -17793,7 +17793,7 @@
 	<e><p><l>Kaurav<s n="np"/><s n="ant"/></l><r>कौरव<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Babar<s n="np"/><s n="ant"/></l><r>बाबर<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Kaikayi<s n="np"/><s n="ant"/></l><r>कैकेयी<s n="np"/><s n="ant"/></r></p></e>
-	<e><p><l><s n="np"/><s n="cog"/></l><r>खन्ना<s n="np"/><s n="cog"/></r></p></e>
+	<e><p><l>Khanna<s n="np"/><s n="cog"/></l><r>खन्ना<s n="np"/><s n="cog"/></r></p></e>
 	<e><p><l>Kunti<s n="np"/><s n="ant"/></l><r>कुन्ती<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Dilip<s n="np"/><s n="ant"/></l><r>दिलीप<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Dasbabu<s n="np"/><s n="ant"/></l><r>दासबाबू<s n="np"/><s n="ant"/></r></p></e>	
@@ -18065,11 +18065,11 @@
 	<e><p><l>Jain<s n="np"/><s n="cog"/></l><r>जैन<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>June<s n="n"/></l><r>जून<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>Kabir<s n="np"/><s n="ant"/></l><r>कबीर<s n="np"/><s n="ant"/></r></p></e>	   
-	<e><p><l>Kajol<s n="np"/><s n="ant"/></l><r>काजोल<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+	<e><p><l>Kajol<s n="np"/><s n="ant"/></l><r>काजोल<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Koum<s n="np"/><s n="cog"/></l><r>कुआम<s n="np"/><s n="cog"/></r></p></e>
 
 	<e><p><l>Lo<s n="np"/><s n="top"/></l><r>लो<s n="np"/><s n="top"/></r></p></e>	        
-	<e><p><l>Mukesh<s n="np"/><s n="ant"/></l><r>मुकेश<s n="np"/><s n="ant"/><s n="m"/></r></p></e>	
+	<e><p><l>Mukesh<s n="np"/><s n="ant"/></l><r>मुकेश<s n="np"/><s n="ant"/></r></p></e>	
 	<e><p><l>Mafia<s n="n"/></l><r>माफ़िया<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>March<s n="n"/></l><r>मार्च<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>May<s n="n"/></l><r>मई<s n="n"/><s n="f"/></r></p></e>
@@ -18549,25 +18549,25 @@
 	<e><p><l>Silvassa<s n="np"/><s n="top"/></l><r>सिल्वासा<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Daman<b/>and<b/>Diu<s n="np"/><s n="top"/></l><r>दमन<b/>और<b/>दीव<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Daman<s n="np"/><s n="top"/></l><r>दमन<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Delhi<b/><s n="np"/><s n="top"/></l><r>दिल्ली<s n="np"/><s n="top"/></r></p></e>	
-	<e><p><l>Allahabad<b/><s n="np"/><s n="top"/></l><r>इलाहाबाद<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Agra<b/><s n="np"/><s n="top"/></l><r>आगरा<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Koel<b/><s n="np"/><s n="top"/></l><r>कोइल<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Koil<b/><s n="np"/><s n="top"/></l><r>कोइल<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Aligarh<b/><s n="np"/><s n="top"/></l><r>अलीगढ़<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Bhagalpur<b/><s n="np"/><s n="top"/></l><r>भागलपुर<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Farrukhabad<b/><s n="np"/><s n="top"/></l><r>फर्रुखाबाद<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Begusarai<b/><s n="np"/><s n="top"/></l><r>बेगूसराय<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Munger<b/><s n="np"/><s n="top"/></l><r>मुंगेर<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>London<b/><s n="np"/><s n="top"/></l><r>लंदन<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Mumbai<b/><s n="np"/><s n="top"/></l><r>मुंबई<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Delhi<s n="np"/><s n="top"/></l><r>दिल्ली<s n="np"/><s n="top"/></r></p></e>	
+	<e><p><l>Allahabad<s n="np"/><s n="top"/></l><r>इलाहाबाद<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Agra<s n="np"/><s n="top"/></l><r>आगरा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Koel<s n="np"/><s n="top"/></l><r>कोइल<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Koil<s n="np"/><s n="top"/></l><r>कोइल<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Aligarh<s n="np"/><s n="top"/></l><r>अलीगढ़<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Bhagalpur<s n="np"/><s n="top"/></l><r>भागलपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Farrukhabad<s n="np"/><s n="top"/></l><r>फर्रुखाबाद<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Begusarai<s n="np"/><s n="top"/></l><r>बेगूसराय<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Munger<s n="np"/><s n="top"/></l><r>मुंगेर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>London<s n="np"/><s n="top"/></l><r>लंदन<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Mumbai<s n="np"/><s n="top"/></l><r>मुंबई<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Mumbai<s n="np"/><s n="ant"/></l><r>बंबई<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>Mumbai<s n="np"/><s n="ant"/></l><r>बम्बई<s n="np"/><s n="ant"/></r></p></e>
-	<e><p><l>Africa<b/><s n="np"/><s n="top"/></l><r>अफ्रीका<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Phulpur<b/><s n="np"/><s n="top"/></l><r>फूलपुर<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Lakhisarai<b/><s n="np"/><s n="top"/></l><r>लखीसराय<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Mathura<b/><s n="np"/><s n="top"/></l><r>मथुरा<s n="np"/><s n="top"/></r></p></e>
-	<e><p><l>Kashi<b/><s n="np"/><s n="top"/></l><r>काशी<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Africa<s n="np"/><s n="top"/></l><r>अफ्रीका<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Phulpur<s n="np"/><s n="top"/></l><r>फूलपुर<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Lakhisarai<s n="np"/><s n="top"/></l><r>लखीसराय<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Mathura<s n="np"/><s n="top"/></l><r>मथुरा<s n="np"/><s n="top"/></r></p></e>
+	<e><p><l>Kashi<s n="np"/><s n="top"/></l><r>काशी<s n="np"/><s n="top"/></r></p></e>
 
 	<e><p><l>Lakshadweep<s n="np"/><s n="top"/></l><r>लक्षद्वीप<s n="np"/><s n="top"/></r></p></e>
 	<e><p><l>Kavaratti<s n="np"/><s n="top"/></l><r>कवरेटी<s n="np"/><s n="top"/></r></p></e>

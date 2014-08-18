@@ -14445,6 +14445,13 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="Humayun">       <i>Humayun</i><par n="Mark__np"/></e>
 <e lm="Vishwanath">       <i>Vishwanath</i><par n="Mark__np"/></e>
 <e lm="Ramkrishna">       <i>Ramkrishna</i><par n="Mark__np"/></e>
+<e lm="Sadar Shah">       <i>Sadar<b/>Shah</i><par n="Mark__np"/></e>
+<e lm="Sher Shah">       <i>Sher<b/>Shah</i><par n="Mark__np"/></e>
+<e lm="Subhash Chandra">       <i>Subhash<b/>Chandra</i><par n="Mark__np"/></e>
+<e lm="Shri Krishna">       <i>Shri<b/>Krishna</i><par n="Mark__np"/></e>
+<e lm="Shah Jahan">       <i>Shah<b/>Jahan</i><par n="Mark__np"/></e>
+<e lm="Jesus Christ">       <i>Jesus<b/>Christ</i><par n="Mark__np"/></e>
+<e lm="Maa Annapurna">       <i>Maa<b/>Annapurna</i><par n="Mary__np"/></e>
 <e lm="Jaykishan">       <i>Jaykishan</i><par n="Mark__np"/></e>
 <e lm="Sati">       <i>Sati</i><par n="Mark__np"/></e>
 <e lm="Shahjahan">       <i>Shahjahan</i><par n="Mark__np"/></e>
@@ -14604,6 +14611,7 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="Shastri">        <i>Shastri</i><par n="Smith__np"/></e>
 <e lm="Austin">        <i>Austin</i><par n="Smith__np"/></e>
 <e lm="Chaudhary">        <i>Chaudhary</i><par n="Smith__np"/></e>
+<e lm="Khanna">        <i>Khanna</i><par n="Smith__np"/></e>
 <e lm="Jain">        <i>Jain</i><par n="Smith__np"/></e>
 <e lm="Rafi">        <i>Rafi</i><par n="Smith__np"/></e>
 <e lm="Dutt">        <i>Dutt</i><par n="Smith__np"/></e>
@@ -17962,6 +17970,7 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="New Jersey">      <i>New<b/>Jersey</i><par n="Barcelona__np"/></e>
 <e lm="New Mexico">      <i>New<b/>Mexico</i><par n="Barcelona__np"/></e>
 <e lm="New York">        <i>New<b/>York</i><par n="Barcelona__np"/></e>
+<e lm="Los Angeles">        <i>Los<b/>Angeles</i><par n="Barcelona__np"/></e>
 <e lm="New Zealand">     <i>New<b/>Zealand</i><par n="Barcelona__np"/></e>
 <e lm="newborn">         <i>newborn</i><par n="expensive__adj"/></e>
 <e lm="newborn">         <i>newborn</i><par n="house__n"/></e>
@@ -27822,7 +27831,7 @@ TODO: aldonu kaj retrejnu la tagger
 
 
 <e lm="some">            <i>some</i><par n="enough__det"/></e>
-<e lm="such">            <i>such</i><par n="other__det"/></e>
+<e lm="such">            <i>such</i><par n="another__det"/></e>
 <e lm="tenth">           <i>tenth</i><par n="second__det"/></e>
 <e lm="this">            <i>th</i><par n="th/is__det"/></e>
 <e lm="that">            <i>th</i><par n="th/at__det"/></e>
@@ -35905,6 +35914,7 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="undignified">       <i>undignified</i><par n="expensive__adj"/></e>
 <e lm="undimmed">       <i>undimmed</i><par n="expensive__adj"/></e>
 <e lm="undirected">       <i>undirected</i><par n="expensive__adj"/></e>
+<e lm="directed">       <i>directed</i><par n="expensive__adj"/></e>
 <e lm="undischarged">       <i>undischarged</i><par n="expensive__adj"/></e>
 <e lm="undismayed">       <i>undismayed</i><par n="expensive__adj"/></e>
 <e lm="undistinguishable">       <i>undistinguishable</i><par n="expensive__adj"/></e>
@@ -38159,7 +38169,7 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Silvassa">       <i>Silvassa</i><par n="Barcelona__np"/></e>
 <e lm="Daman and Diu">       <i>Daman<b/>and<b/>Diu</i><par n="Barcelona__np"/></e>
 <e lm="Daman">       <i>Daman</i><par n="Barcelona__np"/></e>
-<e lm="Delhi ">       <i>Delhi<b/></i><par n="Barcelona__np"/></e>
+<e lm="Delhi">       <i>Delhi<b/></i><par n="Barcelona__np"/></e>
 <e lm="Lakshadeep">       <i>Lakshadeep</i><par n="Barcelona__np"/></e>
 <e lm="Kavaratti">       <i>Kavaratti</i><par n="Barcelona__np"/></e>
 <e lm="Pondicherr">       <i>Pondicherr</i><par n="Barcelona__np"/></e>
@@ -38546,6 +38556,7 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="reposition">       <i>repositi</i><par n="criteri/on__n"/></e>
 <e lm="retail">       <i>retail</i><par n="house__n"/></e>
 <e lm="revealing">       <i>revealing</i><par n="house__n"/></e>
+<e lm="revealed">       <i>revealed</i><par n="expensive__adj"/></e>
 <e lm="rich">       <i>rich</i><par n="house__n"/></e>
 <e lm="roman">       <i>rom</i><par n="m/an__n"/></e>
 <e lm="romantic">       <i>romantic</i><par n="house__n"/></e>
@@ -39027,7 +39038,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Silvassa">       <i>Silvassa</i><par n="Barcelona__np"/></e>
 <e lm="Daman and Diu">       <i>Daman<b/>and<b/>Diu</i><par n="Barcelona__np"/></e>
 <e lm="Daman">       <i>Daman</i><par n="Barcelona__np"/></e>
-<e lm="Delhi ">       <i>Delhi<b/></i><par n="Barcelona__np"/></e>
 <e lm="Lakshadeep">       <i>Lakshadeep</i><par n="Barcelona__np"/></e>
 <e lm="Kavaratti">       <i>Kavaratti</i><par n="Barcelona__np"/></e>
 <e lm="Pondicherr">       <i>Pondicherr</i><par n="Barcelona__np"/></e>
