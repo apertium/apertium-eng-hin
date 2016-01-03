@@ -295,14 +295,14 @@
 
   <mode name="eng-hin" install="no">
     <pipeline>
-      <program name="lt-proc -c">
+      <program name="lt-proc">
         <file name="eng-hin.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
         <file name="eng-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer -c">
+      <program name="apertium-transfer">
         <file name="apertium-eng-hin.eng-hin.t1x"/>
         <file name="eng-hin.t1x.bin"/>
         <file name="eng-hin.autobil.bin"/>
