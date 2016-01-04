@@ -13561,6 +13561,7 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="inclined">        <i>inclined</i><par n="expensive__adj"/></e>
 <e lm="include">         <i>includ</i><par n="liv/e__vblex"/></e>
 <e lm="included">        <i>included</i><par n="maybe__adv"/></e>
+<e a="Jatin Luthra" lm="inclusive">       <i>inclusive</i><par n="expensive__adj"/></e>	  
 <e lm="inclusion">       <i>inclusion</i><par n="house__n"/></e>
 <e lm="incognito">       <i>incognito</i><par n="maybe__adv"/></e>
 <e lm="incoherent">      <i>incoherent</i><par n="expensive__adj"/></e>
@@ -23354,6 +23355,7 @@ La problemo estas ekz:  get up  -> vekigxi<itr>   ;   get him up -> veki lin
 <e lm="smallpox">        <i>smallpox</i><par n="access__n"/></e>
 <e lm="smart">           <i>smart</i><par n="maybe__adv"/></e>
 <e lm="smart">           <i>smart</i><par n="long/__adj"/></e>
+<e lm="smartphone">      <i>smartphone</i><par n="house__n"/></e>    
 <e lm="smash">           <i>smash</i><par n="access__n"/></e>
 <e lm="smash">           <i>smash</i><par n="approach__vblex"/></e>
 <e lm="smear">           <i>smear</i><par n="house__n"/></e>
@@ -40240,6 +40242,11 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="assent">       <i>assent</i><par n="accept__vblex"/></e>
 <e lm="accent">       <i>accent</i><par n="accept__vblex"/></e>
 <e lm="hoard">       <i>hoard</i><par n="accept__vblex"/></e>
+<e a="Jatin Luthra" lm="cognoscente">         <i>cognoscente</i><par n="house__n"/></e>
+<e a="Jatin Luthra" lm="doyen">         <i>doyen</i><par n="expensive__adj"/></e>
+<e a="Jatin Luthra" lm="maestro">         <i>maestro</i><par n="house__n"/></e>
+<e a="Jatin Luthra" lm="whiz">         <i>whiz</i><par n="house__n"/></e>
+	  
 <!-- TODO: tagger training with
 <e lm="a"><i>a</i><par n="litero"/></e>
  -->
