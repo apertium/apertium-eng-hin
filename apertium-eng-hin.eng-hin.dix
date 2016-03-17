@@ -867,8 +867,8 @@
 	<e><p><l>mission<s n="n"/></l><r>मिशन<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>space<s n="n"/></l><r>अंतरिक्ष<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>agency<s n="n"/></l><r>एजेंसी<s n="n"/><s n="f"/></r></p></e>
-	<e><p><l>boy<s n="n"/></l><r>लड़क<s n="n"/><s n="m"/></r></p></e>
-	<e><p><l>boy<s n="n"/></l><r>लड़क<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>boy<s n="n"/></l><r>लड़का<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>boy<s n="n"/></l><r>लड़का<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>cleanliness<s n="n"/></l><r>स्वच्छता<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>counter<s n="n"/></l><r>जवाबी<s n="n"/><s n="f"/></r></p></e>
 	<e><p><l>oyster<s n="n"/></l><r>सीप<s n="n"/><s n="f"/></r></p></e>
@@ -26459,7 +26459,7 @@
 	<e><p><l>wet<s n="vblex"/></l><r>भीगो<s n="vblex"/><s n="tv"/></r></p></e>
 
 	<e><p><l>be<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e>		
-    <e><p><l>happen<s n="vblex"/></l><r>हो<s n="vblex"/><s n="iv"/></r></p></e>	
+    <e><p><l>happen<s n="vblex"/></l><r>होना<s n="vblex"/><s n="iv"/></r></p></e>	
 	<e><p><l>can<s n="vaux"/></l><r>सक<s n="vaux"/></r></p></e>	
 	<e><p><l>be<s n="vaux"/></l><r>चुक<s n="vaux"/></r></p></e> 
     <e><p><l>study<s n="vblex"/></l><r>पढ़<s n="vblex"/><s n="tv"/></r></p></e>		          
