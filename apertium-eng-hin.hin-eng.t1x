@@ -1568,7 +1568,7 @@
 		<lu>
 		<lit v="There"/>
 		<lit-tag v="n"/>
-		<lit-tag v="dem">	
+		<lit-tag v="dem"/>
 		</lu>	
 		<b />
 		<lu>
