@@ -369,74 +369,7 @@
 
   </section-def-macros>
 
-  <section-rules>
-
-  <rule>
-      <pattern>
-	    <pattern-item n="prn"/>
-		<pattern-item n="nom_commun"/>
-        <pattern-item n="post"/>
-		<pattern-item n="nom_commun"/>
-		<pattern-item n="nom_commun"/>
-		<pattern-item n="vbser"/>
-      </pattern>
-      <action>
-        <out>
-		<chunk name="a">
-		     <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-		<lu>
-		<lit v="There"/>
-		<lit-tag v="n"/>
-		<lit-tag v="dem"/>
-		</lu>	
-		<b />
-		<lu>
-            <clip pos="6" side="tl" part="lem"/>
-            <clip pos="6" side="tl" part="type_mot"/>
-            <clip pos="6" side="tl" part="nombre"/>
-          </lu>
-		  <b />
-          <lu>
-            <clip pos="4" side="tl" part="lem"/>
-			<clip pos="4" side="tl" part="a_gender"/>
-            <clip pos="4" side="tl" part="type_mot"/>
-            <clip pos="4" side="tl" part="nombre"/>
-          </lu>
-		  <b />
-		  <lu>
-            <clip pos="5" side="tl" part="lem"/>
-			<clip pos="5" side="tl" part="a_gender"/>
-            <clip pos="5" side="tl" part="type_mot"/>
-            <clip pos="5" side="tl" part="nombre"/>
-          </lu>
-		  <b />
-		  <lu>
-            <clip pos="3" side="tl" part="lem"/>
-			<clip pos="3" side="tl" part="a_gender"/>
-            <clip pos="3" side="tl" part="type_mot"/>
-            <clip pos="3" side="tl" part="nombre"/>
-          </lu>
-		  <b />
-		  <lu>
-            <clip pos="1" side="tl" part="lem"/>
-			<clip pos="1" side="tl" part="a_gender"/>
-            <clip pos="1" side="tl" part="type_mot"/>
-            <clip pos="1" side="tl" part="nombre"/>
-          </lu>
-		  <b />
-		  <lu>
-            <clip pos="2" side="tl" part="lem"/>
-			<clip pos="2" side="tl" part="a_gender"/>
-            <clip pos="2" side="tl" part="type_mot"/>
-            <clip pos="2" side="tl" part="nombre"/>
-          </lu>
-		  </chunk>
-        </out>
-      </action>
-    </rule>	
-  
+  <section-rules>  
     <!-- SECTION: Nominal segments -->
 
     <rule comment="REGLA: pron-pers">
@@ -1533,7 +1466,6 @@
            </tags>
 		 <lu>
             <clip pos="2" side="tl" part="lem"/>
-			<lit v="es"/>
             <clip pos="2" side="tl" part="type_mot"/>
             <lit-tag v="pres"/>
 			<lit-tag v="p3"/>
@@ -1573,9 +1505,7 @@
 		<lu>
             <clip pos="4" side="tl" part="lem"/>
             <clip pos="4" side="tl" part="type_mot"/>
-			<lit-tag v="perf"/>
-            <clip pos="4" side="tl" part="genre"/>
-            <clip pos="4" side="tl" part="nombre"/>
+			<lit-tag v="past"/>
          </lu>
 		 <b />
 		 <lu>
@@ -1609,7 +1539,7 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
 		<lu>
-		<lit v="It"/>
+		<lit v="Prpers"/>
 		<lit-tag v="prn"/>
 		<lit-tag v="obj"/>
 		<lit-tag v="p3"/>
@@ -1639,5 +1569,40 @@
       </action>
     </rule>
 
+	<rule>
+      <pattern>
+        <pattern-item n="nom_commun"/>
+		<pattern-item n="adj"/>
+		<pattern-item n="vbser"/>
+      </pattern>
+      <action>
+        <out>
+		<chunk name="a">
+		     <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+		<lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+			<clip pos="1" side="tl" part="a_gender"/>
+            <clip pos="1" side="tl" part="nombre"/>
+          </lu>
+		 <b />
+		<lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="a_verb"/>
+			<lit-tag v="inf"/>
+          </lu>
+		 <b />
+		<lu>
+            <clip pos="2" side="tl" part="lem"/>
+			<lit-tag v="n"/>
+            <clip pos="2" side="tl" part="nombre"/>
+          </lu>
+		  </chunk>
+        </out>
+      </action>
+    </rule>
+	
   </section-rules>
 </transfer>
