@@ -1437,8 +1437,7 @@
 		<lu>
             <clip pos="2" side="tl" part="lem"/>
 			<clip pos="2" side="tl" part="type_mot"/>
-			<clip pos="2" side="tl" part="a_tv"/>
-            <clip pos="2" side="tl" part="a_stem"/>
+			<lit-tag v="inf"/>
           </lu>
 		  <b />
           <lu>
@@ -1473,7 +1472,7 @@
          </lu>
 		 <b />
          <lu>
-            <clip pos="3" side="tl" part="lem"/>
+            <lit v="to"/>
             <lit-tag v="pr"/>
          </lu>
 		 <b />
