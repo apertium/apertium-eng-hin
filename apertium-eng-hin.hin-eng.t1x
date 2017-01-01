@@ -1875,14 +1875,24 @@
       </pattern>
       <action>
         <out>
-		<chunk name="a">
+		<chunk name="aa">
 		     <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
 		<lu>
-            <clip pos="3" side="tl" part="lem"/>
-            <clip pos="3" side="tl" part="type_mot"/>
-			<clip pos="3" side="tl" part="nombre"/>
+            <lit v="do"/>
+			<lit-tag v="vblex"/>
+			<lit-tag v="inf"/>
+          </lu>
+		 </chunk>
+		 <b />
+		 <chunk name="ab">
+		     <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+		<lu>
+			<lit v="not"/>
+			<lit-tag v="adv"/>
           </lu>
 		 </chunk>
 		 <b />
