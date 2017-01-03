@@ -1618,7 +1618,7 @@
         <out>
 		<chunk name="a">
 		     <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="SV"/></tag>
             </tags>
 		<lu>
             <clip pos="1" side="tl" part="lem"/>
@@ -1630,7 +1630,7 @@
 		 <b />
 		 <chunk name="b">
 		   <tags>
-            <tag><lit-tag v="SV"/></tag>
+            <tag><lit-tag v="SN"/></tag>
            </tags>
 		<lu>
             <clip pos="3" side="tl" part="lem"/>
@@ -1639,12 +1639,7 @@
 			<lit-tag v="p3"/>
 			<lit-tag v="sg"/>
           </lu>
-		 </chunk>
 		 <b />
-		<chunk name="c">
-		   <tags>
-            <tag><lit-tag v="SN"/></tag>
-           </tags>
 		<lu>
             <clip pos="2" side="tl" part="lem"/>
 			<lit-tag v="n"/>
@@ -1665,7 +1660,7 @@
         <out>
 		<chunk name="a">
 		     <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="SV"/></tag>
             </tags>
 		<lu>
             <clip pos="3" side="tl" part="lem"/>
@@ -1676,7 +1671,8 @@
 		 <b />
 		 <chunk name="b">
 		   <tags>
-            <tag><lit-tag v="SV"/></tag>
+            <tag><lit-tag v="SN"/></tag>
+			<tag><lit-tag v="DET"/></tag>
            </tags>
 		<lu>
             <clip pos="1" side="tl" part="lem"/>
@@ -1684,12 +1680,7 @@
 			<clip pos="1" side="tl" part="a_ind"/>
 			<clip pos="1" side="tl" part="nombre"/>
           </lu>
-		 </chunk>
 		 <b />
-		<chunk name="c">
-		   <tags>
-            <tag><lit-tag v="SN"/></tag>
-           </tags>
 		<lu>
             <clip pos="2" side="tl" part="lem"/>
 			<clip pos="2" side="tl" part="type_mot"/>
@@ -1722,7 +1713,7 @@
 		 <b />
 		 <chunk name="b">
 		   <tags>
-            <tag><lit-tag v="SV"/></tag>
+            <tag><lit-tag v="SA"/></tag>
            </tags>
 		<lu>
             <clip pos="4" side="tl" part="lem"/>
@@ -1731,12 +1722,7 @@
 			<lit-tag v="p1"/>
 			<clip pos="4" side="tl" part="nombre"/>
           </lu>
-		 </chunk>
 		 <b />
-		<chunk name="c">
-		   <tags>
-            <tag><lit-tag v="SN"/></tag>
-           </tags>
 		<lu>
             <clip pos="3" side="tl" part="lem"/>
 			<clip pos="3" side="tl" part="a_pos"/>
@@ -1744,7 +1730,7 @@
           </lu>
 		  </chunk>
 		  <b />
-		  <chunk name="d">
+		  <chunk name="c">
 		   <tags>
             <tag><lit-tag v="SN"/></tag>
            </tags>
@@ -1768,7 +1754,7 @@
         <out>
 		<chunk name="a">
 		   <tags>
-            <tag><lit-tag v="SN"/></tag>
+            <tag><lit-tag v="SV"/></tag>
            </tags>
 		<lu>
             <clip pos="3" side="tl" part="lem"/>
@@ -1780,7 +1766,15 @@
 		 <chunk name="b">
 		   <tags>
             <tag><lit-tag v="SN"/></tag>
+			<tag><lit-tag v="DET"/></tag>
            </tags>
+		 <lu>
+            <lit v="that"/>
+			<lit-tag v="det"/>
+			<lit-tag v="dem"/>
+			<lit-tag v="sg"/>
+          </lu>
+		 <b />
 		<lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="type_mot"/>
@@ -1818,7 +1812,7 @@
 		  <b />
 		 <chunk name="b">
 		   <tags>
-            <tag><lit-tag v="SN"/></tag>
+            <tag><lit-tag v="SV"/></tag>
            </tags>
 		<lu>
             <clip pos="6" side="tl" part="lem"/>
@@ -1827,12 +1821,7 @@
 			<lit-tag v="p3"/>
 			<clip pos="6" side="tl" part="nombre"/>
           </lu>
-		 </chunk>
 		 <b />
-		<chunk name="c">
-		   <tags>
-            <tag><lit-tag v="SN"/></tag>
-           </tags>
 		<lu>
             <clip pos="4" side="tl" part="lem"/>
             <clip pos="4" side="tl" part="type_mot"/>
@@ -1840,21 +1829,17 @@
           </lu>
 		 </chunk>
 		 <b />
-		 <chunk name="d">
+		 <chunk name="c">
 		   <tags>
             <tag><lit-tag v="SN"/></tag>
+			<tag><lit-tag v="PR"/></tag>
            </tags>
 		<lu>
             <clip pos="2" side="tl" part="lem"/>
             <clip pos="2" side="tl" part="type_mot"/>
 			<lit-tag v="pr"/>
-          </lu>
-		 </chunk>
+          </lu>		
 		 <b />
-		 <chunk name="e">
-		   <tags>
-            <tag><lit-tag v="SN"/></tag>
-           </tags>
 		<lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="type_mot"/>
@@ -1875,21 +1860,17 @@
       </pattern>
       <action>
         <out>
-		<chunk name="aa">
+		<chunk name="a">
 		     <tags>
               <tag><lit-tag v="SN"/></tag>
+			  <tag><lit-tag v="NEG"/></tag>
             </tags>
 		<lu>
             <lit v="do"/>
 			<lit-tag v="vblex"/>
 			<lit-tag v="inf"/>
           </lu>
-		 </chunk>
-		 <b />
-		 <chunk name="ab">
-		     <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
+		 <b />		
 		<lu>
 			<lit v="not"/>
 			<lit-tag v="adv"/>
@@ -1910,18 +1891,14 @@
 		<chunk name="c">
 		   <tags>
             <tag><lit-tag v="SN"/></tag>
+			<tag><lit-tag v="PR"/></tag>
            </tags>
 		<lu>
             <clip pos="2" side="tl" part="lem"/>
 			<clip pos="2" side="tl" part="a_pos"/>
 			<clip pos="2" side="tl" part="a_pr"/>
           </lu>
-		  </chunk>
 		  <b />
-		  <chunk name="d">
-		   <tags>
-            <tag><lit-tag v="SN"/></tag>
-           </tags>
 		<lu>
             <clip pos="1" side="tl" part="lem"/>
 			<clip pos="1" side="tl" part="type_mot"/>
