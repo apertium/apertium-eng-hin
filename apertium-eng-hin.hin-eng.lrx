@@ -70,5 +70,16 @@
     <match lemma="के पीछे" tags="post"/>
     <match lemma="से" tags="post"><select lemma="from" tags="pr"/></match> 
   </rule>
-
+  
+  <rule>
+     <match lemma="आदमी" tags="n.*"><select lemma="man" tags="n.*"/></match>
+  </rule>
+	
+  <rule>
+     <match lemma="सब" tags="prn.*"><select lemma="everyone" tags="prn.*"/></match>
+  </rule>
+  
+  <rule>
+     <match lemma="पसंद कर" tags="vblex.*"><select lemma="love" tags="vblex.*"/></match>
+  </rule>
 </rules>
