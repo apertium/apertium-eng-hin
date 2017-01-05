@@ -2026,13 +2026,15 @@
 		<chunk name="a">
 		     <tags>
               <tag><lit-tag v="VBSER"/></tag>
-			  <tag><lit-tag v="IMPF"/></tag>
-			  <tag><lit-tag v="PL"/></tag>
+			  <tag><lit-tag v="PAST"/></tag>
+			  <tag><lit-tag v="SG"/></tag>
             </tags>
 		<lu>
 			<clip pos="4" side="tl" part="lem"/>
 			<clip pos="4" side="tl" part="a_verb"/>
             <lit-tag v="past"/>
+			<lit-tag v="p1"/>
+			<lit-tag v="sg"/>
         </lu>
 		 </chunk>
 		 <b />
@@ -2121,6 +2123,8 @@
 
 <rule>
       <pattern>
+	    <pattern-item n="nom_commun"/>
+		<pattern-item n="post"/>
 	    <pattern-item n="adj"/>
 		<pattern-item n="nom_commun"/>
 		<pattern-item n="nom_commun"/>
@@ -2128,38 +2132,51 @@
       </pattern>
       <action>
         <out>
-		<chunk name="a">
+		<chunk name="a">	
 		     <tags>
               <tag><lit-tag v="SV"/></tag>
 			  <tag><lit-tag v="PAST"/></tag>
             </tags>
 		<lu>
-			<clip pos="3" side="tl" part="lem"/>
+			<clip pos="1" side="tl" part="lem"/>
+			<clip pos="1" side="tl" part="type_mot"/>
+			<clip pos="1" side="tl" part="nombre"/>
+			
+        </lu>
+		</chunk>
+		<b />
+		<chunk name="b">	
+		     <tags>
+              <tag><lit-tag v="SV"/></tag>
+			  <tag><lit-tag v="PAST"/></tag>
+            </tags>
+		<lu>
+			<clip pos="5" side="tl" part="lem"/>
 			<lit-tag v="vblex"/>
             <lit-tag v="past"/>
 			
         </lu>
 		 </chunk>
 		 <b />
-		 <chunk name="b">
+		 <chunk name="c">
 		   <tags>
             <tag><lit-tag v="SA"/></tag>
            </tags>
 		<lu>
-			<clip pos="1" side="tl" part="lem"/>
-			<clip pos="1" side="tl" part="a_pos"/>
+			<clip pos="3" side="tl" part="lem"/>
+			<clip pos="3" side="tl" part="a_pos"/>
         </lu>
 		</chunk>
 		 <b /> 
-		<chunk name="c">
+		<chunk name="d">
 		   <tags>
             <tag><lit-tag v="SN"/></tag>
             <tag><lit-tag v="SG"/></tag>			
            </tags>
 		<lu>
-			<clip pos="2" side="tl" part="lem"/>
-			<clip pos="2" side="tl" part="type_mot"/>
-			<clip pos="2" side="tl" part="nombre"/>
+			<clip pos="4" side="tl" part="lem"/>
+			<clip pos="4" side="tl" part="type_mot"/>
+			<clip pos="4" side="tl" part="nombre"/>
 			
         </lu>
 		</chunk>
@@ -2167,8 +2184,5 @@
         </out>
       </action>
     </rule>	
-	
-	
-
   </section-rules>
 </transfer>
