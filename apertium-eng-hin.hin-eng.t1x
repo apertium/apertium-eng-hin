@@ -2184,5 +2184,315 @@
         </out>
       </action>
     </rule>	
+	
+<rule>
+      <pattern>
+	    <pattern-item n="nom_commun"/>
+		<pattern-item n="post"/>
+		<pattern-item n="nom_commun"/>
+		<pattern-item n="vbser"/>
+      </pattern>
+      <action>
+        <out>
+		<chunk name="a">	
+		     <tags>
+              <tag><lit-tag v="SN"/></tag>
+			  <tag><lit-tag v="DET"/></tag>
+            </tags>
+	    <lu>
+			<lit v="the"/>
+			<lit-tag v="det"/>
+			<lit-tag v="def"/>
+			<lit-tag v="sp"/>
+        </lu>
+		<b />
+		<lu>
+			<clip pos="3" side="tl" part="lem"/>
+			<clip pos="3" side="tl" part="type_mot"/>
+			<clip pos="3" side="tl" part="nombre"/>
+			
+        </lu>
+		</chunk>
+		<b />
+		<chunk name="b">	
+		     <tags>
+              <tag><lit-tag v="SV"/></tag>
+			  <tag><lit-tag v="PRES"/></tag>
+            </tags>
+		<lu>
+			<clip pos="4" side="tl" part="lem"/>
+			<clip pos="4" side="tl" part="a_verb"/>
+            <clip pos="4" side="tl" part="a_tense"/>
+			<lit-tag v="p3"/>
+			<clip pos="4" side="tl" part="nombre"/>
+			
+        </lu>
+		 </chunk>
+		 <b />
+		 <chunk name="c">
+		   <tags>
+            <tag><lit-tag v="PR"/></tag>
+           </tags>
+		<lu>
+			<clip pos="2" side="tl" part="lem"/>
+			<clip pos="2" side="tl" part="a_pr"/>
+        </lu>
+		</chunk>
+		 <b /> 
+		<chunk name="d">
+		   <tags>
+            <tag><lit-tag v="SN"/></tag>
+            <tag><lit-tag v="DET"/></tag>			
+           </tags>
+		<lu>
+			<lit v="the"/>
+			<lit-tag v="det"/>
+			<lit-tag v="def"/>
+			<lit-tag v="sp"/>
+        </lu>
+		<b />
+		<lu>
+			<clip pos="1" side="tl" part="lem"/>
+			<clip pos="1" side="tl" part="type_mot"/>
+			<clip pos="1" side="tl" part="nombre"/>
+			
+        </lu>
+		</chunk>
+		
+        </out>
+      </action>
+    </rule>		
+	
+	<rule>
+      <pattern>
+	    <pattern-item n="nom_commun"/>
+		<pattern-item n="nom_commun"/>
+		<pattern-item n="adj"/>
+		<pattern-item n="vblex"/>
+		<pattern-item n="vbser"/>
+      </pattern>
+      <action>
+        <out>
+<chunk name="a">	
+		     <tags>
+              <tag><lit-tag v="SN"/></tag>
+			  <tag><lit-tag v="VBSER"/></tag>
+			  <tag><lit-tag v="SG"/></tag>
+            </tags>
+	    <lu>
+			<clip pos="1" side="tl" part="lem"/>
+			<clip pos="1" side="tl" part="type_mot"/>
+			<clip pos="1" side="tl" part="nombre"/>
+			
+        </lu>
+		<b />
+		<lu>
+			<clip pos="5" side="tl" part="lem"/>
+			<clip pos="5" side="tl" part="a_verb"/>
+			<clip pos="5" side="tl" part="a_tense"/>
+			<lit-tag v="p3"/>
+			<clip pos="5" side="tl" part="nombre"/>
+			
+        </lu>
+		</chunk>
+		<b />
+		<chunk name="b">	
+		     <tags>
+              <tag><lit-tag v="ADJ"/></tag>
+            </tags>
+		<lu>
+			<clip pos="3" side="tl" part="lem"/>
+			<clip pos="3" side="tl" part="a_pos"/>
+			
+        </lu>
+		 </chunk>
+		 <b />
+		 <chunk name="c">
+		   <tags>
+            <tag><lit-tag v="PR"/></tag>
+           </tags>
+		<lu>
+			<lit v="with"/>
+			<lit-tag v="pr"/>
+        </lu>
+		</chunk>
+		 <b /> 
+		<chunk name="d">
+		   <tags>
+            <tag><lit-tag v="SN"/></tag>
+            <tag><lit-tag v="SG"/></tag>			
+           </tags>
+		<lu>
+			<clip pos="2" side="tl" part="lem"/>
+			<clip pos="2" side="tl" part="type_mot"/>
+			<clip pos="2" side="tl" part="nombre"/>
+			
+        </lu>
+		</chunk>
+        </out>
+      </action>
+    </rule>		
+	
+		<rule>
+      <pattern>
+	    <pattern-item n="nom_commun"/>
+		<pattern-item n="vblex"/>
+		<pattern-item n="vblex"/>
+		<pattern-item n="vbser"/>
+      </pattern>
+      <action>
+        <out>
+<chunk name="a">	
+		     <tags>
+              <tag><lit-tag v="SN"/></tag>
+			  <tag><lit-tag v="DET"/></tag>
+            </tags>
+	    <lu>
+			<lit v="the"/>
+			<lit-tag v="det"/>
+			<lit-tag v="def"/>
+			<lit-tag v="sp"/>
+        </lu>
+		<b />
+		<lu>
+			<clip pos="1" side="tl" part="lem"/>
+			<clip pos="1" side="tl" part="type_mot"/>
+			<clip pos="1" side="tl" part="nombre"/>
+			
+        </lu>
+		</chunk>
+		<b />
+		<chunk name="b">	
+		     <tags>
+              <tag><lit-tag v="VBSER"/></tag>
+            </tags>
+		<lu>
+			<clip pos="4" side="tl" part="lem"/>
+			<clip pos="4" side="tl" part="a_verb"/>
+            <clip pos="4" side="tl" part="a_tense"/>
+			<lit-tag v="p3"/>
+			<clip pos="4" side="tl" part="nombre"/>
+			
+        </lu>
+		 </chunk>
+		 <b />
+		<chunk name="c">
+		   <tags>
+            <tag><lit-tag v="VBLEX"/></tag>
+            <tag><lit-tag v="PAST"/></tag>			
+           </tags>
+		<lu>
+			<clip pos="2" side="tl" part="lem"/>
+			<clip pos="2" side="tl" part="a_verb"/>
+			<lit-tag v="pp"/>
+        </lu>
+		</chunk>
+        </out>
+      </action>
+    </rule>
+	
+	<rule>
+      <pattern>
+	    <pattern-item n="nom_commun"/>
+		<pattern-item n="adj"/>
+		<pattern-item n="post"/>
+		<pattern-item n="vblex"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="a">	
+		     <tags>
+              <tag><lit-tag v="SV"/></tag>
+			  <tag><lit-tag v="PRES"/></tag>
+            </tags>
+		<lu>
+			<clip pos="4" side="tl" part="lem"/>
+			<clip pos="4" side="tl" part="a_verb"/>
+			<lit-tag v="pres"/>
+			
+        </lu>
+		</chunk>
+		<b />
+		<chunk name="b">	
+		     <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+		<lu>
+			<clip pos="1" side="tl" part="lem"/>
+			<clip pos="1" side="tl" part="type_mot"/>
+			<lit-tag v="pl"/>
+			
+        </lu>
+		 </chunk>
+		 <b />
+		<chunk name="c">
+		   <tags>
+            <tag><lit-tag v="ADJ"/></tag>
+           </tags>
+		<lu>
+			<clip pos="2" side="tl" part="lem"/>
+			<lit v="ly"/>
+			<lit-tag v="adv"/>
+        </lu>
+		</chunk>
+        </out>
+      </action>
+    </rule>
+	
+	<rule>
+      <pattern>
+	    <pattern-item n="nom_commun"/>
+		<pattern-item n="nom_commun"/>
+		<pattern-item n="post"/>
+		<pattern-item n="adj"/>
+		<pattern-item n="vbser"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="a">	
+		     <tags>
+              <tag><lit-tag v="SN"/></tag>
+			  <tag><lit-tag v="SG"/></tag>
+            </tags>
+		<lu>
+			<clip pos="1" side="tl" part="lem"/>
+			<clip pos="1" side="tl" part="type_mot"/>
+			<clip pos="1" side="tl" part="nombre"/>
+        </lu>
+		</chunk>
+		<b />
+		<chunk name="b">	
+		     <tags>
+              <tag><lit-tag v="VBLEX"/></tag>
+			  <tag><lit-tag v="PRES"/></tag>
+            </tags>
+		<lu>
+			<clip pos="4" side="tl" part="lem"/>
+			<lit-tag v="vblex"/>
+			<lit-tag v="pres"/>
+			<lit-tag v="p3"/>
+			<lit-tag v="sg"/>
+        </lu>
+		 </chunk>
+		 <b />
+		<chunk name="c">
+		   <tags>
+		    <tag><lit-tag v="SN"/></tag>
+            <tag><lit-tag v="PR"/></tag>
+           </tags>
+		<lu>
+			<lit v="with"/>
+			<lit-tag v="pr"/>
+        </lu>
+		<b />
+		<lu>
+			<clip pos="2" side="tl" part="lem"/>
+			<clip pos="2" side="tl" part="type_mot"/>
+			<clip pos="2" side="tl" part="nombre"/>
+        </lu>
+		</chunk>
+        </out>
+      </action>
+    </rule>	
   </section-rules>
 </transfer>
