@@ -2289,13 +2289,15 @@
 		<b />
 		<chunk name="b">	
 		     <tags>
-              <tag><lit-tag v="SN"/></tag>
-			  <tag><lit-tag v="PL"/></tag>
+              <tag><lit-tag v="SV"/></tag>
+			  <tag><lit-tag v="PRES"/></tag>
             </tags>
 		<lu>
 			<clip pos="5" side="tl" part="lem"/>
-			<clip pos="5" side="tl" part="type_mot"/>
-			<lit-tag v="pl"/>
+			<lit-tag v="vblex"/>
+			<lit-tag v="pres"/>
+			<lit-tag v="p3"/>
+			<lit-tag v="sg"/>
         </lu>
 		 </chunk>
 		 <b />
