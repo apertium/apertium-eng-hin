@@ -2267,7 +2267,9 @@
       <pattern>
 	    <pattern-item n="nom_commun"/>
 		<pattern-item n="nom_commun"/>
-		<pattern-item n="adj"/>
+		<pattern-item n="vblex"/>
+		<pattern-item n="nom_commun"/>
+		<pattern-item n="nom_commun"/>
 		<pattern-item n="vblex"/>
 		<pattern-item n="vbser"/>
       </pattern>
@@ -2276,8 +2278,6 @@
 <chunk name="a">	
 		     <tags>
               <tag><lit-tag v="SN"/></tag>
-			  <tag><lit-tag v="VBSER"/></tag>
-			  <tag><lit-tag v="SG"/></tag>
             </tags>
 	    <lu>
 			<clip pos="1" side="tl" part="lem"/>
@@ -2285,38 +2285,31 @@
 			<clip pos="1" side="tl" part="nombre"/>
 			
         </lu>
-		<b />
-		<lu>
-			<clip pos="5" side="tl" part="lem"/>
-			<clip pos="5" side="tl" part="a_verb"/>
-			<clip pos="5" side="tl" part="a_tense"/>
-			<lit-tag v="p3"/>
-			<clip pos="5" side="tl" part="nombre"/>
-			
-        </lu>
 		</chunk>
 		<b />
 		<chunk name="b">	
 		     <tags>
-              <tag><lit-tag v="ADJ"/></tag>
+              <tag><lit-tag v="SN"/></tag>
+			  <tag><lit-tag v="PL"/></tag>
             </tags>
 		<lu>
-			<clip pos="3" side="tl" part="lem"/>
-			<clip pos="3" side="tl" part="a_pos"/>
-			
+			<clip pos="5" side="tl" part="lem"/>
+			<clip pos="5" side="tl" part="type_mot"/>
+			<lit-tag v="pl"/>
         </lu>
 		 </chunk>
 		 <b />
-		 <chunk name="c">
+		<chunk name="c">
 		   <tags>
-            <tag><lit-tag v="PR"/></tag>
+            <tag><lit-tag v="SN"/></tag>
+            <tag><lit-tag v="SG"/></tag>			
            </tags>
 		<lu>
-			<lit v="with"/>
+			<clip pos="4" side="tl" part="lem"/>
 			<lit-tag v="pr"/>
         </lu>
 		</chunk>
-		 <b /> 
+		<b />
 		<chunk name="d">
 		   <tags>
             <tag><lit-tag v="SN"/></tag>
@@ -2326,7 +2319,6 @@
 			<clip pos="2" side="tl" part="lem"/>
 			<clip pos="2" side="tl" part="type_mot"/>
 			<clip pos="2" side="tl" part="nombre"/>
-			
         </lu>
 		</chunk>
         </out>
