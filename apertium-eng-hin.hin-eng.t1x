@@ -2410,7 +2410,15 @@
 		<chunk name="b">	
 		     <tags>
               <tag><lit-tag v="SN"/></tag>
+			  <tag><lit-tag v="DET"/></tag>
             </tags>
+		<lu>
+			<lit v="your"/>
+			<lit-tag v="det"/>
+			<lit-tag v="pos"/>
+			<lit-tag v="sp"/>
+        </lu>
+		<b />
 		<lu>
 			<clip pos="1" side="tl" part="lem"/>
 			<clip pos="1" side="tl" part="type_mot"/>
@@ -2447,15 +2455,7 @@
 		     <tags>
               <tag><lit-tag v="SN"/></tag>
 			  <tag><lit-tag v="SG"/></tag>
-			  <tag><lit-tag v="DET"/></tag>
             </tags>
-		<lu>
-			<lit v="the"/>
-			<lit-tag v="det"/>
-			<lit-tag v="def"/>
-			<lit-tag v="sp"/>
-		</lu>
-		<b />
 		<lu>
 			<clip pos="1" side="tl" part="lem"/>
 			<clip pos="1" side="tl" part="type_mot"/>
@@ -2481,18 +2481,10 @@
 		   <tags>
 		    <tag><lit-tag v="SN"/></tag>
             <tag><lit-tag v="PR"/></tag>
-	    <tag><lit-tag v="DET"/></tag>
            </tags>
 		<lu>
 			<lit v="with"/>
 			<lit-tag v="pr"/>
-        </lu>
-		<b />
-		<lu>
-                        <lit v="the"/>
-			<lit-tag v="det"/>
-			<lit-tag v="def"/>
-			<lit-tag v="sp"/>
         </lu>
 		<b />
 		<lu>
