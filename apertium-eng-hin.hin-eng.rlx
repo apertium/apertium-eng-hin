@@ -17,6 +17,8 @@ LIST Det = det ;
 LIST Conj = cnjcoo;
 LIST ConjAdv = cnjadv;
 LIST Prn = prn;
+LIST Num = num;
+LIST Pr = pr;
 SECTION
 
 SELECT Prn IF
@@ -43,8 +45,6 @@ SELECT Adv IF
 SELECT ConjAdv IF
 	(0 ConjAdv)
 	(0 Adv)
-
-
 
 SELECT Det IF
 	(0 Adj)
@@ -93,4 +93,52 @@ SELECT Det IF
 	(0 Adv OR N OR Det)
 	(1 Post)
 SELECT Obl IF (1C Post) ;
+
+SELECT Adj IF
+	(0 N OR Adj)
+	(1 Vbser) ;
+	
+SELECT Num IF
+	(0 Num OR Verb)
+	(1 N) ;
+	
+SELECT Vbser IF
+	(-2 Adj)
+	(0 Vbser OR Verb) ;	
+	
+SELECT N IF
+	(0 Verb OR N)
+	(1 N)
+	(2 Verb);
+	
+SELECT N IF
+	(-1 Num)
+	(0 Adv or N);
+	
+SELECT Adv IF
+	(0 Adv or Num)	
+	(1 N)
+	(2 Verb);
+
+SELECT Vbser IF
+	(-1 N)	
+	(0 Vbser);
+	
+SELECT N IF
+	(-1 N)	
+	(0 Verb OR N);	
+	
+SELECT Num IF
+    (-1 N)
+	(0 Num OR Det)
+	(1 Adj) ;	
+	
+SELECT Verb IF
+    (-1 N)
+	(0 Verb OR N)
+	(1 Verb) ;		
+	
+SELECT N IF
+	(0 Adv OR N)
+	(1 Verb);
   ## 
