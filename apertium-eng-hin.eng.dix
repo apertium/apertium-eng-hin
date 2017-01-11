@@ -40818,6 +40818,7 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="World War I">        <i>World<b/>War<b/>I</i><par n="east__n"/></e>
 <e lm="World War II">       <i>World<b/>War<b/>II</i><par n="east__n"/></e>
 <e lm="subregion">          <i>subregion</i><par n="house__n"/></e>
+
 <e lm="Saagar">           <i>Saagar</i><par n="Mark__np"/></e>
 <e lm="Saakaar">           <i>Saakaar</i><par n="Mark__np"/></e>
 <e lm="Saanjh">           <i>Saanjh</i><par n="Mark__np"/></e>
@@ -40885,7 +40886,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Saiprasad">           <i>Saiprasad</i><par n="Mark__np"/></e>
 <e lm="Saipratap">           <i>Saipratap</i><par n="Mark__np"/></e>
 <e lm="Sai">           <i>Sai</i><par n="Mark__np"/></e>
-<e lm="Saj-Sam</p>">           <i>Saj-Sam</p></i><par n="Mark__np"/></e>
 <e lm="Sajal">           <i>Sajal</i><par n="Mark__np"/></e>
 <e lm="Sajan">           <i>Sajan</i><par n="Mark__np"/></e>
 <e lm="Sajiv">           <i>Sajiv</i><par n="Mark__np"/></e>
@@ -40947,7 +40947,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Samudrasen">           <i>Samudrasen</i><par n="Mark__np"/></e>
 <e lm="Samvar">           <i>Samvar</i><par n="Mark__np"/></e>
 <e lm="Samyak">           <i>Samyak</i><par n="Mark__np"/></e>
-<e lm="San-Sar</p>">           <i>San-Sar</p></i><par n="Mark__np"/></e>
 <e lm="Sanaatan">           <i>Sanaatan</i><par n="Mark__np"/></e>
 <e lm="Sanat">           <i>Sanat</i><par n="Mark__np"/></e>
 <e lm="Sanatana">           <i>Sanatana</i><par n="Mark__np"/></e>
@@ -41026,13 +41025,11 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Sarvesh">           <i>Sarvesh</i><par n="Mark__np"/></e>
 <e lm="Sarveshvara">           <i>Sarveshvara</i><par n="Mark__np"/></e>
 <e lm="Sarwar">           <i>Sarwar</i><par n="Mark__np"/></e>
-<e lm="Sas-Sd</p>">           <i>Sas-Sd</p></i><par n="Mark__np"/></e>
 <e lm="Sashang">           <i>Sashang</i><par n="Mark__np"/></e>
 <e lm="Sashreek">           <i>Sashreek</i><par n="Mark__np"/></e>
 <e lm="Sashanth">           <i>Sashanth</i><par n="Mark__np"/></e>
 <e lm="Sashwat">           <i>Sashwat</i><par n="Mark__np"/></e>
 <e lm="Sasi">           <i>Sasi</i><par n="Mark__np"/></e>
-<e lm="Sasidhar<br">           <i>Sasidhar<br</i><par n="Mark__np"/></e>
 <e lm="Sasmit">           <i>Sasmit</i><par n="Mark__np"/></e>
 <e lm="Sasta">           <i>Sasta</i><par n="Mark__np"/></e>
 <e lm="Satadev">           <i>Satadev</i><par n="Mark__np"/></e>
@@ -41047,7 +41044,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Satinath">           <i>Satinath</i><par n="Mark__np"/></e>
 <e lm="Satindra">           <i>Satindra</i><par n="Mark__np"/></e>
 <e lm="Satish">           <i>Satish</i><par n="Mark__np"/></e>
-<e lm="Satishchandra<br">           <i>Satishchandra<br</i><par n="Mark__np"/></e>
 <e lm="Satkartar">           <i>Satkartar</i><par n="Mark__np"/></e>
 <e lm="Satpal">           <i>Satpal</i><par n="Mark__np"/></e>
 <e lm="Satpati">           <i>Satpati</i><par n="Mark__np"/></e>
@@ -41098,14 +41094,12 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Savya">           <i>Savya</i><par n="Mark__np"/></e>
 <e lm="Savyasachi">           <i>Savyasachi</i><par n="Mark__np"/></e>
 <e lm="Sawan">           <i>Sawan</i><par n="Mark__np"/></e>
-<e lm="Se-Shaq</p>">           <i>Se-Shaq</p></i><par n="Mark__np"/></e>
 <e lm="Seemanta">           <i>Seemanta</i><par n="Mark__np"/></e>
 <e lm="Sekhar">           <i>Sekhar</i><par n="Mark__np"/></e>
 <e lm="Selva">           <i>Selva</i><par n="Mark__np"/></e>
 <e lm="Sena">           <i>Sena</i><par n="Mark__np"/></e>
 <e lm="Senajit">           <i>Senajit</i><par n="Mark__np"/></e>
 <e lm="Senthil">           <i>Senthil</i><par n="Mark__np"/></e>
-<e lm="Seshadri<br">           <i>Seshadri<br</i><par n="Mark__np"/></e>
 <e lm="Setu">           <i>Setu</i><par n="Mark__np"/></e>
 <e lm="Seva">           <i>Seva</i><par n="Mark__np"/></e>
 <e lm="Sevak">           <i>Sevak</i><par n="Mark__np"/></e>
@@ -41160,7 +41154,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Shanmukha">           <i>Shanmukha</i><par n="Mark__np"/></e>
 <e lm="Shansa">           <i>Shansa</i><par n="Mark__np"/></e>
 <e lm="Shantanav">           <i>Shantanav</i><par n="Mark__np"/></e>
-<e lm="Shantan<br">           <i>Shantan<br</i><par n="Mark__np"/></e>
 <e lm="Shantanu">           <i>Shantanu</i><par n="Mark__np"/></e>
 <e lm="Shantashil">           <i>Shantashil</i><par n="Mark__np"/></e>
 <e lm="Shantidev">           <i>Shantidev</i><par n="Mark__np"/></e>
@@ -41168,7 +41161,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Shantinath">           <i>Shantinath</i><par n="Mark__np"/></e>
 <e lm="Shantiprakash">           <i>Shantiprakash</i><par n="Mark__np"/></e>
 <e lm="Shanyu">           <i>Shanyu</i><par n="Mark__np"/></e>
-<e lm="Shar-Shd</p>">           <i>Shar-Shd</p></i><par n="Mark__np"/></e>
 <e lm="Sharad">           <i>Sharad</i><par n="Mark__np"/></e>
 <e lm="Sharadchandra">           <i>Sharadchandra</i><par n="Mark__np"/></e>
 <e lm="Sharadendu">           <i>Sharadendu</i><par n="Mark__np"/></e>
@@ -41215,7 +41207,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Shaurya">           <i>Shaurya</i><par n="Mark__np"/></e>
 <e lm="Shay">           <i>Shay</i><par n="Mark__np"/></e>
 <e lm="Shaylan">           <i>Shaylan</i><par n="Mark__np"/></e>
-<e lm="She-Shq</p>">           <i>She-Shq</p></i><par n="Mark__np"/></e>
 <e lm="Sheehan">           <i>Sheehan</i><par n="Mark__np"/></e>
 <e lm="Sheil">           <i>Sheil</i><par n="Mark__np"/></e>
 <e lm="Shekhar">           <i>Shekhar</i><par n="Mark__np"/></e>
@@ -41310,7 +41301,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Tapasendra">           <i>Tapasendra</i><par n="Mark__np"/></e>
 <e lm="Tapasranjan">           <i>Tapasranjan</i><par n="Mark__np"/></e>
 <e lm="Tapendra">           <i>Tapendra</i><par n="Mark__np"/></e>
-<e lm="Tapesh<br">           <i>Tapesh<br</i><par n="Mark__np"/></e>
 <e lm="Tapomay">           <i>Tapomay</i><par n="Mark__np"/></e>
 <e lm="Taporaj">           <i>Taporaj</i><par n="Mark__np"/></e>
 <e lm="Tarachand">           <i>Tarachand</i><par n="Mark__np"/></e>
@@ -41342,7 +41332,6 @@ TODO: aldonu kaj retrejnu la tagger
 <e lm="Tatya">           <i>Tatya</i><par n="Mark__np"/></e>
 <e lm="Tautik">           <i>Tautik</i><par n="Mark__np"/></e>
 <e lm="Tavish">           <i>Tavish</i><par n="Mark__np"/></e>
-
 
   </section>
 
