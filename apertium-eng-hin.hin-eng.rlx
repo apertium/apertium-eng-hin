@@ -106,10 +106,9 @@ SELECT Vbser IF
 	(-2 Adj)
 	(0 Vbser OR Verb) ;	
 	
-SELECT N IF
-	(0 Verb OR N)
-	(1 N)
-	(2 Verb);
+SELECT Conj IF
+    (-1 Vbser)
+	(0 Post OR Conj);
 	
 SELECT N IF
 	(-1 Num)
@@ -122,7 +121,7 @@ SELECT Adv IF
 
 SELECT Vbser IF
 	(-1 N)	
-	(0 Vbser);
+	(0 Vbser OR Verb);
 	
 SELECT N IF
 	(-1 N)	
@@ -140,5 +139,16 @@ SELECT Verb IF
 	
 SELECT N IF
 	(0 Adv OR N)
-	(1 Verb);
+	(1 Verb)
+	(3 Verb);
+	
+SELECT Post IF
+	(0 Post OR Conj)
+	(1 N)
+	(2 Adv)
+	(3 Verb);
+	
+SELECT Conj IF
+    (-1 Vbser)
+	(0 Post OR Conj);
   ## 
