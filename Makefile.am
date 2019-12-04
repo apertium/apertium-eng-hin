@@ -1,6 +1,3 @@
-SUBDIRS=$(AP_SUBDIRS)
-
-VERSION=0.1.0
 LANG1=eng
 LANG2=hin
 PREFIX1=$(LANG1)-$(LANG2)
@@ -54,7 +51,7 @@ $(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG1).acx
 
 $(PREFIX2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG1).dix
-	lt-comp lr $(BASENAME).post-$(LANG1).dix $@ 
+	lt-comp lr $(BASENAME).post-$(LANG1).dix $@
 
 
 ##
@@ -106,9 +103,9 @@ $(PREFIX2).t4x.bin: $(BASENAME).$(PREFIX2).t4x
 
 
 
-## 
+##
 ##	FILES WHICH AREN'T BUILD BUT ARE DISTRIBUTED
-## 
+##
 
 EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).dix \
@@ -119,7 +116,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   modes.xml
 
 
-#           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README 
+#           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README
 
 ###############################################################################
 ## Installation
@@ -131,7 +128,12 @@ apertium_eng_hin_DATA=$(TARGETS_COMMON) \
                     $(PREFIX1).prob \
 	$(BASENAME).$(PREFIX1).t1x \
 	$(BASENAME).$(PREFIX1).t2x \
-	$(BASENAME).$(PREFIX1).t3x 
+	$(BASENAME).$(PREFIX1).t3x \
+	$(PREFIX2).prob \
+	$(BASENAME).$(PREFIX2).t1x \
+	$(BASENAME).$(PREFIX2).t2x \
+	$(BASENAME).$(PREFIX2).t3x \
+	$(BASENAME).$(PREFIX2).t4x
 
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
@@ -145,5 +147,5 @@ install-data-local: install-modes
 ###############################################################################
 
 CLEANFILES = $(TARGETS_COMMON)
-clean-local: 
+clean-local:
 	-rm -rf .deps modes
