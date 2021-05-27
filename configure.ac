@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium English-Hindi], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-eng-hin], [http://wiki.apertium.org/wiki/Apertium-eng-hin])
+AC_INIT([Apertium English-Hindi], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-eng-hin], [https://wiki.apertium.org/wiki/Apertium-eng-hin])
 AM_INIT_AUTOMAKE
 AC_PROG_AWK
 
