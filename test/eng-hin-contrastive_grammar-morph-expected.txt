@@ -1,0 +1,20 @@
+[1gLpHZPINe4q#0] ^She/Prpers<prn><subj><p3><f><sg>$
+[/1gLpHZPINe4q]
+[E9Ja5IhyvuKu#0] ^Her/Her<det><pos><sp>/Prpers<prn><obj><p3><f><sg>$
+[/E9Ja5IhyvuKu]
+[F01jnMxCKX7Z#0] ^His/His<adj><pos>/His<det><pos><sp>$
+[/F01jnMxCKX7Z]
+[JH1MZ54KVU1E#0] ^Their/Their<det><pos><sp>$  (^Near/Near<adv>/Near<pr>/Near<adj><sint>/Near<vblex><inf>/Near<vblex><pres>$)  ^or/or<cnjcoo>$ ^His/His<adj><pos>/His<det><pos><sp>$ \/ ^Her/Her<det><pos><sp>/Prpers<prn><obj><p3><f><sg>$ (^Formal/Formal<adj>/Formal<n><sg>$)
+[/JH1MZ54KVU1E]
+[MO_ftS_2f4Da#0] ^He/Prpers<prn><subj><p3><m><sg>$
+[/MO_ftS_2f4Da]
+[SWPm0pxA_jct#0] ^His/His<adj><pos>/His<det><pos><sp>$ \/ ^Her/Her<det><pos><sp>/Prpers<prn><obj><p3><f><sg>$ \/ ^Its/Its<adv>/Its<adj><pos>/Its<det><pos><sp>$
+[/SWPm0pxA_jct]
+[U4tShjmE2Wot#0] ^Their/Their<det><pos><sp>$  (^Far/Far<adv>/Far<adj><sint>/Far<n><sg>$)  ^or/or<cnjcoo>$ ^His/His<adj><pos>/His<det><pos><sp>$ \/ ^Her/Her<det><pos><sp>/Prpers<prn><obj><p3><f><sg>$ (^Formal/Formal<adj>/Formal<n><sg>$)
+[/U4tShjmE2Wot]
+[V3t1GRUEOURM#0] ^Their/Their<det><pos><sp>$
+[/V3t1GRUEOURM]
+[jtZ5G989YaHm#0] ^My/My<det><pos><sp>$
+[/jtZ5G989YaHm]
+[o-eusGHY4kEc#0] ^Her/Her<det><pos><sp>/Prpers<prn><obj><p3><f><sg>$\/ ^His/His<adj><pos>/His<det><pos><sp>$ (^depends/depend<vblex><pres><p3><sg>$ ^on/on<adv>/on<pr>$ ^object/object<n><sg>/object<vblex><inf>/object<vblex><pres>$)
+[/o-eusGHY4kEc]

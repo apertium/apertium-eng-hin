@@ -1,0 +1,140 @@
+[-iEX6JZL4UFA#0] ^*वह$ ^पांच<num>$ ^साल<n><m><sg><obl>$ ^का<post><gen><f><sg>$ ^हो<vbser><pres><m><pl><nom>$
+[/-iEX6JZL4UFA]
+[-yY4OMjzlxiq#0] ^बाहर<adv>$ ^नहीं<adv>$ ^खेल<vblex><tv><stem>$ ^सक<vaux><impf><m><pl>$ ^हो<vbser><impf><p3><m><pl>$
+[/-yY4OMjzlxiq]
+[0Ru-LSQFoDMJ#0] ^*उसके$ ^पीछे<adv>$
+[/0Ru-LSQFoDMJ]
+[1IqAkInqIhvC#0] ^*आप$ ^पी<vblex><tv><impf><m><pl>$ ^*रहेंगे$^.<sent>$
+[/1IqAkInqIhvC]
+[1csPWKruWMg7#0] ^घर<n><m><sg><obl>$ ^में<post>$
+[/1csPWKruWMg7]
+[3Dz1mujPX67J#0] ^बहुत<adv>$ ^ठंडा<adj><m><sg><nom>$ ^हो<vbser><impf><p3><m><sg>$
+[/3Dz1mujPX67J]
+[4L0hsMbJ4umC#0] ^*मैं$ ^पा<vblex><tv><inf><nom><f>$ ^*पीया$^.<sent>$
+[/4L0hsMbJ4umC]
+[4koS8CdUcnJy#0] ^भारत<np><top><sg>$ ^ब्रिटेन<np><top><sg>$ ^के पास<post>$ ^नहीं<adv>$ ^हो<vbser><pres><m><pl><nom>$
+[/4koS8CdUcnJy]
+[5MILY4X9I-Qv#0] ^*मैं$ ^गाना गा<vblex><tv><impf><m><sg>$ ^*हूं$^.<sent>$
+[/5MILY4X9I-Qv]
+[88JlHHoJ22I4#0] ^*हम$ ^*मुस्कुराएंगे$^.<sent>$
+[/88JlHHoJ22I4]
+[9CQLvl5lyR4X#0] ^तुम<prn><pers><p2><mf><pl><nom>$ ^पा<vblex><tv><inf><nom><f>$ ^*पीये$^.<sent>$
+[/9CQLvl5lyR4X]
+[9SynUxFUo80S#0] ^तुम<prn><pers><p2><mf><pl><gen>$ ^ले<vblex><tv><perf><m><pl>$
+[/9SynUxFUo80S]
+[9lkX9eniUBep#0] ^*वे$ ^*पीएंगे$
+[/9lkX9eniUBep]
+[A8E5QnDUk3qN#0] ^*मैं$ ^माँ<n><f><sg><obl>$ ^को<post>$ ^कपड़ा<n><m><sg><nom>$ ^दे<vblex><tv><impf><m><sg>$ ^हो<vbser><pres><p1><mf><sg>$
+[/A8E5QnDUk3qN]
+[AfiSENf7ruXA#0] ^मौसम<n><m><sg><nom>$ ^अच्छा<adj><m><sg><nom>$ ^हो<vbser><pres><m><pl><nom>$
+[/AfiSENf7ruXA]
+[BsvwTt-qMSDO#0] ^*मैं$ ^भारत<np><top><sg>$ ^में<post>$ ^पढ़<vblex><tv><impf><m><sg>$  ^हो<vbser><pres><p1><mf><sg>$
+[/BsvwTt-qMSDO]
+[DU_QToZGRHTZ#0] ^भारत<np><top><sg>$ ^एक<num>$ ^स्वतंत्र<adj><m><sg><nom>$ ^देश<n><m><sg><nom>$ ^हो<vbser><pres><m><pl><nom>$
+[/DU_QToZGRHTZ]
+[E8H2zSnjy--u#0] ^लोकतंत्र<n><m><sg><obl>$ ^में<post>$ ^विश्वास<n><m><sg><nom>$ ^।<sent>$
+[/E8H2zSnjy--u]
+[Ed3PLAMrF3Dx#0] ^*वह$ ^एक<num>$ ^कुर्सी<n><f><sg><obl>$ ^पर<post>$ ^बैठा<vblex><tv><stem>$ ^हो<vbser><pres><m><pl><nom>$
+[/Ed3PLAMrF3Dx]
+[GrevYTqnOBA0#0] ^*हम$ ^*पीएंगे$
+[/GrevYTqnOBA0]
+[Iq3RW4PFJTr2#0] ^*वे$ ^पी<vblex><tv><impf><m><pl>$ ^*रहेंगे$^.<sent>$
+[/Iq3RW4PFJTr2]
+[JX1pYvHpCpqj#0] ^पवित्र<n><m><sg><nom>$ ^गंगा<np><top><sg>$ ^से<post>$ ^*सिंचित$ ^।<sent>$
+[/JX1pYvHpCpqj]
+[KI6TvtwL__OF#0] ^पेड़<n><m><sg><nom>$ ^घर<n><m><sg><obl>$ ^के पीछे<post>$ ^हो<vbser><pres><m><pl><nom>$
+[/KI6TvtwL__OF]
+[L96kVuDBwKY8#0] ^*आप$ ^*पीएंगे$
+[/L96kVuDBwKY8]
+[M_AMzYcoZtDv#0] ^महान<n><m><sg><nom>$ ^हिमालय<np><top><sg>$ ^से<post>$ ^रक्षित<adj><m><sg><nom>$ ^तथा<cnjcoo>$ ^पवित्र<n><m><sg><nom>$ ^गंगा<np><top><sg>$ ^से<post>$ ^*सिंचित$ ^*हमारा$ ^भारत<np><top><sg>$ ^एक<num>$ ^स्वतंत्र<adj><m><sg><nom>$ ^आत्मनिर्भर<n><m><sg><nom>$ ^देश<n><m><sg><nom>$ ^हो<vbser><pres><m><pl><nom>$ ^।<sent>$
+[/M_AMzYcoZtDv]
+[PH_ylaCEqq1I#0] ^*वह$ ^एक<num>$ ^गेंद<n><f><sg><obl>$ ^के साथ<post>$ ^खेल<vblex><tv><impf><m><sg>$ ^हो<vbser><pres><m><pl><nom>$
+[/PH_ylaCEqq1I]
+[PcsHQPEDdyuP#0] ^*हम$ ^ले जा<vblex><tv><fut><p1><m><pl>$^.<sent>$
+[/PcsHQPEDdyuP]
+[QBwbd-ZigmTB#0] ^*मैं$ ^स्कूल<n><m><sg><nom>$ ^जा<vblex><iv><impf><m><sg>$ ^*हूं$^.<sent>$
+[/QBwbd-ZigmTB]
+[QKlLUp7f5XK4#0] ^*वह$ ^*पीएगा$
+[/QKlLUp7f5XK4]
+[RA2VfdCAtxL6#0] ^*मैं$ ^पा<vblex><tv><inf><nom><f>$ ^पी<vblex><tv><impf><m><sg>$ ^हो<vbser><impf><p3><m><sg>$^.<sent>$
+[/RA2VfdCAtxL6]
+[RJvM48HcvJV9#0] ^*हम$ ^स्कूल<n><m><sg><nom>$ ^जा<vblex><iv><stem>$ ^*रहे$ ^हो<vbser><pres><p3><mf><pl>$^.<sent>$
+[/RJvM48HcvJV9]
+[S5KKUR_4A9Dx#0] ^*मैं$ ^पा<vblex><tv><inf><nom><f>$ ^पी<vblex><tv><impf><m><sg>$ ^*हुं$^.<sent>$
+[/S5KKUR_4A9Dx]
+[U7-EvSpvEXC4#0] ^*मैं$ ^पा<vblex><tv><inf><nom><f>$ ^पी<vblex><tv><stem>$ ^*रहा$ ^हो<vbser><impf><p3><m><sg>$^.<sent>$
+[/U7-EvSpvEXC4]
+[UbbulOdi6_XF#0] ^*तु$ ^*पीएगा$
+[/UbbulOdi6_XF]
+[VJyruQo8_Hw_#0] ^*क्या$ ^*वह$ ^केक<n><m><sg><nom>$ ^हम<prn><pers><p1><mf><pl><gen>$ ^ले<vblex><tv><perf><m><pl>$ ^हो<vbser><pres><m><pl><nom>$^?<sent>$
+[/VJyruQo8_Hw_]
+[VrE63reUJ6mw#0] ^*मैंने$ ^*टॉम$ ^से<post>$ ^कुछ<adj><m><sg><nom>$ ^पैसा<n><m><sg><obl>$ ^ले<vblex><tv><perf><m><sg>$
+[/VrE63reUJ6mw]
+[YNYucCAoajWU#0] ^*उनके$ ^बाद<adv>$
+[/YNYucCAoajWU]
+[YWWukwiX0NG8#0] ^*तु$ ^पी<vblex><tv><impf><m><sg>$ ^*रहेगा$^.<sent>$
+[/YWWukwiX0NG8]
+[_5rNOfwoH7p7#0] ^*मुझको$ ^*अनानास$ ^पसंद<vblex><tv><stem>$ ^हो<vbser><pres><m><pl><nom>$
+[/_5rNOfwoH7p7]
+[aFlo6xyZ-WOW#0] ^*हम$ ^दे दे<vblex><tv><fut><p3><m><pl>$ ^.<sent>$
+[/aFlo6xyZ-WOW]
+[eT-8o13NyJKr#0] ^*वह$ ^पी<vblex><tv><impf><m><sg>$ ^*रहेगा$^.<sent>$
+[/eT-8o13NyJKr]
+[f_4UWzL_ZwAB#0] ^तुम<prn><pers><p2><mf><pl><nom>$ ^पा<vblex><tv><inf><nom><f>$ ^पी<vblex><tv><impf><m><pl>$ ^हो<vbser><impf><p3><m><pl>$^.<sent>$
+[/f_4UWzL_ZwAB]
+[hGYA01LfZWSD#0] ^बहुत<adv>$ ^गरम<adj><m><sg><nom>$ ^हो<vbser><pres><m><pl><nom>$
+[/hGYA01LfZWSD]
+[hXD24o0fKuPF#0] ^आमिल<np><ant><m><sg><nom>$ ^कर<vblex><tv><perf><f><sg>$ ^बेटी<n><f><sg><nom>$
+[/hXD24o0fKuPF]
+[iSKSmNxu316f#0] ^*हम$ ^पी<vblex><tv><impf><m><pl>$ ^*रहेंगे$^.<sent>$
+[/iSKSmNxu316f]
+[id_fUXWpMEPY#0] ^*मैं$ ^पा<vblex><tv><inf><nom><f>$ ^पी<vblex><tv><stem>$ ^*रहा$ ^*हुं$^.<sent>$
+[/id_fUXWpMEPY]
+[ieJav-7njUB3#0] ^*मैं$ ^पी<vblex><tv><impf><m><sg>$ ^*रहुंगा$^.<sent>$
+[/ieJav-7njUB3]
+[izcTMxIzGSJN#0] ^*नेहा$ ^मैं<prn><pers><p1><mf><sg><gen>$ ^*साथ$ ^पढ़<vblex><tv><impf><f><sg>$ ^हो<vbser><pres><m><pl><nom>$
+[/izcTMxIzGSJN]
+[jT6SlvwmhD-y#0] ^दो<num>$ ^हमला<n><m><pl><obl>$ ^में<post>$
+[/jT6SlvwmhD-y]
+[jkamVI6b7I1y#0] ^तुम<prn><pers><p2><mf><pl><nom>$ ^पी<vblex><tv><impf><m><pl>$ ^*रहोगे$^.<sent>$
+[/jkamVI6b7I1y]
+[k-rcuqhqm1S_#0] ^किताब<n><f><pl><obl>$ ^पर<post>$
+[/k-rcuqhqm1S_]
+[l3mrcKNNrOpn#0] ^*मैं$ ^*पीउंगा$
+[/l3mrcKNNrOpn]
+[l89aowohCLN1#0] ^हम<prn><pers><p1><mf><pl><gen>$ ^राष्ट्रीय<adj><m><sg><nom>$ ^त्योहार<n><m><sg><nom>$ ^।<sent>$
+[/l89aowohCLN1]
+[lTXokWj_xPas#0] ^पानी<n><m><sg><obl>$ ^को<post>$ ^पी<vblex><tv><imp><p2><pl>$
+[/lTXokWj_xPas]
+[laBfsL6kjwFA#0] ^पेड़<n><m><sg><obl>$ ^का<post><gen><m><pl>$ ^ऊपर<adv>$ ^*क्या$ ^हो<vbser><pres><m><pl><nom>$^?<sent>$
+[/laBfsL6kjwFA]
+[mTU96tIdeLDz#0] ^तुम<prn><pers><p2><mf><pl><nom>$ ^पा<vblex><tv><inf><nom><f>$ ^पी<vblex><tv><impf><m><pl>$ ^हो<vbser><imp><p2><sg>$^.<sent>$
+[/mTU96tIdeLDz]
+[n_XgqYBqKpq7#0] ^*मैं$ ^सो<vblex><iv><stem>$ ^*रहा$ ^*हु$^.<sent>$
+[/n_XgqYBqKpq7]
+[pkhZafa4txMP#0] ^तुम<prn><pers><p2><mf><pl><nom>$ ^*पीओगे$
+[/pkhZafa4txMP]
+[poML2pE6tuO0#0] ^*उसकी$ ^बहन<n><f><sg><nom>$ ^हो<vbser><pres><m><pl><nom>$
+[/poML2pE6tuO0]
+[qGcuwYE2da4D#0] ^शब्दकोश<n><m><sg><obl>$ ^का<post><gen><m><pl>$ ^अंदर<n><m><sg><nom>$ ^बहुत<adv>$ ^सारे<adv>$ ^शब्द<n><m><sg><nom>$ ^हो<vbser><pres><p3><mf><pl>$
+[/qGcuwYE2da4D]
+[qGfGlwk0ME-P#0] ^*वह$ ^लिख<vblex><tv><fut><p2><m><sg>$^.<sent>$
+[/qGfGlwk0ME-P]
+[qj71kklbefsv#0] ^*हम$ ^सो<vblex><iv><stem>$ ^*रहे$ ^हो<vbser><pres><m><pl><nom>$^.<sent>$
+[/qj71kklbefsv]
+[rHK6a1iJc5sl#0] ^हम<prn><pers><p1><mf><pl><gen>$ ^*साथ$
+[/rHK6a1iJc5sl]
+[sYC_GyTazAkX#0] ^*वह$ ^चला<vblex><tv><fut><p2><m><sg>$^.<sent>$
+[/sYC_GyTazAkX]
+[sehR3DsziOtg#0] ^कुत्ता<n><m><sg><nom>$ ^मेज़<n><m><sg><obl>$ ^के नीचे<post>$ ^बैठ<vblex><iv><stem>$ ^हो<vbser><pres><m><pl><nom>$
+[/sehR3DsziOtg]
+[ufvwLfQ7J3CO#0] ^जेम्स<np><ant><m><sg><nom>$ ^*कहॉं$ ^हो<vbser><pres><m><pl><nom>$^?<sent>$
+[/ufvwLfQ7J3CO]
+[v2tJs21bjayC#0] ^लड़का<n><m><sg><obl>$ ^से<post>$
+[/v2tJs21bjayC]
+[xdB8okiW4aY_#0] ^*वह$ ^बोल<vblex><tv><fut><p2><m><sg>$ ^.<sent>$
+[/xdB8okiW4aY_]
+[yAvV5uLeqFRM#0] ^इसके बाद<adv>$ ^*मैं$ ^खा<vblex><tv><fut><p1><m><sg>$
+[/yAvV5uLeqFRM]
+[yRFQjPjHhCSx#0] ^जेम्स<np><ant><m><sg><nom>$ ^और<cnjcoo>$ ^मैरी<np><ant><f><sg><nom>$ ^बगीचा<n><m><sg><obl>$ ^में<post>$ ^हो<vbser><pres><p3><mf><pl>$
+[/yRFQjPjHhCSx]

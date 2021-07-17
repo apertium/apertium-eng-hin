@@ -1,0 +1,82 @@
+[03QfiKyBKX1e#0] ^वह/*वह$ ^सड़कों/*सड़कों$ ^पर/पर<post>/पर<cnjcoo>/पर<n><m><sg><nom>/पर<n><m><sg><obl>/पर<n><m><pl><nom>$ ^कुत्ते/कुत्ता<n><m><sg><obl>/कुत्ता<n><m><pl><nom>$ ^को/को<post>$ ^बाहर/बाहर<adv>$ ^ले/ले<vblex><tv><prs><p3><sg>/ले<vblex><tv><imp><p2><frm><pl>$ ^गया/जा<vblex><iv><perf><m><sg>$
+[/03QfiKyBKX1e]
+[0v1gVRwx_3pq#0] ^उसका/*उसका$ ^नोट/नोट<n><m><sg><nom>/नोट<n><m><sg><obl>/नोट<n><m><pl><nom>$ ^दीवार/दीवार<n><f><sg><nom>/दीवार<n><f><sg><obl>$ ^पर/पर<post>/पर<cnjcoo>/पर<n><m><sg><nom>/पर<n><m><sg><obl>/पर<n><m><pl><nom>$ ^लटका/लटका<vblex><tv><stem>/लटक<vblex><tv><perf><m><sg>/लटक<vblex><iv><perf><m><sg>/लटका<vblex><tv><imp><p2><pl>$ ^दिया/दे<vblex><tv><perf><m><sg>$ ^गया/जा<vblex><iv><perf><m><sg>$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/0v1gVRwx_3pq]
+[0zS0r7uZhu_z#0] ^साहिब/साहिब<n><m><sg><nom>/साहिब<n><m><sg><obl>/साहिब<n><m><pl><nom>$ ^तेजी/तेजी<n><f><sg><nom>/तेजी<n><f><sg><obl>/तेजी<n><f><pl><nom>/तेजी<n><f><pl><obl>$ ^से/से<post>$ ^दौङेगा/*दौङेगा$^।/।<sent>$
+[/0zS0r7uZhu_z]
+[3KP-2X3SQJZK#0] ^सीखना/सीख<vblex><tv><inf><nom>/सीख<vblex><tv><inf><nom><m>$
+[/3KP-2X3SQJZK]
+[4zcEtpTp1CCU#0] ^वह/*वह$ ^एक/एक<num>$ ^नर्तकी/नर्तकी<n><f><sg><nom>/नर्तकी<n><f><sg><obl>$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/4zcEtpTp1CCU]
+[5xXCyxh9MXxr#0] ^मैं/*मैं$ ^स्कूल/स्कूल<n><m><sg><nom>/स्कूल<n><m><sg><obl>/स्कूल<n><m><pl><nom>$ ^जाऊँगा/जा<vblex><iv><fut><p1><m><sg>$
+[/5xXCyxh9MXxr]
+[8uRlrT_DNXff#0] ^साहिब/साहिब<n><m><sg><nom>/साहिब<n><m><sg><obl>/साहिब<n><m><pl><nom>$ ^तेजी/तेजी<n><f><sg><nom>/तेजी<n><f><sg><obl>/तेजी<n><f><pl><nom>/तेजी<n><f><pl><obl>$ ^से/से<post>$ ^भागा/भाग<vblex><iv><perf><m><sg>$^।/।<sent>$
+[/8uRlrT_DNXff]
+[BORN9C_TjBAN#0] ^बच्चे/बच्चा<n><m><sg><obl>/बच्चा<n><m><pl><nom>$  ^फुटबॉल/फुटबॉल<n><m><sg><nom>/फुटबॉल<n><m><sg><obl>/फुटबॉल<n><m><pl><nom>/फुटबॉल<n><m><pl><obl>$ ^खेलेंगे/खेल<vblex><tv><fut><p3><m><pl>/खेल<vblex><tv><fut><p1><m><pl>$^।/।<sent>$
+[/BORN9C_TjBAN]
+[KiHdD2YCZk-l#0] ^बच्चों/बच्चा<n><m><pl><obl>$ ^ने/ने<post>$ ^फुटबॉल/फुटबॉल<n><m><sg><nom>/फुटबॉल<n><m><sg><obl>/फुटबॉल<n><m><pl><nom>/फुटबॉल<n><m><pl><obl>$ ^खेला/खेल<vblex><tv><perf><m><sg>$
+[/KiHdD2YCZk-l]
+[MsOZ-jXubOTz#0] ^उसके/*उसके$ ^आलू/आलू<n><m><sg><nom>/आलू<n><m><sg><obl>/आलू<n><m><pl><nom>$
+[/MsOZ-jXubOTz]
+[N5CeErkPlVGN#0] ^माँ/माँ<n><f><sg><nom>/माँ<n><f><sg><obl>$ ^ने/ने<post>$ ^मुझे/*मुझे$ ^स्कूल/स्कूल<n><m><sg><nom>/स्कूल<n><m><sg><obl>/स्कूल<n><m><pl><nom>$ ^भेजा/भेजा<n><m><sg><nom>/भेज<vblex><tv><perf><m><sg>$
+[/N5CeErkPlVGN]
+[NcD1iVJVORJO#0] ^मेरी/*मेरी$ ^किताब/किताब<n><f><sg><nom>/किताब<n><f><sg><obl>$
+[/NcD1iVJVORJO]
+[OHpdwzxZFdG7#0] ^सोना/सो<vblex><iv><inf><nom><m>/सोना<n><m><sg><nom>$
+[/OHpdwzxZFdG7]
+[PIaxR76PybUM#0] ^बच्चे/बच्चा<n><m><sg><obl>/बच्चा<n><m><pl><nom>$  ^फुटबॉल/फुटबॉल<n><m><sg><nom>/फुटबॉल<n><m><sg><obl>/फुटबॉल<n><m><pl><nom>/फुटबॉल<n><m><pl><obl>$ ^खेलते/खेल<vblex><tv><impf><m><pl>$ ^हैं/हो<vbser><pres><p3><mf><pl>/हो<vbser><pres><p1><mf><sg>/हो<vbser><pres><p1><mf><pl>$^।/।<sent>$
+[/PIaxR76PybUM]
+[QIOnzeVBbRRK#0] ^रंजन/रंजन<n><m><sg><nom>/रंजन<n><m><sg><obl>/रंजन<n><m><pl><nom>/रंजन<n><m><pl><obl>$ ^खेल/खेल<vblex><tv><stem>/खेल<n><m><sg><nom>/खेल<n><m><sg><obl>/खेल<n><m><pl><nom>$ ^रहा/*रहा$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$^।/।<sent>$
+[/QIOnzeVBbRRK]
+[VHNQGakQZIUf#0] ^उसकी/*उसकी$ ^साडी/साडी<n><f><sg><nom>/साडी<n><f><sg><obl>$
+[/VHNQGakQZIUf]
+[VS6ENgV8_QKi#0] ^मेरा/*मेरा$ ^घर/घर<adv>/घर<n><m><sg><nom>/घर<n><m><sg><obl>/घर<n><m><pl><nom>$
+[/VS6ENgV8_QKi]
+[VY8-RF3Z-knQ#0] ^खाना/खा<vblex><tv><inf><nom><m>/खाना<n><m><sg><nom>$
+[/VY8-RF3Z-knQ]
+[WedjGMC4WA7i#0] ^मुझे/*मुझे$ ^गाने/गा<vblex><tv><inf><obl>/गाना<n><m><sg><obl>/गाना<n><m><pl><nom>$ ^सुनना/सुन<vblex><tv><inf><nom>/सुन<vblex><tv><inf><nom><m>$ ^पसंद/पसंद<vblex><tv><stem>/पसंद<n><f><sg><nom>/पसंद<n><f><sg><obl>/पसंद<n><f><pl><nom>/पसंद<n><f><pl><obl>$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/WedjGMC4WA7i]
+[YR1q4G2gE9EU#0] ^इसका/*इसका$ ^बहन/बहन<n><f><sg><nom>/बहन<n><f><sg><obl>$ ^आर्य/आर्य<n><m><sg><nom>/आर्य<n><m><sg><obl>/आर्य<n><m><pl><nom>$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/YR1q4G2gE9EU]
+[_b1ajS7r53N8#0] ^बोलना/बोल<vblex><tv><inf><nom>/बोल<vblex><tv><inf><nom><m>$
+[/_b1ajS7r53N8]
+[aQ9wDpg1fmwi#0] ^उनकी/*उनकी$ ^जूते/जूता<n><m><sg><obl>/जूता<n><m><pl><nom>$
+[/aQ9wDpg1fmwi]
+[axkWxKpLwgmG#0] ^इनका/*इनका$ ^जूता/जूता<n><m><sg><nom>$ ^काले/काला<n><m><sg><obl>/काला<n><m><pl><nom>/काला<adj><m><sg><obl>/काला<adj><m><pl><nom>/काला<adj><m><pl><obl>$ ^रंग/रंग<vblex><tv><stem>/रंग<n><m><sg><nom>/रंग<n><m><sg><obl>/रंग<n><m><pl><nom>/रंग<n><m><pl><obl>$ ^के/का<post><gen><m><pl>$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/axkWxKpLwgmG]
+[bCfCzmee9w5O#0] ^सीता/सी<vblex><tv><impf><m><sg>$ ^बाजार/बाजार<n><m><sg><nom>/बाजार<n><m><sg><obl>/बाजार<n><m><pl><nom>$ ^जा/जा<vblex><iv><stem>$ ^रही/*रही$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$^।/।<sent>$
+[/bCfCzmee9w5O]
+[ceji0-rAGgkg#0] ^पढ़ना/पढ़<vblex><tv><inf><nom>/पढ़<vblex><tv><inf><nom><m>$
+[/ceji0-rAGgkg]
+[dC2fonEqJ-H2#0] ^उनका/*उनका$ ^शहर/शहर<n><m><sg><nom>/शहर<n><m><sg><obl>/शहर<n><m><pl><nom>$ ^में/में<post>$ ^ठण्ड/*ठण्ड$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/dC2fonEqJ-H2]
+[dtAqyhKoMydN#0] ^जाना/जा<vblex><iv><inf><nom><m>/जान<vblex><tv><perf><m><sg>$
+[/dtAqyhKoMydN]
+[e1_UDj1lha2P#0] ^में/में<post>$ ^चलके/चल<vblex><iv><gna>$ ^स्कूल/स्कूल<n><m><sg><nom>/स्कूल<n><m><sg><obl>/स्कूल<n><m><pl><nom>$ ^जाता/जा<vblex><iv><impf><m><sg>$ ^हूँ/हो<vbser><pres><p1><mf><sg>$
+[/e1_UDj1lha2P]
+[ghCZGslJrA4T#0] ^तुम/तुम<prn><pers><p2><mf><pl><nom>/तुम<prn><pers><p2><mf><pl><obl>$ ^मेरी/*मेरी$ ^बेटी/बेटी<n><f><sg><nom>/बेटी<n><f><sg><obl>$ ^हो/हो<vbser><imp><p2><sg>/हो<vbser><imp><p2><pl>/हो<vbser><pres><p2><mf><pl>/होना<vblex><iv><prs><p2><pl>/होना<vblex><iv><imp><p2><sg>/होना<vblex><iv><imp><p2><pl>$
+[/ghCZGslJrA4T]
+[hCxOFdy8Gj7T#0] ^साहिब/साहिब<n><m><sg><nom>/साहिब<n><m><sg><obl>/साहिब<n><m><pl><nom>$ ^तेज/तेज<adj><m><sg><nom>/तेज<adj><m><sg><obl>/तेज<adj><m><pl><nom>/तेज<adj><m><pl><obl>/तेज<adj><f><sg><nom>/तेज<adj><f><sg><obl>/तेज<adj><f><pl><nom>/तेज<adj><f><pl><obl>$ ^से/से<post>$ ^दौङता/*दौङता$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$^।/।<sent>$
+[/hCxOFdy8Gj7T]
+[m4Hji3dlHVJH#0] ^बच्चों/बच्चा<n><m><pl><obl>$ ^रो/रो<vblex><iv><stem>/रो<vblex><iv><imp><p2><sg>$ ^रहे/*रहे$ ^हैं/हो<vbser><pres><p3><mf><pl>/हो<vbser><pres><p1><mf><sg>/हो<vbser><pres><p1><mf><pl>$^।/।<sent>$
+[/m4Hji3dlHVJH]
+[meYf6NNCKlKb#0] ^आर्य/आर्य<n><m><sg><nom>/आर्य<n><m><sg><obl>/आर्य<n><m><pl><nom>$ ^उसकी/*उसकी$ ^बहन/बहन<n><f><sg><nom>/बहन<n><f><sg><obl>$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/meYf6NNCKlKb]
+[nBLfxKEUx_sC#0] ^वह/*वह$ ^बारिश/बारिश<n><f><sg><nom>/बारिश<n><f><sg><obl>/बारिश<n><f><pl><nom>/बारिश<n><f><pl><obl>$ ^में/में<post>$ ^गा/गा<vblex><tv><stem>/गा<vblex><tv><imp><p2><pl>$ ^रहा/*रहा$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/nBLfxKEUx_sC]
+[pIevMgbE_0ba#0] ^राम/*राम$ ^समाचार/समाचार<n><m><sg><nom>/समाचार<n><m><sg><obl>/समाचार<n><m><pl><nom>$ ^पत्र/पत्र<n><m><sg><nom>/पत्र<n><m><sg><obl>/पत्र<n><m><pl><nom>$ ^पढ़/पढ़<vblex><tv><stem>$ ^रहा/*रहा$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$^।/।<sent>$
+[/pIevMgbE_0ba]
+[piB2EI_VEz7B#0] ^जॉनसन/*जॉनसन$ ^क्रिकेट खेल/क्रिकेट खेल<vblex><iv><stem>$ ^रहा/*रहा$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$^।/।<sent>$
+[/piB2EI_VEz7B]
+[q0iXB_st22PL#0] ^रानी/रानी<n><f><sg><nom>/रानी<n><f><sg><obl>$ ^पानी/पा<vblex><tv><inf><nom><f>/पानी<n><m><sg><nom>/पानी<n><m><sg><obl>/पानी<n><m><pl><nom>/पानी<n><m><pl><obl>$ ^पीने/पी<vblex><tv><inf><obl>$ ^गयी/जा<vblex><iv><perf><f><sg>$
+[/q0iXB_st22PL]
+[q9vVjBY64Y-z#0] ^उनके/*उनके$ ^केले/केला<n><m><sg><obl>/केला<n><m><pl><nom>$
+[/q9vVjBY64Y-z]
+[w69OY7Xm3Ns-#0] ^आदमी/आदमी<n><m><sg><nom>/आदमी<n><m><sg><obl>/आदमी<n><m><pl><nom>$ ^खाना/खा<vblex><tv><inf><nom><m>/खाना<n><m><sg><nom>$ ^खाने/खा<vblex><tv><inf><obl>/खाना<n><m><sg><obl>/खाना<n><m><pl><nom>$ ^गया/जा<vblex><iv><perf><m><sg>$
+[/w69OY7Xm3Ns-]
+[yOyOfYf3CBW9#0] ^मैं/*मैं$ ^स्कूल/स्कूल<n><m><sg><nom>/स्कूल<n><m><sg><obl>/स्कूल<n><m><pl><nom>$ ^के लिए/के लिए<post>$ ^चला/चला<vblex><tv><stem>/चल<vblex><iv><perf><m><sg>/चला<vblex><tv><imp><p2><pl>$ ^गया/जा<vblex><iv><perf><m><sg>$
+[/yOyOfYf3CBW9]
+[zbhoS38HvmrU#0] ^मोहन/मोहन<np><ant><m><sg><nom>$ ^सो/सो<vblex><iv><stem>/सो<vblex><iv><imp><p2><sg>$ ^रहा/*रहा$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$^।/।<sent>$
+[/zbhoS38HvmrU]
+[zqCTe-5pySYq#0] ^रोजी/रोजी<n><f><sg><nom>/रोजी<n><f><sg><obl>/रोजी<n><f><pl><nom>/रोजी<n><f><pl><obl>$ ^अपना/अपना<vblex><tv><stem>/अपना<n><m><sg><nom>/अपना<adj><m><sg><nom>/अपना<vblex><tv><imp><p2><pl>$ ^हार/हार<vblex><iv><stem>/हार<n><m><sg><nom>/हार<n><m><sg><obl>/हार<n><m><pl><nom>/हार<n><f><sg><nom>/हार<n><f><sg><obl>$ ^खरीदना/खरीद<vblex><tv><inf><nom>/खरीद<vblex><tv><inf><nom><m>$ ^चाहता/चाह<vblex><tv><impf><m><sg>$ ^है/हो<vbser><pres><m><pl><nom>/हो<vbser><pres><p2><mf><sg>/हो<vbser><pres><p3><mf><sg>$
+[/zqCTe-5pySYq]

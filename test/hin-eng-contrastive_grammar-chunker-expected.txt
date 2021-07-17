@@ -1,0 +1,82 @@
+[03QfiKyBKX1e#0] ^unknown<unknown>{^*वह$}$ ^unknown<unknown>{^*सड़कों$}$ ^default<default>{^but<cnjcoo>$}$ ^n<SN><obl>{^dog<n><sg>$}$ ^post<POST>{^to<pr>$}$ ^adv<ADV>{^out<adv>$}$ ^vblex_prs<SV><prs><p3><sg>{^take<vblex><pres>$}$ ^v<SV><perf><sg>{^go<vblex><past>$}$
+[/03QfiKyBKX1e]
+[0v1gVRwx_3pq#0] ^unknown<unknown>{^*उसका$}$ ^n<SN><nom>{^banknote<n><sg>$}$ ^a<SV><INF>{^hang<vblex><inf>$}$ ^b<SN><DET>{^that<det><dem><sg>$ ^wall<n><sg>$}$ ^v<SV><perf><sg>{^let<vblex><past>$}$ ^v<SV><perf><sg>{^go<vblex><past>$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/0v1gVRwx_3pq]
+[0zS0r7uZhu_z#0] ^n<SN><nom>{^sahib<n><sg>$}$ ^n<SN><obl>{^speed<n><sg>$}$ ^post<POST>{^with<pr>$}$ ^unknown<unknown>{^*दौङेगा$}$^sent<SENT>{^.<sent>$}$
+[/0zS0r7uZhu_z]
+[3KP-2X3SQJZK#0] ^vblex_inf<SV><inf>{^do<vblex><inf>$}$
+[/3KP-2X3SQJZK]
+[4zcEtpTp1CCU#0] ^unknown<unknown>{^*वह$}$ ^num_noun<SN><nom>{^one<num><sg>$ ^dancer<n><sg>$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/4zcEtpTp1CCU]
+[5xXCyxh9MXxr#0] ^unknown<unknown>{^*मैं$}$ ^a<SV>{^go<vblex><inf>$}$ ^b<SN>{^school<n><sg>$}$
+[/5xXCyxh9MXxr]
+[8uRlrT_DNXff#0] ^n<SN><nom>{^sahib<n><sg>$}$ ^a<SV><INF>{^chase<vblex><inf>$}$ ^b<SN><DET>{^that<det><dem><sg>$ ^speed<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/8uRlrT_DNXff]
+[BORN9C_TjBAN#0] ^n<SN><obl>{^kid<n><sg>$}$  ^a<SV>{^play<vblex><inf>$}$ ^b<SN>{^football<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/BORN9C_TjBAN]
+[KiHdD2YCZk-l#0] ^a<SN><NEG>{^do<vblex><inf>$ ^not<adv>$}$ ^b<SV>{^play<vblex><inf>$}$ ^c<SN><PR>{^by<pr>$ ^kid<n><pl>$}$
+[/KiHdD2YCZk-l]
+[MsOZ-jXubOTz#0] ^unknown<unknown>{^*उसके$}$ ^n<SN><nom>{^spud<n><sg>$}$
+[/MsOZ-jXubOTz]
+[N5CeErkPlVGN#0] ^n<SN><obl>{^mother<n><sg>$}$ ^post<POST>{^by<pr>$}$ ^unknown<unknown>{^*मुझे$}$ ^n<SN><nom>{^school<n><sg>$}$ ^n<SN><nom>{^sent<n><sg>$}$
+[/N5CeErkPlVGN]
+[NcD1iVJVORJO#0] ^unknown<unknown>{^*मेरी$}$ ^n<SN><nom>{^book<n><sg>$}$
+[/NcD1iVJVORJO]
+[OHpdwzxZFdG7#0] ^vblex_inf<SV><inf>{^sleep<vblex><inf>$}$
+[/OHpdwzxZFdG7]
+[PIaxR76PybUM#0] ^n<SN><obl>{^kid<n><sg>$}$  ^a<SV>{^play<vblex><pres><p3><pl>$}$ ^b<SV>{^to<pr>$}$ ^c<SN>{^football<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/PIaxR76PybUM]
+[QIOnzeVBbRRK#0] ^n<SN><nom>{^dyeing<n><sg>$}$ ^n<SN><nom>{^game<n><sg>$}$ ^unknown<unknown>{^*रहा$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$^sent<SENT>{^.<sent>$}$
+[/QIOnzeVBbRRK]
+[VHNQGakQZIUf#0] ^unknown<unknown>{^*उसकी$}$ ^n<SN><nom>{^cream<n><sg>$}$
+[/VHNQGakQZIUf]
+[VS6ENgV8_QKi#0] ^unknown<unknown>{^*मेरा$}$ ^adv<ADV>{^home<adv>$}$
+[/VS6ENgV8_QKi]
+[VY8-RF3Z-knQ#0] ^vblex_inf<SV><inf>{^eat<vblex><inf>$}$
+[/VY8-RF3Z-knQ]
+[WedjGMC4WA7i#0] ^unknown<unknown>{^*मुझे$}$ ^vblex_inf<SV><inf>{^sing<vblex><inf>$}$ ^vblex_inf<SV><inf>{^hear<vblex><inf>$}$ ^verb<SV><pres>{^satisfy<vblex><inf>$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/WedjGMC4WA7i]
+[YR1q4G2gE9EU#0] ^unknown<unknown>{^*इसका$}$ ^n<SN><nom>{^sister<n><sg>$}$ ^n<SN><nom>{^Arya<n><sg>$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/YR1q4G2gE9EU]
+[_b1ajS7r53N8#0] ^vblex_inf<SV><inf>{^talk<vblex><inf>$}$
+[/_b1ajS7r53N8]
+[aQ9wDpg1fmwi#0] ^unknown<unknown>{^*उनकी$}$ ^n<SN><obl>{^shoe<n><sg>$}$
+[/aQ9wDpg1fmwi]
+[axkWxKpLwgmG#0] ^unknown<unknown>{^*इनका$}$ ^n<SN><nom>{^shoe<n><sg>$}$ ^adj_n<AN>{^black<adj>$ ^hue<n><sg>$}$ ^post<POST>{^of<pr><gen><m><pl>$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/axkWxKpLwgmG]
+[bCfCzmee9w5O#0] ^vblex_impf<SV><impf><sg>{^mend<vblex><pres>$}$ ^a<SV>{^go<vblex><inf>$}$ ^b<SN>{^market<n><sg>$}$ ^unknown<unknown>{^*रही$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$^sent<SENT>{^.<sent>$}$
+[/bCfCzmee9w5O]
+[ceji0-rAGgkg#0] ^vblex_inf<SV><inf>{^study<vblex><inf>$}$
+[/ceji0-rAGgkg]
+[dC2fonEqJ-H2#0] ^unknown<unknown>{^*उनका$}$ ^n<SN><obl>{^city<n><sg>$}$ ^post<POST>{^in<pr>$}$ ^unknown<unknown>{^*ठण्ड$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/dC2fonEqJ-H2]
+[dtAqyhKoMydN#0] ^vblex_inf<SV><inf>{^go<vblex><inf>$}$
+[/dtAqyhKoMydN]
+[e1_UDj1lha2P#0] ^post<POST>{^in<pr>$}$ ^vblex_gna<SV>{^after<pr>$ ^walk<vblex><ger>$}$ ^a<SV>{^go<vblex><pres><p3><sg>$}$ ^b<SV>{^to<pr>$}$ ^c<SN>{^school<n><sg>$}$
+[/e1_UDj1lha2P]
+[ghCZGslJrA4T#0] ^prn<SN><subj><p2><sp><mf>{^prpers<prn><subj><p2><5><sp>$}$ ^unknown<unknown>{^*मेरी$}$ ^n<SN><nom>{^daughter<n><sg>$}$ ^default<default>{^be<vbser><imp><p2><sg>$}$
+[/ghCZGslJrA4T]
+[hCxOFdy8Gj7T#0] ^n<SN><nom>{^sahib<n><sg>$}$ ^adj<ADJ>{^fast<adj><sint>$}$ ^post<POST>{^with<pr>$}$ ^unknown<unknown>{^*दौङता$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$^sent<SENT>{^.<sent>$}$
+[/hCxOFdy8Gj7T]
+[m4Hji3dlHVJH#0] ^a<SV>{^bay<vblex><inf>$}$ ^b<SN>{^kid<n><pl>$}$ ^unknown<unknown>{^*रहे$}$ ^default<default>{^be<vbser><pres><p3><mf><pl>$}$^sent<SENT>{^.<sent>$}$
+[/m4Hji3dlHVJH]
+[meYf6NNCKlKb#0] ^n<SN><nom>{^Arya<n><sg>$}$ ^unknown<unknown>{^*उसकी$}$ ^n<SN><nom>{^sister<n><sg>$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/meYf6NNCKlKb]
+[nBLfxKEUx_sC#0] ^unknown<unknown>{^*वह$}$ ^a<SV><INF>{^sing<vblex><inf>$}$ ^b<SN><DET>{^that<det><dem><sg>$ ^rain<n><sg>$}$ ^unknown<unknown>{^*रहा$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/nBLfxKEUx_sC]
+[pIevMgbE_0ba#0] ^unknown<unknown>{^*राम$}$ ^n<SN><nom>{^report<n><sg>$}$ ^a<SV>{^study<vblex><inf>$}$ ^b<SN>{^letter<n><sg>$}$ ^unknown<unknown>{^*रहा$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$^sent<SENT>{^.<sent>$}$
+[/pIevMgbE_0ba]
+[piB2EI_VEz7B#0] ^unknown<unknown>{^*जॉनसन$}$ ^verb<SV>{^cricket<vblex><inf>$}$ ^unknown<unknown>{^*रहा$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$^sent<SENT>{^.<sent>$}$
+[/piB2EI_VEz7B]
+[q0iXB_st22PL#0] ^n<SN><nom>{^queen<n><sg>$}$ ^a<SV>{^have<vblex><inf>$}$ ^b<SN>{^water<n><sg>$}$ ^v<SV><perf><sg>{^go<vblex><past>$}$
+[/q0iXB_st22PL]
+[q9vVjBY64Y-z#0] ^unknown<unknown>{^*उनके$}$ ^n<SN><obl>{^banana<n><sg>$}$
+[/q9vVjBY64Y-z]
+[w69OY7Xm3Ns-#0] ^n<SN><nom>{^man<n><sg>$}$ ^n<SN><nom>{^dinner<n><sg>$}$ ^a<SV>{^go<vblex><inf>$}$ ^b<SN>{^dinner<n><sg>$}$
+[/w69OY7Xm3Ns-]
+[yOyOfYf3CBW9#0] ^unknown<unknown>{^*मैं$}$ ^a<SV><INF>{^go<vblex><inf>$}$ ^b<SN><DET>{^that<det><dem><sg>$ ^school<n><sg>$}$ ^v<SV><perf><sg>{^go<vblex><past>$}$
+[/yOyOfYf3CBW9]
+[zbhoS38HvmrU#0] ^default<default>{^Mohan<np><ant><m><sg><nom>$}$ ^verb<SV>{^sleep<vblex><inf>$}$ ^unknown<unknown>{^*रहा$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$^sent<SENT>{^.<sent>$}$
+[/zbhoS38HvmrU]
+[zqCTe-5pySYq#0] ^n<SN><nom>{^bread<n><sg>$}$ ^adj<ADJ>{^own<adj>$}$ ^verb<SV><inf>{^down<vblex><inf>$}$ ^vblex_inf<SV><inf>{^pick<vblex><inf>$}$ ^vblex_impf<SV><impf><sg>{^like<vblex><pres>$}$ ^default<default>{^be<vbser><pres><m><pl><nom>$}$
+[/zqCTe-5pySYq]

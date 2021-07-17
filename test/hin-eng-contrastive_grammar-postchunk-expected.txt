@@ -1,0 +1,82 @@
+[03QfiKyBKX1e#0] ^*वह$ ^*सड़कों$ ^but<cnjcoo>$ ^dog<n><sg>$ ^to<pr>$ ^out<adv>$ ^take<vblex><pres>$ ^go<vblex><past>$
+[/03QfiKyBKX1e]
+[0v1gVRwx_3pq#0] ^*उसका$ ^banknote<n><sg>$ ^hang<vblex><inf>$ ^that<det><dem><sg>$ ^wall<n><sg>$ ^let<vblex><past>$ ^go<vblex><past>$ ^be<vbser><pres><m><pl><nom>$
+[/0v1gVRwx_3pq]
+[0zS0r7uZhu_z#0] ^sahib<n><sg>$ ^speed<n><sg>$ ^with<pr>$ ^*दौङेगा$^.<sent>$
+[/0zS0r7uZhu_z]
+[3KP-2X3SQJZK#0] ^do<vblex><inf>$
+[/3KP-2X3SQJZK]
+[4zcEtpTp1CCU#0] ^*वह$ ^one<num><sg>$ ^dancer<n><sg>$ ^be<vbser><pres><m><pl><nom>$
+[/4zcEtpTp1CCU]
+[5xXCyxh9MXxr#0] ^*मैं$ ^go<vblex><inf>$ ^school<n><sg>$
+[/5xXCyxh9MXxr]
+[8uRlrT_DNXff#0] ^sahib<n><sg>$ ^chase<vblex><inf>$ ^that<det><dem><sg>$ ^speed<n><sg>$^.<sent>$
+[/8uRlrT_DNXff]
+[BORN9C_TjBAN#0] ^kid<n><sg>$  ^play<vblex><inf>$ ^football<n><sg>$^.<sent>$
+[/BORN9C_TjBAN]
+[KiHdD2YCZk-l#0] ^do<vblex><inf>$ ^not<adv>$ ^play<vblex><inf>$ ^by<pr>$ ^kid<n><pl>$
+[/KiHdD2YCZk-l]
+[MsOZ-jXubOTz#0] ^*उसके$ ^spud<n><sg>$
+[/MsOZ-jXubOTz]
+[N5CeErkPlVGN#0] ^mother<n><sg>$ ^by<pr>$ ^*मुझे$ ^school<n><sg>$ ^sent<n><sg>$
+[/N5CeErkPlVGN]
+[NcD1iVJVORJO#0] ^*मेरी$ ^book<n><sg>$
+[/NcD1iVJVORJO]
+[OHpdwzxZFdG7#0] ^sleep<vblex><inf>$
+[/OHpdwzxZFdG7]
+[PIaxR76PybUM#0] ^kid<n><sg>$  ^play<vblex><pres><p3><pl>$ ^to<pr>$ ^football<n><sg>$^.<sent>$
+[/PIaxR76PybUM]
+[QIOnzeVBbRRK#0] ^dyeing<n><sg>$ ^game<n><sg>$ ^*रहा$ ^be<vbser><pres><m><pl><nom>$^.<sent>$
+[/QIOnzeVBbRRK]
+[VHNQGakQZIUf#0] ^*उसकी$ ^cream<n><sg>$
+[/VHNQGakQZIUf]
+[VS6ENgV8_QKi#0] ^*मेरा$ ^home<adv>$
+[/VS6ENgV8_QKi]
+[VY8-RF3Z-knQ#0] ^eat<vblex><inf>$
+[/VY8-RF3Z-knQ]
+[WedjGMC4WA7i#0] ^*मुझे$ ^sing<vblex><inf>$ ^hear<vblex><inf>$ ^satisfy<vblex><inf>$ ^be<vbser><pres><m><pl><nom>$
+[/WedjGMC4WA7i]
+[YR1q4G2gE9EU#0] ^*इसका$ ^sister<n><sg>$ ^Arya<n><sg>$ ^be<vbser><pres><m><pl><nom>$
+[/YR1q4G2gE9EU]
+[_b1ajS7r53N8#0] ^talk<vblex><inf>$
+[/_b1ajS7r53N8]
+[aQ9wDpg1fmwi#0] ^*उनकी$ ^shoe<n><sg>$
+[/aQ9wDpg1fmwi]
+[axkWxKpLwgmG#0] ^*इनका$ ^shoe<n><sg>$ ^black<adj>$ ^hue<n><sg>$ ^of<pr><gen><m><pl>$ ^be<vbser><pres><m><pl><nom>$
+[/axkWxKpLwgmG]
+[bCfCzmee9w5O#0] ^mend<vblex><pres>$ ^go<vblex><inf>$ ^market<n><sg>$ ^*रही$ ^be<vbser><pres><m><pl><nom>$^.<sent>$
+[/bCfCzmee9w5O]
+[ceji0-rAGgkg#0] ^study<vblex><inf>$
+[/ceji0-rAGgkg]
+[dC2fonEqJ-H2#0] ^*उनका$ ^city<n><sg>$ ^in<pr>$ ^*ठण्ड$ ^be<vbser><pres><m><pl><nom>$
+[/dC2fonEqJ-H2]
+[dtAqyhKoMydN#0] ^go<vblex><inf>$
+[/dtAqyhKoMydN]
+[e1_UDj1lha2P#0] ^in<pr>$ ^after<pr>$ ^walk<vblex><ger>$ ^go<vblex><pres><p3><sg>$ ^to<pr>$ ^school<n><sg>$
+[/e1_UDj1lha2P]
+[ghCZGslJrA4T#0] ^prpers<prn><subj><p2><mf><sp>$ ^*मेरी$ ^daughter<n><sg>$ ^be<vbser><imp><p2><sg>$
+[/ghCZGslJrA4T]
+[hCxOFdy8Gj7T#0] ^sahib<n><sg>$ ^fast<adj><sint>$ ^with<pr>$ ^*दौङता$ ^be<vbser><pres><m><pl><nom>$^.<sent>$
+[/hCxOFdy8Gj7T]
+[m4Hji3dlHVJH#0] ^bay<vblex><inf>$ ^kid<n><pl>$ ^*रहे$ ^be<vbser><pres><p3><mf><pl>$^.<sent>$
+[/m4Hji3dlHVJH]
+[meYf6NNCKlKb#0] ^Arya<n><sg>$ ^*उसकी$ ^sister<n><sg>$ ^be<vbser><pres><m><pl><nom>$
+[/meYf6NNCKlKb]
+[nBLfxKEUx_sC#0] ^*वह$ ^sing<vblex><inf>$ ^that<det><dem><sg>$ ^rain<n><sg>$ ^*रहा$ ^be<vbser><pres><m><pl><nom>$
+[/nBLfxKEUx_sC]
+[pIevMgbE_0ba#0] ^*राम$ ^report<n><sg>$ ^study<vblex><inf>$ ^letter<n><sg>$ ^*रहा$ ^be<vbser><pres><m><pl><nom>$^.<sent>$
+[/pIevMgbE_0ba]
+[piB2EI_VEz7B#0] ^*जॉनसन$ ^cricket<vblex><inf>$ ^*रहा$ ^be<vbser><pres><m><pl><nom>$^.<sent>$
+[/piB2EI_VEz7B]
+[q0iXB_st22PL#0] ^queen<n><sg>$ ^have<vblex><inf>$ ^water<n><sg>$ ^go<vblex><past>$
+[/q0iXB_st22PL]
+[q9vVjBY64Y-z#0] ^*उनके$ ^banana<n><sg>$
+[/q9vVjBY64Y-z]
+[w69OY7Xm3Ns-#0] ^man<n><sg>$ ^dinner<n><sg>$ ^go<vblex><inf>$ ^dinner<n><sg>$
+[/w69OY7Xm3Ns-]
+[yOyOfYf3CBW9#0] ^*मैं$ ^go<vblex><inf>$ ^that<det><dem><sg>$ ^school<n><sg>$ ^go<vblex><past>$
+[/yOyOfYf3CBW9]
+[zbhoS38HvmrU#0] ^Mohan<np><ant><m><sg><nom>$ ^sleep<vblex><inf>$ ^*रहा$ ^be<vbser><pres><m><pl><nom>$^.<sent>$
+[/zbhoS38HvmrU]
+[zqCTe-5pySYq#0] ^bread<n><sg>$ ^own<adj>$ ^down<vblex><inf>$ ^pick<vblex><inf>$ ^like<vblex><pres>$ ^be<vbser><pres><m><pl><nom>$
+[/zqCTe-5pySYq]

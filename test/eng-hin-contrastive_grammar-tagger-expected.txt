@@ -1,0 +1,20 @@
+[1gLpHZPINe4q#0] ^Prpers<prn><subj><p3><f><sg>$
+[/1gLpHZPINe4q]
+[E9Ja5IhyvuKu#0] ^Her<det><pos><sp>$
+[/E9Ja5IhyvuKu]
+[F01jnMxCKX7Z#0] ^His<det><pos><sp>$
+[/F01jnMxCKX7Z]
+[JH1MZ54KVU1E#0] ^Their<det><pos><sp>$  (^Near<adj><sint>$)  ^or<cnjcoo>$ ^His<det><pos><sp>$ \/ ^Her<det><pos><sp>$ (^Formal<adj>$)
+[/JH1MZ54KVU1E]
+[MO_ftS_2f4Da#0] ^Prpers<prn><subj><p3><m><sg>$
+[/MO_ftS_2f4Da]
+[SWPm0pxA_jct#0] ^His<det><pos><sp>$ \/ ^Her<det><pos><sp>$ \/ ^Its<det><pos><sp>$
+[/SWPm0pxA_jct]
+[U4tShjmE2Wot#0] ^Their<det><pos><sp>$  (^Far<adj><sint>$)  ^or<cnjcoo>$ ^His<det><pos><sp>$ \/ ^Her<det><pos><sp>$ (^Formal<adj>$)
+[/U4tShjmE2Wot]
+[V3t1GRUEOURM#0] ^Their<det><pos><sp>$
+[/V3t1GRUEOURM]
+[jtZ5G989YaHm#0] ^My<det><pos><sp>$
+[/jtZ5G989YaHm]
+[o-eusGHY4kEc#0] ^Her<det><pos><sp>$\/ ^His<det><pos><sp>$ (^depend<vblex><pres><p3><sg>$ ^on<pr>$ ^object<n><sg>$)
+[/o-eusGHY4kEc]

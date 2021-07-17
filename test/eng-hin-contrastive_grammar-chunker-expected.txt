@@ -1,0 +1,20 @@
+[1gLpHZPINe4q#0] ^pronoun<NP><f><sg><p3><d>{^@Prpers<prn><2><3><4><5><6>$}$
+[/1gLpHZPINe4q]
+[E9Ja5IhyvuKu#0] ^default<default>{^@Her<det><pos><sp>$}$
+[/E9Ja5IhyvuKu]
+[F01jnMxCKX7Z#0] ^default<default>{^@His<det><pos><sp>$}$
+[/F01jnMxCKX7Z]
+[JH1MZ54KVU1E#0] ^default<default>{^@Their<det><pos><sp>$}$  (^adj<NP><m><sg><p3>{^निकट<adj><2><3><d>$ }$)  ^cnj<CNJ>{^या<cnjcoo>$ }$ ^default<default>{^@His<det><pos><sp>$}$ \/ ^default<default>{^@Her<det><pos><sp>$}$ (^adj<NP><m><sg><p3>{^@Formal<adj><2><3><d>$ }$)
+[/JH1MZ54KVU1E]
+[MO_ftS_2f4Da#0] ^pronoun<NP><m><sg><p3><d>{^@Prpers<prn><2><3><4><5><6>$}$
+[/MO_ftS_2f4Da]
+[SWPm0pxA_jct#0] ^default<default>{^@His<det><pos><sp>$}$ \/ ^default<default>{^@Her<det><pos><sp>$}$ \/ ^default<default>{^@Its<det><pos><sp>$}$
+[/SWPm0pxA_jct]
+[U4tShjmE2Wot#0] ^default<default>{^@Their<det><pos><sp>$}$  (^adj<NP><m><sg><p3>{^@Far<adj><2><3><d>$ }$)  ^cnj<CNJ>{^या<cnjcoo>$ }$ ^default<default>{^@His<det><pos><sp>$}$ \/ ^default<default>{^@Her<det><pos><sp>$}$ (^adj<NP><m><sg><p3>{^@Formal<adj><2><3><d>$ }$)
+[/U4tShjmE2Wot]
+[V3t1GRUEOURM#0] ^default<default>{^@Their<det><pos><sp>$}$
+[/V3t1GRUEOURM]
+[jtZ5G989YaHm#0] ^default<default>{^मेरे<det><pos><sp>/मेरी<det><pos><sp>$}$
+[/jtZ5G989YaHm]
+[o-eusGHY4kEc#0] ^default<default>{^@Her<det><pos><sp>$}$\/ ^default<default>{^@His<det><pos><sp>$}$ (^0<VP><tam:0><m><sg>{^आश्रित हो<3><4><p3><2>$}$ ^pr<PP>{^ऑन$ }$ ^nom<NP><f><sg><d><p3>{^हेतू<n><2><3><4>$ }$)
+[/o-eusGHY4kEc]

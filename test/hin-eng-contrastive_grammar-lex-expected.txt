@@ -1,0 +1,82 @@
+[03QfiKyBKX1e#0] ^*वह/*वह$ ^*सड़कों/*सड़कों$ ^पर<cnjcoo>/but<cnjcoo>$ ^कुत्ता<n><m><sg><obl>/dog<n><sg><obl>$ ^को<post>/to<pr>$ ^बाहर<adv>/out<adv>$ ^ले<vblex><tv><prs><p3><sg>/take<vblex><prs><p3><sg>/absorb<vblex><prs><p3><sg>$ ^जा<vblex><iv><perf><m><sg>/go<vblex><perf><m><sg>/climb<vblex><perf><m><sg>$
+[/03QfiKyBKX1e]
+[0v1gVRwx_3pq#0] ^*उसका/*उसका$ ^नोट<n><m><sg><nom>/banknote<n><sg><nom>$ ^दीवार<n><f><sg><obl>/wall<n><sg><obl>$ ^पर<post>/on<pr>$ ^लटका<vblex><tv><stem>/hang<vblex><stem>$ ^दे<vblex><tv><perf><m><sg>/let<vblex><perf><m><sg>/add<vblex><perf><m><sg>/give<vblex><perf><m><sg>/supply<vblex><perf><m><sg>/harangue<vblex><perf><m><sg>$ ^जा<vblex><iv><perf><m><sg>/go<vblex><perf><m><sg>/climb<vblex><perf><m><sg>$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/0v1gVRwx_3pq]
+[0zS0r7uZhu_z#0] ^साहिब<n><m><sg><nom>/sahib<n><sg><nom>$ ^तेजी<n><f><sg><obl>/speed<n><sg><obl>$ ^से<post>/with<pr>$ ^*दौङेगा/*दौङेगा$^।<sent>/.<sent>$
+[/0zS0r7uZhu_z]
+[3KP-2X3SQJZK#0] ^सीख<vblex><tv><inf><nom>/do<vblex><inf><nom>/learn<vblex><inf><nom>$
+[/3KP-2X3SQJZK]
+[4zcEtpTp1CCU#0] ^*वह/*वह$ ^एक<num>/one<num><sg>$ ^नर्तकी<n><f><sg><nom>/dancer<n><sg><nom>$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/4zcEtpTp1CCU]
+[5xXCyxh9MXxr#0] ^*मैं/*मैं$ ^स्कूल<n><m><sg><nom>/school<n><sg><nom>$ ^जा<vblex><iv><fut><p1><m><sg>/go<vblex><fut><p1><m><sg>/climb<vblex><fut><p1><m><sg>$
+[/5xXCyxh9MXxr]
+[8uRlrT_DNXff#0] ^साहिब<n><m><sg><nom>/sahib<n><sg><nom>$ ^तेजी<n><f><sg><obl>/speed<n><sg><obl>$ ^से<post>/with<pr>$ ^भाग<vblex><iv><perf><m><sg>/chase<vblex><perf><m><sg>/escape<vblex><perf><m><sg>$^।<sent>/.<sent>$
+[/8uRlrT_DNXff]
+[BORN9C_TjBAN#0] ^बच्चा<n><m><sg><obl>/kid<n><sg><obl>$  ^फुटबॉल<n><m><sg><nom>/football<n><sg><nom>$ ^खेल<vblex><tv><fut><p3><m><pl>/play<vblex><fut><p3><m><pl>$^।<sent>/.<sent>$
+[/BORN9C_TjBAN]
+[KiHdD2YCZk-l#0] ^बच्चा<n><m><pl><obl>/kid<n><pl><obl>$ ^ने<post>/by<pr>$ ^फुटबॉल<n><m><sg><nom>/football<n><sg><nom>$ ^खेल<vblex><tv><perf><m><sg>/play<vblex><perf><m><sg>$
+[/KiHdD2YCZk-l]
+[MsOZ-jXubOTz#0] ^*उसके/*उसके$ ^आलू<n><m><sg><nom>/spud<n><sg><nom>$
+[/MsOZ-jXubOTz]
+[N5CeErkPlVGN#0] ^माँ<n><f><sg><obl>/mother<n><sg><obl>$ ^ने<post>/by<pr>$ ^*मुझे/*मुझे$ ^स्कूल<n><m><sg><nom>/school<n><sg><nom>$ ^भेजा<n><m><sg><nom>/sent<n><sg><nom>$
+[/N5CeErkPlVGN]
+[NcD1iVJVORJO#0] ^*मेरी/*मेरी$ ^किताब<n><f><sg><nom>/book<n><sg><nom>$
+[/NcD1iVJVORJO]
+[OHpdwzxZFdG7#0] ^सो<vblex><iv><inf><nom><m>/sleep<vblex><inf><nom><m>$
+[/OHpdwzxZFdG7]
+[PIaxR76PybUM#0] ^बच्चा<n><m><sg><obl>/kid<n><sg><obl>$  ^फुटबॉल<n><m><sg><nom>/football<n><sg><nom>$ ^खेल<vblex><tv><impf><m><pl>/play<vblex><impf><m><pl>$ ^हो<vbser><pres><p3><mf><pl>/be<vbser><pres><p3><mf><pl>$^।<sent>/.<sent>$
+[/PIaxR76PybUM]
+[QIOnzeVBbRRK#0] ^रंजन<n><m><sg><nom>/dyeing<n><sg><nom>$ ^खेल<n><m><sg><nom>/game<n><sg><nom>$ ^*रहा/*रहा$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$^।<sent>/.<sent>$
+[/QIOnzeVBbRRK]
+[VHNQGakQZIUf#0] ^*उसकी/*उसकी$ ^साडी<n><f><sg><nom>/cream<n><sg><nom>$
+[/VHNQGakQZIUf]
+[VS6ENgV8_QKi#0] ^*मेरा/*मेरा$ ^घर<adv>/home<adv>$
+[/VS6ENgV8_QKi]
+[VY8-RF3Z-knQ#0] ^खा<vblex><tv><inf><nom><m>/eat<vblex><inf><nom><m>$
+[/VY8-RF3Z-knQ]
+[WedjGMC4WA7i#0] ^*मुझे/*मुझे$ ^गा<vblex><tv><inf><obl>/sing<vblex><inf><obl>$ ^सुन<vblex><tv><inf><nom>/hear<vblex><inf><nom>$ ^पसंद<vblex><tv><stem>/satisfy<vblex><stem>$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/WedjGMC4WA7i]
+[YR1q4G2gE9EU#0] ^*इसका/*इसका$ ^बहन<n><f><sg><nom>/sister<n><sg><nom>$ ^आर्य<n><m><sg><nom>/Arya<n><sg><nom>$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/YR1q4G2gE9EU]
+[_b1ajS7r53N8#0] ^बोल<vblex><tv><inf><nom>/talk<vblex><inf><nom>$
+[/_b1ajS7r53N8]
+[aQ9wDpg1fmwi#0] ^*उनकी/*उनकी$ ^जूता<n><m><sg><obl>/shoe<n><sg><obl>$
+[/aQ9wDpg1fmwi]
+[axkWxKpLwgmG#0] ^*इनका/*इनका$ ^जूता<n><m><sg><nom>/shoe<n><sg><nom>$ ^काला<adj><m><sg><obl>/black<adj><m><sg><obl>$ ^रंग<n><m><sg><obl>/hue<n><sg><obl>/paint<n><sg><obl>/colour<n><sg><obl>$ ^का<post><gen><m><pl>/of<pr><gen><m><pl>/in<pr><gen><m><pl>$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/axkWxKpLwgmG]
+[bCfCzmee9w5O#0] ^सी<vblex><tv><impf><m><sg>/mend<vblex><impf><m><sg>$ ^बाजार<n><m><sg><nom>/market<n><sg><nom>$ ^जा<vblex><iv><stem>/go<vblex><stem>/climb<vblex><stem>$ ^*रही/*रही$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$^।<sent>/.<sent>$
+[/bCfCzmee9w5O]
+[ceji0-rAGgkg#0] ^पढ़<vblex><tv><inf><nom>/study<vblex><inf><nom>$
+[/ceji0-rAGgkg]
+[dC2fonEqJ-H2#0] ^*उनका/*उनका$ ^शहर<n><m><sg><obl>/city<n><sg><obl>$ ^में<post>/in<pr>$ ^*ठण्ड/*ठण्ड$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/dC2fonEqJ-H2]
+[dtAqyhKoMydN#0] ^जा<vblex><iv><inf><nom><m>/go<vblex><inf><nom><m>/climb<vblex><inf><nom><m>$
+[/dtAqyhKoMydN]
+[e1_UDj1lha2P#0] ^में<post>/in<pr>$ ^चल<vblex><iv><gna>/walk<vblex><gna>$ ^स्कूल<n><m><sg><nom>/school<n><sg><nom>$ ^जा<vblex><iv><impf><m><sg>/go<vblex><impf><m><sg>/climb<vblex><impf><m><sg>$ ^हो<vbser><pres><p1><mf><sg>/be<vbser><pres><p1><mf><sg>$
+[/e1_UDj1lha2P]
+[ghCZGslJrA4T#0] ^तुम<prn><pers><p2><mf><pl><nom>/prpers<prn><FD><p2><mf><sp><nom>$ ^*मेरी/*मेरी$ ^बेटी<n><f><sg><nom>/daughter<n><sg><nom>$ ^हो<vbser><imp><p2><sg>/be<vbser><imp><p2><sg>$
+[/ghCZGslJrA4T]
+[hCxOFdy8Gj7T#0] ^साहिब<n><m><sg><nom>/sahib<n><sg><nom>$ ^तेज<adj><m><sg><obl>/fast<adj><sint><m><sg><obl>$ ^से<post>/with<pr>$ ^*दौङता/*दौङता$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$^।<sent>/.<sent>$
+[/hCxOFdy8Gj7T]
+[m4Hji3dlHVJH#0] ^बच्चा<n><m><pl><obl>/kid<n><pl><obl>$ ^रो<vblex><iv><stem>/bay<vblex><stem>/weep<vblex><stem>$ ^*रहे/*रहे$ ^हो<vbser><pres><p3><mf><pl>/be<vbser><pres><p3><mf><pl>$^।<sent>/.<sent>$
+[/m4Hji3dlHVJH]
+[meYf6NNCKlKb#0] ^आर्य<n><m><sg><nom>/Arya<n><sg><nom>$ ^*उसकी/*उसकी$ ^बहन<n><f><sg><nom>/sister<n><sg><nom>$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/meYf6NNCKlKb]
+[nBLfxKEUx_sC#0] ^*वह/*वह$ ^बारिश<n><f><sg><obl>/rain<n><sg><obl>$ ^में<post>/in<pr>$ ^गा<vblex><tv><stem>/sing<vblex><stem>$ ^*रहा/*रहा$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/nBLfxKEUx_sC]
+[pIevMgbE_0ba#0] ^*राम/*राम$ ^समाचार<n><m><sg><nom>/report<n><sg><nom>$ ^पत्र<n><m><sg><nom>/letter<n><sg><nom>$ ^पढ़<vblex><tv><stem>/study<vblex><stem>$ ^*रहा/*रहा$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$^।<sent>/.<sent>$
+[/pIevMgbE_0ba]
+[piB2EI_VEz7B#0] ^*जॉनसन/*जॉनसन$ ^क्रिकेट खेल<vblex><iv><stem>/cricket<vblex><stem>$ ^*रहा/*रहा$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$^।<sent>/.<sent>$
+[/piB2EI_VEz7B]
+[q0iXB_st22PL#0] ^रानी<n><f><sg><nom>/queen<n><sg><nom>$ ^पानी<n><m><sg><nom>/water<n><sg><nom>$ ^पी<vblex><tv><inf><obl>/have<vblex><inf><obl>/drink<vblex><inf><obl>$ ^जा<vblex><iv><perf><f><sg>/go<vblex><perf><f><sg>/climb<vblex><perf><f><sg>$
+[/q0iXB_st22PL]
+[q9vVjBY64Y-z#0] ^*उनके/*उनके$ ^केला<n><m><sg><obl>/banana<n><sg><obl>$
+[/q9vVjBY64Y-z]
+[w69OY7Xm3Ns-#0] ^आदमी<n><m><sg><nom>/man<n><sg><nom>$ ^खाना<n><m><sg><nom>/dinner<n><sg><nom>$ ^खाना<n><m><sg><obl>/dinner<n><sg><obl>$ ^जा<vblex><iv><perf><m><sg>/go<vblex><perf><m><sg>/climb<vblex><perf><m><sg>$
+[/w69OY7Xm3Ns-]
+[yOyOfYf3CBW9#0] ^*मैं/*मैं$ ^स्कूल<n><m><sg><obl>/school<n><sg><obl>$ ^के लिए<post>/for<pr>$ ^चला<vblex><tv><stem>/go<vblex><stem>$ ^जा<vblex><iv><perf><m><sg>/go<vblex><perf><m><sg>/climb<vblex><perf><m><sg>$
+[/yOyOfYf3CBW9]
+[zbhoS38HvmrU#0] ^मोहन<np><ant><m><sg><nom>/Mohan<np><ant><m><sg><nom>/Mohana<np><ant><m><sg><nom>$ ^सो<vblex><iv><stem>/sleep<vblex><stem>$ ^*रहा/*रहा$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$^।<sent>/.<sent>$
+[/zbhoS38HvmrU]
+[zqCTe-5pySYq#0] ^रोजी<n><f><sg><nom>/bread<n><sg><nom>$ ^अपना<adj><m><sg><nom>/own<adj><sg><nom>$ ^हार<vblex><iv><stem>/down<vblex><stem>/get<vblex><stem>$ ^खरीद<vblex><tv><inf><nom>/pick<vblex><inf><nom>/purchase<vblex><inf><nom>$ ^चाह<vblex><tv><impf><m><sg>/like<vblex><impf><m><sg>$ ^हो<vbser><pres><m><pl><nom>/be<vbser><pres><m><pl><nom>$
+[/zqCTe-5pySYq]

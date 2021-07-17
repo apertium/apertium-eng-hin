@@ -1,0 +1,14 @@
+{
+    "eng-hin-contrastive_grammar": {
+        "input": "eng-hin-contrastive_grammar-input.txt",
+        "mode": "eng-hin"
+    },
+    "hin-eng-contrastive_grammar": {
+        "input": "hin-eng-contrastive_grammar-input.txt",
+        "mode": "hin-eng"
+    },
+    "hin-eng-pending": {
+        "input": "hin-eng-pending-input.txt",
+        "mode": "hin-eng"
+    }
+}
